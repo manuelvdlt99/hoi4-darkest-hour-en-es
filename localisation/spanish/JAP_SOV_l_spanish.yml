@@ -1,0 +1,365 @@
+﻿l_spanish:
+#########################################################################
+#  Japanese-Soviet Border Conflict Events
+#########################################################################
+ JAP_SOV_Border_Conflict.1.t: "El incidente de Halhamiao"
+ JAP_SOV_Border_Conflict.1.d: "Ayer por la mañana, una unidad de caballería mongola tendió una emboscada a una patrulla manchú cercana apostada en el Templo de Jaljin. Varios asesores militares japoneses estaban supervisando a la patrulla que establecía su base a lo largo de las líneas cuando la emboscada los pilló desprevenidos, matando a los soldados manchúes que se encontraban cerca de la fuerza de caballería, así como a varios asesores y voluntarios japoneses.\n\nLa fuerza atacante mongola fue contraatacada con una ametralladora, infligiendo graves bajas y heridos para la unidad de caballería mongola. Unas docenas de soldados manchúes y voluntarios japoneses murieron, así como un oficial y algunos comandantes, mientras que entre 23 y 40 jinetes mongoles fueron asesinados, con muchos más heridos del regimiento de caballería de unos 90 hombres."
+ JAP_SOV_Border_Conflict.1.A: "Títeres bolcheviques..."
+ JAP_SOV_Border_Conflict.1.B: "Escoria imperial..."
+
+ JAP_SOV_Border_Conflict.2.t: "Enfrentamientos en el lago Janka"
+ JAP_SOV_Border_Conflict.2.d: "Durante meses, las fuerzas soviéticas y japonesas se han enfrentado cerca de los lagos Jasán y Janka. Estas escaramuzas han llegado a ser poco más que una guerra abierta entre ambos, pero sólo la falta de voluntad tanto en Tokio como en Moscú para entablar una lucha mayor las ha mantenido focalizadas. A pesar de ello, a los japoneses no les ha ido bien, a pesar de las recientes purgas soviéticas que provocaron sus ataques. Los japoneses lograron hacer retroceder a los soviéticos a posiciones menos ventajosas, pero el enorme peso de las armas soviéticas los obligó a abandonar sus nuevas fortificaciones. La combinación de artillería, bombardeos aéreos y ofensivas terrestres fue demasiado para Japón.\n\nEl Ejército Rojo sufrió cientos de bajas, más que los japoneses, y tuvo grandes dificultades para hacerlos retroceder a través de la frontera. Ésto ha llevado a Moscú a realizar un examen exhaustivo de las deficiencias de las fuerzas locales en la batalla. Han identificado numerosos defectos, como infraestructuras y comunicaciones inadecuadas. Se ha culpado de todo a Vasili Blücher, el comandante local, y se le ha despachado. Éso, sin embargo, no resolverá los problemas; hace falta mucho más trabajo antes de que vuelvan los japoneses."
+ JAP_SOV_Border_Conflict.2.A: "Esperemos que ésto no se descontrole."
+ JAP_SOV_Border_Conflict.2.B: "Esperemos que ésto no se descontrole."
+
+ JAP_SOV_Border_Conflict.3.t: "Incidente fronterizo en Suifenho"
+ JAP_SOV_Border_Conflict.3.d: "En lo más profundo de la oscuridad de los bosques de Manchuria, en medio del silencioso pero elocuente fluir de un arroyo cercano, una fuerza de unos 9 soldados japoneses y 32 manchúes se dedicaba a establecer un puesto avanzado a 20 kilómetros al norte de Suifenho, en territorio manchú. Tenían pensado acampar ahí para vigilar la zona, de no ser por una repentina perturbación de la fuerza soviética oculta, que esperaba el momento de atacar. Unos 50 soldados soviéticos avanzaron hacia el batallón manchú-japonés y abrieron fuego con sus fusiles y cinco ametralladoras. El caótico enfrentamiento, que tuvo lugar cerca de la frontera manchú-soviética, se saldó con cuatro muertos manchúes y cinco heridos más. Un representante de asuntos exteriores manchú emitió una enérgica protesta verbal a un cónsul soviético por este motivo y, por el momento, se han enviado oficiales de inteligencia del Ejército de Kwantung del Ejército Imperial Japonés para investigar la situación."
+ JAP_SOV_Border_Conflict.3.A: "¡Deben disculparse por ésto!"
+ JAP_SOV_Border_Conflict.3.B: "¡Ellos fueron los agresores!"
+
+ JAP_SOV_Border_Conflict.4.t: "Alboroto en el lago Buir"
+ JAP_SOV_Border_Conflict.4.d: "En la fría noche de ayer, una unidad del Ejército de Manchuria llevó a cabo un proyecto de reconocimiento al suroeste del lago Buir, en los profundos y amenazadores bosques de Manchuria, para transmitir información sobre la región. Se toparon con un grupo mongol que, hasta ese momento, se encontraba en la zona en total secreto. La fuerza mongola se enfrentó a la unidad militar manchú, lo que se saldó con la captura de diez soldados mongoles. Casi una semana después, la unidad del Ejército avistó a 60 vengativos soldados mongoles en camiones. Muchos se preguntaron por qué estaban allí, algunos supusieron que como represalia por la captura de diez soldados mongoles por parte de los manchúes. En cualquier caso, los mongoles atacaron pero fueron rechazados, a costa de la muerte de tres manchúes. Ese mismo día, en alguna parte de Brunders, los soldados mongoles habían intentado expulsar a las fuerzas manchúes situadas allí tres veces durante el día, y luego otras tres veces por la noche, pero resultó inútil para los mongoles. Se informó de que hubo más intentos más comedidos de desalojar a los manchúes de sus puestos de avanzada, y los mongoles utilizaron esta vez sus aviones para tareas de reconocimiento. Pero también fracasaron, ya que los ejércitos japoneses allí apostados protegieron los puestos de avanzada y ambos bandos sufrieron pocas bajas."
+ JAP_SOV_Border_Conflict.4.A: "Una prueba superada, pero se acercan pruebas mayores."
+ JAP_SOV_Border_Conflict.4.B: "¡Que los japoneses tengan cuidado!"
+
+ JAP_SOV_Border_Conflict.5.t.JAP: "Se agudizan las tensiones en la frontera soviética"
+ JAP_SOV_Border_Conflict.5.t.SOV: "Se agudizan las tensiones en la frontera manchú"
+ JAP_SOV_Border_Conflict.5.d.JAP: "Cerca de los grandes ríos que forman la frontera entre Rusia y Manchuria, se ha avistado e informado de actividad sospechosa. Se ha visto a tropas soviéticas cruzando la frontera, perturbando actividades y saboteando puestos de avanzada por razones que aún se desconocen. Ésto demuestra que tenemos que amplificar la seguridad fronteriza entre nosotros y ellos por la seguridad de nuestra nación.\n\nHemos estado recibiendo informes que han confirmado lo que hemos temido todo el tiempo: ¡los insidiosos bolcheviques nos están asaltando! ¡Han estado desbaratando puestos avanzados y han intercambiado muchos disparos con nuestras tropas! ¡Nuestra nación está siendo amenazada por el espectro de un oso rojo que busca tomar nuestra nación por asalto y establecer su gobierno títere en suelo japonés! Por el Imperio, debemos aumentar la seguridad fronteriza; si estos perros bolcheviques se atreven a atacarnos, ¡les enseñaremos a qué sabe el espíritu de los samuráis!\n\nPero, por ahora, esperaremos a ver qué pasa."
+ JAP_SOV_Border_Conflict.5.d.SOV: "Cerca de los grandes ríos que forman la frontera entre Rusia y Manchuria, se ha avistado e informado de actividad sospechosa. Se ha visto a tropas japonesas cruzando la frontera, perturbando actividades y saboteando puestos de avanzada por razones que aún se desconocen. Ésto demuestra que tenemos que amplificar la seguridad fronteriza entre nosotros y ellos por la seguridad de nuestra nación.\n\n¡Hay que luchar contra esta escoria fascista y capitalista que osa amenazar la revolución! ¡Se oponen a todo lo que defendemos y son un obstáculo para alcanzar nuestra visión de un glorioso futuro socialista! Deben tomarse medidas preventivas para frenarlos en seco, y sólo entonces nuestra nación será libre de las costumbres decadentes de Japón. Por ahora, sin embargo, debemos enviar algunas de nuestras tropas a la frontera para asegurarnos de que no nos derroquen si ése es su objetivo.\n\nPero, por ahora, esperaremos a ver qué pasa."
+ JAP_SOV_Border_Conflict.5.A: "Bastardos bolcheviques..."
+ JAP_SOV_Border_Conflict.5.B: "Idiotas imperialistas..."
+
+ JAP_SOV_Decisions_Events.1.t: "Los contactos aportan información útil"
+ JAP_SOV_Decisions_Events.1.d: "Hoy mismo, nuestros contactos en la Unión Soviética han podido pasar de contrabando al Cuartel General Imperial la información que habían estado recopilando. Después de compararse con un reconocimiento reciente del Ejército Imperial, la información ha resultado ser válida. La ubicación de los batallones soviéticos y mongoles y los movimientos de tropas ayudarán a planificar los próximos enfrentamientos militares con nuestros enemigos bolcheviques. Nuestros contactos han vuelto a su misión de husmear los secretos del enemigo. Esperemos que la próxima información que nos aporten sea igual de beneficiosa que ésta."
+ JAP_SOV_Decisions_Events.1.A: "El saber es la mitad de la batalla."
+
+ JAP_SOV_Decisions_Events.2.t: "Los contactos aportan información anticuada"
+ JAP_SOV_Decisions_Events.2.d: "Hoy mismo, nuestros contactos en la Unión Soviética han podido pasar de contrabando al Cuartel General Imperial la información que habían estado recopilando. Después de compararse con un reconocimiento reciente del Ejército Imperial, se ha llegado a la conclusión de que la información está anticuada. Las descripciones detalladas de las posiciones y movimientos de tropas soviéticas y mongolas se habían observado hacía más de una semana y habían cambiado desde entonces. Nuestros contactos han vuelto a su labor de husmear los secretos del enemigo. Esperemos que su información tenga más valor para nosotros la siguiente vez."
+ JAP_SOV_Decisions_Events.2.A: "Un revés sin importancia."
+
+ JAP_SOV_Decisions_Events.3.t: "Los soviéticos apresan a nuestros contactos"
+ JAP_SOV_Decisions_Events.3.d: "¡Nuestros contactos en la Unión Soviética han sido apresados por las fuerzas soviéticas! Mientras recopilaban información para nuestras ofensivas, nuestros contactos llamaron desgraciadamente la atención de la contrainteligencia soviética. Al parecer, no eran conscientes de la atención que estaban recibiendo sus actos de espionaje y no lograron evitar su captura por parte del Ejército Rojo. Mientras seguimos trabajando para descubrir los secretos del enemigo, la captura de estos hombres puede obligarlos a pasar desapercibidos hasta que los ojos de los soviéticos se vuelvan hacia otra parte. Con nuestros contactos se pierde también la información que habían estado recopilando; un duro golpe para nuestros esfuerzos."
+ JAP_SOV_Decisions_Events.3.A: "¡Maldición!"
+
+ JAP_SOV_Decisions_Events.4.t: "La resistencia soviética se desmorona"
+ JAP_SOV_Decisions_Events.4.d: "¡Buenas noticias desde el frente! Tras una serie de enfrentamientos con fuerzas soviéticas y mongolas, nuestras tropas han hecho retroceder al enemigo con pocas pérdidas. Las fuerzas en retirada se han desmoronado ante el poderío de nuestras propias fuerzas y las tropas han empezado a celebrarlo. Los informes de la batalla nos han aportado enormes cantidades de información y tácticas para futuros enfrentamientos. Los hombres que han fallecido hoy han proporcionado al Ejército Imperial una valiosa información que beneficiará al Emperador y a todo Japón."
+ JAP_SOV_Decisions_Events.4.A: "¡Una victoria redonda!"
+
+ JAP_SOV_Decisions_Events.5.t: "El asalto se estanca"
+ JAP_SOV_Decisions_Events.5.d: "Nuestros últimos intentos de desalojar a las fuerzas soviéticas se han estancado. Los empujes iniciales empezaban a mostrar indicios de éxito, pero las contraofensivas soviéticas han llevado la batalla a un punto muerto. Parece poco probable que nuevas acciones en la zona produzcan mejores resultados y, aunque se ha obtenido valiosa información de las escaramuzas, la gran pérdida de hombres en esta batalla ha dejado un sabor amargo en la boca de los soldados. Debemos aprender de esta batalla para que la próxima sea un éxito total."
+ JAP_SOV_Decisions_Events.5.A: "¡Seguro que lo conseguimos a la próxima!"
+
+ JAP_SOV_Decisions_Events.6.t: "Los soviéticos erradican a nuestras fuerzas"
+ JAP_SOV_Decisions_Events.6.d: "El enfrentamiento más reciente entre el Ejército Imperial y las fuerzas soviéticas se ha saldado con un desastre total. Los soviéticos fueron capaces de superar rápidamente a nuestras tropas y asegurarse fuertes puntos de apoyo para lanzar una devastadora ofensiva que arrolló a nuestras fuerzas. Las fuerzas restantes comenzaron a retirarse en medio de un pánico desorganizado que no hizo sino aumentar el número de bajas. Se puede sacar algo positivo sobre este enfrentamiento. La pérdida de hombres y equipo es catastrófica y deben reconfigurarse todos nuestros actuales planes de batalla para asegurarnos de que algo así no vuelva a suceder."
+ JAP_SOV_Decisions_Events.6.A: "¡Alguien pagará esta incompetencia!"
+
+ JAP_SOV_Decisions_Events.7.t: "Llega un batallón manchú"
+ JAP_SOV_Decisions_Events.7.d: "Hoy ha llegado al frente un batallón manchú entero para ayudarnos en nuestras escaramuzas con los soviéticos y los mongoles. Aunque no se les esperaba, la llegada del batallón es una grata sorpresa. El Ejército Imperial ya ha asumido el liderazgo del batallón y ha empezado a posicionarlo a lo largo del frente para reforzar a nuestras fuerzas allí destinadas. Se están revisando seriamente los planes de batalla que parecían inviables debido a la falta de tropas de que disponíamos en la zona para ver qué planes nos ofrecen las mayores posibilidades de éxito."
+ JAP_SOV_Decisions_Events.7.A: "¡Una novedad de lo más agradable!"
+
+ JAP_SOV_Decisions_Events.8.t: "Llega un pelotón manchú"
+ JAP_SOV_Decisions_Events.8.d: "Hoy ha llegado al frente un pelotón manchú entero para ayudarnos en nuestras escaramuzas con los soviéticos y los mongoles. Aunque se esperaba más que un solo pelotón de apoyo de parte de Manchuria, nuestro mando aún puede trabajar con los hombres que se le han dado. El pelotón ha sido incorporado al Ejército Imperial y será reubicado en una zona de necesidad en los próximos días. Estarán versados en todas nuestras doctrinas de batalla para que puedan estar listos para ayudar en cualquier situación."
+ JAP_SOV_Decisions_Events.8.A: "Seguro que pueden darnos más que ésto."
+
+ JAP_SOV_Decisions_Events.9.t: "Los manchúes recurren al bandidaje"
+ JAP_SOV_Decisions_Events.9.d: "Hemos descubierto hace poco que las fuerzas manchúes enviadas para apoyarnos en nuestras escaramuzas contra los soviéticos y los mongoles han decidido dedicarse al bandidaje. Después de llegar a nuestros campamentos, decidieron marcharse y saquear nuestras líneas de suministro al marcharse, causando estragos y perjudicando nuestros esfuerzos contra los soviéticos. La repentina pérdida de apoyo de los manchúes dará sin duda a nuestros enemigos una ventaja numérica en la zona y hará imposible cualquier intento de asalto en un futuro inmediato."
+ JAP_SOV_Decisions_Events.9.A: "¡Inútiles! ¡Todos ellos!"
+
+ JAP_SOV_Decisions_Events.10.t: "Descarga de artillería exitosa"
+ JAP_SOV_Decisions_Events.10.d: "¡Nuestra reciente descarga de artillería contra los soviéticos ha sido un éxito rotundo! Los soviéticos, que desconocían la presencia de artillería pesada en la zona, se vieron completamente desprevenidos cuando empezaron a caer los primeros proyectiles. Incapaces de oponer una defensa viable a la descarga, los soviéticos se vieron obligados a retirarse con importantes bajas. Nuestros generales ya están intentando ver si podemos replicar este éxito en otras partes de la frontera. Las tácticas empleadas en este asalto nos beneficiarán en futuras empresas."
+ JAP_SOV_Decisions_Events.10.A: "La superioridad del Ejército Imperial a plena vista."
+
+ JAP_SOV_Decisions_Events.11.t: "Bombardeo de artillería ineficaz"
+ JAP_SOV_Decisions_Events.11.d: "Nuestro reciente bombardero de artillería a las líneas soviéticas ha resultado ser ineficaz. Antes de que nuestras tropas atacasen las líneas enemigas, nuestra artillería debía de destruir estructuras defensivas clave para mitigar la amenaza a nuestras tropas. Sin embargo, el reconocimiento indica que los bombardeos no consiguieron alcanzar las estructuras clave necesarias para que el ataque prosperase. Los fuertes vientos dificultaron la precisión de los bombardeos y el frío afectó negativamente a la trayectoria y la velocidad de los proyectiles. Estos factores se combinaron durante la operación y permitieron que las instalaciones defensivas soviéticas sobrevivieran con daños mínimos. El bombardeo también ha alertado al enemigo de nuestros planes y han reforzado la zona, por lo que un asalto es inverosímil. Por ahora, sólo podemos hacer tiempo hasta que vuelva a surgir la oportunidad de atacar."
+ JAP_SOV_Decisions_Events.11.A: "Lástima."
+
+ JAP_SOV_Decisions_Events.12.t: "El mal tiempo destruye nuestra artillería"
+ JAP_SOV_Decisions_Events.12.d: "Una reciente ola de frío y ventisca ha destruido algunos de nuestros obuses de artillería en el frente. El frío, que ha superado los niveles esperados, caló en el armazón de los obuses y provocó la fragilidad del metal y la congelación de los lubricantes. Los intentos de utilizar los obuses en su estado actual sólo provocaron el resquebrajamiento de los soportes metálicos y los cañones. Nuestros ingenieros han empezado a salvar lo que pueden del equipo, pero las primeras estimaciones no son prometedoras. Mientras nuestra artillería está fuera de combate, los soviéticos podrán mover sus tropas libremente sin miedo a una ofensiva de nuestras tropas. Ésto les dará sin duda una ventaja en los próximos días."
+ JAP_SOV_Decisions_Events.12.A: "¡Necesitamos esos cañones de campaña!"
+
+ JAP_SOV_Decisions_Events.13.t: "Los bandidos realizan un sabotaje con éxito"
+ JAP_SOV_Decisions_Events.13.d: "Con el equipo que les proporcionamos, parece que los bandidos han podido sabotear el esfuerzo bélico japonés en la región. Según los informes, los bandidos dañaron gravemente los ferrocarriles japoneses e interceptaron con éxito numerosas pequeñas columnas logísticas japonesas.\n\nÉsto será sin duda de gran ayuda para nuestro esfuerzo en primera línea contra las fuerzas japonesas. No podrán luchar contra nuestras fuerzas superiores a menos que lleguen a tiempo suficientes refuerzos y, dada la falta de suministros de su Ejército, podremos arrollarlos fácilmente."
+ JAP_SOV_Decisions_Events.13.A: "¡Maravillosas noticias!"
+
+ JAP_SOV_Decisions_Events.14.t: "Los bandidos realizan un sabotaje ineficaz"
+ JAP_SOV_Decisions_Events.14.d: ""
+ JAP_SOV_Decisions_Events.14.A: ""
+
+ JAP_SOV_Decisions_Events.15.t: "¡Los bandidos realizan una fuga ineficaz con el equipo!"
+ JAP_SOV_Decisions_Events.15.d: ""
+ JAP_SOV_Decisions_Events.15.A: ""
+
+ JAP_SOV_Decisions_Events.16.t: "La resistencia japonesa se desmorona"
+ JAP_SOV_Decisions_Events.16.d: "¡Nuestro ataque ha sido todo un éxito y los japoneses están huyendo hacia las colinas! ¡Debido a nuestro asalto bien planificado a las posiciones avanzadas japonesas, que no estaban preparadas, no tenían ni idea de que habíamos lanzado un asalto a gran escala hasta que nuestros tanques habían penetrado en sus líneas y su resistencia se había desmoronado por completo!\n\nAhora sólo quedan unos pocos focos de resistencia en la región, que eliminaremos lo antes posible. Es casi seguro que ésto dará una lección a los japoneses y los acercará a la mesa de negociaciones."
+ JAP_SOV_Decisions_Events.16.A: "¡Una gran victoria para el Ejército Rojo!"
+
+ JAP_SOV_Decisions_Events.17.t: "El asalto se estanca"
+ JAP_SOV_Decisions_Events.17.d: "Nuestro ataque a los japoneses ha sido intermitente, ya que hemos sido incapaces de romper sus defensas con la suficiente rapidez antes de que pudieran reaccionar. Ahora que han llegado más tropas japonesas, debemos declarar este asalto un fracaso; continuar el asalto sería un despilfarro de recursos militares. Debemos evaluar la situación, reorganizar a nuestras tropas y planear una ofensiva para más tarde.\n\nEsperemos que nuestro próximo asalto tenga más éxito que éste estancado."
+ JAP_SOV_Decisions_Events.17.A: "Los japoneses son mejores de lo que pensábamos..."
+
+ JAP_SOV_Decisions_Events.18.t: "Los japoneses erradican a nuestras fuerzas"
+ JAP_SOV_Decisions_Events.18.d: "¡El ataque ha salido horriblemente mal y nuestras tropas han sido arrolladas por las fuerzas japonesas! No sólo fracasó el asalto porque no rompimos la línea enemiga, sino que además los japoneses contraatacaron, ¡destruyendo a nuestro elemento de vanguardia y desorganizando por completo a nuestras fuerzas! Ahora estamos reorganizando las fuerzas que nos quedan para estabilizar el frente en nuestra posición de repliegue. ¡Ésto es una desgracia para nuestro Ejército!\n\n¡Los japoneses pagarán cara esta afrenta!"
+ JAP_SOV_Decisions_Events.18.A: "¡Un espectáculo bochornoso!"
+
+ JAP_SOV_Decisions_Events.19.t: "Llega un batallón mongol"
+ JAP_SOV_Decisions_Events.19.d: "Las prometidas fuerzas de refuerzo mongolas han llegado a salvo, trayendo consigo un batallón completo de caballería para ayudarnos en nuestra lucha contra las fuerzas japonesas. No es mucho, pero tampoco es que las fuerzas mongolas tengan de donde sacar para este conflicto. Como mínimo, el batallón de caballería sería útil en futuras batallas si necesitamos reconocimiento de las posiciones japonesas e información sobre la idoneidad del terreno local para nuestras fuerzas."
+ JAP_SOV_Decisions_Events.19.A: "Una gran incorporación a nuestras fuerzas."
+
+ JAP_SOV_Decisions_Events.20.t: "Llega un pelotón mongol"
+ JAP_SOV_Decisions_Events.20.d: "Las fuerzas mongolas prometidas han llegado, pero parece que exageraron sus cifras: en lugar de un batallón completo de hombres, ¡sólo ha llegado un pelotón a nuestra posición! Es una situación incómoda tanto para nuestro frente diplomático como para el militar, y los mongoles tendrían que responder por ello una vez terminado el conflicto. Aún así, es mejor que nada, y quizás podamos encontrar una forma de utilizarlos de alguna manera en el futuro esfuerzo bélico contra las fuerzas japonesas."
+ JAP_SOV_Decisions_Events.20.A: "¡Maldición!"
+
+ JAP_SOV_Decisions_Events.21.t: "Las fuerzas mongolas desertan"
+ JAP_SOV_Decisions_Events.21.d: "No esperábamos mucho de los mongoles, pero ¡ésto es otra historia! ¡Las tropas mongolas han desertado! La falta de disciplina de las fuerzas mongolas es un gran bochorno para nuestras iniciativas diplomáticas, así como un pequeño revés para nuestro esfuerzo bélico general contra los japoneses. Para encargarnos de los japoneses, tendremos que depender de nuestras propias fuerzas. Y en lo que llenamos las posiciones dejadas vacantes por el Ejército mongol, los japoneses deben estar regocijándose de su ventaja temporal..."
+ JAP_SOV_Decisions_Events.21.A: "¡Cobardes!"
+
+ JAP_SOV_Decisions_Events.22.t: "Ofensiva blindada exitosa"
+ JAP_SOV_Decisions_Events.22.d: "¡Nuestra ofensiva blindada ha hecho progresos increíbles hoy! Han roto la línea japonesa y doblegado su resistencia, y ahora están penetrando en sus líneas de retaguardia, que simplemente despejaremos con nuestra infantería para destruir el resto de la fracturada resistencia japonesa que no se haya retirado. Cuando lo hayamos hecho, habremos ganado la batalla en esta región, lo que probablemente contribuya a inclinar la balanza del conflicto a nuestro favor. Con más victorias así en el futuro, los japoneses se verán obligados a negociar muy pronto."
+ JAP_SOV_Decisions_Events.22.A: "¡Una gran victoria!"
+
+ JAP_SOV_Decisions_Events.23.t: "Ofensiva blindada ineficaz"
+ JAP_SOV_Decisions_Events.23.d: "Nuestra ofensiva blindada parece ser... mediocre cuando menos. El asalto ha infligido importantes daños a los japoneses, pero no ha logrado romper más las líneas japonesas. Sin una victoria decisiva, tendremos que prolongar el enfrentamiento y reajustar nuestro enfoque contra las posiciones japonesas. Esperemos que nuestras próximas ofensivas puedan lograr un avance completo contra las fuerzas japonesas y nos traigan la victoria en este conflicto menor."
+ JAP_SOV_Decisions_Events.23.A: "Al menos lo intentamos..."
+
+ JAP_SOV_Decisions_Events.24.t: "El clima adverso congela los tanques"
+ JAP_SOV_Decisions_Events.24.d: "Parece que hemos subestimado el clima del Lejano Oriente: los lubricantes y combustibles de nuestros tanques no estaban preparados para el clima adverso y se están congelando. En consecuencia, nuestros tanques están ahora congelados antes incluso de que hayamos empezado a prepararnos para un ataque. Debemos cancelar esta operación, y esperamos que nuestros equipos de mantenimiento puedan salvar lo que aún sea reutilizable entre estos restos. Hasta que llegue más ayuda, debemos ceder la iniciativa a los japoneses y esperar refuerzos."
+ JAP_SOV_Decisions_Events.24.A: "La Madre Naturaleza actúa contra nosotros..."
+
+ JAP_SOV_Unique_Decisions_Events.1.t: "Llega la 1.ª División a Kanchazu"
+ JAP_SOV_Unique_Decisions_Events.1.d: ""
+ JAP_SOV_Unique_Decisions_Events.1.A: ""
+
+ JAP_SOV_Unique_Decisions_Events.2.t: "Se despliegan cañoneras en Kanchazu"
+ JAP_SOV_Unique_Decisions_Events.2.d: ""
+ JAP_SOV_Unique_Decisions_Events.2.A: ""
+
+ JAP_SOV_Unique_Decisions_Events.3.t: "La 2.ª Unidad de Trenes Blindados"
+ JAP_SOV_Unique_Decisions_Events.3.d: ""
+ JAP_SOV_Unique_Decisions_Events.3.A: ""
+
+ JAP_SOV_Unique_Decisions_Events.4.t: "A través de la niebla"
+ JAP_SOV_Unique_Decisions_Events.4.d: ""
+ JAP_SOV_Unique_Decisions_Events.4.A: ""
+
+ JAP_SOV_Unique_Decisions_Events.5.t: "Ataque aéreo en Tumask-Bulak"
+ JAP_SOV_Unique_Decisions_Events.5.d: ""
+ JAP_SOV_Unique_Decisions_Events.5.A: ""
+
+ JAP_SOV_Unique_Decisions_Events.6.t: "Comandante Zhúkov"
+ JAP_SOV_Unique_Decisions_Events.6.d: ""
+ JAP_SOV_Unique_Decisions_Events.6.A: ""
+
+ JAP_SOV_Unique_Decisions_Events.7.t: "Construcción en el Amur"
+ JAP_SOV_Unique_Decisions_Events.7.d: ""
+ JAP_SOV_Unique_Decisions_Events.7.A: ""
+
+ JAP_SOV_Unique_Decisions_Events.8.t: "Sacos de arena y alambre de espino"
+ JAP_SOV_Unique_Decisions_Events.8.d: ""
+ JAP_SOV_Unique_Decisions_Events.8.A: ""
+
+ JAP_SOV_Turan_Incident.1.t: "Incidente de Tauran: derrota"
+ JAP_SOV_Turan_Incident.1.d: "¡Nuestras fuerzas cerca del pueblo fronterizo de Tauran han sido derrotadas! Tras una feroz batalla, con bombardeos de artillería y varias cargas de caballería, nuestras fuerzas fueron diezmadas por el enemigo y se vieron obligadas a retirarse con pocos soldados vivos, y sin infligir ningún daño a los invasores. Esta derrota pasará factura a la moral de nuestro Ejército, pero al menos hemos aprendido un par de cosas en lo que al campo de batalla moderno se refiere."
+ JAP_SOV_Turan_Incident.1.A: "¡Maldición!"
+
+ JAP_SOV_Turan_Incident.2.t: "Incidente de Tauran: derrota por poco"
+ JAP_SOV_Turan_Incident.2.d: "La batalla de Tauran se ha saldado con una derrota devastadora para nuestras tropas. Debido a la repetición de cargas y bombardeos, nuestros ejércitos se retiraron rápidamente antes de que las circunstancias empeoraran. Aunque, antes de marcharnos, nos aseguramos de hacer mella en las divisiones enemigas. Puede que ésta no haya sido una derrota total, pero las varias veces que ha estado a punto de serlo han mermado la moral de nuestro Ejército. Sin embargo, los hombres que han muerto hoy no han perecido en vano, pues ahora tenemos más información sobre cómo podrían ser las guerras y batallas del futuro."
+ JAP_SOV_Turan_Incident.2.A: "Nos recuperaremos."
+
+ JAP_SOV_Turan_Incident.3.t: "Incidente de Tauran: estancamiento"
+ JAP_SOV_Turan_Incident.3.d: "La batalla de Tauran ha llegado a un estancamiento, dado que ni el enemigo ni nuestras tropas han avanzado un palmo. Tras repetidos bombardeos y cargas de caballería de ambos bandos, las tropas japonesas y soviéticas decidieron darla por terminada y volvieron a las actuales posiciones fronterizas. Puede que no sea el mejor resultado, pero podría haber sido peor. Además, nuestros asesores presentes en la batalla han captado algunas ideas nuevas que quieren probar."
+ JAP_SOV_Turan_Incident.3.A: "Mientras no perdamos."
+
+ JAP_SOV_Turan_Incident.4.t: "Incidente de Tauran: victoria pírrica"
+ JAP_SOV_Turan_Incident.4.d: "¡Nuestras fuerzas cerca del pueblo fronterizo mongol de Tauran, pero nos ha salido caro! Después de un día y una noche de cargas de caballería y bombardeos enemigos, ¡pudimos arrollarlos y se retiraron! Muchos murieron a causa de la ferocidad de la batalla, pero aun así, las tropas supervivientes regresaron a casa con honor. No sólo ganamos, sino que nuestros asesores presentes en la batalla anotaron múltiples ideas nuevas que podríamos utilizar en una futura guerra."
+ JAP_SOV_Turan_Incident.4.A: "¡Su sacrificio jamás será olvidado!"
+
+ JAP_SOV_Turan_Incident.5.t: "Incidente de Tauran: victoria"
+ JAP_SOV_Turan_Incident.5.d: "¡Nuestras fuerzas cerca del pueblo fronterizo mongol de Tauran han ganado la batalla en una victoria estratégica! ¡Nuestras fuerzas lanzaron un gran asalto terrestre contra el enemigo y lo arrollaron en tan sólo unas horas! Murieron muchos buenos soldados, pero las tropas presentes celebraron la victoria por quienes no pudieron. Los asesores de la batalla también se alegraron de la victoria, ya que la experiencia adquirida fue inestimable."
+ JAP_SOV_Turan_Incident.5.A: "¡A lo mejor aprenden una lección de ésto!"
+
+ JAP_SOV_Kanchazu_Incident.0.t: "El incidente de la isla de Kanchazu"
+ JAP_SOV_Kanchazu_Incident.0.d: "—¡Señor! Hemos recibido información de que múltiples lanchas motoras soviéticas han cruzado el río Amur y descargado tropas en la isla de Kanchazu. Enviamos oficiales manchúes a comprobar la situación, sólo para ser repelidos por las mismas tropas soviéticas, ¡pero ahora parece que están atrincherados y erigiendo defensas! Debido a un acuerdo antiguo de 1860, las islas del Amur son técnicamente propiedad de los soviéticos, pero llevan en nuestra posesión mucho más tiempo que con los rojos. ¿Deberíamos responder con un ataque o dejarlo estar?"
+ JAP_SOV_Kanchazu_Incident.0.A: "No vale la pena luchar por ésto."
+ JAP_SOV_Kanchazu_Incident.0.B: "¡Que esos puñeteros rusos salgan de NUESTRA isla!"
+
+ JAP_SOV_Kanchazu_Incident.011.t: "Caen las tensiones por Kanchazu"
+ JAP_SOV_Kanchazu_Incident.011.d: "Con el aumento de las tensiones entre nosotros y los japoneses, nuestras fuerzas fronterizas cerca del río Amur han ocupado la isla de Kanchazu, ya que tenemos pruebas de que esas islas y otras cercanas nos pertenecen. Sin embargo, las fuerzas policiales de Manchuria se dirigieron a la isla para comprobar la situación, pero fueron repelidas por nuestros soldados. Ésto podría haber empeorado en un abrir y cerrar de ojos, pero el embajador japonés en la URSS, Mamoru Shigemitsu, ha solicitado conversaciones para mantener la paz. El embajador japonés ha declarado que, aunque seamos los dueños de las islas, no estamos en condiciones de impulsar aún más sus reclamaciones, así que lo mejor es que comience una retirada para evitar más enfrentamientos."
+ JAP_SOV_Kanchazu_Incident.011.A: "Sólo es una isla al final."
+
+ JAP_SOV_Kanchazu_Incident.022.t: "Escalada en Kanchazu"
+ JAP_SOV_Kanchazu_Incident.022.d: "Parece que tomar una isla fronteriza en Manchuria que nos pertenece legalmente ha enfadado a los japoneses hasta niveles sorprendentes. Después de que un pequeño grupo de soldados desembarcara en Kanchazu, una fuerza policial manchú se dirigió en barco a la isla para comprobar la situación. Nuestras tropas los ahuyentaron, pero claramente sólo se estaban protegiendo. Sin embargo, lo que podría haberse solucionado con una simple conversación se ha convertido en una batalla inminente. Los japoneses lo han visto como una clara amenaza, y ha habido avistamientos de soldados colocando artillería en la orilla del río Amur. Ahora que la diplomacia se ha ido por la borda, esperamos un ataque en cualquier momento. Hemos ordenado a nuestras tropas en la isla que empiecen a construir trincheras y fortalezas inmediatamente."
+ JAP_SOV_Kanchazu_Incident.022.A: "Parece que un enfrentamiento es inevitable."
+
+ JAP_SOV_Kanchazu_Incident.1.t: "Incidente de la isla de Kanchazu: derrota"
+ JAP_SOV_Kanchazu_Incident.1.d: "El enfrentamiento fronterizo en la isla de Kanchazu se ha saldado con una derrota devastadora para nosotros. Durante el día y la noche, el enemigo bombardeó a nuestro ejército con artillería pesada y balas hasta que quedó claro que era una batalla perdida. El río hacía imposible una carga de caballería y nuestras propias tropas se apresuraban a colocar artillería que no fuera bombardeada en cuanto estuviera lista. Sin hacer mella en el enemigo y con pocos soldados, nuestro ejército se retiró rápidamente. La derrota mermó considerablemente la moral de nuestro ejército, pero al menos aprendimos un par de cosas: mejor no atacar cerca de un río."
+ JAP_SOV_Kanchazu_Incident.1.A: "¡Maldición!"
+
+ JAP_SOV_Kanchazu_Incident.2.t: "Incidente de la isla de Kanchazu: derrota por poco"
+ JAP_SOV_Kanchazu_Incident.2.d: "El combate fue feroz y amargo y la sangre de nuestros hombres se derramó en el río, pero la batalla ha concluido con una derrota a regañadientes. Durante el día y la noche, se dispararon sobre el río proyectiles tras proyectiles, y el sonido de las ametralladoras inundó el yermo. El enemigo perdió a muchos, pero nosotros perdimos lo suficiente como para que, de haber continuado nuestras tropas, ésto se hubiera saldado con una derrota total. Heridos, pero con la certeza de que realmente demostraron su poderío, nuestros ejércitos se retiraron. Puede que hayan ganado y que nuestra moral esté ligeramente herida, pero al menos sabemos qué esperar la próxima vez."
+ JAP_SOV_Kanchazu_Incident.2.A: "Lo dieron todo, y éso es suficiente."
+
+ JAP_SOV_Kanchazu_Incident.3.t: "Incidente de la isla de Kanchazu: estancamiento"
+ JAP_SOV_Kanchazu_Incident.3.d: "Tras días y noches de lucha constante, la batalla de Kanchazu ha terminado en tablas. Ambos bandos lucharon valientemente, con tesón y determinación, pero al final fue inútil. Las trincheras y fortalezas de la isla hicieron inútiles las cargas de caballería y los bombardeos de artillería, mientras que, en la costa, una forma de guerra de guerrillas hizo lo mismo. Más pronto que tarde, el enemigo dejó de disparar y lo dejamos en empate. Correcto, nada ha cambiado, pero nuestros asesores tienen algunos trucos nuevos que quieren probar después de haber aprendido bastante en la batalla."
+ JAP_SOV_Kanchazu_Incident.3.A: "Bueno, no hemos perdido."
+
+ JAP_SOV_Kanchazu_Incident.4.t: "Incidente de la isla de Kanchazu: victoria pírrica"
+ JAP_SOV_Kanchazu_Incident.4.d: "El combate fue feroz y amargo y la sangre de nuestros hombres se derramó en el río, pero, cuando callaron los cañones al otro lado, nuestras tropas supieron ¡que habían ganado la batalla! De noche se disparaban sobre el río proyectiles tras proyectiles y, de día, el sonido de las ametralladoras inundaba el yermo. Perdimos muchos hombres buenos en los combates, pero ellos perdieron más. Nuestros soldados están bastante orgullosos de sus logros y nuestros asesores en la batalla anotaron un montón de información para futuras tácticas de combate."
+ JAP_SOV_Kanchazu_Incident.4.A: "¡Una victoria es una victoria!"
+
+ JAP_SOV_Kanchazu_Incident.5.t: "Incidente de la isla de Kanchazu: victoria"
+ JAP_SOV_Kanchazu_Incident.5.d: "¡Nos alzamos victoriosos en Kanchazu! Nuestra artillería machacó al enemigo antes de que pudiera dispararnos un solo proyectil. Tras un día de combates, el enemigo se retiró y nosotros ocupamos el lugar que nos correspondía en la frontera. Perdimos unos cuantos hombres, pero las tropas supervivientes celebraron la victoria. No sólo nos hicimos con una victoria decisiva, sino que nuestros asesores en la batalla volvieron con páginas y páginas de nueva informacióne stratégica que se puede usar para crear nuevas estrategias para futuras batallas, añadiendo más valor a la victoria."
+ JAP_SOV_Kanchazu_Incident.5.A: "¡Un brindis por nuestros chicos sobre el terreno!"
+
+ JAP_SOV_Khasan_Incident.011.t: "Conflicto en el lago Jasán"
+ JAP_SOV_Khasan_Incident.011.d.JAP: "Desde el comienzo del siglo XX, los rusos y nosotros hemos confiado poquísimo los unos en los otros, cosa que ha culminado en varios incidentes, entre los que destaca la guerra ruso-japonesa. Los rusos construyeron el Ferrocarril Chino del Este para ayudar a conectar sus tierras del Lejano Oriente con China, y el ramal sur, conocido como el Ferrocarril del Sur de Manchuria, está ahora a salvo bajo nuestro control y el de nuestro Gobierno de Manchuria. En consecuencia, mantenemos una presencia militar en la región para asegurarnos de que a los soviéticos no se les ocurran ideas estúpidas, aunque recientemente se ha reducido debido a nuestra guerra en China.\n\nSin embargo, las tensiones entre nuestros países han alcanzado hoy un punto álgido en la región de Jasán. Uno de sus generales desertó el mes pasado, proporcionando valiosa información sobre el estado de sus Fuerzas Armadas tras las recientes purgas. A pesar de la propaganda de su nación, la verdad es que su Ejército es débil y que ahora sería un momento perfecto para atacar la región de Jasán. Después de que se les pidiera retirar sus fuerzas de las colinas al oeste del lago Jasán, se negaron y siguieron reforzando la zona.\n\nAhora hemos ordenado a un pequeño número de divisiones de Kwantung que asalten sus posiciones con la esperanza de asestar un golpe aplastante a su malvada nación comunista. ¡Con la voluntad del Emperador de nuestra parte, haremos que esos pobres socialistas huyan por sus vidas! Es imposible que perdamos contra ellos..."
+ JAP_SOV_Khasan_Incident.011.d.SOV: "Desde el comienzo del siglo XX, los japoneses y nosotros hemos confiado poquísimo los unos en los otros, cosa que ha culminado en varios incidentes, entre los que destaca la guerra ruso-japonesa. Los rusos construimos el Ferrocarril Chino del Este para ayudar a conectar nuestras tierras del Lejano Oriente con China, y el ramal sur, conocido como el Ferrocarril del Sur de Manchuria, está desgraciadamente bajo el control de los japoneses y sus colaboradores manchúes tocapelotas. En consecuencia, mantenemos una presencia militar considerable en la región para asegurarnos de que a nuestros vecinos no se les ocurran ideas estúpidas.\n\nSin embargo, las tensiones entre nuestros países han alcanzado hoy un punto álgido en la región de Jasán. Después de que reforzáramos nuestra frontera allí con trincheras y puestos de comunicación en respuesta a la deserción el mes pasado de uno de nuestros generales que dio a los japoneses información esencial sobre el estado de nuestras fuerzas, nos pidieron que retiráramos nuestras fuerzas de las colinas al oeste del lago Jasán, a lo que, por supuesto, nos negamos.\n\nÉsto ha provocado que un pequeño número de divisiones de Kwantung ataquen nuestras posiciones en nombre de su lamentable imperio. Estamos convencidos de que nuestras fuerzas ahuyentarán a los perros imperialistas rabiosos, ¡demostrando todo el poderío del Ejército Rojo! Si perdiéramos, los que están al mando tendrían serias preguntas que responder..."
+ JAP_SOV_Khasan_Incident.011.A: "TENNŌ HEIKA BANZAI!"
+ JAP_SOV_Khasan_Incident.011.B: "UUURRRAAA!"
+
+ JAP_SOV_Khasan_Incident.1.t: "Incidente del lago Jasán: derrota"
+ JAP_SOV_Khasan_Incident.1.d: "¡Catástrofe! ¡Desastre! Nuestras pérdidas se han acumulado hasta el punto de que nos han expulsado de las colinas cercanas al lago Jasán tras días de duros combates. Según informes de la zona, nuestras fuerzas fueron repelidas tras cargar contra las posiciones enemigas. Al ver a sus amigos saltando por los aires, cundió el pánico y la estabilidad de nuestro frente se vino abajo rápidamente. Ésto permitió al enemigo lanzar un contraataque devastador, arrasando nuestras posiciones defensivas antes de atrincherarse de nuevo. No pudimos recuperar el terreno que habíamos perdido tras la huida en desbandada de nuestros hombres, y todos los demás ataques resultaron infructuosos.\n\nÉste es un fracaso colosal. Aunque este combate se libró por una pequeña área y no habríamos conseguido mucho de haber ganado, sí que pone de manifiesto nuestras debilidades sobre el terreno. Además, cuando llegue la noticia a las principales ciudades de nuestra nación, la moral pública podría verse afectada. Por lo pronto, debemos enterrar a nuestros muertos, reconsiderar nuestra estrategia militar y quizás hasta restar importancia a la magnitud de nuestra derrota aquí."
+ JAP_SOV_Khasan_Incident.1.A: "¡Alguien responderá por este desastre!"
+
+ JAP_SOV_Khasan_Incident.2.t: "Incidente del lago Jasán: derrota por poco"
+ JAP_SOV_Khasan_Incident.2.d: "Por desgracia, nos hemos enterado hoy de que han vencido a nuestros soldados en el lago Jasán. Aunque nuestras fuerzas no fueron completamente destruidas, nos vimos obligados a retirarnos después de días de duros combates. Según los oficiales que combatieron, estuvimos a la defensiva la mayor parte del tiempo y, aunque al principio las cosas parecían ir a nuestro favor, las tornas empezaron a cambiar lentamente cuando el enemigo empezó a traer más potencia de fuego para apoyar a sus unidades.\n\nÉsto tuvo un impacto significativo en el combate, ya que nos encontramos cediendo cada vez más terreno en las últimas fases del combate, hasta el punto de que ya no podíamos luchar por el control de las colinas cercanas al lago Jasán.\n\nNo cabe duda de que se trata de un resultado decepcionante, pero debemos ver el lado positivo. Fuimos capaces de infligir importantes bajas al enemigo, asegurándonos de que sangraran por cada metro de terreno que tomaban. Asimismo, las fuerzas que han sobrevivido han conseguido una valiosa experiencia de combate, y puede que surjan algunos nuevos oficiales de sus filas. Por lo pronto, la derrota es amarga, pero volveremos más fuertes."
+ JAP_SOV_Khasan_Incident.2.A: "Debemos aprender inmediatamente de nuestros errores."
+
+ JAP_SOV_Khasan_Incident.3.t: "Incidente del lago Jasán: estancamiento"
+ JAP_SOV_Khasan_Incident.3.d: "Tras días de amargos y cruentos combates con las fuerzas enemigas en el lago Jasán, se ha declarado un alto el fuego, ya que ni nosotros ni nuestro adversario hemos ganado terreno suficiente para hacernos retroceder mutuamente. No es el resultado esperado, pero lo preferimos a que nos venzan y nos obliguen a retirarnos. Los asaltos y las maniobras defensivas de ambos bandos, cautelosamente planeados, hicieron que, si bien nuestras ofensivas a menudo se saldaban con numerosas bajas, nuestras posiciones en las colinas nos permitían organizar firmes defensas contra sus ataques.\n\nComo ningún bando podía avanzar, nuestros oficiales llegaron a un acuerdo con el enemigo para declarar un alto el fuego. Deberíamos estar orgullosos de haber mantenido al enemigo a raya, aunque no haya mucho que demostrar, y es casi seguro que nuestro adversario tergiversará esta historia a su favor. Sin embargo, el alto mando afirmó que fue una buena experiencia para nuestros soldados, así que se puede sacar algo positivo de esta escaramuza."
+ JAP_SOV_Khasan_Incident.3.A: "Un desastre sangriento y agotador, una miseria."
+
+ JAP_SOV_Khasan_Incident.4.t: "Incidente del lago Jasán: victoria pírrica"
+ JAP_SOV_Khasan_Incident.4.d: "Hoy han llegado buenas noticias a la capital, pues nuestras fuerzas han derrotado al enemigo en el lago Jasán, aunque a un alto coste para nuestros generales. El combate fue duro, y al principio parecía que no seríamos capaces de penetrar en las líneas enemigas, pero con hábiles asaltos de nuestros oficiales y algunos errores tácticos por parte del enemigo, pudimos mostrar una gran resistencia y ganar la escaramuza.\n\nEs un buen resultado, a pesar de que se necesitaron muchos recursos y hombres para lograrlo. El enemigo luchó valientemente, pero no con la eficacia suficiente para detener nuestro avance. Los soldados que lucharon allí tendrán una experiencia inestimable que utilizarán en futuras batallas. Ahora debemos asegurarnos de corregir cualquier error en nuestra planificación. Es una victoria, pero la hemos pagado cara con sangre."
+ JAP_SOV_Khasan_Incident.4.A: "Victoria, pero ¿a qué coste?"
+
+ JAP_SOV_Khasan_Incident.5.t: "Incidente del lago Jasán: victoria"
+ JAP_SOV_Khasan_Incident.5.d: "¡Hoy, el alto mando celebra nuestra extraordinaria victoria ante nuestros adversarios en el lago Jasán! Después de que el enemigo lanzase un desastroso ataque contra nuestros valientes soldados, hicimos una exhibición dominante de nuestras Fuerzas Armadas, manteniéndonos en cabeza durante toda la escaramuza. Su frente se desmoronó debido a una caída considerable de su moral, y nuestros chicos, impulsados por la victoria, ¡lanzaron un contraataque que los envió a las colinas con el rabo entre las piernas! Se colocó nuestra bandera en las colinas que rodean el lago Jasán para demostrar que tenemos el control total de la zona.\n\nEsta victoria se celebrará en casa, lo que sin duda elevará la moral pública. Los soldados que lucharon allí merecen una medalla o dos por su valentía, y la experiencia que han conseguido allí será extremadamente valiosa para su carrera militar. Esta victoria demuestra que nuestra doctrina es correcta, y nos beneficiaremos sin duda de ella en nuestros esfuerzos propagandísticos."
+ JAP_SOV_Khasan_Incident.5.A: "¡Preparen el champán!"
+
+ JAP_SOV_Khalkin_Gol_Incident.011.t: "Incidente de Nomonhan"
+ JAP_SOV_Khalkin_Gol_Incident.011.d.JAP: "Desde nuestra invasión de Manchuria en 1931, hemos estado ansiosos por conquistar nuevos territorios, especialmente en la Unión Soviética, nuestro vecino al norte. Por ello, hemos participado en numerosas escaramuzas fronterizas, siendo la batalla del lago Jasán uno de los enfrentamientos más destacables con los soviéticos. Nos volvemos a enfrentar a ellos, esta vez cerca de una ciudad llamada Nomonhan y del río Jaljin Gol, situado en el territorio de su aliada Mongolia.\n\nHemos estado fortificando la frontera allí durante un tiempo con la ayuda del Ejército de Kwantung, y parece que nuestros esfuerzos habrán merecido la pena. Una pequeña unidad de caballería mongola ha sido atacada por una de nuestras unidades de caballería manchú, ya que estaban violando claramente nuestras fronteras, aunque los mongoles dicen que simplemente estaban dejando pastar a sus caballos en la zona en disputa. Sin embargo, es claramente un farol, probablemente para sacar una reacción de nuestras tropas. Bueno, la reacción la han conseguido, ¡pero es una que los derrotará rápidamente y castigará por su insolencia!\n\nTodo ésto ha llevado a una rápida acumulación de fuerzas de ambos bandos en la zona; parece que el conflicto fronterizo en Jaljin Gol es inevitable, y los observadores internacionales afirman que podría acabar siendo un sangriento estancamiento. Pero, si una de las partes vence, sin duda acabará teniendo mucha más influencia sobre la zona que la otra."
+ JAP_SOV_Khalkin_Gol_Incident.011.d.SOV: "Desde la invasión japonesa de Manchuria en 1931, han estado ansiosos por conquistar nuevos territorios nuestros, de su vecino al norte. Por ello, hemos participado en numerosas escaramuzas fronterizas, siendo la batalla del lago Jasán uno de los enfrentamientos más destacables con los japoneses. Nos volvemos a enfrentar a ellos, esta vez en el río Jaljin Gol, situado en el territorio de nuestra valiente aliada Mongolia.\n\nJunto con el Ejército mongol, hemos estado vigilando de cerca los movimientos de los japoneses en la frontera, y últimamente hemos notado un aumento de sus fortificaciones. Para ver hasta qué punto están dispuestos a llegar los japoneses, se envió a una pequeña unidad de caballería mongola para que sus caballos pastaran en la zona en disputa. Parecía una actividad inofensiva, pero fueron atacados salvajemente por la caballería manchú. Conseguimos que reaccionaran, pero parece que se estaban preparando para algo más de lo que esperábamos.\n\nTodo ésto ha llevado a una rápida acumulación de fuerzas de ambos bandos en la zona; parece que el conflicto fronterizo en Jaljin Gol es inevitable, y los observadores internacionales afirman que podría acabar siendo un sangriento estancamiento. Pero, si una de las partes vence, sin duda acabará teniendo mucha más influencia sobre la zona que la otra."
+ JAP_SOV_Khalkin_Gol_Incident.011.A: "¡Por la gracia del Emperador, saldremos victoriosos!"
+ JAP_SOV_Khalkin_Gol_Incident.011.B: "¡Una victoria aquí es una victoria para la madre patria!"
+
+ JAP_SOV_Khalkin_Gol_Incident.1.t: "Batalla de Jaljin Gol: derrota"
+ JAP_SOV_Khalkin_Gol_Incident.1.d: "¡En un completo desastre de nuestra planificación y preparación, nuestras fuerzas han sido rotundamente derrotadas por el enemigo! Nuestros enemigos utilizaron su apoyo aéreo mucho mejor de lo que esperábamos y, combinado con el hábil uso de los tanques, nuestras fuerzas se vieron desbordadas, con la moral rápidamente por los suelos tras una serie de pequeñas pero importantes derrotas.\n\nA pesar de lanzar un contraataque para intentar repeler a las fuerzas enemigas, fueron nuestras tropas las que se vieron repelidas en su lugar después de no capturar ningún punto de importancia estratégica, dejando nuestros flancos abiertos para un ataque final enemigo que nos dejó fuera de combate por completo.\n\nÉsta no sólo es una humillante derrota para nuestras Fuerzas Armadas, sino que también hemos dejado atrás equipos como tanques y camiones, los cuales puede usar el enemigo para identificar los puntos débiles de nuestros diseños, lo que sin duda los ayudará en caso de que vuelvan a entrar en combate con nosotros."
+ JAP_SOV_Khalkin_Gol_Incident.1.A: "¡Quiero una lista de los que estuvieran a cargo de este caos ahora!"
+
+ JAP_SOV_Khalkin_Gol_Incident.2.t: "Batalla de Jaljin Gol: derrota por poco"
+ JAP_SOV_Khalkin_Gol_Incident.2.d: "El alto mando ha recibido hoy informes decepcionantes de Jaljin Gol, que detallan nuestra derrota a manos de las fuerzas enemigas. A pesar de haber opuesto una gran resistencia contra el enemigo y de haberle infligido numerosas bajas, nuestras tropas no han logrado hacerlo retroceder y obtener la victoria. Hubo momentos en la batalla en los que el combate se decantó de nuestro lado, pero la derrota llegó cuando el enemigo lanzó un asalto a todo o nada contra nuestras líneas, y la apuesta le salió bien.\n\nAunque ésta es una derrota solemnizadora, debemos enorgullecernos de haber frenado el avance enemigo durante un tiempo, prolongando la batalla y aumentando su número de bajas. Nuestras fuerzas que lucharon allí también han conseguido una buena experiencia de lucha contra un enemigo fuerte, y algunos generales ya están señalando quiénes podrían ser los nuevos comandantes de la próxima generación. Nos han derribado por ahora, pero nos levantaremos."
+ JAP_SOV_Khalkin_Gol_Incident.2.A: "Una serie de circunstancias desafortunadas."
+
+ JAP_SOV_Khalkin_Gol_Incident.3.t: "Batalla de Jaljin Gol: estancamiento"
+ JAP_SOV_Khalkin_Gol_Incident.3.d: "Hoy se ha declarado un alto el fuego entre nosotros y nuestro enemigo, ya que el combate en Jaljin Gol se ha convertido en poco más que un sangriento caos en el que ningún bando ha logrado obtener ventaja sobre el otro. La batalla lleva varios días yendo de un lado para otro, con un bando ganando terreno, sólo para ser rechazado por un contraataque del otro. Hubo momentos en los que parecía que estábamos a punto de lograr un avance crucial, aunque nunca llegó a ser lo bastante significativo como para decantar la balanza a nuestro favor.\n\nCon el alto el fuego ahora en vigor, podremos recuperar a nuestros heridos y a nuestros muertos, así como cualquier equipo que pueda volver a utilizarse o convertirse en chatarra. También deberíamos tratar de presentar ésto como una victoria a nuestro pueblo de alguna manera, ya que estamos seguros de que el enemigo también hará lo mismo. Sin embargo, teniendo en cuenta la situación, hemos identificado varios puntos débiles en nuestras doctrinas, por lo que ahora debemos centrarnos en mejorar y perfeccionar nuestras tácticas de combate."
+ JAP_SOV_Khalkin_Gol_Incident.3.A: "Se cometieron errores y se aprendieron lecciones."
+
+ JAP_SOV_Khalkin_Gol_Incident.4.t: "Batalla de Jaljin Gol: victoria pírrica"
+ JAP_SOV_Khalkin_Gol_Incident.4.d: "El alto mando nos ha informado hoy de que hemos conseguido arrancar la victoria de las fauces de la derrota en Jaljin Gol tras días de duros y sangrientos combates. Después de sufrir importantes pérdidas en las primeras fases de la batalla, teníamos todas las de perder. Sin embargo, tras una soberbia maniobra de flanqueo por parte de uno de los comandantes, conseguimos pillar al enemigo desprevenido y sembrar el caos en sus líneas, y nunca se recuperaron de éso.\n\nSin embargo, a pesar de la victoria en la batalla, ha tenido un alto coste para nuestras fuerzas en la región. Perdimos grandes cantidades de hombres en varias ofensivas fallidas, así como numerosas cantidades de tanques y aviones. Ésto demuestra que todavía existen varios ámbitos de nuestra doctrina que podemos mejorar, y nuestros generales ya están identificando los ámbitos que requieren atención inmediata. "
+ JAP_SOV_Khalkin_Gol_Incident.4.A: "Es una victoria... por los pelos."
+
+ JAP_SOV_Khalkin_Gol_Incident.5.t: "Batalla de Jaljin Gol: victoria"
+ JAP_SOV_Khalkin_Gol_Incident.5.d: "Gran parte de la nación está hoy de celebración, pues la noticia de nuestra victoria total en Jaljin Gol se ha extendido por todas partes. Durante todo el tiempo que nuestras fuerzas estuvieron allí, nunca dio la impresión de que fueran a ser derrotadas, lo que demuestra lo dominante que puede ser nuestro Ejército. Con el uso de tanques e infantería, apoyados por aviones desde arriba, aplastamos la resistencia enemiga y rompimos sus líneas, infligiéndoles grandes bajas. Cuando se izó la bandera de nuestra gloriosa nación sobre el campo de batalla, empezamos a recoger a nuestros caídos, que serán sin duda recordados por su participación en esta asombrosa victoria.\n\nLa moral pública ya ha subido y hay muchas medallas que entregar a todos los soldados que participaron. El alto mando ha afirmado que se mejorará aún más la doctrina empleada para reforzar aún más nuestras Fuerzas Armadas. ¡Este día será recordado en la historia de nuestra nación!"
+ JAP_SOV_Khalkin_Gol_Incident.5.A: "¡Una victoria para los libros de historia!"
+
+ JAP_SOV_Khalkin_Gol_Incident.6.t: "Victoria japonesa en Jaljin Gol"
+ JAP_SOV_Khalkin_Gol_Incident.6.d: "[FROM.GetNewsIcon]Los expertos internacionales han estado prestando mucha atención últimamente a la frontera mongola-manchú, ya que se han producido intensos combates entre fuerzas soviéticas y japonesas cerca de Jaljin Gol. Hoy, una declaración oficial del Imperio del Japón ha afirmado que «las fuerzas soviéticas han sido expulsadas del legítimo territorio japonés, y los intereses de Su Majestad Hirohito han sido protegidos de la mácula del comunismo». Esta batalla marca una reciente serie de escaramuzas fronterizas en el Lejano Oriente, muchas de ellas sangrientas y brutales.\n\nSe informa de que participaron cerca de 100 000 soldados en total, con numerosas cantidades de tanques y aviones para apoyar a las oleadas de batallones de infantería. Muchos observadores externos se preguntaban si las fuerzas japonesas serían capaces de derrotar a las tropas soviéticas destinadas en Mongolia, ya que el conflicto con los chinos prosigue sin visos de detenerse. Sin embargo, los japoneses han demostrado que se equivocaban, y sus generales la califican de «victoria asombrosa», aunque algunos se preguntan si fue una derrota aplastante de las fuerzas soviéticas.\n\nLa Unión Soviética aún no se ha pronunciado, aunque se cree que se están señalando con el dedo para averiguar quién es el responsable de la derrota. Muchos están cansados de las recientes purgas en el país y nadie quiere estar en el lado equivocado de un Stalin aparentemente enfadado."
+ JAP_SOV_Khalkin_Gol_Incident.6.A: "¡Que el mundo recuerde este día!"
+ JAP_SOV_Khalkin_Gol_Incident.6.B: "Una humillación en el escenario mundial..."
+ JAP_SOV_Khalkin_Gol_Incident.6.C: "El oso se lame las heridas."
+
+ JAP_SOV_Khalkin_Gol_Incident.7.t: "Combates cruentos en Jaljin Gol"
+ JAP_SOV_Khalkin_Gol_Incident.7.d: "[FROM.GetNewsIcon]Los informes llegados hoy de la frontera mongola-manchú ofrecen un sombrío panorama de los intensos combates que han tenido lugar en Jaljin Gol. Desde el final de la batalla, se ha declarado un alto el fuego entre las dos partes después de que ambas se encontraran en un amargo punto muerto en el que ninguno de los bandos pudo encontrar un avance decisivo. Aunque ambos bandos intentan presentar la batalla a su favor, los expertos internacionales afirman que «está claro que no hay vencedor».\n\nAmbas naciones acudieron a la batalla con la intención de ganar y ejercer más influencia sobre la zona que la otra, pero la jugada no les ha salido bien a ninguno de los dos bandos, con miles de muertos sin motivo, así como grandes cantidades de equipos destruidos, como tanques y aviones. La marea de la batalla cambió en numerosas ocasiones a favor de cada bando, aunque ninguno de los ejércitos pudo aprovechar el impulso para ganar.\n\nLas dos naciones tendrán ahora tiempo para reflexionar sobre lo que puede considerarse un final decepcionante para ambos bandos. En el caso de Japón, querrán mejorar sus tácticas para su actual guerra en China lo antes posible, mientras que en el de la Unión Soviética, seguirán aprendiendo nuevas formas de avanzar tras las purgas que eliminaron a muchos de sus principales generales."\n\nEl futuro de la guerra en el Lejano Oriente parece tan incierto como siempre.
+ JAP_SOV_Khalkin_Gol_Incident.7.A: "Debemos dirigir nuestros esfuerzos hacia China."
+ JAP_SOV_Khalkin_Gol_Incident.7.B: "Quizás algo de propaganda nos ayude."
+ JAP_SOV_Khalkin_Gol_Incident.7.C: "Tanto dado por tan poco ganado."
+
+ JAP_SOV_Khalkin_Gol_Incident.8.t: "Victoria soviética en Jaljin Gol"
+ JAP_SOV_Khalkin_Gol_Incident.8.d: "[FROM.GetNewsIcon]A lo largo de los años, Japón y Rusia siempre han estado enfrentados, a pesar del cambio de ideologías en estas naciones. Hoy, la Unión Soviética puede por fin cantar victoria sobre el Imperio del Japón; un funcionario soviético afirmó que «cuando todo el poder de los trabajadores se una, el malvado poder del imperialismo se desmoronará bajo la hoz y el martillo, como hemos demostrado al mundo». El fin del conflicto de Jaljin Gol pone fin a una de las escaramuzas fronterizas más sangrientas que han librado ambas naciones.\n\nCon una participación estimada de 100 000 soldados, los expertos internacionales habían pronosticado correctamente que sería la mayor batalla librada entre la Unión Soviética y Japón, con tanques y aviones utilizados por ambos bandos, aunque fueron los soviéticos quienes lo hicieron con mayor eficacia. Aunque muchos afirman que fue la inmensa cantidad de tropas rusas lo que los ayudó a ganar, el alto mando soviético insiste en que fueron sus «tácticas y planificación superiores» lo que les aseguró la victoria.\n\nNo ha habido noticias de los funcionarios japoneses, y parece que están intentando olvidarse de toda esta odisea y volver a centrarse en China. Sin embargo, para la Unión Soviética, la máquina de la propaganda ya está en marcha de nuevo, y se asegurarán de que todo el mundo conozca su éxito."
+ JAP_SOV_Khalkin_Gol_Incident.8.A: "¡Desastre! ¡Caos! ¡Catástrofe!"
+ JAP_SOV_Khalkin_Gol_Incident.8.B: "¡Pásame el vodka!"
+ JAP_SOV_Khalkin_Gol_Incident.8.C: "¿Ya se está poniendo el sol?"
+
+ JAP_SOV_Heihe_Incident.011.t: "Una campaña en Heihe"
+ JAP_SOV_Heihe_Incident.011.d: ""
+ JAP_SOV_Heihe_Incident.011.A: ""
+ JAP_SOV_Heihe_Incident.011.B: ""
+
+ JAP_SOV_Heihe_Incident.1.t: "Campaña de Heihe: derrota"
+ JAP_SOV_Heihe_Incident.1.d: ""
+ JAP_SOV_Heihe_Incident.1.A: ""
+
+ JAP_SOV_Heihe_Incident.2.t: "Campaña de Heihe: derrota por poco"
+ JAP_SOV_Heihe_Incident.2.d: ""
+ JAP_SOV_Heihe_Incident.2.A: ""
+
+ JAP_SOV_Heihe_Incident.3.t: "Campaña de Heihe: estancamiento"
+ JAP_SOV_Heihe_Incident.3.d: ""
+ JAP_SOV_Heihe_Incident.3.A: ""
+
+ JAP_SOV_Heihe_Incident.4.t: "Campaña de Heihe: victoria pírrica"
+ JAP_SOV_Heihe_Incident.4.d: ""
+ JAP_SOV_Heihe_Incident.4.A: ""
+
+ JAP_SOV_Heihe_Incident.5.t: "Campaña de Heihe: victoria"
+ JAP_SOV_Heihe_Incident.5.d: ""
+ JAP_SOV_Heihe_Incident.5.A: ""
+
+#########################################################################
+#  Japanese-Soviet Border Conflict Decisions
+#########################################################################
+
+ JAP_Soviet_Japanese_Border_Clashes_category: "Enfrentamientos fronterizos soviético-japoneses"
+ JAP_Soviet_Japanese_Border_Clashes_category_desc: "\n\n\n£decision_header_JAP_SOV_Border_Conflict£"
+ JAP_Already_Doing_Border_Decision: "Ya ha seleccionado una división"
+ SOV_Already_Doing_Border_Decision: "Ya ha seleccionado una división"
+ JAP_Connect_with_Anti_Bolshevik_Agents: "Contactar con agentes antibolcheviques"
+ JAP_Launch_Limited_Assault: "Lanzar un asalto limitado"
+ JAP_Enlist_Manchurian_Aid: "Solicitar ayuda manchú"
+ JAP_Utilize_Heavy_Weaponry: "Utilizar armamento pesado"
+ SOV_Support_Anti_Japanese_Bandits: "Apoyar a los bandidos antijaponeses"
+ SOV_Launch_Limited_Assault: "Lanzar un asalto limitado"
+ SOV_Enlist_Mongolian_Aid: "Solicitar ayuda mongola"
+ SOV_Bring_in_the_Tanks: "Traer los tanques"
+ JAP_Call_the_IJA: "Llamar al Ejército"
+ SOV_Send_in_Gunboats: "Enviar cañoneras"
+ JAP_Deploy_an_Armoured_Train: "Desplegar un tren blindado"
+ SOV_Launch_the_Bomber_Squadron: "Desplegar el Escuadrón de Bombarderos"
+ JAP_Strike_Soviet_Air_Bases: "Atacar bases aéreas soviéticas"
+ SOV_Assign_Zhukov_to_Command: "Asignar a Zhúkov el mando del 1.er Grupo de Ejércitos Soviético-Mongol"
+ JAP_Build_Pontoon_Bridges: "Construir puentes flotantes"
+ SOV_Fortify_Blagoveschensk: "Fortificar Blagovéschensk"
+ JAP_SOV_Fighting_Draws_to_a_Close: "Los combates llegan a su fin"
+ JAP_SOV_Fighting_Draws_to_a_Close_2: "Los combates llegan a su fin"
+
+ JAP_SOV_Turan_Incident_loc: "§RIncidente de Turan§!"
+ JAP_SOV_Kanchazu_Incident_loc: "§RIncidente de la isla de Kanchazu§!"
+ JAP_SOV_Khasan_Incident_loc: "§RIncidente del lago Jasán§!"
+ JAP_SOV_Khalkin_Gol_Incident_loc: "§RJaljin Gol§!"
+ JAP_SOV_Heihe_Incident_loc: "§RCampaña de Heihe§!"
+ JAP_SOV_No_Incident_loc: "§GNingún incidente§!"
+
+#########################################################################
+#  Japanese-Soviet Border Conflict Misc
+#########################################################################
+
+ JAP_SOV_Border_Clashes: "£command_power §Y10§!"
+ JAP_SOV_Border_Clashes_blocked: "£command_power §R10§!"
+
+#########################################################################
+#  Japanese-Soviet Border Conflict GUI
+#########################################################################
+
+ JAP_SOV_CURRENT_INCIDENT_TITLE: "§YIncidente actual:§!"
+ JAP_SOV_CURRENT_INCIDENT_TEXT: "[This.Dynamic_JAP_Incident_Name]"
+ JAP_SOV_INCIDENT_PROGRESS_BAR_TEXT: "Equilibrio de poder: §Y[?JAP_SOV_Balance_of_Power|0%%]§!"
+ JAP_SOV_INCIDENT_PROGRESS_BAR_TT: "El §Yequilibrio de poder§! entre §Y[SOV.GetNameWithFlag]§! y §Y[JAP.GetNameWithFlag]§! está actualmente en §Y[?JAP_SOV_Balance_of_Power|2%%]§!."
+ JAP_SOV_INCIDENT_LEFT_FLAG: "§Y[SOV.GetNameWithFlag]§!"
+ JAP_SOV_INCIDENT_RIGHT_FLAG: "§Y[JAP.GetNameWithFlag]§!"
+
+ JAP_SOV_Balance_of_Power_Minus_5_tt: "El §Yequilibrio de poder§! se desplazará un §R5 %§! en nuestra contra."
+ JAP_SOV_Balance_of_Power_Minus_10_tt: "El §Yequilibrio de poder§! se desplazará un §R10 %§! en nuestra contra."
+ JAP_SOV_Balance_of_Power_Minus_15_tt: "El §Yequilibrio de poder§! se desplazará un §R15 %§! en nuestra contra."
+ JAP_SOV_Balance_of_Power_5_tt: "El §Yequilibrio de poder§! se desplazará un §G5 %§! a nuestro favor."
+ JAP_SOV_Balance_of_Power_10_tt: "El §Yequilibrio de poder§! se desplazará un §G10 %§! a nuestro favor."
+ JAP_SOV_Balance_of_Power_15_tt: "El §Yequilibrio de poder§! se desplazará un §G15 %§! a nuestro favor."

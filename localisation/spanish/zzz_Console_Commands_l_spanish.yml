@@ -1,0 +1,87 @@
+﻿l_spanish:
+ # Keep in English language.
+ # Only used for the custom console commands.
+ d_darkest_hour_console_commands_DESC: "Enumera todos los comandos de consola añadidos por el mod §LDarkest Hour§!."
+ D_DARKEST_HOUR_CONSOLE_COMMANDS_TT: "Los siguientes comandos de consola han sido añadidos por el mod"
+ D_DARKEST_HOUR_CONSOLE_COMMANDS_TT_2: "§LDarkest Hour§!:"
+ D_DARKEST_HOUR_CONSOLE_COMMANDS_TT_3: "Usa §Yhelp <comando>§! para ver más información sobre el"
+ D_DARKEST_HOUR_CONSOLE_COMMANDS_TT_4: "comando específico."
+
+ d_add_money_DESC: "Añade la cantidad especificada de £money_icon£. Se puede seleccionar un país haciendo clic\ncon el botón derecho del ratón.  \nUso: §Yadd_money <entero>§!. Se añadirán §Y1000§! si no se especifica\nun número."
+ D_ADD_MONEY_TT: "(§Y[This.GetName]§!): Obtiene [?args^0?1000|2+] £money_icon£."
+ D_SUBTRACT_MONEY_TT: "(§Y[This.GetName]§!): Pierde [?args^0?1000|2+] £money_icon£."
+
+ d_add_inflation_DESC: "Cambia la inflación a la cantidad especificada. Se puede seleccionar un país haciendo clic\ncon el botón derecho del ratón. \nUso: §Yadd_inflation <flotante>§!. Se añadirá §Y10%§! si no se especifica\nun número."
+ D_ADD_INFLATION_TT: "(§Y[This.GetName]§!): Obtiene un [?args^0?0.1|2-=%] de inflación."
+
+ d_set_unemployment_DESC: "Fija el desempleo a la cantidad especificada. Se puede seleccionar un país haciendo clic\ncon el botón derecho del ratón.  \nUso: §Yset_unemployment <flotante>§!. Se fijará en §Y10%§! si no se especifica\nun número."
+ D_SET_UNEMPLOYMENT_TT: "(§Y[This.GetName]§!): Fija el §Ydesempleo§! en §Y[?unemployment_value|%2]§!."
+
+ d_add_unemployment_DESC: "Cambia el desempleo en la cantidad especificada. Se puede seleccionar un país haciendo clic\ncon el botón derecho del ratón.  \nUso: §Yadd_unemployment <flotante>§!. Se añadirá §Y10%§! si no se especifica\nun número."
+ D_ADD_UNEMPLOYMENT_TT: "(§Y[This.GetName]§!): El §Ydesempleo§! cambia en [?unemployment_value|%2-=]."
+
+ d_change_unemployment_impact_DESC: "Cambia el impacto del desempleo en el porcentaje especificado. \nEn este valor también pueden influir las ideas. Se puede seleccionar un país haciendo clic\ncon el botón derecho del ratón.  \nUso: §Ychange_unemployment_impact <flotante>§!. Se añadirá §Y10%§! si no se especifica\nun número."
+ D_CHANGE_UNEMPLOYMENT_IMPACT_TT: "Cambia el impacto del §Ydesempleo§! (actualmente [?current_value|-2%=]) en"
+ D_CHANGE_UNEMPLOYMENT_IMPACT_TT_2: "[?modifier_value|-2%=]."
+
+ d_add_faction_influence_DESC: "Añade influencia a una facción concreta. La facción con más influencia se convertirá en la facción líder. \nUso: §Yadd_faction_influence <ID de facción> <influencia>§!."
+ D_ADD_FACTION_INFLUENCE_TT: "(§Y[This.GetName]§!): La influencia de §Y[This.GetActiveFactionNameOtherContext]§! cambia en un [?influence_to_add|2=+%%]."
+ D_ADD_FACTION_INFLUENCE_TT_2: "§M[This.GetLeadingFactionName]§! ahora es la §Yfacción líder§!."
+ D_ADD_FACTION_INFLUENCE_TT_FACTION_NOT_ACTIVE: "§R[This.GetNameDefCap] no tiene la facción especificada.§!"
+ D_ADD_FACTION_INFLUENCE_TT_FACTION_NOT_SPECIFIED: "§RCantidad inválida de argumentos.§!"
+
+ d_add_faction_loyalty_DESC: "Añade lealtad a una facción concreta. \nUso: §Yadd_faction_loyalty <ID de facción> <influencia>§!."
+ D_ADD_FACTION_LOYALTY_TT: "(§Y[This.GetName]§!): La lealtad de §Y[This.GetActiveFactionNameOtherContext]§! cambia en un [?loyalty_to_add|2=+%%]."
+ D_ADD_FACTION_LOYALTY_TT_FACTION_NOT_ACTIVE: "§R[This.GetNameDefCap] no tiene la facción especificada.§!"
+ D_ADD_FACTION_LOYALTY_TT_FACTION_NOT_SPECIFIED: "§RCantidad inválida de argumentos.§!"
+
+ d_add_faction_to_country_DESC: "Añade una facción específica a las facciones activas del país. \nUso: §Yadd_faction_to_country <ID de facción>§!. \nEl juego debe estar en modo Depuración para usar este comando."
+ D_ADD_FACTION_TO_COUNTRY_TT: "(§Y[This.GetName]§!): Se añade §Y[This.GetActiveFactionNameOtherContext]§! a las"
+ D_ADD_FACTION_TO_COUNTRY_TT_2: "facciones de interés."
+ D_ADD_FACTION_TO_COUNTRY_TT_FACTION_IS_ACTIVE: "§R[This.GetNameDefCap] ya tiene la facción especificada.§!"
+ D_ADD_FACTION_TO_COUNTRY_TT_FACTION_NOT_SPECIFIED: "§RCantidad inválida de argumentos.§!"
+
+ d_remove_faction_from_country_DESC: "Elimina una facción específica de las facciones activas del país. \nUso: §Yremove_faction_from_country <ID de facción>§!. \nEl juego debe estar en modo Depuración para usar este comando."
+ D_REMOVE_FACTION_FROM_COUNTRY_TT: "(§Y[This.GetName]§!): Se elimina §Y[This.GetActiveFactionNameOtherContext]§! de las"
+ D_REMOVE_FACTION_FROM_COUNTRY_TT_2: "facciones de interés."
+ D_REMOVE_FACTION_FROM_COUNTRY_TT_FACTION_NOT_ACTIVE: "§R[This.GetNameDefCap] no tiene la facción especificada.§!"
+ D_REMOVE_FACTION_FROM_COUNTRY_TT_FACTION_NOT_SPECIFIED: "§RCantidad inválida de argumentos.§!"
+
+ d_add_research_slot_DESC: "Añade/elimina la cantidad especificada de casillas de investigación. \nUso: §Yadd_research_slot <número>§!. Se añadirá §Y1§! si no se especifica\nun número. \nEl juego debe estar en modo Depuración para usar este comando."
+ D_ADD_RESEARCH_SLOT_TT: "Se han añadido §Y[?args^0?1|0]§! casillas de investigación."
+
+ d_add_party_support_DESC: "Añade apoyo a un partido concreto. \nUso: §Yadd_party_support <ID de partido> <apoyo>§!."
+ D_ADD_PARTY_SUPPORT_TT: "(§Y[This.GetName]§!): El apoyo de §Y[This.GetParliamentPartyNameOtherContext]§! cambia en [?support_to_add|2=+%]."
+ D_ADD_PARTY_SUPPORT_TT_PARTY_NOT_ACTIVE: "§R[This.GetNameDefCap] no tiene el partido especificado.§!"
+ D_ADD_PARTY_SUPPORT_TT_PARTY_NOT_SPECIFIED: "§RCantidad inválida de argumentos.§!"
+
+ d_set_parliament_ruling_party_DESC: "Convierte el partido especificado en el partido gobernante. Si se usa con §Y0§!, \nningún partido será el gobernante. \nUso: §Yset_parliament_ruling_party <ID de partido>§!."
+ D_SET_PARLIAMENT_RULING_PARTY_TT: "(§Y[This.GetName]§!): §M[This.GetParliamentPartyNameOtherContext]§! ahora es el §Ypartido gobernante§!."
+ D_SET_PARLIAMENT_RULING_PARTY_TT_NO_RULING_PARTY: "No hay §Rningún§! partido gobernante en [This.GetParliamentName]."
+ D_SET_PARLIAMENT_RULING_PARTY_TT_INVALID_PARTY: "§R[This.GetNameDefCap] no tiene el partido especificado.§!"
+ D_SET_PARLIAMENT_RULING_PARTY_TT_INVALID_ARGUMENTS: "§RCantidad inválida de argumentos.§!"
+
+ d_add_party_to_parliament_DESC: "Añade un partido concreto a [This.GetParliamentName]. \nUso: §Yadd_party_to_parliament <ID de partido>§!. \nEl juego debe estar en modo Depuración para usar este comando."
+ D_ADD_PARTY_TO_PARLIAMENT_TT: "(§Y[This.GetName]§!): Se añade §Y[This.GetParliamentPartyNameOtherContext]§! a [This.GetParliamentName]."
+ D_ADD_PARTY_TO_PARLIAMENT_TT_PARTY_IS_ACTIVE: "§R[This.GetNameDefCap] ya tiene el partido especificado.§!"
+ D_ADD_PARTY_TO_PARLIAMENT_TT_PARTY_NOT_SPECIFIED: "§RCantidad inválida de argumentos.§!"
+
+ d_remove_party_from_parliament_DESC: "Elimina un partido concreto de [This.GetParliamentName]. \nUso: §Yremove_party_from_parliament <ID de partido>§!. \nEl juego debe estar en modo Depuración para usar este comando."
+ D_REMOVE_PARTY_FROM_PARLIAMENT_TT: "(§Y[This.GetName]§!): Se elimina §Y[This.GetParliamentPartyNameOtherContext]§! de [This.GetParliamentName]."
+ D_REMOVE_PARTY_FROM_PARLIAMENT_TT_FACTION_IS_RULING_PARTY: "No hay §Rningún§! partido gobernante en [This.GetParliamentName]."
+ D_REMOVE_PARTY_FROM_PARLIAMENT_TT_PARTY_NOT_ACTIVE: "§R[This.GetNameDefCap] no tiene el partido especificado.§!"
+ D_REMOVE_PARTY_FROM_PARLIAMENT_TT_PARTY_NOT_SPECIFIED: "§RCantidad inválida de argumentos.§!"
+
+ d_add_relative_party_popularity_DESC: "Cambia la cantidad de influencia que recibe un partido específico\nde la popularidad total de la ideología a la que pertenece. \nUso: §Yadd_relative_party_popularity <ID de partido> <popularidad>§!."
+ D_ADD_RELATIVE_PARTY_POPULARITY_TT: "La cantidad de influencia que §Y[This.GetParliamentPartyNameOtherContext]§! obtiene de la popularidad total"
+ D_ADD_RELATIVE_PARTY_POPULARITY_TT_2: "de §Y[This.GetParliamentPartyIdeologyNameOtherContext]§! cambia en [?popularity_to_add|2%=+]."
+ D_ADD_RELATIVE_PARTY_POPULARITY_TT_INVALID_PARTY: "§R[This.GetNameDefCap] no tiene el partido especificado.§!"
+ D_ADD_RELATIVE_PARTY_POPULARITY_TT_INVALID_ARGUMENTS: "§RCantidad inválida de argumentos.§!"
+
+ d_log_country_factories_DESC: "Registra la cantidad de fábricas que tiene cada país. \nUso: §Ylog_country_factories§!"
+ D_LOG_COUNTRY_FACTORIES_1: "§YSe ha registrado la cantidad de fábricas de cada país§W"
+ D_LOG_COUNTRY_FACTORIES_2: "§Yal archivo §Mgame.log§!.§W"
+ D_LOG_COUNTRY_FACTORIES_CIVILIAN_FACTORIES: "[This.GetNameDefCap] ([This.GetTag]) tiene [?num_of_civilian_factories] fábricas civiles."
+ D_LOG_COUNTRY_FACTORIES_MILITARY_FACTORIES: "[This.GetNameDefCap] ([This.GetTag]) tiene [?num_of_military_factories] fábricas militares."
+ D_LOG_COUNTRY_FACTORIES_DOCKYARDS: "[This.GetNameDefCap] ([This.GetTag]) tiene [?num_of_naval_factories] astilleros."
+ D_LOG_COUNTRY_TOTAL_FACTORIES: "[This.GetNameDefCap] ([This.GetTag]) tiene [?num_of_factories] fábricas en total."

@@ -1,0 +1,658 @@
+﻿l_spanish:
+######################################################################
+###  Republican Spain (1933) Focus
+######################################################################
+## Navy
+ SPR_1933_Marina_Republicana: "Marina republicana"
+ SPR_1933_Marina_Republicana_desc: ""
+ SPR_1933_Renew_the_1906_Jurisdiction_Law: "Revisar la Ley de Jurisdicciones de 1906"
+ SPR_1933_Renew_the_1906_Jurisdiction_Law_desc: ""
+ SPR_1933_Construct_The_Canarias_Class: "Construir la clase Canarias"
+ SPR_1933_Construct_The_Canarias_Class_desc: ""
+ SPR_1933_The_C3_Submarine: "El submarino C-3"
+ SPR_1933_The_C3_Submarine_desc: ""
+ SPR_1933_Reduce_Funding: "Reducir los fondos"
+ SPR_1933_Reduce_Funding_desc: ""
+ SPR_1933_Expand_The_Euskalduna: "Ampliar el Euskalduna"
+ SPR_1933_Expand_The_Euskalduna_desc: ""
+ SPR_1933_Astilleros_de_Cartagena: "Astilleros de Cartagena"
+ SPR_1933_Astilleros_de_Cartagena_desc: ""
+ SPR_1933_Modernise_The_Espana_Class: "Modernizar la clase España"
+ SPR_1933_Modernise_The_Espana_Class_desc: ""
+## Air Force
+ SPR_1933_Fuerza_Aerea_Republicana: "Fuerza Aérea republicana"
+ SPR_1933_Fuerza_Aerea_Republicana_desc: ""
+ SPR_1933_Appoint_Saenz_De_Buruaga: "Nombrar a Sáenz de Buruaga"
+ SPR_1933_Appoint_Saenz_De_Buruaga_desc: ""
+ SPR_1933_Deal_With_The_French: "Negociar con los franceses"
+ SPR_1933_Deal_With_The_French_desc: ""
+ SPR_1933_Restructure_The_Air_Force: "Reestructurar la Fuerza Aérea"
+ SPR_1933_Restructure_The_Air_Force_desc: ""
+ SPR_1933_Focus_On_License_Production: "Centrarse en la producción de licencias"
+ SPR_1933_Focus_On_License_Production_desc: ""
+ SPR_1933_Hispano_Aviacion: "Hispano-Aviación"
+ SPR_1933_Hispano_Aviacion_desc: ""
+ SPR_1933_Develop_The_Hispano_E30: "Desarrollar el Hispano E-30"
+ SPR_1933_Develop_The_Hispano_E30_desc: ""
+ SPR_1933_We_Need_Bombers: "¡Necesitamos bombarderos!"
+ SPR_1933_We_Need_Bombers_desc: ""
+## Army
+ SPR_1933_El_Ejercito_Republicano: "El Ejército republicano"
+ SPR_1933_El_Ejercito_Republicano_desc: ""
+ SPR_1933_Reduce_The_Size_Of_the_Army: "Reducir el tamaño del Ejército"
+ SPR_1933_Reduce_The_Size_Of_the_Army_desc: ""
+ SPR_1933_Close_The_Military_Academy_Of_Zaragoza: "Cerrar la Academia Militar de Zaragoza"
+ SPR_1933_Close_The_Military_Academy_Of_Zaragoza_desc: ""
+ SPR_1933_The_Junteros_And_Africanistas: "Los junteros y africanistas"
+ SPR_1933_The_Junteros_And_Africanistas_desc: ""
+ SPR_1933_Increase_The_Military_Budget: "Aumentar el presupuesto militar"
+ SPR_1933_Increase_The_Military_Budget_desc: ""
+ SPR_1933_Quality_Against_Quantity: "Calidad contra cantidad"
+ SPR_1933_Quality_Against_Quantity_desc: ""
+ SPR_1933_Focus_On_Size: "Centrarse en el tamaño"
+ SPR_1933_Focus_On_Size_desc: ""
+ SPR_1933_Urgent_Mechanization: "Mecanización urgente"
+ SPR_1933_Urgent_Mechanization_desc: ""
+ SPR_1933_Brigades_De_Montana: "Tropas para los Pirineos"
+ SPR_1933_Brigades_De_Montana_desc: ""
+ SPR_1933_Moroccan_Mercenaries: "Ampliar el Ejército de África"
+ SPR_1933_Moroccan_Mercenaries_desc: ""
+ SPR_1933_Widespread_Conscription: "Vuelta a los 16"
+ SPR_1933_Widespread_Conscription_desc: ""
+ SPR_1933_QF_4_5_Inch_Howitzer: "Obús QF de 4,5 pulgadas"
+ SPR_1933_QF_4_5_Inch_Howitzer_desc: ""
+ SPR_1933_Extend_The_Professional_Core: "En torno a un núcleo de profesionales"
+ SPR_1933_Extend_The_Professional_Core_desc: ""
+ SPR_1933_Overwhelm_The_Enemy: "Abrumar al enemigo"
+ SPR_1933_Overwhelm_The_Enemy_desc: ""
+ SPR_1933_Reinstate_The_Old_Officer_Core: "Restablecer el antiguo núcleo de oficiales"
+ SPR_1933_Reinstate_The_Old_Officer_Core_desc: ""
+ SPR_1933_Replace_The_FT_17: "Reemplazar el FT-17"
+ SPR_1933_Replace_The_FT_17_desc: ""
+## Azaña's Cabinet
+ SPR_1933_Elect_The_President: "El gabinete de Azaña"
+ SPR_1933_Elect_The_President_desc: ""
+ SPR_1933_Combat_Rural_Desolation: "Combatir la España vacía"
+ SPR_1933_Combat_Rural_Desolation_desc: ""
+ SPR_1933_Promote_Exportation: "Fomentar la exportación"
+ SPR_1933_Promote_Exportation_dsec: ""
+ SPR_1933_Industria_Regeneracionista: "Industria regeneracionista"
+ SPR_1933_Industria_Regeneracionista_desc: ""
+ SPR_1933_Cooperate_With_The_Syndicates: "Cooperar con los sindicatos"
+ SPR_1933_Cooperate_With_The_Syndicates_desc: ""
+ SPR_1933_The_Agrarian_Reform: "La reforma agraria"
+ SPR_1933_The_Agrarian_Reform_desc: ""
+ SPR_1933_Reduce_The_Landowners_Powers: "Reducir los poderes de los terratenientes"
+ SPR_1933_Reduce_The_Landowners_Powers_desc: ""
+ SPR_1933_Continue_The_School_Program: "Continuar el programa escolar"
+ SPR_1933_Continue_The_School_Program_desc: ""
+ SPR_1933_4th_Radical_Government: "Cuarto Gobierno radical"
+ SPR_1933_4th_Radical_Government_desc: ""
+ SPR_1933_Devaluate_The_Peseta: "Devaluar la peseta"
+ SPR_1933_Devaluate_The_Peseta_desc: ""
+ SPR_1933_Instalaza: "Instalaza"
+ SPR_1933_Instalaza_desc: ""
+ SPR_1933_Industrial_Protectionism: "Revivir la economía interna"
+ SPR_1933_Industrial_Protectionism_desc: ""
+ SPR_1933_Altos_Hornos_De_Vizcaya: "Altos Hornos de Vizcaya"
+ SPR_1933_Altos_Hornos_De_Vizcaya_desc: ""
+ SPR_1933_Maintain_Our_Political_Independence: "Conservar nuestra independencia política"
+ SPR_1933_Maintain_Our_Political_Independence_desc: ""
+ SPR_1933_Align_With_The_Right: "Abrazar la CEDA"
+ SPR_1933_Align_With_The_Right_desc: ""
+ SPR_1933_Abolish_The_Agrarian_Decrees: "Derogar los decretos agrarios"
+ SPR_1933_Abolish_The_Agrarian_Decrees_desc: ""
+ SPR_1933_Regain_The_Favor_Of_The_Generals: "Recuperar el favor de los generales"
+ SPR_1933_Regain_The_Favor_Of_The_Generals_desc: ""
+ SPR_1933_Pass_The_Amnesty_Law: "Amnistía para la Sanjurjada"
+ SPR_1933_Pass_The_Amnesty_Law_desc: ""
+ SPR_1933_Appoint_CEDA_Ministers: "Nombrar ministros de la CEDA"
+ SPR_1933_Appoint_CEDA_Ministers_desc: ""
+ SPR_1933_Negotiate_The_Vatican: "Negociar un concordato con el Vaticano"
+ SPR_1933_Negotiate_The_Vatican_desc: ""
+ SPR_1933_Revoke_The_Integral_State: "Revocar el Estado integral"
+ SPR_1933_Revoke_The_Integral_State_desc: ""
+ SPR_1933_Rid_The_Countryside_Of_Socialism: "Destituir a los gobernadores de izquierdas"
+ SPR_1933_Rid_The_Countryside_Of_Socialism_desc: ""
+ SPR_1933_Enforce_Labour_Regulations: "Imponer regulaciones laborales"
+ SPR_1933_Enforce_Labour_Regulations_desc: ""
+ SPR_1933_February_Elections: "Elecciones de febrero"
+ SPR_1933_February_Elections_desc: ""
+######################################################################
+#  Republican Spain Events
+######################################################################
+### Operation Isabella Events
+ Spain_Isabella.1.t: "Alemania presiona para que se tomen medidas militares"
+ Spain_Isabella.1.d: "WIP"
+ Spain_Isabella.1.A: "Ésta es nuestra oportunidad de unificar Iberia."
+ Spain_Isabella.1.B: "La guerra no es la respuesta." 
+ 
+###  Spanish Political Events
+ Spain_Elections.1.t: "Se forma el Frente Popular"
+ Spain_Elections.1.d: "Con las elecciones en el horizonte y los socialistas ganando impulso en nuestra nación, tienen la intención de utilizarlo como un medio para afianzarse en el Parlamento de la nación una vez más. Por tanto, han creado una coalición de diversos partidos políticos y organizaciones de izquierdas llamada el Frente Popular. Este llamado Frente Popular pretende revertir todos los cambios realizados por la CEDA-PRR e instaurar su propia concepción de la República en una realidad. Esta coalición pretende destruir el tejido mismo de nuestra nación, y pretenden pervertir la identidad española para convertirla en algo que convenga a una revolución socialista. No cederemos ante estos terroristas socialistas, y debemos hacer todo lo posible para contrarrestar su victoria en las elecciones."
+ Spain_Elections.1.A: "La izquierda encuentra la fuerza en los números."
+ 
+ Spain_Elections.2.t: "Elecciones generales de 1936"
+ Spain_Elections.2.d: "Las elecciones generales están aquí, y en el momento más inoportuno. La violencia y los disturbios civiles se han convertido en la norma que el pueblo español tiene que soportar, con la violencia tanto de la izquierda como de la derecha aumentando en tamaño y violencia cada día. Ésto se ha demostrado recientemente en Cataluña, donde hoy se ha producido la mayor revuelta de la historia de nuestra joven república. Las elecciones de hoy no son unas elecciones cualesquiera, sino que son esenciales para la supervivencia de nuestra República y su futuro incierto. Dada la creciente popularidad del Frente Popular, no es de extrañar que hayan sido los vencedores en estas elecciones, obteniendo la mayoría en el Parlamento. Esta victoria supone un duro golpe para los partidos y facciones de derechas en España, pero se trata de un revés temporal, ya que han preparado medidas para imponer su dominio sobre España..."
+ Spain_Elections.2.A: "¡El Frente Popular gana!"
+
+ Spain_Politics.1.t: "Asesinatos políticos"
+ Spain_Politics.1.d: "Desde la victoria del Frente Popular en febrero, la Falange Española, una pequeña fuerza política marginal, ha recibido una avalancha de jóvenes militantes de derechas dispuestos a tomar medidas violentas. Ésto ha provocado la respuesta de organizaciones de izquierda similares.  El pasado jueves 12 de marzo, se produjo el primer ataque contra Luis Jiménez de Asúa, padre de la Constitución de 1931 y diputado socialista. Aunque ha salido ileso, su escolta policial ha perdido la vida. El Gobierno ha respondido hoy ilegalizando el partido y deteniendo a su líder, José Antonio Primo de Rivera. En los próximos meses, la violencia callejera causará más de cincuenta muertos entre las organizaciones de izquierda, así como unos cuarenta falangistas. Un centenar de iglesias y monasterios también serán asaltados e incendiados, y su contenido saqueado por las milicias de extrema izquierda."
+ Spain_Politics.1.A: "Estamos perdiendo el control."
+ SPR_Political_Killings: "Asesinatos políticos"
+ 
+ Spain_Politics.2.t: "Niceto Alcalá-Zamora es destituido del cargo"
+ Spain_Politics.2.d: "Desde las elecciones de febrero de 1936, el presidente de la República, Niceto Alcalá-Zamora, se ha visto en una posición complicada. La izquierda no ha olvidado su actitud durante el anterior Gobierno, y se ha abierto un debate en el Parlamento sobre su disolución por orden del presidente en 1933. Según el nuevo Gobierno, se trató de un acto anticonstitucional y Alcalá-Zamora debe ser destituido. La votación se ha saldado con 238 votos a favor, 5 en contra y 174 abstenciones, de diputados de derechas que abandonaron la sala en señal de protesta. A pesar de sus quejas, se ha visto obligado a dimitir. El cargo será ocupado por Diego Martínez Barrio, presidente del Parlamento, como presidente en funciones."
+ Spain_Politics.2.A: "Nunca fue uno de los nuestros."
+ 
+ Spain_Politics.3.t: "Manuel Azaña asume el mando"
+ Spain_Politics.3.d: "El pasado 30 de abril, Manuel Azaña fue elegido único candidato para la presidencia de la República del Frente Popular. Hoy, tras la destitución de Alcalá-Zamora, ha sido votado presidente con 754 de 874 votos a favor."
+ Spain_Politics.3.A: "Vale."
+ 
+ Spain_Politics.4.t: "El asesinato de Calvo Sotelo"
+ Spain_Politics.4.d: "Ayer, 12 de julio, el teniente José Castillo de la Guardia de Asalto, militante socialista, fue asesinado a tiros, bien por pistoleros falangistas, bien por miembros del Tercio de Requetés carlista de Madrid. Tras su entierro, un grupo de sus amigos y simpatizantes se reunió en el Cuartel de Pontejos, entre ellos varios policías de la Guardia de Asalto, militantes socialistas, guardias civiles y muchos miembros de «La Motorizada», un grupo paramilitar socialista controlado por el Frente Popular y formado por policías socialistas. Muchos de este grupo clamaban venganza por su asesinato, y se enviaron varios camiones en busca de falangistas conocidos. Uno de dichos camiones, conducido por el capitán de la Guardia Civil Fernando Condés, no pudo encontrar a ningún falangista, por lo que decidieron vengarse de los líderes de la oposición parlamentaria. Antonio Goicoechea, líder de Renovación Española, no se encontraba en su casa, y Gil Robles, líder de la CEDA, estaba de vacaciones. A primera hora de esta mañana, al encontrarse cerca de la casa de Calvo Sotelo, líder de la oposición parlamentaria monárquica, el grupo entró en su piso y detuvo a Calvo Sotelo, que protestó invocando su inmunidad parlamentaria, pero fue tranquilizado por Condés, que se identificó como miembro de la Guardia Civil. Después de prometer a su familia que los llamaría en cuanto llegara a donde lo llevaran «a menos que estos señores me lleven para pegarme un tiro», subió al camión y se lo llevaron. Han encontrado su cuerpo esta mañana junto a un cementerio, con dos disparos y tirado en el suelo, sobre un charco de sangre."
+ Spain_Politics.4.A: "Ésto es la guerra."
+ 
+ Spain_Politics.x.t: "Niceto"
+ Spain_Politics.x.d: "WIP"
+ Spain_Politics.x.A: ""
+ 
+### Spanish Post War Events
+ SPR_Post_War.1.t: "Ocupación de la Zona Internacional de Tánger"
+ SPR_Post_War.1.d: ""
+ SPR_Post_War.1.A: "Adelante."
+ 
+###  Spanish 1936 Start Date Events
+ Spain.101.t: "La II República"
+ Spain.101.d: "Sólo dos años antes, el rey Alfonso XIII había sido destituido y exiliado definitivamente, se había proclamado una nueva república y se había introducido una nueva Constitución. Las clases bajas y la burguesía moderada vislumbraban una nueva era de prosperidad y reformas, pero la oposición era inminente. El Gobierno provisional de Niceto Alcalá-Zamora fue reemplazado en octubre de 1931 por uno encabezado por el reformista liberal Manuel Azaña, que había previsto grandes reformas para un país que cojeaba con respecto a sus homólogos europeos. Se concedió el sufragio universal a mujeres y hombres, se legalizó el divorcio, se abrieron 10 000 colegios, se prohibió a las órdenes religiosas impartir clases, se expropiaron tierras, etc. Sin embargo, en sus inicios la joven república se topó con sus primeros obstáculos: la mayoría de los partidos de derechas, profundamente católicos, estaban indignados con las reformas, acusando al Estado de querer destruir la Iglesia católica, y con el Estatuto de Autonomía de Cataluña, la integridad de la propia España. Con las reformas del Ejército, que prevén la modernización del Ejército reduciendo su tamaño y el excesivo núcleo de oficiales, la República se ha granjeado otro enemigo. En agosto de 1932, el general Sanjurjo dio un golpe de Estado mal organizado y débil. La inestabilidad se agrava con la recesión económica de la Gran Depresión, de la que España no estuvo exenta. Todo junto, ya desde el principio de su existencia la II República ha estado plagada de inestabilidad social y económica, un odio feroz entre ricos y pobres, reformistas y tradicionalistas, católicos y anticlericalistas. El futuro sigue siendo incierto y negros nubarrones han empezado a cernirse sobre España, ¿qué pasará ahora?"
+ Spain.101.A: "República, siempre república."
+ 
+ Spain.102.t: "Azaña dimite"
+ Spain.102.d: "En este preciso instante, nos enfrentamos a una creciente presión desde todos los lados del espectro político. Partidos de izquierdas y derechas han condenado nuestras supuestas «políticas inadecuadas y desidia en la elaboración de políticas», y ya se han esforzado por utilizar a la opinión pública como arma política en su lucha. Nuestro liderazgo está ahora en crisis y la ciudadanía está llevando nuestra legitimidad a las calles, con estallidos de violencia en las principales ciudades y concentraciones que se convierten en una imagen frecuente en las Cortes, el parlamento de la nación. Y lo que es peor, una moción de censura contra nuestros dirigentes está amenazada gracias a las ineptitudes de nuestro presidente. Quizá sea mejor que lo presionemos para que envíe su carta de dimisión; así, al final al menos tendremos un problema menos del que preocuparnos. Ahora bien, esperemos que tomemos la decisión correcta desde el principio..."
+ Spain.102.A: "Anticipa los resultados."
+ 
+ Spain.103.t: "Elecciones generales de 1933"
+ Spain.103.d: "Debido a la intempestiva dimisión de nuestro presidente, hemos declarado la disolución del Parlamento, convocando nuevas elecciones que serán esenciales para decidir el destino de nuestra joven república. La izquierda y la derecha ya han adoptado todas las medidas a su alcance para coaccionar a nuestros ciudadanos para que voten a sus respectivos bloques. Al final, fue la coalición formada por la Confederación Española de Derechas Autónomas (CEDA) y el Partido Republicano Radical (PRR) la única vencedora en las elecciones generales. Esta coalición es considerada por muchos como una coalición de derechas, ya que sigue políticas conservadoras y aboga por una sociedad de base católica. La izquierda condena esta victoria, ya que afirman que empoderará a la élite establecida y oprimirá a las minorías y a los obreros de la sociedad. Aunque hoy sea una victoria, podría tener graves consecuencias más adelante."
+ Spain.103.A: "Victoria para la derecha."
+ 
+ Spain.104.t: "Los izquierdistas abandonan el Gobierno"
+ Spain.104.d: "En un aparente acto de protesta contra el nuevo Gobierno, el bloque de izquierdas lo ha abandonado, aduciendo su oposición a la nueva coalición de partidos de derechas y centroderecha. Afirman que pretenden propiciar un statu quo reforzado basado en la opresión y las políticas reaccionarias, y piden a todos los ciudadanos preocupados que se pronuncien en contra del nuevo Gobierno. Si bien ésto permite una aprobación más fácil de la legislación, que los izquierdistas no sólo hayan abandonado el Gobierno, sino que pidan la condena de nuestro régimen, difunde una sensación de confianza endeble en nuestro Gobierno y puede servir de precedente para disturbios civiles en un futuro próximo."
+ Spain.104.A: "¡Al menos hemos asustado a los bastardos!"
+ 
+ Spain.105.t: "¡Huelgas revolucionarias!"
+ Spain.105.d: "Meses después de que los izquierdistas abandonasen el Gobierno, nuestros compañeros trabajadores han declarado huelgas en toda la República, ya que están convencidos de la retórica izquierdista del Gobierno actual y la utilizan para ejercer presión sobre él. Estas llamadas «huelgas revolucionarias» han pasado factura a nuestra economía, que ya se está deteriorando gracias a la depresión económica y las revueltas políticas. Por tanto, es imperativo que nos encarguemos inmediatamente de estas huelgas, independientemente de lo polémicos que sean tales métodos, pues ellos mismos se lo han buscado..."
+ Spain.105.A: "¡Castigar a estos traidores!"
+ 
+ Spain.106.t: "Huelga organizada del carbón en Asturias"
+ Spain.106.d: "[FROM.GetNewsIcon]Con las huelgas revolucionarias en niveles manejables, pensamos que habíamos visto lo último de estos descontentos socialistas. Estábamos muy equivocados, como nos demostró la región autónoma de Asturias. Asturias alberga uno de los yacimientos de carbón más importantes de la península y, gracias a este papel, tiene una gran importancia económica. Los socialistas eran plenamente conscientes de su importancia y han coaccionado e influido en los mineros de la región para que organicen una huelga regional del carbón. Estas huelgas, sin embargo, fueron violentas, ya que se produjeron enfrentamientos sin precedentes entre el Gobierno local y los huelguistas, lo que nos obligó a enviar al Ejército para sofocarla. Aunque la sofocamos con éxito y los huelguistas volvieron al trabajo, aunque por la fuerza, que esa huelga se convirtiera en un enfrentamiento ha demostrado hasta qué punto está atrincherada la amenaza socialista, y es de gran importancia que el Ejército aplaque esta crisis lo antes posible."
+ Spain.106.A: "¡Castigar a estos traidores!"
+ 
+ Spain.107.t: "Escándalo del estraperlo"
+ Spain.107.d: "Una de las muchas fallas de nuestra joven república es la corrupción desenfrenada que aquí ha arraigado, como demuestra el escándalo del estraperlo. Varios funcionarios de Gobierno, incluido el presidente del Gobierno, Alejandro Lerroux, fueron implicados por supuestos sobornos y tráfico de influencias a su sobrino a cambio de legalizar cierta versión de la ruleta. Para el ciudadano de a pie, ésto demuestra que la corrupción en el Gobierno puede llevarse ante la justicia y que nadie está por encima de la ley. Sin embargo, dado que Lerroux era el líder del Partido Republicano Radical, uno de los partidos de la coalición, no es sorprendente que la coalición se desplomase en un instante, y ésto deja el sistema político debilitado e incapaz de reprimir a los socialistas, cada vez más numerosos."
+ Spain.107.A: "¡El corrupto debe marcharse!"
+ 
+ Spain.108.t: "Divisiones en la derecha"
+ Spain.108.d: "Desde el escándalo del estraperlo, la división y la polarización en las facciones de derechas de nuestro Gobierno son frecuentes, con varias facciones que apoyan a un bando por encima del otro. Estas riñas políticas provocan un estancamiento de la política, algo que debemos evitar, dado que nuestra nación está al borde de una guerra civil. Por ello, las distintas facciones de derechas del Gobierno han llegado a un acuerdo: nombrarán presidente del Gobierno de España a Manuel Portela Valladares, dada su buena reputación en el escenario político. Se espera que ésto aporte cierta estabilidad a la política y permita a nuestro Gobierno avanzar en el tratamiento de temas polémicos, como la posible guerra civil que se avecina."
+ Spain.108.A: "El viejo Chapaprieta ha tenido bastante."
+ 
+ Spain.201.t: "La cuestión de la reforma agraria"
+ Spain.201.d: ""
+ Spain.201.A: "¡Son políticas comunistas! ¡Revocarlas!"
+ Spain.201.B: "¡Necesitamos un consenso!"
+ 
+ Spain.202.t: "Jornada laboral de ocho horas"
+ Spain.202.d: ""
+ Spain.202.A: "¡Los sindicatos están esclavizando nuestra economía!"
+ Spain.202.B: "¡Necesitamos políticas modernas!"
+ 
+ Spain.203.t: "La Iglesia y la República"
+ Spain.203.d: ""
+ Spain.203.A: "¡Es hora de poner a Cristo ante estos ateos!"
+ Spain.203.B: "Busquemos una separación racional entre Iglesia y Estado."
+ 
+###  Spanish 1936 Start Date Events
+ Spain.1.t: "La campaña de la CEDA"
+ Spain.1.d: ""
+ Spain.1.A: "Confiar en nuestro progreso."
+ Spain.1.B: "¡Tenemos que hacer cambios y promesas más fuertes ahora!"
+ 
+ Spain.2.t: "Presos de izquierdas liberados"
+ Spain.2.d: "Con el desafortunado aumento de la popularidad del Frente Popular en la política española, se han abierto las compuertas del poder político, dándoles una influencia indirecta sobre las políticas de nuestro Gobierno, ya que si los enfadamos, enfadamos al pueblo. Si enfadamos al pueblo, el polvorín de nuestra república estallará y envolverá la península ibérica. Ésto quedó inevitablemente patente en la detención de presos políticos, en su mayoría socialistas y comunistas. Estos izquierdistas pudieron contactar con sus socios en el Frente Popular y ahora han iniciado una manifestación a nivel nacional para que se libere a estos presos. Estos presos son el epítome viviente de lo que aborrecemos en política, pero ante la creciente presión, no tenemos más remedio que liberarlos. Es una victoria para el Frente Popular, pero una gran derrota para la ya frágil coalición que está al borde del colapso."
+ Spain.2.A: "Poco podemos hacer."
+ 
+ Spain.3.t: ""
+ Spain.3.d: ""
+ Spain.3.A: ""
+ 
+ Spain.4.t: "Cataluña explota"
+ Spain.4.d: "Con la victoria del Frente Popular en la liberación de sus camaradas, han decidido ser más ambiciosos en sus esfuerzos por presionar al Gobierno para que se someta, y ha funcionado. Hoy en Cataluña, una de las regiones más prósperas de la República, la violencia y el malestar civiles la han envuelto, siendo los disturbios y los saqueos una imagen habitual en la zona. Ésto se manifiesta inevitablemente en Barcelona, el corazón de la violencia socialista, con enfrentamientos entre las fuerzas gubernamentales y los manifestantes que aumentan en fuerza y ferocidad, teniendo la escena paralelismos con una zona de guerra. Ésto muestra al mundo y a nuestro Gobierno la verdadera magnitud de la situación a la que nos enfrentamos, y es necesario que utilicemos todas las cartas sobre la mesa, independientemente de la violencia. Al fin y al cabo, estos socialistas no han tenido piedad con nuestra mano ligera. Tal vez sea hora de usar una mano más fuerte con ellos..."
+ Spain.4.A: "¡Intentar contener a estos fanáticos!"
+ 
+ Spain.6.t: "El Ejército y los fascistas se consolidan"
+ Spain.6.d: "Con nuestra victoria contra esos reaccionarios decadentes y sus coconspiradores, hemos utilizado nuestra victoria para consolidar nuestro poder e influencia en toda la República, asegurando que su retórica no se amplifique en las calles de Madrid ni en ninguna de nuestras principales ciudades. Sin embargo, no todo va bien para nuestra revolución, pues los reaccionarios tienen un plan para contrarrestarla. Mientras lo celebrábamos, circulan numerosos informes de que los falangistas y los militares se han reunido en secreto, organizando planes y operaciones que pondrán en peligro nuestro dominio sobre España. Si bien no tenemos actas de la reunión o la lista de los miembros presentes, está claro que los militares condenan nuestra revolución y que están dando pasos para subvertir o desmantelar nuestro régimen actual."
+ Spain.6.A: "La derecha radical se organiza."
+
+ Spain.8.t: "La detención de Primo de Rivera"
+ Spain.8.d: "Como los falangistas y los militares cooperan y planean derrocar al Gobierno, han utilizado diversos medios para pertrecharse de la munición y el armamento necesarios para derrocarnos. Uno de ellos es José Antonio Primo de Rivera, uno de los principales líderes de los falangistas, que pasaba armas de fuego de contrabando a sus compañeros de partido y las distribuía, armándose para contrarrestar la resistencia que, de otro modo, podría destruir su revolución. Afortunadamente, nuestros camaradas se han enterado de esta información y han informado a las autoridades competentes para que incauten este armamento de contrabando y lo destruyan, quedándose algunos de nuestros camaradas con algunas de ellas, por supuesto. Sin embargo, por el hecho de que tengan armamento de contrabando y experiencia, debemos suponer que ésta no es la única red de contrabando y que los falangistas pueden estar ya bien armados mientras hablamos."
+ Spain.8.A: "Es demasiado peligroso."
+ 
+ Spain.10.t: "Manifestaciones del Primero de Mayo"
+ Spain.10.d: "El Primero de Mayo es considerado por muchos como el Día Internacional de los Trabajadores, el día en que nuestra lucha por la representación y los derechos de los obreros se hace plenamente realidad, el día en que la voz de los trabajadores puede por fin oírse alta y clara entre quienes los oprimen. Sin embargo, esta celebración del Día del Trabajo no ha sido normal, ya que nuestros camaradas han llevado sus luchas no sólo a las calles, sino con piedras y tuberías rotas. Los manifestantes se enfrentaban a otros manifestantes, concretamente de la Falange, que estaban allí para protestar contra las políticas de nuestro Gobierno y las bobadas más radicales. Sin embargo, los falangistas venían preparados, y opusieron una firme resistencia contra tanto los protestantes como las fuerzas gubernamentales, que duró todo el día, hasta que ellos mismos se cansaron y se fueron. Este enfrentamiento es un recordatorio de los falangistas descontentos que hay entre nosotros y de cómo una protesta pacífica puede convertirse en un motín sangriento en un instante."
+ Spain.10.A: "¡España está en peligro!"
+ 
+ Spain.12.t: "Mola organiza a los generales"
+ Spain.12.d: "Circulan informes no confirmados en nuestra cúpula de que Emilio Mola, una de las principales figuras militares implicadas en el complot, ha organizado a nuestra cúpula militar hace poco en una reunión en un lugar desconocido. Según nuestras fuentes, esta reunión fue extensa, y supuestamente fue una estratagema utilizada por los falangistas para reclutar a miembros de nuestro Ejército para su causa. Este acto de los nacionalistas no es sólo un atentado contra nuestro Gobierno, sino una traición absoluta, ya que están derrocando a nuestro Gobierno. Por ende, utilizaremos los recursos de que disponemos para contener o incluso detener todos los actos de rebelión e insurgencia en nuestra república."
+ Spain.12.A: "Los oficiales actúan de forma extraña." 
+ 
+ Spain.14.t: "¡La muerte de José Castillo!"
+ Spain.14.d: "José Castillo, teniente de la Guardia de Asalto, el brazo paramilitar urbano de la Guardia Civil, fue asesinado hoy por individuos desconocidos. Aunque sería como cualquier otro día en España, cabe destacar un detalle: su orientación política. Aunque Castillo era miembro de la Guardia Civil, de naturaleza conservadora, también era miembro de la UMRA, una organización antifascista de la que él mismo era formador. Esta organización es la responsable de radicalizar a nuestros jóvenes para que se conviertan en socialistas y los están formando como milicias ciudadanas. Por tanto, podemos especular que los asesinos fueron falangistas. Sin embargo, este asesinato no sentará bien a los socialistas, y debemos esperar que tomen represalias contra este acto."
+ Spain.14.A: "¡Carajo! ¡La izquierda está furiosa!"
+ 
+ Spain.16.t: "¡La muerte de José Calvo Sotelo!"
+ Spain.16.d: "En represalia por la muerte de José Castillo, los socialistas han asesinado a un destacado falangista, José Calvo Sotelo. La retórica de Sotelo, una de las personalidades de la derecha radical más destacadas, era más radical y coactiva que la del resto de sus compañeros, por lo que los socialistas lo han considerado una amenaza para su lucha revolucionaria y lo han asesinado en represalia por la muerte de uno de los suyos. Sin embargo, puede que la muerte de Sotelo no haya conseguido sino garantizar el conflicto en la península ibérica, ya que los falangistas no están tomando bien su muerte, y el golpe militar organizado por Emilio Mola puede haberse acelerado a raíz de su muerte. Ahora es cuestión de tiempo que los fuegos de la guerra ardan en Madrid..."
+ Spain.16.A: "¡Carajo! ¡La derecha está furiosa!"
+ 
+###  Spanish Civil War Events
+ Spain_CW.0.t: "El Ejército español se rebela, España se sume en la guerra civil"
+ Spain_CW.0.d: "[FROM.GetNewsIcon]Llegan noticias lúgubres de la península ibérica.\n\nEl general Emilio Mola, principal organizador y comandante de las Fuerzas Armadas de la República Española, y el general José Sanjurjo, en calidad de líder simbólico, han anunciado hoy un alzamiento abierto contra el impopular Gobierno republicano. Numerosas organizaciones conservadoras, como la CEDA, los monárquicos, entre los que se incluyen los alfonsistas rivales y los religiosos conservadores carlistas, así como la fascista Falange Española de las JONS, han apoyado el movimiento nacionalista.\n\nLa reducción de la financiación del Ejército, que le hacía estar cada vez más descontento con el Gobierno, fue la raíz de este levantamiento. En Pamplona, Burgos, Zaragoza, Valladolid, Cádiz, Córdoba, Sevilla y el Marruecos español han surgido formaciones militares de apoyo al golpe.\n\nAunque este resultado no es inesperado dado lo visible que ha llegado a ser el malestar político."
+ Spain_CW.0.A: "¡No pasarán!"
+ Spain_CW.0.B: "¡Arriba España!"
+ Spain_CW.0.C: "Predecible..."
+
+ Spain_CW.1.t: "Guerra civil española"
+ Spain_CW.1.d: "Desde la victoria del Frente Popular en las elecciones, se ha estado fraguando una conspiración militar para derrocar al Gobierno. Con miras a «restablecer el orden en la nación y recuperar el prestigio internacional de España», un grupo de generales está intentando ejecutar un «golpe de fuerza» para poner al general Sanjurjo, actualmente exiliado, al mando. Desde abril, el general Mola ha estado dirigiendo a los conspiradores bajo el nombre en clave de «el Director». Ha diseñado un golpe que, con extrema velocidad y violencia, derrocará inmediatamente al Gobierno. La ejecución de José Calvo Sotelo, líder de la oposición, la mañana del 13 de julio ha hecho que los carlistas y la CEDA se alineen con la conspiración, así como varios generales escépticos, incluido el exlíder del alto mando, el general Franco. Ésto motivó a Mola a elegir el 18 de julio como el día del alzamiento. La mañana del 17 en Melilla, los oficiales insurrectos locales se reunieron con los líderes falangistas para planificar el siguiente día. Uno de los falangistas informó al líder local de Unión Republicana, que informó al general Romerales, que, por su parte, informó a Casares Quiroga, miembro del Frente Popular. Romerales envió entonces un destacamento para detener a los oficiales rebeldes, pero el líder del destacamento informó a la Legión, que envió una patrulla para detener al destacamento y detener al general Romerales, que fue entonces ejecutado junto a otras autoridades locales. Se declaró el estado de guerra y comenzó el alzamiento, después de informar al resto del Ejército Marroquí de que los habían descubierto. En los últimos tres días, el alzamiento se ha extendido por todo el país, y la mayoría de nuestro Ejército ha tomado las armas contra nosotros, ocupando gran parte de nuestro territorio. Aunque no han conseguido hacerse con el control de la capital y las grandes ciudades, en estos momentos están iniciando la marcha en lo que ellos llaman la nueva «Reconquista» hacia las ciudades que nos quedan e intentando liberar a sus compañeros, que resisten fuertes asedios por todo el país, como en Oviedo o Toledo."
+ Spain_CW.1.A: "¡Patria, pan y justicia! (Jugar como los nacionales)" 
+ Spain_CW.1.B: "¡No pasarán! (Jugar como los republicanos)"
+ nationalists_chosen: "Apoyar a los republicanos" 
+ republicans_chosen: "Apoyar a los nacionales" 
+ 
+ Spain_CW.2.t: "Los peones empiezan a moverse"
+ Spain_CW.2.d: ""
+ Spain_CW.2.A: "¡Muerte a la escoria comunista!"
+ 
+ Spain_CW.3.t: "Los peones empiezan a moverse"
+ Spain_CW.3.d: ""
+ Spain_CW.3.A: "¡Muerte a los traidores fascistas!"
+ 
+ Spain_CW.4.t: "El golpe es un fracaso"
+ Spain_CW.4.d: ""
+ Spain_CW.4.A: "Bueno, ahora a la guerra."
+
+ Spain_CW.5.t: "La República sobrevive"
+ Spain_CW.5.d: ""
+ Spain_CW.5.A: "¡Ahora a defender Madrid!"
+
+ SPR_Politics.1.t: "José Giral se convierte en el nuevo primer ministro"
+ SPR_Politics.1.d: ""
+ SPR_Politics.1.A: "Nuevo liderazgo para la guerra"
+ 
+ SPR_Politics.2.t: "Los sindicatos se militarizan"
+ SPR_Politics.2.d: ""
+ SPR_Politics.2.A: "Los obreros se unen a la lucha"
+ 
+ SPR_Politics.3.t: "Comités socialistas locales"
+ SPR_Politics.3.d: ""
+ SPR_Politics.3.A: "De un golpe a una revolución"
+ 
+ SPR_Politics.4.t: "Cataluña vuelve a estallar"
+ SPR_Politics.4.d: ""
+ SPR_Politics.4.A: "La ciudad es un caos."
+ 
+ SPR_Politics.5.t: "La CNT-FAI domina Cataluña"
+ SPR_Politics.5.d: ""
+ SPR_Politics.5.A: "La revolución ha desatado a muchos radicales."
+ 
+ SPR_Politics.6.t: "Colectivización de Cataluña"
+ SPR_Politics.6.d: ""
+ SPR_Politics.6.A: "Colectivización masiva..."
+ 
+###  Republican Civil War Decision Events
+ SPR_ENG_volunteers_1: "Se formarán dos Brigadas Internacionales en Madrid."
+ SPR_ENG_volunteers_2: "Se formará una Brigada Internacional en Madrid."
+ SPR_ENG_volunteers_1: "Se formará una Brigada Internacional en Madrid."
+ SPR_ENG_volunteers_2: "Se formará una segunda Brigada Internacional en Madrid."
+ SPR_USA_volunteers: "Se formará una Brigada Internacional en Madrid."
+
+ SPR_CW.1.t: "¿Apoyo estadounidense o soviético?"
+ SPR_CW.1.d: ""
+ SPR_CW.1.A: "Solicitar ayuda a los estadounidenses."
+ SPR_CW.1.B: "Dirigirse a los soviéticos."
+
+ SPR_CW.2.t: "Las Brigadas Internacionales parten"
+ SPR_CW.2.d: ""
+ SPR_CW.2.A: "Que los radicales se vayan de América."
+
+ SPR_CW.3.t: "Más armas para España"
+ SPR_CW.3.d: "El único problema de la Operación X es el transporte de armas a España. La mayoría de nuestros suministros no llegan o llegan con fuerzas insuficientes. Para evitar que los detecten los nacionales, los capitanes soviéticos usan banderas falsas. La mayoría de las armas suministradas a España son de mediados y finales del siglo XIX; sin embargo, el alto mando soviético ha exigido que utilicemos armas de la guerra civil rusa o mejores.  En otro orden de cosas, los tanques han demostrado ser sumamente eficaces en la Guerra Civil, lo que ha llevado a los españoles a buscar 200 más.\n\nEn lugar de los 202,4 millones de rublos prometidos, los republicanos han cambiado su método de pago. Ahora nos van a compensar con sus reservas de oro, de las que hemos recibido 510 toneladas. Tras los artículos de prensa de Mijaíl Koltsov, la guerra civil española ha ganado mucha atención entre el pueblo soviético."
+ SPR_CW.3.A: "¡Ayudar a nuestros camaradas socialistas!"
+
+ SPR_CW.4.t: "Armas para España"
+ SPR_CW.4.d: "Desde que Napoleón destrozó el país a principios del siglo XIX, España ha estado de capa caída. Este estado constante de agitación y desasosiego ha dejado al Ejército español hecho un desastre, lo que lo obliga a ponerse constantemente al día en cuanto a armamento avanzado y moderno. Aunque los fascistas afirman ser neutrales, está claro que están armados y ofreciendo voluntariamente a sus títeres. Si les dejamos continuar sin responder de la misma manera, sólo será cuestión de tiempo que los nacionales se apoderen de España y aseguren Europa Occidental para el fascismo. Si bien las «potencias neutrales» han establecido un bloqueo para impedir que lleguen armas del exterior, a ver qué hacen para detenernos. España tendrá armas para igualar lo que tengan los fascistas."
+ SPR_CW.4.A: "¡Apoyar la lucha contra el fascismo!"
+
+ SPR_CW.5.t: "¿Armas pesadas para España?"
+ SPR_CW.5.d: "Ha estallado la guerra civil española, y la pregunta de si deberíamos ayudar a los republicanos españoles sigue sin respuesta. Ya firmamos el Pacto de No Intervención con el resto de naciones occidentales, boicoteando completamente a España, lo que significa que el envío de ayuda sería sumamente polémico. Los países occidentales ya están aterrados por la expansión del comunismo. Siguiendo el procedimiento de doce puntos del Politburó, conocido comúnmente como Plan ""«X», el pueblo está del lado de los republicanos españoles, con hasta 120 000 personas manifestándose sólo en Moscú para mostrar su apoyo. ¿Podríamos ayudar en secreto a los republicanos?"
+ SPR_CW.5.A: "¡Bombardear hoy a los reaccionarios!"
+
+ SPR_CW.6.t: "Liderazgo militar en España"
+ SPR_CW.6.d: "A medida que avanza la guerra civil en España, una cosa ha quedado meridianamente clara. ¡Los republicanos no saben liderar! Mientras los nacionales se ensañan con sus líneas, los republicanos se han fragmentado y es más probable que se disparen entre ellos que al enemigo. Debemos tomar el control si queremos salvar a España para el proletariado y salvar a España de sí misma. Como condición para nuestro apoyo continuado, exigiremos que se coloque a oficiales y asesores soviéticos en puestos clave a lo largo de la cadena de mando. Sin enzarzarnos en el faccionalismo desenfrenado que aflige a Madrid, estos nuevos oficiales podrán concentrarse en la lucha contra nuestros adversarios."
+ SPR_CW.6.A: "¡Enséñenles a mandar a la clase obrera!"
+
+ SPR_CW.7.t: "Doctrina política en España"
+ SPR_CW.7.d: "La República, como el reino que depuso, es inestable. Los sindicalistas, los demócratas, los anarquistas y los comunistas apenas se llevan bien. Están constantemente conspirando los unos contra los otros mientras los resortes del poder cambian de manos a diario. Si una persona consigue aunque sea un poco más de poder que la otra, inmediatamente empieza a alardear de ello, y el péndulo comienza a oscilar en dirección opuesta. En este ambiente despiadado, apenas se gobierna.\n\nDe hecho, las constantes traiciones, puñaladas traperas y tensiones entre partidos son tan tóxicas que nuestros agentes gubernamentales tienen conocimiento de al menos 13 complots para derrocar al Gobierno actual, algunos de gran envergadura y la mayoría de menor importancia. ¡Los anarquistas declaran abiertamente su intención de rebelarse! Es evidente que los españoles no pueden gobernarse a sí mismos. Para garantizar la estricta unidad marxista-leninista, introduciremos a nuestros propios operativos políticos en el sistema. Algunos temen que ésto polarice aún más a los republicanos y suscite una revuelta democrática, pero, si intentan algo, simplemente nos libraremos de ellos también."
+ SPR_CW.7.A: "¡Asumamos el control político de España!"
+
+ SPR_CW.8.t: "¿Ley de voluntarios?"
+ SPR_CW.8.d: ""
+ SPR_CW.8.A: "Deberíamos apoyar a los movimientos democráticos de Europa."
+ SPR_CW.8.B: "¡Son activistas soviéticos!"
+
+ SPR_CW.9.t: "Voluntarios parten en tropel hacia España"
+ SPR_CW.9.d: ""
+ SPR_CW.9.A: "Que los extremistas mueran en España."
+
+ SPR_CW.10.t: "Las Brigadas Internacionales mexicanas"
+ SPR_CW.10.d: ""
+ SPR_CW.10.A: "¡Apoyar la lucha contra el fascismo!"
+
+ SPR_CW.11.t: "La lucha ideológica se expande"
+ SPR_CW.11.d: ""
+ SPR_CW.11.A: "¡No pasarán!"
+
+######################################################################
+#  Republican Spain Focuses
+######################################################################
+ SPR_1933_CEDA_Victory: "Victoria de la CEDA"
+ SPR_1933_CEDA_Victory_desc: "¡Después de las radicales y desastrosas medidas de la asesina izquierda, se ha formado por fin un nuevo Gobierno! ¡Una alianza estratégica entre el Partido Republicano Radical de centro y la CEDA de derechas presentará por fin un buen programa!"
+
+ SPR_Unite_Spanish_Conservatives: "Unir a los conservadores españoles"
+ SPR_Unite_Spanish_Conservatives_desc: "Los conservadores españoles están divididos entre grupos distintos con políticas específicas. La CEDA ha demostrado su habilidad de unir a las comunidades rurales y suburbanas de forma centralizada. Deberíamos ampliar nuestra influencia política sobre estos grupos."
+
+ SPR_Issue_of_Land_Reform: "La cuestión de la reforma agraria"
+ SPR_Issue_of_Land_Reform_desc: "El antiguo Gobierno republicano puso en marcha un plan muy ambicioso y radical para expropiar las tierras a los ricos propietarios y ponerlas en manos de los inexpertos y peligrosos campesinos sin tierras. Muchos conservadores y políticos de derechas se sienten muy amenazados por estos actos. Tenemos que pronunciarnos sobre la anterior reforma agraria y derogarla o llegar a un acuerdo sensato."
+
+ SPR_Form_Rural_Organizations: "Formar organizaciones rurales"
+ SPR_Form_Rural_Organizations_desc: "Muchos campesinos rurales son gente vaga, arrogante y sin tierras que se cree las mentiras de la izquierda. Esta morralla sin tierras ha incitado a la violencia contra los terratenientes y otros campesinos. Sin embargo, muchos campesinos españoles, especialmente los terratenientes del norte, son muy conservadores y ¡podemos unirlos contra estos terroristas de izquierdas!"
+
+ SPR_The_Church_and_the_Republic: "La Iglesia y la República"
+ SPR_The_Church_and_the_Republic_desc: "Durante muchos siglos, la Iglesia católica ha sido una de las instituciones más poderosas de España y sigue siendo un establecimiento influyente. Sin embargo, la nueva república ha separado la Iglesia y el Estado, y lo peor de todo es que las iglesias y los sacerdotes son perseguidos y atacados por izquierdistas radicales. Tenemos que pronunciarnos sobre la situación y tranquilizar a los ciudadanos españoles."
+
+ SPR_The_Eight_Hour_Work_Day: "Jornada laboral de 8 horas"
+ SPR_The_Eight_Hour_Work_Day_desc: "Muchos sindicatos e instituciones industriales reclaman una reforma masiva de las actuales restricciones de la jornada laboral. Una jornada laboral de ocho horas supondría un cambio significativo hacia políticas radicales y también podría disminuir la producción. Muchos en el Gobierno nos han presionado para tomar esta decisión, pero aún debemos publicar la política oficial."
+
+ SPR_The_Popular_Front: "El Frente Popular"
+ SPR_The_Popular_Front_desc: "Se ha formado el Frente Popular, y está amenazando el actual Gobierno de derechas. Los izquierdistas, liberales y republicanos se han unido para oponerse a nuestro supuesto «fascismo». Tendremos que mover más fichas para asegurar una victoria en el 36."
+
+ SPR_Embrace_Radical_Politicians: "Aceptar a los políticos radicales"
+ SPR_Embrace_Radical_Politicians_desc: "Políticos como Gil-Robles, que han realizado abiertamente proclamas fascistas, pueden ser figuras políticas importantes para ganar las elecciones de 1936. Si nos aliamos con muchos de la CEDA y mantenemos el contacto con los ultratradicionalistas, ¡podríamos cantar victoria!"
+
+ SPR_Cooperate_with_the_Army: "Cooperar con el Ejército"
+ SPR_Cooperate_with_the_Army_desc: "Ganamos el apoyo de nuestro pueblo para la guerra civil que se avecina y ahora sólo queda el Ejército. Tenemos que atraerlos a nuestro bando. Debemos presentarles nuestras visiones y convencerlos de que luchen por nosotros. Verán que España sólo puede ser una gran potencia bajo un liderazgo fascista. Triunfar aquí puede traer la gloria con la que el pueblo español lleva soñando desde hace siglos."
+
+ SPR_Popular_Front_Victory: "Victoria del Frente Popular"
+ SPR_Popular_Front_Victory_desc: "Tras una tensa carrera hasta la cima entre la CEDA y el Frente Popular, parece que la coalición de izquierdas ha obtenido el mejor de los resultados. A pesar de ganar por un escaso margen en el recuento de la población, los diputados están mayoritariamente en manos del Frente Popular por un margen de 100 escaños. Ésto dará a la izquierda un amplio margen para aprobar y ejecutar leyes, para consternación de la derecha."
+
+ SPR_Reverse_CEDA_Legislation: "Revertir la legislación de la CEDA"
+ SPR_Reverse_CEDA_Legislation_desc: "Ahora que estamos al mando, habrá que rectificar las «reformas» aprobadas por los autoritarios a medida que avancemos. Sus políticas sólo han servido para atacar y silenciar a los trabajadores justos de España, a los que intentan luchar por el pan de cada día, por mejores condiciones laborales, por un futuro mejor. Todas las leyes que persiguen a cualquier ciudadano por su creencia política deben ser derogadas, todas las leyes que han llenado los bolsillos de los especuladores deben ser destrozadas y todas las leyes que han hecho retroceder a nuestra sociedad a lo que era en la época medieval deben ser rectificadas."
+
+ SPR_Appease_the_Catalans: "Apaciguar a los catalanes"
+ SPR_Appease_the_Catalans_desc: "Los catalanes han sido decisivos para nuestra victoria en estas elecciones. Sus esfuerzos van dirigidos a luchar contra los voraces partidos de derechas, fuertemente castellanocéntricos, que pretenden destruir la centenaria cultura catalana y sustituirla por su propia versión retorcida de la cultura castellana. Por tanto, debemos mostrarles nuestra gratitud por su ayuda y, por el bien de la continuación pacífica de nuestra unión, concederles su petición de libertad de autogobierno."
+
+ SPR_The_Republican_Deal: "El acuerdo republicano"
+ SPR_The_Republican_Deal_desc: "¡Hoy decimos que no! ¡Hoy rechazamos y hoy negamos! ¿Qué es lo que aborrecemos? ¡Los ideales del radicalismo! ¡Los mismos ideales que han condenado a innumerables países a un destino peor que la muerte! Rusia, Alemania, Italia, todos han sufrido bajo la bota del radicalismo, pero no España. Oh, no, hoy no.\n\nNo nos convertiremos en otro régimen despótico, tiránico y monstruoso empeñado en destruir cualquier pretexto de libertad en el mundo occidental. Aunque ello signifique que nuestro país sufra mayores dolores, no será susceptible a la malignidad conocida como radicalismo.\n\n¡España no caerá en sus garras! ¡Ni hoy, ni mañana, ni nunca!"
+
+ SPR_An_Economic_Compromise: "Una avenencia económica"
+ SPR_An_Economic_Compromise_desc: "Para saciar a los reformistas, pero también para contrarrestar a los radicales dentro de nuestro Gobierno, hemos decidido realizar una de las cosas más inverosímiles: una avenencia. Verán, debemos satisfacer las necesidades de reforma de nuestro país, pero, al mismo tiempo, no sucumbir a las ideas del radicalismo. Con éso en mente, haremos... concesiones a los reformistas.\n\nEstas concesiones serán: un mayor salario, una jornada laboral más corta, más prestaciones para trabajadores, agricultores y artesanos por igual, así como el derecho a protestar.\n\nAunque se considerarán revolucionarias para el pueblo español, habrá quienes digan que «no es suficiente, necesitamos más cambios». Pues díganles que es la realidad, y que la realidad está separada de su mundo de fantasía."
+
+ SPR_Isolate_Radical_Leftists: "Aislar a los izquierdistas radicales"
+ SPR_Isolate_Radical_Leftists_desc: "Aunque nos hemos opuesto y siempre nos opondremos a las ideologías violentas y bárbaras del radicalismo de derechas, hay una cuestión en la que hay que aplicar lo mismo a la izquierda. Hay que profundizar en lo que desean los radicales, y entonces y sólo entonces, uno puede darse cuenta de lo que realmente quieren. La abolición de la República que tanto nos costó establecer, la destrucción de nuestra cultura, tradiciones y estilos de vida, considerándolos sólo reaccionarios. Si queremos sobrevivir, algo hay que hacer.\n\nAhora bien, está claro que no podemos matarlos, sería una barbarie, aunque se lo tendrían merecido. En su lugar, debemos hacer algo similar a una cuarentena. Si aislamos el tumor maligno, podemos estar seguros de que el problema desaparecerá por sí solo y, de este modo, nuestra República estará a salvo de cualquier otro tumor maligno."
+
+ SPR_CEDA_Reelected: "CEDA reelegida"
+ SPR_CEDA_Reelected_desc: "Nuestros líderes han conseguido llevarnos a la grandeza, nos han aportado riquezas inimaginables y nos han hecho felices. El pueblo ama a sus líderes por traer la prosperidad y puestos de empleo al país, convirtiéndonos de nuevo no sólo en el centro de atención del mundo, sino también en un centro de comercio y diplomacia."
+
+ SPR_A_New_CEDA_Is_Elected: "Una nueva CEDA es elegida"
+ SPR_A_New_CEDA_Is_Elected_desc: "Nuestros líderes actuales nos han fallado. Nos han mentido y robado y no merecen estar al mando. Como una ola, los echaremos del partido y crearemos un partido más en sintonía con los gustos de la gente para llevar a nuestro país de nuevo a la grandeza y al foco de atención en la diplomacia internacional."
+
+ SPR_Support_Privatization: "Respaldar la privatización"
+ SPR_Support_Privatization_desc: "Tenemos que apoyar a los burgueses de Madrid y Barcelona que han sufrido tanto por las políticas radicales y peligrosas de la izquierda republicana. Si somos capaces de apoyar a las industrias en desarrollo y privatizar nuevos activos públicos, podremos aumentar la productividad y mejorar nuestra confianza."
+
+ SPR_Enforce_Labor_Regulations: "Imponer regulaciones laborales"
+ SPR_Enforce_Labor_Regulations_desc: "¡Es importante poner en su sitio a los sindicatos advenedizos y radicales! La productividad y la economía de España llevan muchos años flojas y no podemos permitirnos relajar las normas para los sindicatos. ¡A aplastar su autonomía!"
+
+ SPR_Hit_back_on_Barcelona: "Devolvérsela a Barcelona"
+ SPR_Hit_back_on_Barcelona_desc: "Con nuestra victoria, Barcelona, hervidero de sentimientos socialistas y separatistas, se ha levantado en protesta contra los resultados de las supuestas elecciones "«amañadas». Estos comunistas y anarquistas desagradecidos han dejado claro su desprecio a la voluntad de la mayoría del pueblo español al rechazar su asqueroso ideal y deberíamos darles una lección a cambio.
+
+ SPR_Find_Extreme_Allies: "Buscar aliados extremos"
+ SPR_Find_Extreme_Allies_desc: "Con la CEDA en el poder, necesitamos unir a todos los patriotas españoles a nuestra causa de defender a Dios y la nación de la amenaza roja. Los falangistas y los diversos movimientos monárquicos y nacionalistas, aunque la izquierda y los republicanos los tachan de fascistas que quieren destruir nuestra nación, comparten nuestros objetivos de librar a la nación de la plaga del socialismo y, como tales, serían valiosos aliados de nuestra causa."
+
+ SPR_Draw_the_Front_Closer: "Estrechar el Frente"
+ SPR_Draw_the_Front_Closer_desc: "El Frente Popular está compuesto por varias facciones dispares de republicanos, socialdemócratas, socialistas y comunistas. Está fracturado internamente entre muchas facciones, algunas de las cuales quieren preservar la República en su estado actual y otras buscan la revolución comunista. Estas divisiones obstaculizarán en gran medida nuestros esfuerzos por detener la amenaza fascista en España y por promulgar políticas progresistas. Debemos encontrar la forma de resolver las diferencias entre nuestras diversas facciones si queremos sobrevivir."
+
+### Civil War
+ SPR_No_Parasan: "No pasarán"
+ SPR_No_Parasan_desc: "Pensaban que nuestro Gobierno era débil, que caeríamos al instante. Nuestra coalición no desfallecerá, saldremos victoriosos; ¡aplastemos sus sueños, aplastemos a estos nacionalistas de una vez por todas! ¡Para mostrárselo, fortificaremos Madrid, fortificaremos el corazón! ¡Jamás conquistarán nuestra capital, jamás cruzarán la ciudad!"
+
+ SPR_Maintain_Solidarity: "Mantener la solidaridad"
+ SPR_Maintain_Solidarity_desc: "Debemos mantener la solidaridad en el Frente. Nuestro liderazgo está fragmentado, aunque la coalición es lo único que mantiene unidos a todos estos partidos diferentes. Hay que complacer a los comunistas, pero no hay que olvidar a los miembros menos radicales de nuestra «alianza». También hay que tener en cuenta el aumento de poder de otros partidos. Este Frente es muy frágil y un simple error podría suponer su fin."
+
+ SPR_Decentralize: "¡Descentralizar!"
+ SPR_Decentralize_desc: "El poder no debe estar en manos de unos pocos, sino en manos de muchos. Los sindicatos, por ejemplo, tienen una capacidad muy limitada para decidir el futuro del país, aunque algunos dicen que son cruciales para la supervivencia de nuestra coalición. Tenemos que escuchar sus voces. Descentralizaremos."
+
+ SPR_Power_to_the_Unions: "¡Poder a los sindicatos!"
+ SPR_Power_to_the_Unions_desc: "Poder a los sindicatos, poder a los sindicatos, cantan muchos. No nos queda otra. No concederles poder pondría nuestra coalición al borde de la disolución. Aunque perderemos algunos de nuestros privilegios, los perderemos por un bien mayor, por España. ¡Poder a los sindicatos!"
+
+ SPR_Failure_in_Barcelona: "Fracaso en Barcelona"
+ SPR_Failure_in_Barcelona_desc: "¡Hemos fracasado! Los traidores anarquistas han tomado Barcelona. Se acabó. Nuestras fuerzas están agotadas, nuestro pueblo ha perdido la fe en nosotros y nuestro Frente se está descomponiendo. Hemos perdido."
+
+ SPR_Surmount_other_Unions: "Superar a los demás sindicatos"
+ SPR_Surmount_other_Unions_desc: "Hay que quitar poder a algunos sindicatos. Con el éxito de los anarquistas hemos ido perdiendo poder, lo que ha hecho que la CNT-FAI sea dominante en el país. Hemos perdido."
+
+ SPR_Crush_Anarchists: "Aplastar a los anarquistas"
+ SPR_Crush_Anarchists_desc: "Puede que los anarquistas se hayan rebelado, pero los hemos hecho retroceder y Barcelona es nuestra. ¡Estas bestias tendrán su merecido, pagarán por lo que han hecho, pagarán por debilitarnos, serán aplastadas!"
+
+ SPR_Communist_Control: "Control comunista"
+ SPR_Communist_Control_desc: "Los comunistas están empezando a apoderarse de este país. Estos radicales han subido al poder. A pesar de nuestros esfuerzos, se han hecho muy populares, provocando la caída de nuestro actual Gobierno. El futuro de España está en el aire, pero nada bueno puede salir de esta guerra civil."
+
+ SPR_Stick_to_Republic: "Quedarse con la República"
+ SPR_Stick_to_Republic_desc: "Nos quedaremos con la República. Nos ha llevado por el bien y el mal, ida y vuelta al infierno. El experimento fue un éxito. ¡La República sigue luchando, por España!"
+
+ SPR_Crush_the_Communes: "Aplastar las comunas"
+ SPR_Crush_the_Communes_desc: "Tenemos que aplastar las comunas. Su aumento de poder es preocupante. Tenemos que hacer algo para detener este aumento de popularidad. Debería detenerse a sus líderes y disolverse sus comunas. Debemos movernos rápido y en secreto o nuestro liderazgo estará en peligro. ¡Por la libertad!"
+
+ Deradicalize_Front: "Desradicalizar el Frente"
+ Deradicalize_Front_desc: "Los extremistas han cobrado protagonismo en nuestro Frente. Es una desgracia. Si la cantidad de radicales supera la de nuestros propios afiliados al partido, podríamos perder poder. Tenemos que iniciar una desradicalización o los comunistas y demás se apoderarán de nuestro Frente."
+
+ SPR_Liberal_Republic: "Una república liberal"
+ SPR_Liberal_Republic_desc: "Una república democrática y liberal es lo que necesitamos. Todo lo demás nos ha fallado. Tenemos que darle el poder al pueblo, ya que ellos son los únicos capaces de dirigir correctamente este país. Les concederemos libertades y derechos, dejándoles ser libres para hacer algo más grande. ¡Por el pueblo español!"
+
+ SPR_A_Popular_War: "Una guerra popular"
+ SPR_A_Popular_War_desc: "Ésta es la guerra del pueblo. La guerra donde el pueblo decide. Deciden quién los gobernará durante el resto del siglo XX y quizás el siglo XXI. Es una gran lucha que no debería ignorarse. ¡Debemos luchar, luchar por nuestro país, por España, por el Frente Popular!"
+
+ SPR_Regulate_Militias: "Regular las milicias"
+ SPR_Regulate_Militias_desc: "No todo el mundo puede luchar. Nuestras milicias se han convertido en una fuerza diversa y desorganizada. ¡Basta! ¡Tenemos que recomponerlas, debemos reclutar sólo a los mejores! ¡Muerte a los nacionales!"
+
+ SPR_Organized_Force: "Fuerzas organizadas"
+ SPR_Organized_Force_desc: "Estamos haciendo los cambios finales. Las milicias han pasado de ser una fuerza débil a una fuerza poderosa que infunde miedo. Nuestras grandes ofensivas comenzarán, ¡Franco y su grupo serán derrotados!"
+
+ SPR_Arm_The_Workers: "¡Armar a los trabajadores!"
+ SPR_Arm_The_Workers_desc: "¡Armaremos a los trabajadores! Mostraremos a todos el poder de la clase obrera y derrotaremos a los nacionales de un solo empujón. ¡Todos los leales a nuestro Frente se unirán y lucharán contra el enemigo!"
+
+ SPR_Mobilized_Workplaces: "Lugares de trabajo movilizados"
+ SPR_Mobilized_Workplaces_desc: "Todo el mundo debe estar preparado para la guerra. Cualquier soldado puede cambiar las tornas de esta guerra. Tenemos que movilizar los centros de trabajo, tenemos que estar preparados, para que cuando vengan los nacionales, sean destruidos y supliquen nuestra misericordia, pero no la obtendrán."
+
+ SPR_Fight_Against_Fascism: "Lucha contra el fascismo"
+ SPR_Fight_Against_Fascism_desc: "Nuestra gran lucha contra esta horrible ideología ha comenzado. Esta enfermedad se ha estado propagando por Europa como la gripe de 1918. Debemos acabar con estos nacionalistas antes de que se hagan demasiado poderosos; ¡no debemos dejar que esta ideología crezca en adeptos!"
+
+ SPR_Smash_The_Church: "Aplastar a la Iglesia"
+ SPR_Smash_The_Church_desc: "Debemos aplastar a la Iglesia. La influencia que tiene en nuestro país es inmensa. Ésto nos deja sólo una opción: para que nuestros sueños se cumplan, la Iglesia debe ser restringida de cualquiera de nuestros asuntos. Aunque ésto pueda ser impopular entre la parte más devota de la población, es un paso necesario para una España más grande."
+
+######################################################################
+#  Republican Spain Decisions
+######################################################################
+ #### Pre-War Spain ####
+ SPR_politics_of_the_right_category: "Política de derechas"
+ SPR_politics_of_the_right_category_desc: "La CEDA ha tomado por fin el poder en nuestro país, y ha llegado el momento de volver a ser una nación propiamente conservadora y católica."
+ SPR_issue_of_land_reform_decision: "La cuestión de la reforma agraria"
+ SPR_issue_of_land_reform_decision_desc: ""
+ SPR_eight_hour_workday_decision: "Jornada laboral de ocho horas"
+ SPR_eight_hour_workday_decision_desc: ""
+ SPR_church_and_the_republic_decision: "La Iglesia y la República"
+ SPR_church_and_the_republic_decision_desc: ""
+
+ #### Republican Spain Civil War ####
+ SPR_foreign_support_category: "Apoyo internacional republicano"
+ SPR_foreign_support_category_desc: ""
+ SPR_international_support: "Solicitar apoyo de las grandes potencias"
+ SPR_international_support_desc: ""
+ SPR_influence_british_legislation: "Influir en la legislación británica"
+ SPR_influence_british_legislation_desc: ""
+ SPR_illegal_british_volunteers: "Atraer voluntarios británicos ilegales"
+ SPR_illegal_british_volunteers_desc: ""
+ SPR_mexican_brigades: "Las brigadas mexicanas"
+ SPR_mexican_brigades_desc: ""
+ SPR_second_mexican_brigades: "Las segundas brigadas mexicanas"
+ SPR_second_mexican_brigades_desc: ""
+ SPR_request_soviet_shipments: "Solicitar cargamentos soviéticos"
+ SPR_request_soviet_shipments_desc: ""
+ SPR_request_heavy_weapons_shipments: "Solicitar cargamentos pesados"
+ SPR_request_heavy_weapons_shipments_desc: ""
+ SPR_soviet_miliary_command: "Mando militar soviético"
+ SPR_soviet_miliary_command_desc: ""
+ SPR_soviet_political_support: "Apoyo político soviético"
+ SPR_soviet_political_support_desc: ""
+ SPR_defense_of_madrid: "La defensa de Madrid"
+ SPR_defense_of_madrid_desc: ""
+ SPR_madrid_fort_1: "Construir barricadas"
+ SPR_madrid_fort_1_desc: ""
+ SPR_madrid_fort_2: "Construir defensas adicionales"
+ SPR_madrid_fort_2_desc: ""
+ SPR_madrid_fort_3: "Fortificar las manzanas"
+ SPR_madrid_fort_3_desc: ""
+ SPR_mobilize_unions_decision: "Movilizar los sindicatos"
+ SPR_mobilize_unions_decision_desc: ""
+ SPR_International_Support: "Solicitar apoyo internacional"
+ SPR_International_Support_desc: ""
+
+ SPR_intervene_civil_war: "Intervención en la guerra civil española"
+ SPR_intervene_civil_war_desc: "Podemos intervenir en nuestro bando preferido de la guerra civil española si así lo deseamos."
+
+ SPR_help_republicans: "Enviar ayuda al bando republicano"
+ SPR_help_republicans_desc: ""
+
+ SPR_help_nationalists: "Enviar ayuda al bando nacional"
+ SPR_help_nationalists_desc: ""
+
+ SPR_International_Support_2: "Apoyo internacional"
+
+ #### Republican Spain Post-War ####
+ SPR_liberal_welfare_decisions_category: "Ley de Bienestar"
+ SPR_liberal_welfare_decisions_category_desc: ""
+ SPR_attracting_investors_decisions_category: "Inversores externos"
+ SPR_attracting_investors_decisions_category_desc: ""
+ SPR_agrarian_fund_decision: "Fondo agrario"
+ SPR_agrarian_fund_decision_desc: ""
+ SPR_war_rations_decision: "Raciones de guerra"
+ SPR_war_rations_decision_desc: ""
+ SPR_modern_labor_laws_decision: "Leyes laborales modernas"
+ SPR_modern_labor_laws_decision_desc: ""
+ SPR_standardized_legislation_decision: "Legislación estandarizada"
+ SPR_standardized_legislation_decision_desc: ""
+ SPR_increase_ties_with_investors_1: "Aumentar los lazos con los inversores I"
+ SPR_increase_ties_with_investors_1_desc: ""
+ SPR_increase_ties_with_investors_2: "Aumentar los lazos con los inversores II"
+ SPR_increase_ties_with_investors_2_desc: ""
+ SPR_increase_ties_with_investors_3: "Aumentar los lazos con los inversores III"
+ SPR_increase_ties_with_investors_3_desc: ""
+ SPR_increase_ties_with_investors_4: "Aumentar los lazos con los inversores IV"
+ SPR_increase_ties_with_investors_4_desc: ""
+######################################################################
+#  Republican Spain Ideas
+######################################################################
+ #ideas
+ SPR_disgruntled_military_1: "Ejército contrariado"
+ SPR_disgruntled_military_2: "Ejército contrariado"
+ SPR_disgruntled_military_3: "Ejército contrariado"
+
+ SPR_Combat_la_Espana_Vacia_1: "Combatir la España vacía"
+ SPR_Combat_la_Espana_Vacia_2: "Combatir la España vacía"
+ SPR_Combat_la_Espana_Vacia_3: "Combatir la España vacía"
+
+ SPR_Industrial_Protectionism: "Proteccionismo industrial"
+
+ SPR_social_unrest: "Malestar social"
+
+ SPR_the_agrarian_reform: "La reforma agraria"
+
+ SPR_anarchist_violence: "Violencia anarquista"
+
+ SPR_collapsing_society: "Sociedad en colapso"
+ ### Pre-CW Ideas ###
+ SPR_catalonia_turmoil_1: "Cataluña en ebullición"
+ SPR_catalonia_turmoil_2: "Cataluña en ebullición"
+ SPR_catalonia_turmoil_3: "Cataluña en ebullición"
+ SPR_catalonia_turmoil_4: "Cataluña en ebullición"
+ SPR_1936_popular_front: "El Frente Popular"
+ SPR_may_1st_demonstrations: "Manifestaciones del Primero de Mayo"
+ SPR_collapsing_society: "Una nación dividida"
+ SPR_collapsing_society_desc: "Somos la prueba irrefutable de que una casa dividida no puede permanecer. Con el panorama político de nuestra nación en continua polarización, la hostilidad entre compatriotas sigue creciendo. El Gobierno se enfrenta a críticas cada vez mayores a raíz de la recesión social y económica, lo que fermenta las tensiones y lleva la estabilidad a su punto más bajo. Si la división en nuestra nación no se resuelve, nos enfrentaremos a consecuencias desastrosas, llegando incluso a una guerra civil. La Segunda República se ha mantenido fuerte, pero no por mucho más."
+ SPR_upstart_army: "Ejército contrariado"
+ SPR_upstart_army_desc: "Las recientes reformas militares llevadas a cabo por la mano firme de Azaña han sacado a la luz una ineficacia profundamente arraigada en el Ejército y la Armada. A pesar de su decente eficacia, parecen haber perturbado a las habitualmente autocomplacientes Fuerzas Armadas, impulsando cambios muy necesarios, pero generando desorden sobre el caos de la actual agitación política. Un ejército descontento no gana batallas, por lo que debemos proceder con cautela si queremos defender a la nación en medio de las crecientes tensiones. El escenario global nos llama, pero aún no podemos responder."
+ SPR_economic_compromise: "Avenencia económica"
+ SPR_revolutionary_strikes: "Huelgas"
+ SPR_republican_deal: "Acuerdo republicano"
+ SPR_popular_front_formed: "Se ha formado el Frente Popular"
+ SPR_the_agrarian_reform: "La reforma agraria"
+ SPR_the_agrarian_reform_desc: "Las numerosas e impopulares reformas agrarias han agravado las ya de por sí fuertes tensiones entre la población. A pesar de los pequeños aumentos de productividad, la cuestión sigue siendo la misma: para apaciguar a un adversario político, hay que disgustar a otro. Los elementos conservadores de la Segunda República han denunciado estas reformas, afirmando que suponen una carga innecesaria para los terratenientes y, por extensión, para quienes trabajan las tierras. Dejando a un lado todo ésto, el aumento de la producción que proporcionan estas reformas resultará útil."
+ SPR_the_great_depression: "La Gran Depresión"
+ SPR_anarchist_violence: "Violencia anarquista"
+ SPR_anarchist_violence_desc: "La polaridad política de España ha asomado una vez más la cabeza en forma de disturbios y huelgas anarquistas en toda la costa este. Barcelona y Zaragoza están sumidas en el caos, al igual que otras ciudades con menor influencia anarquista. Estos hombres tratan de imponer su agenda mediante la presión violenta a empresas y oficinas gubernamentales, perturbando el flujo de trabajo más que nunca. Si esta oscura tendencia continúa, puede que nos encontremos ante un tercer oponente en las elecciones —y en la guerra— venideras. El apaciguamiento ha perdido su encanto."
+ SPR_riveras_debt: "La deuda de Primo de Rivera"
+ SPR_riveras_debt_desc: "Una nación no puede gastar un dinero que no tiene, pero ésto no impidió a Primo de Rivera invertir ingentes sumas en proyectos de infraestructura continental, inversiones que no se han recuperado. Un gasto tan enorme ha dejado a la Segunda República en graves apuros financieros. Hemos asumido las deudas de nuestros predecesores, que deben saldarse, no sea que arruinemos nuestra credibilidad entre los bancos de Europa. Continuamente se desvían fondos del gasto público para pagar nuestras obligaciones, lo que de momento frena el crecimiento económico. Parece que debemos tener más cuidado con los gastos en el futuro."
+
+ ### Republican Civil War ###
+ SPR_CNT_FAI: "Dominación de la CNT-FAI"
+ SPR_Armed_Masses_1: "Masas armadas"
+ SPR_Armed_Masses_2: "Masas armadas"
+ SPR_Armed_Masses_3: "Masas armadas"
+ SPR_Armed_Masses_4: "Masas armadas"
+ SPR_Armed_Masses_5: "Masas armadas"
+ SPR_Disorganised_Command_Structure: "Estructura de mando desorganizada"
+ SPR_Popular_Front: "El Frente Popular"
+ SPR_No_Pasaran: "¡No pasarán!"
+ SPR_Empowered_Union_1: "Sindicatos empoderados"
+ SPR_Empowered_Union_2: "Sindicatos empoderados"
+ SPR_Mobilized_Unions: "Sindicato movilizado"
+ SPR_Soviet_Military_Leadership: "Liderazgo militar soviético"
+ SPR_Soviet_Political_Leadership: "Liderazgo político soviético"
+ 
+ ### Republican Post-War ###
+ SPR_civil_war_scars: "Cicatrices de la Guerra Civil"
+ SPR_a_new_spain: "¡Una nueva España!"
+ SPR_land_reform: "Reforma agraria"
+ SPR_leading_economists: "Economistas líderes"
+ SPR_regional_autonomy: "Autonomía regional"
+ SPR_agrarian_fund: "Fondo agrario"
+ SPR_war_rations: "Raciones de guerra"
+ SPR_modern_labor_laws: "Leyes laborales modernas"
+ SPR_standardized_legislation: "Legislación estandarizada"
+ SPR_reconciliation_1: "Reconciliación"
+ SPR_reconciliation_2: "Reconciliación"
+ SPR_reconciliation_3: "Reconciliación"
+ SPR_reconciliation_4: "Reconciliación"
+ SPR_reconciliation_5: "Reconciliación"
+ SPR_peoples_militia_1: "Una milicia popular"
+ SPR_peoples_militia_2: "Una milicia popular"
+ SPR_peoples_militia_3: "Una milicia popular"
+ SPR_peoples_militia_4: "Una milicia popular"
+ SPR_peoples_militia_5: "Una milicia popular"
+ SPR_peoples_militia_6: "Una milicia popular"
+ SPR_peoples_militia_7: "Una milicia popular"
+ SPR_peoples_militia_8: "Una milicia popular"
+ SPR_peoples_militia_9: "Una milicia popular"
+ SPR_peoples_militia_10: "Una milicia popular"
+ SPR_peoples_militia_11: "Una milicia popular"
+ SPR_peoples_militia_12: "Una milicia popular"
+ SPR_peoples_militia_13: "Una milicia popular"
+ SPR_peoples_militia_14: "Ejército republicano"
+ SPR_peoples_militia_15: "Ejército republicano"
+ SPR_liberal_welfare: "Bienestar liberal"

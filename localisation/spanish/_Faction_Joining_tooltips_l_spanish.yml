@@ -1,0 +1,17 @@
+﻿l_spanish:
+ dh_faction_join_axis_neightbor_tt: "Debe estar en el mismo continente que un país del Eje"
+ dh_faction_join_axis_leader_opinion_tt: "El líder del Eje debe tener una opinión del país superior a 20"
+
+ dh_faction_join_allies_neightbor_tt: "Debe estar en el mismo continente que un país de los Aliados"
+ dh_faction_join_allies_leader_opinion_tt: "El líder de los Aliados debe tener una opinión del país superior a 20"
+
+ dh_faction_join_comintern_neightbor_tt: "Debe estar en el mismo continente que un país de la Komintern"
+ dh_faction_join_comintern_leader_opinion_tt: "El líder de la Komintern debe tener una opinión del país superior a 20"
+
+ dh_faction_join_asian_neightbor_tt: "Debe estar en el mismo continente que un país de la Esfera de Coprosperidad de la Gran Asia Oriental"
+ dh_faction_join_asian_leader_opinion_tt: "El líder de la Esfera de Coprosperidad de la Gran Asia Oriental debe tener una opinión del país superior a 20"
+
+ dh_faction_join_internationale_neightbor_tt: "Debe estar en el mismo continente que un país de la Internacional"
+ dh_faction_join_internationale_leader_opinion_tt: "El líder de la Internacional debe tener una opinión del país superior a 20"
+
+ dh_faction_join_request_tt: "Enviaremos al líder de la facción una solicitud para unirnos a ellos."

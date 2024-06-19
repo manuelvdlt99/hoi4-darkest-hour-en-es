@@ -1,0 +1,250 @@
+﻿l_spanish: 
+######################################################################
+# Manchuckuo Events
+######################################################################
+
+######################################################################
+# Manchuckuo Focuses
+######################################################################
+ MAN_Secure_Manchuria: "Asegurar Manchuria"
+ MAN_Secure_Manchuria_desc: ""
+
+ MAN_Further_Economic_Development: "Mayor desarrollo económico"
+ MAN_Further_Economic_Development_desc: ""
+
+ MAN_Manchurian_Independence_Movement: "Movimiento independentista manchú"
+ MAN_Manchurian_Independence_Movement_desc: ""
+
+ MAN_Manchukuo_Imperial_Army: "Ejército Imperial de Manchukuo"
+ MAN_Manchukuo_Imperial_Army_desc: ""
+
+ MAN_Manchukuo_Imperial_Airforce: "Fuerza Aérea Imperial de Manchukuo"
+ MAN_Manchukuo_Imperial_Airforce_desc: ""
+
+ MAN_Japanese_Political_Guidance: "Orientación política japonesa"
+ MAN_Japanese_Political_Guidance_desc: ""
+
+ MAN_Pacify_Rebels: "Pacificar a los rebeldes"
+ MAN_Pacify_Rebels_desc: ""
+
+ MAN_Legitimize_our_Rule: "Legitimar nuestro mandato"
+ MAN_Legitimize_our_Rule_desc: ""
+
+ MAN_Power_to_the_Kwantung_Army: "Poder al Ejército de Kwantung" 
+ MAN_Power_to_the_Kwantung_Army_desc: ""
+
+ MAN_An_Official_Army: "Un Ejército oficial"
+ MAN_An_Official_Army_desc: ""
+
+ MAN_Five_Races_Under_One_Union: "Cinco razas bajo una unión"
+ MAN_Five_Races_Under_One_Union_desc: ""
+
+ MAN_Equal_Opportunities_for_Minorities: "Oportunidades iguales para las minorías"
+ MAN_Equal_Opportunities_for_Minorities_desc: ""
+
+ MAN_Japanese_Leftists_in_Government: "Izquierdistas japoneses en el Gobierno"
+ MAN_Japanese_Leftists_in_Government_desc: ""
+
+ MAN_Manchurian_Economy: "Economía manchú"
+ MAN_Manchurian_Economy_desc: ""
+
+ MAN_Appoint_Nobusuke_Kishi: "Nombrar a Nobusuke Kishi"
+ MAN_Appoint_Nobusuke_Kishi_desc: ""
+
+ MAN_The_Five_Year_Plan: "El plan quinquenal"
+ MAN_The_Five_Year_Plan_desc: ""
+
+ MAN_Marshal_Private_Capital: "Poner en orden el capital privado"
+ MAN_Marshal_Private_Capital_desc: ""
+
+ MAN_Expand_Resource_Prospects: "Ampliar las prospecciones de recursos"
+ MAN_Expand_Resource_Prospects_desc: ""
+
+ MAN_Kwantung_Economic_Dominance: "Dominación económica de Kwantung" 
+ MAN_Kwantung_Economic_Dominance_desc: ""
+
+ MAN_National_Defense_State: "Estado de defensa nacional"
+ MAN_National_Defense_State_desc: ""
+
+ MAN_State_Intervention: "Intervención estatal"
+ MAN_State_Intervention_desc: ""
+
+ MAN_State_Directed_Economy: "Economía dirigida por el Estado"
+ MAN_State_Directed_Economy_desc: ""
+
+ MAN_Collective_Farming: "Granjas colectivas"
+ MAN_Collective_Farming_desc: ""
+
+ MAN_Industrial_Capabilities: "Capacidades industriales"
+ MAN_Industrial_Capabilities_desc: ""
+
+ MAN_Exploitation_of_Labour: "Explotación del trabajo" 
+ MAN_Exploitation_of_Labour_desc: ""
+
+ MAN_Build_Ships: "Construir buques"
+ MAN_Build_Ships_desc: ""
+
+ MAN_Modern_Dockyards: "Astilleros modernos"
+ MAN_Modern_Dockyards_desc: ""
+
+ MAN_Japanese_Aid: "Ayuda japonesa"
+ MAN_Japanese_Aid_desc: ""
+
+ MAN_Japanese_Military_Advisors: "Asesores militares japoneses"
+ MAN_Japanese_Military_Advisors_desc: ""
+
+ MAN_Formal_Doctrine: "Doctrina formal"
+ MAN_Formal_Doctrine_desc: ""
+
+ MAN_Officer_Training: "Formación de oficiales"
+ MAN_Officer_Training_desc: ""
+
+ MAN_Military_Cooperation: "Cooperación militar"
+ MAN_Military_Cooperation_desc: ""
+
+ MAN_Soviet_Aid: "Ayuda soviética"
+ MAN_Soviet_Aid_desc: ""
+
+ MAN_Education_for_the_Masses: "Educación par alas masas"
+ MAN_Education_for_the_Masses_desc: ""
+
+ MAN_Work_with_Chinese_Rebels: "Colaborar con los rebeldes chinos"
+ MAN_Work_with_Chinese_Rebels_desc: ""
+
+ MAN_Strenghten_Discipline: "Reforzar la disciplina"
+ MAN_Strenghten_Discipline_desc: ""
+
+ MAN_Organize_Militias: "Organizar milicias"
+ MAN_Organize_Militias_desc: ""
+
+ MAN_Peasent_Army: "Ejército campesino"
+ MAN_Peasent_Army_desc: "\nMAN_White_Russian_Expertise: Experiencia de rusos blancos"
+ MAN_White_Russian_Expertise_desc: ""
+
+ MAN_Recruit_White_Russian_Officers: "Reclutar oficiales rusos blancos"
+ MAN_Recruit_White_Russian_Officers_desc: ""
+
+ MAN_Reorganize_Army_Command: "Reorganizar el mando militar"
+ MAN_Reorganize_Army_Command_desc: ""
+
+ MAN_New_Equipment_Designs: "Nuevos diseños de equipo"
+ MAN_New_Equipment_Designs_desc: ""
+
+ MAN_Grand_Battlplans: "Grandes planes de batalla"
+ MAN_Grand_Battlplans_desc: ""
+
+ MAN_Japanese_Pilots: "Pilotos japoneses"
+ MAN_Japanese_Pilots_desc: ""
+
+ MAN_Manchukuo_Air_Defense_HQ: "CG de Defensa Aérea de Manchukuo"
+ MAN_Manchukuo_Air_Defense_HQ_desc: ""
+
+ MAN_Expand_the_Arsenal: "Ampliar el Arsenal"
+ MAN_Expand_the_Arsenal_desc: ""
+
+ MAN_Manchukuoan_Pilots: "Pilotos de Manchukuo"
+ MAN_Manchukuoan_Pilots_desc: ""
+
+ MAN_New_Fighter_Squadrons: "Nuevas escuadrillas de cazas"
+ MAN_New_Fighter_Squadrons_desc: ""
+
+ MAN_Mukden_Flight_School: "Escuela de vuelo de Mukden"
+ MAN_Mukden_Flight_School_desc: ""
+
+ MAN_High_Altitude_Interceptors: "Interceptores de gran altitud"
+ MAN_High_Altitude_Interceptors_desc: ""
+
+ MAN_Promote_Manchurian_Identity: "Fomentar la identidad manchú"
+ MAN_Promote_Manchurian_Identity_desc: ""
+
+ MAN_Human_Experimentation: "Experimentos con humanos"
+ MAN_Human_Experimentation_desc: ""
+
+ MAN_Replace_the_Chinese_Identity: "Reemplazar la identidad china"
+ MAN_Replace_the_Chinese_Identity_desc: ""
+
+ MAN_Encourage_Immigration: "Fomentar la inmigración"
+ MAN_Encourage_Immigration_desc: ""
+
+ MAN_Learn_from_the_Japanese: "Aprender de los japoneses"
+ MAN_Learn_from_the_Japanese_desc: ""
+
+ MAN_Manchurian_Culture: "Cultura manchú"
+ MAN_Manchurian_Culture_desc: ""
+
+ MAN_Manchurian_Education: "Educación manchú"
+ MAN_Manchurian_Education_desc: ""
+
+ MAN_Limit_the_Consumer_Economy: "Limitar la economía de consumo"
+ MAN_Limit_the_Consumer_Economy_desc: ""
+
+ MAN_Expand_Military_Industry: "Ampliar la industria militar"
+ MAN_Expand_Military_Industry_desc: ""
+
+ MAN_Market_Opportunities: "Oportunidades de mercado"
+ MAN_Market_Opportunities_desc: ""
+
+ MAN_Open_the_Shenyang_Arsenal: "Abrir el Arsenal de Shenyang"
+ MAN_Open_the_Shenyang_Arsenal_desc: ""
+
+ MAN_New_Economic_Plans: "Nuevos planes económicos"
+ MAN_New_Economic_Plans_desc: ""
+
+ MAN_Talented_Labourers: "Talented_Labourers"
+ MAN_Talented_Labourers_desc: ""
+
+ MAN_Petroleum_Exploration: "Exploración de petróleo"
+ MAN_Petroleum_Exploration_desc: ""
+
+ MAN_Manchurian_Japanese_Treaty: "Tratado japonés-manchú"
+ MAN_Manchurian_Japanese_Treaty_desc: ""
+
+ MAN_War_of_Independence: "Guerra de Independencia"
+ MAN_War_of_Independence_desc: ""
+
+ MAN_Japanese_Economic_Cooperation: "Cooperación económica japonesa"
+ MAN_Japanese_Economic_Cooperation_desc: ""
+
+ MAN_Redistribute_Japanese_Assets: "Redistribuir los activos japoneses"
+ MAN_Redistribute_Japanese_Assets_desc: ""
+
+ MAN_Reorganize_the_Government: "Reorganizar el Gobierno"
+ MAN_Reorganize_the_Government_desc: ""
+
+ MAN_Centralism: "Centralismo"
+ MAN_Centralism_desc: ""
+
+ MAN_Federalism: "Federalismo"
+ MAN_Federalism_desc: ""
+
+ MAN_Confederalism: "Confederalismo"
+ MAN_Confederalism_desc: ""
+
+ MAN_Focused_Development: "Desarrollo focalizado"
+ MAN_Focused_Development_desc: ""
+
+ MAN_Seperation_of_Powers: "Separación de poderes"
+ MAN_Seperation_of_Powers_desc: ""
+
+ MAN_Ethnic_Regions: "Regiones étnicas"
+ MAN_Ethnic_Regions_desc: ""
+
+ MAN_Council_System: "Sistema de consejos"
+ MAN_Council_System_desc: ""
+
+ MAN_Special_Economic_Zones: "Zonas económicas especiales"
+ MAN_Special_Economic_Zones_desc: ""
+
+ MAN_Executive_Authority: "Autoridad ejecutiva"
+ MAN_Executive_Authority_desc: ""
+
+ MAN_Ideological_Indoctrination: "Adoctrinamiento ideológico"
+ MAN_Ideological_Indoctrination_desc: ""
+
+######################################################################
+# Manchuckuo Ideas
+###################################################################### 
+ MAN_Kangde_Emperor: "Emperador Kang-te"
+ MAN_Kangde_Emperor_desc: "El 1 de marzo de 1932, los japoneses instalaron a Pu-i como jefe ejecutivo de Manchukuo bajo el título de Kang-te."
+ MAN_Colonization_Rush: "Fiebre de la colonización"
+ MAN_Distribute_Monopolies_to_State_Companies: "Distribuir los monopolios entre las compañías estatales"

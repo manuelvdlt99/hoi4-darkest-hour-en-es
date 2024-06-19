@@ -1,0 +1,13 @@
+﻿l_spanish:
+######################################################################
+#  European Conquest Events
+######################################################################
+# German conquest of Warsaw
+ Conquest_POL.1.t: "¡Varsovia ha caído!"
+ Conquest_POL.1.d: "En virtud del artículo 87 del Tratado de Versalles, los alemanes se vieron obligados a ceder las tierras situadas a partir del grado 17 de latitud para la creación del Estado polaco. Parecía que los polacos habían conseguido por fin su independencia después de la división germano-austriaco-rusa y 100 años de duros combates. Pero, aparentemente, en no más de 10 días el Estado polaco se ha detenido. Desde el World Herald estamos apesadumbrados de informar de la caída de Varsovia a los ejércitos alemanes. Pese a la increíble resistencia polaca, el esperado blitzkrieg alemán ha aplastado a los ejércitos polacos y ha conquistado Varsovia. Tras descomunales bombardeos aéreos, las tropas alemanas se abalanzaron sobre la ciudad antes de ser repelidas varias veces, dando comienzo al asedio. Después de que casi el 10 % de la población civil polaca saliese herida, así como el 25 % de las infraestructuras de la ciudad, la guarnición se rindió. Tras encargarse de varios elementos radicales, las banderas alemanas ondearon en lo alto del Palacio Presidencial y el Sejm, mientras que los RR. HH. alemanes trazan líneas para el futuro de Polonia. Hay acuerdo general en que Polonia caerá pronto después de ésto."
+ 
+ Conquest_POL.1.A: "¡Polonia aún no ha caído! ¡Lucharemos!"
+ Conquest_POL.1.B: "El tratado está siendo deshecho. ¡Larga vida a la patria!"
+ Conquest_POL.1.C: "Esperemos que cumplan los términos del tratado..."
+ Conquest_POL.1.E: "¡Debemos rescatar a Polonia, rápido!"
+ Conquest_POL.1.f: "Alemania sigue el camino de la guerra... Esperemos que no sea tan sangrienta como la última."

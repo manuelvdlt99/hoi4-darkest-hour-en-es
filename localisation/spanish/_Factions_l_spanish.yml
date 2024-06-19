@@ -1,0 +1,271 @@
+﻿l_spanish:
+ # Decisions:
+ factions_decision_category: "Facciones del país"
+
+ # GUIs:
+ FACTIONS_TITLE: "FACCIONES DE INTERÉS"
+ FACTIONS_TITLE_TT: "Ésta es una lista de las facciones presentes en [This.GetNameDef]. \nLas facciones pueden tener un efecto en nuestro país, que se escala con su influencia y opinión. \nSi la opinión de una facción baja del §Y50 %§!, su fondo aparecerá coloreado de §Rrojo§!. Si su opinión es de al menos el §Y50 %§!, su fondo aparecerá coloreado de §Gverde§!."
+
+ FACTION_NAME: "[This.GetActiveFactionName]"
+ FACTION_ICON_TT: "§Y[This.GetActiveFactionName]§! \n§L[This.GetActiveFactionDesc]§! \n--------------\nInfluencia: [This.GetActiveFactionInfluence] \n     Cambio semanal: [This.GetActiveFactionWeeklyInfluenceChange] \nOpinión: [This.GetActiveFactionLoyalty] \n     Cambio semanal: [This.GetActiveFactionWeeklyLoyaltyChange]"
+ FACTION_ICON_TT_DELAYED: "§YCon la influencia y opinión actuales, esta facción tiene los siguientes efectos en nuestro país:§! \n[!faction_ghost_button_for_effects_click]"
+
+ FACTION_INFLUENCE: "[This.GetActiveFactionInfluence]"
+ FACTION_LOYALTY: "[This.GetActiveFactionLoyalty]"
+
+ FACTION_INFLUENCE_ICON_TT: "La §Yinfluencia§! de §Y[This.GetActiveFactionName]§! cambia en un [This.GetActiveFactionWeeklyInfluenceChange] cada semana."
+ FACTION_LOYALTY_ICON_TT: "La §Yopinión§! de §Y[This.GetActiveFactionName]§! cambia en un [This.GetActiveFactionWeeklyLoyaltyChange] cada semana."
+
+ # Factions:
+ FACTION_CHI_BLUESHIRTS_SOCIETY: "£faction_texticon_CHI_blueshirts_society£ Sociedad de Camisas Azules"
+ FACTION_CHI_BLUESHIRTS_SOCIETY_DESC: "Modelados a partir de los camisas negras de Italia, los camisas azules son una fuerza paramilitar fascista decidida a expulsar la influencia extranjera de China, aplastar el comunismo y eliminar el feudalismo. Este grupo representa el lado extremista del Kuomintang, y nada les gustaría más que tomar el control del país e implantar su visión ultranacionalista, que creen que impulsará a China hacia un futuro próspero."
+
+ FACTION_CHI_CENTRAL_CLUB_CLIQUE: "£faction_texticon_CHI_central_club_clique£ Camarilla CC"
+ FACTION_CHI_CENTRAL_CLUB_CLIQUE_DESC: "La camarilla CC es una influyente facción política del Kuomintang que contiene muchos amigos cercanos y aliados del Generalísimo, incluida su mujer. Formada principalmente por tradicionalistas, anticomunistas y miembros antijaponeses, la camarilla ha colocado a muchos de sus seguidores en puestos de diversos sectores del Gobierno, lo que les permite mantener su influencia e impulsar su agenda."
+
+ FACTION_CHI_WHAMPOA_CLIQUE: "£faction_texticon_CHI_whampoa_clique£ Camarilla de Whampoa"
+ FACTION_CHI_WHAMPOA_CLIQUE_DESC: "El vínculo entre alumno y profesor, amigos y socios durará toda la vida. La camarilla de Whampoa está compuesta por graduados e instructores de la Academia Militar de Whampoa, principal lugar de entrenamiento del Ejército Nacional Revolucionario. Todos estudiaron juntos, durmieron juntos y cenaron juntos para sus estudios. Consideran a Chiang Kai-shek su verdadero líder, ya que él fue el líder de la academia y es considerado un modelo a seguir de líder militar prometedor. La relación entre Chiang y la camarilla de Whampoa es simbiótica: el poder de Chiang Kai-shek depende de la camarilla de Whampoa y la influencia y el poder de ésta dependen de Chiang."
+
+ FACTION_CHI_REORGANIZATION_CLIQUE: "£faction_texticon_CHI_reorganization_clique£ Camarilla de Reorganización"
+ FACTION_CHI_REORGANIZATION_CLIQUE_DESC: "Principalmente compuesta por izquierdistas del Kuomintang, los reorganizacionistas no están conformes con la manera en la que creen que el partido se ha alejado de las ideas originales de Sun Yat-sen. Este grupo pretende rectificarlo aumentando su influencia en el partido y, a su vez, el Gobierno, permitiéndoles democratizar más el país e implementar lo que consideran que es la visión de Sun para China."
+
+ FACTION_CHI_POLITICAL_SCIENCE_CLIQUE: "£faction_texticon_CHI_political_science_clique£ Camarilla de Ciencias Políticas"
+ FACTION_CHI_POLITICAL_SCIENCE_CLIQUE_DESC: "La camarilla de Ciencias Políticas, una facción más liberal del Kuomintang, tiene una influencia considerable en las diversas secciones del partido. Intentarán usar esta influencia para acercar más al KMT a sus creencias ideológicas y sus ideas tecnocráticas, permitiéndoles dejar su huella en la forma en que los Tres Principios del Pueblo se aplican en China."
+
+ FACTION_JAP_KYOKOKU_ITCHI_NAIKAKU: "£faction_texticon_JAP_kyokoku_itchi_naikaku£ Gabinete de Unidad Nacional"
+ FACTION_JAP_KYOKOKU_ITCHI_NAIKAKU_DESC: "El §YGabinete de Unidad Nacional§! (GUN), §YKyokoku Itchi Naikaku§! en japonés, ha sido la piedra angular de la política japonesa desde la muerte de Tsuyoshi Inukai y la principal influencia de los militares en los asuntos gubernamentales y políticos. El GUN, una ""«coalición» de partidos políticos civiles y funcionarios del Ejército y la Armada, ha servido de empalizada del Gobierno civil, impidiendo una toma militar total, especialmente por parte de las facciones radicales de la Kōdōha y la Tōseiha."
+
+ FACTION_JAP_KODOHA: "£faction_texticon_JAP_kodoha£ Kōdōha"
+ FACTION_JAP_KODOHA_DESC: "La §YKōdōha§!, o §YFacción del Camino Imperial§!, es una camarilla militar radical liderada por los generales §MSadao Araki§! y §MJinzaburo Masaki§!. Formado principalmente por oficiales subalternos de bajo rango del Ejército Imperial Japonés, la Kōdōha pretende derrocar al Gobierno civil para allanar el camino a un Japón preindustrializado y preoccidentalizado dirigido por el Emperador, con los militares guiándolo en términos de política gubernamental, ya que creen que Japón está plagado de burócratas corruptos y oportunistas que complacen a los codiciosos zaibatsus."
+
+ FACTION_JAP_TOSEIHA: "£faction_texticon_JAP_toseiha£ Tōseiha"
+ FACTION_JAP_TOSEIHA_DESC: "La §YTōseiha§!, o §YFacción del Control§!, es una camarilla militar moderada mas radical liderada por el mayor general §MTetsuzan Nagata§!. Formada principalmente por graduados de la élite meritocrática de la Academia del Ejército Imperial Japonés, la Tōseiha cree en la modernización y mecanización del Ejército y en la transformación general de Japón en un ""«Estado de defensa nacional» preparado para la «guerra total» contra los adversarios de Japón. A diferencia de la Kōdōha, que quiere declarar una revolución contra el Gobierno civil, la Tōseiha quiere trabajar con los burócratas y los zaibatsus de Japón para prepararse para la «guerra total»."
+
+ FACTION_JAP_KANTAI_HA: "£faction_texticon_JAP_kantai_ha£ Kantai-ha"
+ FACTION_JAP_KANTAI_HA_DESC: "La §YKantai-ha§!, o §YFacción de la Flota§!, es una camarilla naval informal de la Armada Imperial Japonesa. Formada por oficiales navales de derecha que se oponen a los tratados navales de Londres y Washington, la Facción de la Flota desea ampliar sustancialmente las capacidades navales de Japón para que haga competencia a las superpotencias navales de los Estados Unidos y el Imperio británico. A diferencia de las facciones en el Ejército Imperial Japonés, la Facción de la Flota es bastante moderada en sus políticas y no quiere derrocar o subvertir al Gobierno, sino que está dispuesta a trabajar con cualquiera que no margine a la Armada en general."
+
+ FACTION_JAP_JOYAKU_HA: "£faction_texticon_JAP_joyaku_ha£ Jōyaku-ha"
+ FACTION_JAP_JOYAKU_HA_DESC: "La §YJōyaku-ha§!, o §YFacción del Tratado§!, es una camarilla naval informal de la Armada Imperial Japonesa. Formada por oficiales navales que defienden los tratados navales de Londres y Washington, los objetivos de la Facción del Tratado son simplemente la prevención tanto de una carrera armamentística naval como de la guerra para Japón. Considerada como la facción más pacifista de Japón, es una de las firmes opositoras a la militarización y radicalización de Japón y apoya activamente al Gobierno civil, especialmente al GUN."
+
+ FACTION_TUR_CHP: "£faction_texticon_TUR_chp£ CHP"
+ FACTION_TUR_CHP_DESC: "El §YPartido Republicano del Pueblo§! (CHP) es el primer y, hasta ahora, único partido político de la República de TUR_Politics. Fundado por el presidente Atatürk tras el establecimiento de la república, el partido aspira a reformar, modernizar y secularizar el país, e intentará que la nación siga la visión de Atatürk."
+
+ FACTION_TUR_GERILIKCILER: "£faction_texticon_TUR_gerilikciler£ Antirreformistas"
+ FACTION_TUR_GERILIKCILER_DESC: "A pesar de los claros beneficios de la modernización, los §Yantirreformistas§! del país se niegan a aceptarlo. La misión de su vida es ralentizar el progreso de cualquier forma posible, manteniéndose desafiantes ante el cambio de los tiempos y el progreso del mundo que nos rodea. Es una elección inútil, pero podría causarnos complicaciones e impedirnos llevar a cabo nuestra agenda."
+
+ FACTION_TUR_SERIATCILAR: "£faction_texticon_TUR_seriatcilar£ Sharistas"
+ FACTION_TUR_SERIATCILAR_DESC: "La rebelión de Sheikh Said fue un intento de los kurdos de restaurar el califato islámico y el sultanato en Turquía, pero fue sofocada y terminó cuando su líder fue capturado y ejecutado en 1925. A pesar de la derrota, aún quedan §Yseguidores del islam§! en Turquía que pretenden obstruir el progreso que el Gobierno está realizando y a los que les gustaría tener una segunda oportunidad de derrocarlo."
+
+ FACTION_TUR_MANDA_VE_HIMAYECILER: "£faction_texticon_TUR_manda_ve_himayeciler Manda ve£ Liberales"
+ FACTION_TUR_MANDA_VE_HIMAYECILER_DESC: "Hay un grupo de personas en este país, los §Yliberales§!, que creen que el Gobierno debería acercase a las potencias occidentales, principalmente al Reino Unido y Francia. Los liberales creen que estas naciones son «verdaderas» democracias, y quieren depender de ellas para ayudar a desarrollar TUR_Politics. El precio de su apoyo equivaldría a un mayor nivel de influencia extranjera y limitaría la independencia que tanto nos costó conseguir."
+
+ FACTION_TUR_TURK_ORDUSU: "£faction_texticon_TUR_turk_ordusu Türk£ Ejército"
+ FACTION_TUR_TURK_ORDUSU_DESC: "El §YEjército turco§! obtuvo mucho prestigio y honor por su papel en la guerra de Independencia que dio lugar al establecimiento de la república. Son muy respetados por el pueblo turco, pero quieren más. Quieren poder para gobernar. Estos militares intentarán obstruir cualquier cosa que no encaje con su retórica nacionalista, contribuyendo a la oposición a la que se enfrenta el Gobierno de turno."
+
+ FACTION_GER_SA: "£faction_texticon_GER_sa£ Sturmabteilung"
+ FACTION_GER_SA_DESC: "Las SA, formadas el 5 de octubre de 1921, dirigidas por el jefe de Estado Mayor Ernst Röhm y presentes desde el establecimiento de la República de Weimar, cuando las peleas callejeras eran el pan de cada día en la política alemana, son conocidas por sus tácticas violentas y su adhesión a una ideología más a la izquierda del NSDAP. Formadas en su mayoría por jóvenes desempleados, se consideran la verdadera fuerza del NSDAP."
+
+ FACTION_GER_SS: "£faction_texticon_GER_ss£ Schutzstaffel"
+ FACTION_GER_SS_DESC: "Las Schutzstaffel (SS, «escuadrón de protección» en español) fueron fundadas en un principio para ser los guardaespaldas de Adolf Hitler. Dirigidas por Heinrich Himmler, los tentáculos de las SS han penetrado en las instituciones legales, económicas y militares del Tercer Reich, por lo que su presencia es más palpable que nunca. Las SS han surgido como una parte del «Estado dentro del Estado»; su influencia causa graves preocupaciones entre los estamentos civiles y militares."
+
+ FACTION_GER_REICHSWEHR: "£faction_texticon_GER_reichswehr£ Reichswehr"
+ FACTION_GER_REICHSWEHR_DESC: "El Reichswehr son las fuerzas militares combinadas actuales de la República de Weimar, tal como estableció el Tratado de Versalles. Aunque está muy limitada por el tratado, sigue ejerciendo una influencia considerable en la nación y en sus intrigas políticas internas. Aún mayormente dominada por los junker y la nobleza tradicionales de Prusia, que son la principal parte constituyente del cuerpo de oficiales, en general sostiene opiniones conservadoras."
+
+ FACTION_GER_WEHRMACHT: "£faction_texticon_GER_wehrmacht£ Wehrmacht" #19
+ FACTION_GER_WEHRMACHT_DESC: "A partir de la derogación del Tratado de Versalles y la reintroducción del servicio militar obligatorio, el Reichswehr como organización en tiempos de paz no puede abordar y mucho menos hacer cumplir la voluntad de la renaciente civilización alemana y su voluntad. Por tanto, ha sido rebautizada con el nombre de Wehrmacht. La mayoría de su plana mayor y de sus mandos superiores procede en gran medida de la Reichswehr, dominada aún por el menguante pero omnipresente cuerpo de oficiales prusianos."
+
+ FACTION_GER_NSDAP: "£faction_texticon_GER_nsdap NSDAP"
+ FACTION_GER_NSDAP_DESC: ""
+
+ FACTION_GER_CHURCH: "£faction_texticon_GER_church Iglesia"
+ FACTION_GER_CHURCH_DESC: ""
+
+ FACTION_GER_STATE: "£faction_texticon_GER_state Estado"
+ FACTION_GER_STATE_DESC: ""
+
+ FACTION_GER_CONGLOMERATES: "£faction_texticon_GER_conglomerates Conglomerados"
+ FACTION_GER_CONGLOMERATES_DESC: ""
+
+ FACTION_IRQ_HIZB_AL_MITHAQ: "£faction_texticon_IRQ_hizb_al_mithaq£ Partido del Pacto"
+ FACTION_IRQ_HIZB_AL_MITHAQ_DESC: "El §YPartido del Pacto§! es una facción política que reconoce el Tratado anglo-iraquí como un golpe de suerte para el régimen hachemita y respalda incondicionalmente la ocupación británica a pesar de los recelos de la ciudadanía."
+
+ FACTION_IRQ_HIZB_AL_IKHAA: "£faction_texticon_IRQ_hizb_al_ikhaa£ Partido de la Hermandad Nacional"
+ FACTION_IRQ_HIZB_AL_IKHAA_DESC: "Dirigido por el prestigioso nacionalista Al Gaylani, el §YPartido de la Hermandad Nacional§! defiende la independencia iraquí de los británicos y se opone firmemente a las acciones de Al Said, preocupado por que puedan terminar restringiendo la libertad del pueblo iraquí y quebrantando el delicado equilibrio obtenido tras la Gran Guerra."
+
+ FACTION_IRQ_AL_UQADAA_AL_ARBAA: "£faction_texticon_IRQ_al_uqadaa_al_arbaa£ Cuatro Coroneles"
+ FACTION_IRQ_AL_UQADAA_AL_ARBAA_DESC: "Desencantados con las políticas de apaciguamiento emprendidas por el régimen hachemita, los §YCuatro Coroneles§! se inspiran en las políticas de la derecha radical, adoptando una especie de fascismo iraquí. Similar al Gobierno de Italia, esta facción quiere alterar los cimientos del Estado y reemplazarlos por un idealismo extremista."
+
+ FACTION_IRQ_JAMAAT_AL_AHALI: "£faction_texticon_IRQ_jamaat_al_ahali£ Grupo Ahali"
+ FACTION_IRQ_JAMAAT_AL_AHALI_DESC: "Abarcando una amplia variedad de creencias, el §YGrupo Ahali§! Denuncia abiertamente la dictadura real y aboga en su lugar por una administración más liberal basada en la democracia o el marxismo. El Grupo Ahali, quizás la facción más dividida, es el hogar de moderados y extremistas por igual, que defienden el populismo, el comunismo, el republicanismo u otros ideales. Sin embargo, hay una constante: la monarquía debe cambiar."
+
+ FACTION_IRQ_AL_QUWWAT_AL_MALAKIYYAH: "£faction_texticon_IRQ_al_quwwat_al_malakiyyah£ Real Ejército"
+ FACTION_IRQ_AL_QUWWAT_AL_MALAKIYYAH_DESC: "Esta facción quiere ampliar el poder militar en el Estado iraquí. Dirigido por Bakr Sidqi, el §YReal Ejército§! ha visto aumentar su influencia en los últimos años, seguramente debido a la mayor presencia militar inglesa en nuestras fronteras. Huelga decir que el Ejército es la piedra angular del Gobierno hachemita."
+
+ FACTION_JAP_PARTY_POLITICIAN: "£faction_texticon_JAP_party_politician£ Políticos del partido"
+ FACTION_JAP_PARTY_POLITICIAN_DESC: "Descripción"
+
+ FACTION_JAP_PARTY_BUREAUCRAT: "£faction_texticon_JAP_party_bureaucrat£ Burócratas del partido"
+ FACTION_JAP_PARTY_BUREAUCRAT_DESC: "Descripción"
+
+ FACTION_JAP_COURT_NOBLE: "£faction_texticon_JAP_court_noble£ Nobles de la corte"
+ FACTION_JAP_COURT_NOBLE_DESC: "Descripción"
+
+ FACTION_JAP_KAKUSHIN_KANRYO: "£faction_texticon_JAP_kakushin_kanryo£ Burócratas reformistas"
+ FACTION_JAP_KAKUSHIN_KANRYO_DESC: "Descripción"
+
+ FACTION_ITA_MUSSOLINISTS: "£faction_texticon_ITA_mussolinists£ Mussolinistas"
+ FACTION_ITA_MUSSOLINISTS_DESC: "Descripción"
+
+ FACTION_ITA_REFORMISTS: "£faction_texticon_ITA_reformists£ Reformistas"
+ FACTION_ITA_REFORMISTS_DESC: "Descripción"
+
+ FACTION_ITA_MONARCHISTS: "£faction_texticon_ITA_monarchists£ Monárquicos"
+ FACTION_ITA_MONARCHISTS_DESC: "Descripción"
+
+ FACTION_ITA_MILITARISTS: "£faction_texticon_ITA_militarists£ Militaristas"
+ FACTION_ITA_MILITARISTS_DESC: "Descripción"
+
+ # Scripted Localisation:
+ string_faction_loyalty_high: "§lBuena§! (§l[?faction_loyalty|2]%§!)"
+ string_faction_loyalty_medium: "§YMedia§! (§Y[?faction_loyalty|2]%§!)"
+ string_faction_loyalty_low: "§OMala§! (§O[?faction_loyalty|2]%§!)"
+
+ string_faction_influence_high: "§YMucha§! (§Y[?faction_influence|2]%§!)"
+ string_faction_influence_medium: "§YMedia§! (§Y[?faction_influence|2]%§!)"
+ string_faction_influence_low: "§YPoca§! (§Y[?faction_influence|2]%§!)"
+
+ # Scripted Effects:
+ DECREASE_FACTION_INFLUENCE_TT: "La influencia de §Y[This.GetActiveFactionNameOtherContext]§! disminuirá un §R[?influence_to_add|2=] %§!.\n"
+ INCREASE_FACTION_INFLUENCE_TT: "La influencia de §Y[This.GetActiveFactionNameOtherContext]§! aumentará un §G[?influence_to_add|2=] %§!.\n"
+ DECREASE_FACTION_LOYALTY_TT: "La opinión de §Y[This.GetActiveFactionNameOtherContext]§! disminuirá un §R[?loyalty_to_add|2=] %§!.\n"
+ INCREASE_FACTION_LOYALTY_TT: "La opinión de §Y[This.GetActiveFactionNameOtherContext]§! aumentará un §G[?loyalty_to_add|2=] %§!.\n"
+ ADD_ACTIVE_FACTION_TT: "§Y[This.GetActiveFactionNameOtherContext]§! se añadirá a nuestras facciones de interés.\n"
+ REMOVE_ACTIVE_FACTION_TT: "§Y[This.GetActiveFactionNameOtherContext]§! será eliminado de nuestras facciones de interés.\n"
+
+ # Scripted Triggers:
+ HAS_NUM_OF_ACTIVE_FACTIONS_TT: "§Y[This.GetNameDefCap]§! Tiene al menos §Y[?amount_of_factions|0]§! facciones de interés"
+ HAS_LESS_NUM_OF_ACTIVE_FACTIONS_TT: "§Y[This.GetNameDefCap]§! tiene menos de §Y[?amount_of_factions|0]§! facciones de interés"
+ HAS_ACTIVE_FACTION_TT: "§Y[This.GetActiveFactionNameOtherContext]§! es una facción de interés en §Y[This.GetNameDef]§!"
+ HAS_NOT_ACTIVE_FACTION_TT: "§Y[This.GetActiveFactionNameOtherContext]§! no es una facción de interés en §Y[This.GetNameDef]§!"
+ HAS_AT_LEAST_FACTION_INFLUENCE_TT: "La influencia de §Y[This.GetActiveFactionNameOtherContext]§! es de al menos un §Y[?influence_to_check|2] %§!"
+ HAS_LESS_FACTION_INFLUENCE_TT: "La influencia de §Y[This.GetActiveFactionNameOtherContext]§! es inferior al §Y[?influence_to_check|2] %§!"
+ HAS_AT_LEAST_FACTION_LOYALTY_TT: "La opinión de §Y[This.GetActiveFactionNameOtherContext]§! es de al menos un §Y[?loyalty_to_check|2] %§!"
+ HAS_LESS_FACTION_LOYALTY_TT: "La opinión de §Y[This.GetActiveFactionNameOtherContext]§! es inferior al §Y[?loyalty_to_check|2] %§!"
+
+ # Ideas:
+ faction_effects_idea_1: "$FACTION_CHI_BLUESHIRTS_SOCIETY$"
+ faction_effects_idea_2: "$FACTION_CHI_CENTRAL_CLUB_CLIQUE$"
+ faction_effects_idea_3: "$FACTION_CHI_WHAMPOA_CLIQUE$"
+ faction_effects_idea_4: "$FACTION_CHI_REORGANIZATION_CLIQUE$"
+ faction_effects_idea_5: "$FACTION_CHI_POLITICAL_SCIENCE_CLIQUE$"
+ faction_effects_idea_6: "$FACTION_JAP_KYOKOKU_ITCHI_NAIKAKU$"
+ faction_effects_idea_7: "$FACTION_JAP_KODOHA$"
+ faction_effects_idea_8: "$FACTION_JAP_TOSEIHA$"
+ faction_effects_idea_9: "$FACTION_JAP_KANTAI_HA$"
+ faction_effects_idea_10: "$FACTION_JAP_JOYAKU_HA$"
+ faction_effects_idea_11: "$FACTION_TUR_CHP$"
+ faction_effects_idea_12: "$FACTION_TUR_GERILIKCILER$"
+ faction_effects_idea_13: "$FACTION_TUR_SERIATCILAR$"
+ faction_effects_idea_14: "$FACTION_TUR_MANDA_VE_HIMAYECILER$"
+ faction_effects_idea_15: "$FACTION_TUR_TURK_ORDUSU$"
+ faction_effects_idea_16: "$FACTION_GER_SA$"
+ faction_effects_idea_17: "$FACTION_GER_SS$"
+ faction_effects_idea_18: "$FACTION_GER_REICHSWEHR$"
+ faction_effects_idea_19: "$FACTION_GER_WEHRMACHT$"
+ faction_effects_idea_20: "$FACTION_IRQ_HIZB_AL_MITHAQ$"
+ faction_effects_idea_21: "$FACTION_IRQ_HIZB_AL_IKHAA$"
+ faction_effects_idea_22: "$FACTION_IRQ_AL_UQADAA_AL_ARBAA$"
+ faction_effects_idea_23: "$FACTION_IRQ_JAMAAT_AL_AHALI$"
+ faction_effects_idea_24: "$FACTION_IRQ_AL_QUWWAT_AL_MALAKIYYAH$"
+ faction_effects_idea_25: "$FACTION_JAP_PARTY_POLITICIAN$"
+ faction_effects_idea_26: "$FACTION_JAP_PARTY_BUREAUCRAT$"
+ faction_effects_idea_27: "$FACTION_JAP_COURT_NOBLE$"
+ faction_effects_idea_28: "$FACTION_JAP_KAKUSHIN_KANRYO$"
+ faction_effects_idea_29: "$FACTION_GER_NSDAP$"
+ faction_effects_idea_30: "$FACTION_GER_STATE$"
+ faction_effects_idea_31: "$FACTION_GER_CONGLOMERATES$"
+ faction_effects_idea_32: "$FACTION_ITA_MUSSOLINISTS$"
+ faction_effects_idea_33: "$FACTION_ITA_REFORMISTS$"
+ faction_effects_idea_34: "$FACTION_ITA_MONARCHISTS$"
+ faction_effects_idea_35: "$FACTION_ITA_MILITARISTS$"
+ faction_effects_idea_36: "$FACTION_GER_CHURCH$"
+
+ idea_faction_effects_no_effects: "Nada"
+
+ # Custom Modifiers:
+ weekly_faction_1_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_CHI_BLUESHIRTS_SOCIETY$§!)"
+ weekly_faction_1_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_CHI_BLUESHIRTS_SOCIETY$§!)"
+ weekly_faction_2_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_CHI_CENTRAL_CLUB_CLIQUE$§!)"
+ weekly_faction_2_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_CHI_CENTRAL_CLUB_CLIQUE$§!)"
+ weekly_faction_3_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_CHI_WHAMPOA_CLIQUE$§!)"
+ weekly_faction_3_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_CHI_WHAMPOA_CLIQUE$§!)"
+ weekly_faction_4_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_CHI_REORGANIZATION_CLIQUE$§!)"
+ weekly_faction_4_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_CHI_REORGANIZATION_CLIQUE$§!)"
+ weekly_faction_5_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_CHI_POLITICAL_SCIENCE_CLIQUE$§!)"
+ weekly_faction_5_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_CHI_POLITICAL_SCIENCE_CLIQUE$§!)"
+ weekly_faction_6_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_JAP_KYOKOKU_ITCHI_NAIKAKU$§!)"
+ weekly_faction_6_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_JAP_KYOKOKU_ITCHI_NAIKAKU$§!)"
+ weekly_faction_7_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_JAP_KODOHA$§!)"
+ weekly_faction_7_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_JAP_KODOHA$§!)"
+ weekly_faction_8_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_JAP_TOSEIHA$§!)"
+ weekly_faction_8_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_JAP_TOSEIHA$§!)"
+ weekly_faction_9_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_JAP_KANTAI_HA$§!)"
+ weekly_faction_9_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_JAP_KANTAI_HA$§!)"
+ weekly_faction_10_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_JAP_JOYAKU_HA$§!)"
+ weekly_faction_10_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_JAP_JOYAKU_HA$§!)"
+ weekly_faction_11_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_TUR_CHP$§!)"
+ weekly_faction_11_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_TUR_CHP$§!)"
+ weekly_faction_12_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_TUR_GERILIKCILER$§!)"
+ weekly_faction_12_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_TUR_GERILIKCILER$§!)"
+ weekly_faction_13_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_TUR_SERIATCILAR$§!)"
+ weekly_faction_13_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_TUR_SERIATCILAR$§!)"
+ weekly_faction_14_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_TUR_MANDA_VE_HIMAYECILER$§!)"
+ weekly_faction_14_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_TUR_MANDA_VE_HIMAYECILER$§!)"
+ weekly_faction_15_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_TUR_TURK_ORDUSU$§!)"
+ weekly_faction_15_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_TUR_TURK_ORDUSU$§!)"
+ weekly_faction_16_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_GER_SA$§!)"
+ weekly_faction_16_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_GER_SA$§!)"
+ weekly_faction_17_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_GER_SS$§!)"
+ weekly_faction_17_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_GER_SS$§!)"
+ weekly_faction_18_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_GER_REICHSWEHR$§!)"
+ weekly_faction_18_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_GER_REICHSWEHR$§!)"
+ weekly_faction_19_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_GER_WEHRMACHT$§!)"
+ weekly_faction_19_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_GER_WEHRMACHT$§!)"
+ weekly_faction_20_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_IRQ_HIZB_AL_MITHAQ$§!)"
+ weekly_faction_20_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_IRQ_HIZB_AL_MITHAQ$§!)"
+ weekly_faction_21_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_IRQ_HIZB_AL_IKHAA$§!)"
+ weekly_faction_21_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_IRQ_HIZB_AL_IKHAA$§!)"
+ weekly_faction_22_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_IRQ_AL_UQADAA_AL_ARBAA$§!)"
+ weekly_faction_22_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_IRQ_AL_UQADAA_AL_ARBAA$§!)"
+ weekly_faction_23_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_IRQ_JAMAAT_AL_AHALI$§!)"
+ weekly_faction_23_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_IRQ_JAMAAT_AL_AHALI$§!)"
+ weekly_faction_24_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_IRQ_AL_QUWWAT_AL_MALAKIYYAH$§!)"
+ weekly_faction_24_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_IRQ_AL_QUWWAT_AL_MALAKIYYAH$§!)"
+ weekly_faction_25_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_JAP_PARTY_POLITICIAN$§!)"
+ weekly_faction_25_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_JAP_PARTY_POLITICIAN$§!)"
+ weekly_faction_26_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_JAP_PARTY_BUREAUCRAT$§!)"
+ weekly_faction_26_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_JAP_PARTY_BUREAUCRAT$§!)"
+ weekly_faction_27_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_JAP_COURT_NOBLE$§!)"
+ weekly_faction_27_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_JAP_COURT_NOBLE$§!)"
+ weekly_faction_28_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_JAP_KAKUSHIN_KANRYO$§!)"
+ weekly_faction_28_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_JAP_KAKUSHIN_KANRYO$§!)"
+ weekly_faction_29_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_GER_NSDAP$§!)"
+ weekly_faction_29_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_GER_NSDAP$§!)"
+ weekly_faction_30_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_GER_STATE$§!)"
+ weekly_faction_30_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_GER_STATE$§!)"
+ weekly_faction_31_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_GER_CONGLOMERATES$§!)"
+ weekly_faction_31_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_GER_CONGLOMERATES$§!)"
+ weekly_faction_32_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_ITA_MUSSOLINISTS$§!)"
+ weekly_faction_32_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_ITA_MUSSOLINISTS$§!)"
+ weekly_faction_33_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_ITA_REFORMISTS$§!)"
+ weekly_faction_33_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_ITA_REFORMISTS$§!)"
+ weekly_faction_34_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_ITA_MONARCHISTS$§!)"
+ weekly_faction_34_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_ITA_MONARCHISTS$§!)"
+ weekly_faction_35_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_ITA_MILITARISTS$§!)"
+ weekly_faction_35_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_ITA_MILITARISTS$§!)"
+ weekly_faction_36_influence: "$WEEKLY_FACTION_INFLUENCE_CHANGE$ (§L$FACTION_GER_CHURCH$§!)"
+ weekly_faction_36_loyalty: "$WEEKLY_FACTION_OPINION_CHANGE$ (§L$FACTION_GER_CHURCH$§!)"
+
+ # Constants:
+ WEEKLY_FACTION_INFLUENCE_CHANGE: "Cambio semanal de influencia de facción"
+ WEEKLY_FACTION_OPINION_CHANGE: "Cambio semanal de opinión de facción"

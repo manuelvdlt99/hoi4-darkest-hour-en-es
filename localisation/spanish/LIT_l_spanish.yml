@@ -1,0 +1,15 @@
+﻿l_spanish:
+######################################################################
+# Lithuania Events
+######################################################################
+ LIT_Politics.1.t: "Cambio de primer ministro"
+ LIT_Politics.1.d: ""
+ LIT_Politics.1.A: "Vladas Mironas"
+
+ LIT_Politics.2.t: "Cambio de primer ministro"
+ LIT_Politics.2.d: ""
+ LIT_Politics.2.A: "Jonas Černius"
+
+ LIT_Politics.3.t: "Cambio de primer ministro"
+ LIT_Politics.3.d: ""
+ LIT_Politics.3.A: "Antanas Merkys"

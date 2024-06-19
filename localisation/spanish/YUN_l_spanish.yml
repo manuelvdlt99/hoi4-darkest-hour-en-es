@@ -1,0 +1,30 @@
+﻿l_spanish:
+######################################################################
+## Yunnan Events
+######################################################################
+ YUN_Sino_Japanese_War_Chinese_Defeat.1.t: "Por nuestra cuenta"
+ YUN_Sino_Japanese_War_Chinese_Defeat.1.d: ""
+ YUN_Sino_Japanese_War_Chinese_Defeat.1.A: "Lung Yun nos guiará."
+ 
+ YUN_Sino_Japanese_War_Chinese_Defeat.2.t: "La exigencia de Tokio"
+ YUN_Sino_Japanese_War_Chinese_Defeat.2.d: ""
+ YUN_Sino_Japanese_War_Chinese_Defeat.2.A: "No tenemos más remedio..."
+ YUN_Sino_Japanese_War_Chinese_Defeat.2.B: "¡Jamás cederemos! ¡Larga vida a Yunnan, larga vida a China!"
+ YUN_Sino_Japanese_War_Chinese_Defeat.2.C: "Recuerdo tener unos «contactos» en Hanói..."
+ 
+ YUN_Sino_Japanese_War_Chinese_Defeat.3.t: "El protectorado de Yunnan"
+ YUN_Sino_Japanese_War_Chinese_Defeat.3.d: ""
+ YUN_Sino_Japanese_War_Chinese_Defeat.3.A: "No tenemos más remedio..."
+ 
+ YUN_Sino_Japanese_War_Chinese_Defeat.4.t: "Francia se niega"
+ YUN_Sino_Japanese_War_Chinese_Defeat.4.d: ""
+ YUN_Sino_Japanese_War_Chinese_Defeat.4.A: "No tenemos más remedio..."
+
+######################################################################
+## Yunnan Spirits
+######################################################################
+ YUN_The_Last_Bastion_1_idea: "El último bastión"
+ YUN_The_Last_Bastion_1_idea_desc: " "
+
+ YUN_The_Last_Bastion_2_idea: "El último bastión"
+ YUN_The_Last_Bastion_2_idea_desc: " "

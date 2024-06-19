@@ -1,0 +1,18 @@
+﻿l_spanish:
+######################################################################
+#  Canada Events
+######################################################################
+ CAN_Election_1935.1.t: "Elecciones generales de Canadá de 1935"
+ CAN_Election_1935.1.d: ""
+ CAN_Election_1935.1.A: "Mackenzie King: Partido Liberal"
+ CAN_Election_1935.1.B: "R. B. Bennet: Partido Conservador"
+
+ CAN_Election_1940.1.t: "Elecciones generales de Canadá de 1940"
+ CAN_Election_1940.1.d: ""
+ CAN_Election_1940.1.A: "Mackenzie King: Partido Liberal"
+ CAN_Election_1940.1.B: "Robert Manion: Partido Conservador"
+
+ CAN_Election_1945.1.t: "Elecciones generales de Canadá de 1945"
+ CAN_Election_1945.1.d: ""
+ CAN_Election_1945.1.A: "Mackenzie King: Partido Liberal"
+ CAN_Election_1945.1.B: "John Bracken: Partido Conservador Progresista"

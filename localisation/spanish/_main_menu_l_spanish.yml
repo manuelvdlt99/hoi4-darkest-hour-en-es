@@ -1,0 +1,16 @@
+﻿l_spanish:
+ MENU_MENU: "Menú"
+ MENU_BAR_GAME_SETTINGS: "Ajustes"
+ MENU_BAR_GAME_DISCORD: "Discord de Darkest Hour"
+ MENU_STEAM: "Página de Steam Workshop de Darkest Hour"
+ MENU_WIKI: "Wiki de Darkest Hour"
+
+ BOOKMARK_SELECTION_FOCUSTREE_BUTTON_TEXT: "Árbol de enfoques"
+ BOOKMARK_SELECTION_FOCUSTREE_BUTTON_TT: "§GHaz clic§! para ver el árbol de enfoques de este país en la wiki."
+
+ BOOKMARK_SELECTION_ROADMAP_BUTTON_TEXT: "Hoja de ruta"
+ BOOKMARK_SELECTION_ROADMAP_BUTTON_TT: "§GHaz clic§! para ver la hoja de ruta de §YDarkest Hour§! en la wiki."
+
+ MENU_SETTINGS: "Ajustes"
+ MENU_LOAD: "Cargar partida"
+ MENU_SAVE: "Guardar partida"

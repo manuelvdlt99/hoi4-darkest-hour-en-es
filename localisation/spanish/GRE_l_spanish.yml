@@ -1,0 +1,20 @@
+﻿l_spanish:
+######################################################################
+# Greece Events
+######################################################################
+ Greece.1.t: "Golpe del 4 de agosto"
+ Greece.1.d: "¡Las fuerzas militares se han apoderado de nuestra nación! Ioannis Metaxás, conocido general, ha derrocado a nuestro Gobierno y ha declarado la ley marcial en un intento por estabilizar nuestra otrora orgullosa nación, mientras los disturbios agrarios culminan en una gran huelga. Estos fascistas tienen el apoyo total del Rey, que volvió el año pasado gracias a una mayoría realista en el Parlamento. Sin embargo, nuestro monarca se enfrentaba a una gran dificultad: el bloqueo gubernamental entre una coalición de liberales, agrarios y republicanos y su facción realista. Para colmo, los comunistas disponían de 15 escaños que utilizaban para imponer su voluntad a los dos partidos enfrentados. Este nuevo régimen sigue el camino emprendido por los italianos al otro lado del Egeo, pero dudamos que Mussolini sea más complaciente con esta nueva dictadura..."
+ Greece.1.A: "¡Comienza la tercera civilización helénica!"
+
+######################################################################
+# Greece Focuses
+######################################################################
+
+######################################################################
+# Greece Ideas
+######################################################################
+ GRE_National_Schism: "Cisma nacional"
+ GRE_National_Schism_desc: "Cisma nacional"
+
+ GRE_Memories_of_1923: "Memorias de 1923"
+ GRE_Memories_of_1923_desc: "Memorias de 1923"

@@ -1,0 +1,9 @@
+﻿l_spanish:
+######################################################################
+## SS-OrdenStaat Decisions
+######################################################################
+ SS_Staat_Decisions: "Decisiones del Estado SS"
+ SS_Staat_Decisions_desc: ""
+
+ SS_Staat_south_states: "Exigir a Alemania los estados del sur de Francia"
+ SS_Staat_south_states_desc: "Alemania posee estados que forman parte de los estados originales previstos para formar parte del Orden-Estado de Borgoña. Deberíamos enviarle una solicitud a Hitler para que nos transfiera esos estados."

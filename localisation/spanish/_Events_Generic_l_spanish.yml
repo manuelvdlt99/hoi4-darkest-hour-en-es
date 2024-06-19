@@ -1,0 +1,111 @@
+﻿l_spanish:
+######################################################################
+#  Generic Events
+######################################################################
+ GENERIC_Focus_Tree.1.t: "Concurso de tanques"
+ GENERIC_Focus_Tree.1.desc: "Un estudio reciente sobre el combate terrestre moderno ha puesto de manifiesto una debilidad crítica de nuestro Ejército. Nuestros tanques van muy por detrás de los de otros países. Nuestros generales han iniciado un programa de choque para adquirir un tanque moderno lo antes posible. Dado que el desarrollo nacional llevaría un tiempo inaceptable, se ha decidido adquirir una licencia del extranjero. Se ha autorizado un presupuesto adicional.\n\nLos expertos no se ponen de acuerdo en qué tipo de tanque convendría más para modernizar nuestras fuerzas terrestres."
+ GENERIC_Focus_Tree.1.A: "Un tanque ligero y pequeño."
+ GENERIC_Focus_Tree.1.B: "Un tanque pesado y grande."
+
+ GENERIC_Focus_Tree.2.t: "Concurso de tanques ligeros"
+ GENERIC_Focus_Tree.2.desc_light_tank: "Nuestros generales desean adquirir un nuevo tanque ligero para operaciones ofensivas de reconocimiento y envolvimiento, pero el Ministerio de Asuntos Exteriores ha sugerido que las cuestiones políticas y diplomáticas también deberían influir a la hora de decidir a qué país comprar."
+ GENERIC_Focus_Tree.2.desc_light_tank_refused: "Aduciendo la seguridad nacional, el Gobierno [From.GetAdjective] se ha negado a emitir una licencia de producción. Puede que tengamos mejores oportunidades en otros lugares, o podemos sopesar mejorar nuestros tanques actuales como paliativo de emergencia."
+ GENERIC_Focus_Tree.2.A: "Dirigirnos a Alemania."
+ GENERIC_Focus_Tree.2.B: "Dirigirnos a Italia."
+ GENERIC_Focus_Tree.2.C: "Dirigirnos a Francia."
+ GENERIC_Focus_Tree.2.D: "Dirigirnos al Reino Unido."
+ GENERIC_Focus_Tree.2.E: "Dirigirnos a Estados Unidos."
+ GENERIC_Focus_Tree.2.F: "Usar la experiencia obtenida en el concurso para mejorar nuestros propios tanques."
+
+ GENERIC_Focus_Tree.3.t: "Concurso de tanques pesados"
+ GENERIC_Focus_Tree.3.desc_heavy_tank: "Nuestros generales desean adquirir un nuevo tanque pesado para puntas de lanza ofensivas y para asaltar posiciones enemigas, pero el Ministerio de Asuntos Exteriores ha sugerido que las cuestiones políticas y diplomáticas también deberían influir a la hora de decidir a qué país comprar."
+ GENERIC_Focus_Tree.3.desc_heavy_tank_refused: "Aduciendo la seguridad nacional, el Gobierno [From.GetAdjective] se ha negado a emitir una licencia de producción. Puede que tengamos mejores oportunidades en otros lugares, o podemos sopesar mejorar nuestros tanques actuales como paliativo de emergencia."
+
+ GENERIC_Focus_Tree.4.t: "Concurso de tanques [From.GetAdjective]"
+ GENERIC_Focus_Tree.4.desc: "Los generales [From.GetAdjective] están realizando pruebas para un nuevo tanque ligero. Según nuestros generales, nuestro último modelo está por ganar. Se espera una solicitud formal del Gobierno [From.GetAdjective] en breve. \n\nLos representantes del fabricante están totalmente a favor de la venta, pero la venta de nuestros equipos más modernos a un país extranjero plantea problemas de seguridad nacional. ¿Deberíamos permitir que la venta siga adelante?"
+ GENERIC_Focus_Tree.4.A: "Desde luego."
+ GENERIC_Focus_Tree.4.B: "No podemos arriesgarnos a que se filtre."
+
+ GENERIC_Focus_Tree.5.desc: "Los generales [From.GetAdjective] están realizando pruebas para un nuevo tanque pesado. Según nuestros generales, nuestro último modelo está por ganar. Se espera una solicitud formal del Gobierno [From.GetAdjective] en breve. \n\nLos representantes del fabricante están totalmente a favor de la venta, pero la venta de nuestros equipos más modernos a un país extranjero plantea problemas de seguridad nacional. ¿Deberíamos permitir que la venta siga adelante?"
+
+ GENERIC_Focus_Tree.6.t: "Concurso de tanques terminado"
+ GENERIC_Focus_Tree.6.desc: "Tras negociar con el fabricante y las autoridades estatales, hemos conseguido una licencia de producción para un nuevo tanque. Ya ha llegado un ejemplar del tanque para formar a los mecánicos en su mantenimiento, y en breve se espera un juego completo de planos y esquemas. La producción puede comenzar en cualquier momento."
+ GENERIC_Focus_Tree.6.A: "Muy bien."
+
+ GENERIC_Focus_Tree.7.t: "Concurso de buques"
+ GENERIC_Focus_Tree.7.desc: "Un estudio reciente sobre el combate naval moderno ha puesto de manifiesto una debilidad crítica de nuestra Armada. Nuestros buques van muy por detrás de los de otros países. Nuestros almirantes han iniciado un programa de choque para adquirir un buque moderno lo antes posible. Dado que el desarrollo nacional llevaría un tiempo inaceptable, se ha decidido adquirir una licencia del extranjero. Se ha autorizado un presupuesto adicional.\n\nLos expertos no se ponen de acuerdo en qué tipo de buque convendría más para modernizar nuestra Armada."
+ GENERIC_Focus_Tree.7.A: "Un crucero de batalla."
+ GENERIC_Focus_Tree.7.B: "Un acorazado."
+
+ GENERIC_Focus_Tree.8.t: "Concurso de cruceros de batalla"
+ GENERIC_Focus_Tree.8.desc_battlecruiser: "Nuestros almirantes desean adquirir un nuevo crucero de batalla para el combate naval, pero el Ministerio de Asuntos Exteriores ha sugerido que las cuestiones políticas y diplomáticas también deberían influir a la hora de decidir a qué país comprar."
+ GENERIC_Focus_Tree.8.desc_battlecruiser_refused: "Aduciendo la seguridad nacional, el Gobierno [From.GetAdjective] se ha negado a emitir una licencia de producción. Puede que tengamos mejores oportunidades en otros lugares, o podemos sopesar mejorar nuestros buques actuales como paliativo de emergencia."
+ GENERIC_Focus_Tree.8.A: "Dirigirnos a Alemania."
+ GENERIC_Focus_Tree.8.B: "Dirigirnos a Italia."
+ GENERIC_Focus_Tree.8.C: "Dirigirnos a Francia."
+ GENERIC_Focus_Tree.8.D: "Dirigirnos al Reino Unido."
+ GENERIC_Focus_Tree.8.E: "Dirigirnos a Estados Unidos."
+ GENERIC_Focus_Tree.8.F: "Usar la experiencia obtenida en el concurso para mejorar nuestros propios buques."
+
+ GENERIC_Focus_Tree.9.t: "Concurso de acorazados"
+ GENERIC_Focus_Tree.9.desc_battleship: "Nuestros almirantes desean adquirir un nuevo acorazado para el combate naval, pero el Ministerio de Asuntos Exteriores ha sugerido que las cuestiones políticas y diplomáticas también deberían influir a la hora de decidir a qué país comprar."
+ GENERIC_Focus_Tree.9.desc_battleship_refused: "Aduciendo la seguridad nacional, el Gobierno [From.GetAdjective] se ha negado a emitir una licencia de producción. Puede que tengamos mejores oportunidades en otros lugares, o podemos sopesar mejorar nuestros buques actuales como paliativo de emergencia."
+
+ GENERIC_Focus_Tree.10.t: "Concurso de buques [From.GetAdjective]"
+ GENERIC_Focus_Tree.10.desc: "Los almirantes [From.GetAdjective] están realizando pruebas para un nuevo crucero de batalla. Según nuestros generales, nuestro último modelo está por ganar. Se espera una solicitud formal del Gobierno [From.GetAdjective] en breve. \n\nLos representantes del fabricante están totalmente a favor de la venta, pero la venta de nuestros equipos más modernos a un país extranjero plantea problemas de seguridad nacional. ¿Deberíamos permitir que la venta siga adelante?"
+ GENERIC_Focus_Tree.10.A: "Desde luego."
+ GENERIC_Focus_Tree.10.B: "No podemos arriesgarnos a que se filtre."
+
+ GENERIC_Focus_Tree.11.desc: "Los almirantes [From.GetAdjective] están realizando pruebas para un nuevo acorazado. Según nuestros generales, nuestro último modelo está por ganar. Se espera una solicitud formal del Gobierno [From.GetAdjective] en breve. \n\nLos representantes del fabricante están totalmente a favor de la venta, pero la venta de nuestros equipos más modernos a un país extranjero plantea problemas de seguridad nacional. ¿Deberíamos permitir que la venta siga adelante?"
+
+ GENERIC_Focus_Tree.12.t: "Concurso de buques terminado"
+ GENERIC_Focus_Tree.12.desc: "Tras negociar con el fabricante y las autoridades estatales, hemos conseguido una licencia de producción para un nuevo buque. Ya ha llegado un ejemplar del buque para formar a los mecánicos en su mantenimiento, y en breve se espera un juego completo de planos y esquemas. La producción puede comenzar en cualquier momento."
+ GENERIC_Focus_Tree.12.A: "Muy bien."
+ 
+ ace_promoted.1.A: "Quien se atreve, gana."
+ ace_died.1.A: "Una leyenda viva sigue siendo mejor."
+ ace_killed_by_ace.1.A: "Una pérdida devastadora para todos."
+ ace_killed_other_ace.1.A: "¡Una victoria que todo [From.Owner.GetNameDef] recordará!"
+ aces_killed_each_other.1.A: "Una gran pérdida igualmente."
+
+ Faction_Events.2.t: "[From.GetNameDefCap] quiere unirse a [Root.GetFactionName]"
+ Faction_Events.2.d.A: "Ante el aumento de las amenazas a los valores de la libertad y la democracia, los [alliance_applicant.GetAdjective] nos consideran los defensores de la libertad. Ahora desean ser admitidos en nuestra alianza, tanto para disfrutar de nuestra protección como para permanecer con nosotros frente a las fuerzas que amenazarían la democracia."
+ Faction_Events.2.d.B: "Nuestro empeño por derribar el actual orden mundial no ha pasado desapercibido para las naciones con ideas afines. Los [alliance_applicant.GetAdjective] reconocen que su mejor oportunidad para forjarse un futuro próspero es alinearse con nosotros en el conflicto que se avecina y, por tanto, se han ofrecido a unirse formalmente a nosotros contra nuestros enemigos."
+ Faction_Events.2.d.C: "[alliance_applicant.GetNameDefCap] ha reconocido que debe juntarse con repúblicas socialistas afines para reforzar el lugar del comunismo en el mundo. Aceptando nuestro papel líder en la difícil situación internacional del obrero, los [alliance_applicant.GetAdjective] solicitan ahora entrar formalmente en una alianza con nosotros."
+ Faction_Events.2.d.D: "A medida que las actuales convulsiones en la política internacional continúan reverberando por todo el mundo, los [alliance_applicant.GetAdjective] nos han considerado su mayor oportunidad de sobrevivir a estos tiempos tumultuosos. Por ello, solicitan ser admitidos en nuestra alianza, para que podamos capear juntos la tormenta que se avecina."
+ Faction_Events.2.A: "Todos los que defienden la libertad y la democracia pueden venir con nosotros."
+ Faction_Events.2.B: "¡El mundo les pertenece a los fuertes!"
+ Faction_Events.2.C: "Si nos mantenemos unidos, la revolución no podrá sino prevalecer."
+ Faction_Events.2.D: "¡Y la capearemos!"
+ Faction_Events.2.E: "Nos va mejor sin ellos."
+ Faction_Events.2.F: "Ya tenemos los aliados que necesitamos."
+ 
+ Faction_Events.3.t: "[alliance_inviter.GetNameDefCap] nos da la bienvenida a [alliance_inviter.GetFactionName]"
+ Faction_Events.3.d: "[alliance_inviter.GetNameDefCap] ha decidido aceptar nuestra solicitud para unirnos a [alliance_inviter.GetFactionName]. Por ende, nos mantendremos o caeremos unidos."
+ Faction_Events.3.A: "Juntos defenderemos la democracia."
+ Faction_Events.3.B: "¡Nadie puede vencernos!"
+ Faction_Events.3.C: "¡La difícil situación de los obreros no podría pedir mejores campeones!"
+ Faction_Events.3.D: "Dejaremos de lado nuestras diferencias, por ahora."
+ 
+ Faction_Events.4.t: "[alliance_inviter.GetNameDefCap] niega nuestra solicitud para unirnos a [alliance_inviter.GetFactionName]"
+ Faction_Events.4.d: "[alliance_inviter.GetNameDefCap] ha decidido rechazar nuestra solicitud para unirnos a [alliance_inviter.GetFactionName]. Tendremos que apañárnoslas sin su ayuda."
+ Faction_Events.4.A: "Nuestras diferencias eran demasiado notorias."
+ 
+ Faction_Events.5.t: "[alliance_inviter.GetNameDefCap] nos invita a [alliance_inviter.GetFactionName]"
+ Faction_Events.5.d.A: "Con una mirada suspicaz ante los recientes acontecimientos de la política mundial, [alliance_inviter.GetNameDef] nos tiende su mano amiga, ofreciéndonos su protección e instándonos a permanecer a su lado en defensa de los principios de la libertad y la democracia. Como miembro de [alliance_inviter.GetFactionName], la libertad de nuestro pueblo bien puede salvaguardarse."
+ Faction_Events.5.d.B: "Reconociendo que a veces hasta los más fuertes necesitan aliados, los [alliance_inviter.GetAdjective] nos han invitado a unirnos a [alliance_inviter.GetFactionName]. Si decidimos aceptar, es muy posible que ésto nos brinde una gran oportunidad de encontrar nuestro lugar bajo el sol."
+ Faction_Events.5.d.C: "Nuestros aliados ideológicos en [alliance_inviter.GetNameDef] han tomado nota de nuestras valiosas contribuciones a la causa de los obreros, y esta mañana hemos recibido una invitación para unirnos a [alliance_inviter.GetFactionName]. Uniéndonos a otras repúblicas socialistas, podríamos propagar la revolución con fuerzas renovadas."
+ Faction_Events.5.d.D: "Parece que los [alliance_inviter.GetAdjective] consideran que tenemos interés estratégico para ellos, así que les parece más rentable trabajar juntos que permitir que nuestras diferencias ideológicas nos dividan. Esta mañana, el embajador [alliance_inviter.GetAdjective] nos entregó una invitación para convertirnos en Estado miembro de [alliance_inviter.GetFactionName]."
+ Faction_Events.5.A: "Nos posicionaremos con ellos."
+ Faction_Events.5.B: "Sólo necesitamos unos miles de muertos..."
+ Faction_Events.5.C: "¡Lucharemos junto a nuestros camaradas!"
+ Faction_Events.5.D: "Es la opción más rentable."
+ Faction_Events.5.E: "Nos va mejor sin ellos."
+ Faction_Events.5.F: "Ya tenemos los aliados que necesitamos."
+ 
+ Faction_Events.6.t: "[alliance_applicant.GetNameDefCap] acepta la invitación a [alliance_inviter.GetFactionName]"
+ Faction_Events.6.d: "[alliance_applicant.GetNameDefCap] ha decidido aceptar nuestra oferta para unirse a [alliance_inviter.GetFactionName]. Por ende, nos mantendremos o caeremos unidos."
+ 
+ Faction_Events.7.t: "[alliance_applicant.GetNameDefCap] rechaza la oferta para unirse a [alliance_inviter.GetFactionName]"
+ Faction_Events.7.d: "[alliance_applicant.GetNameDefCap] ha decidido rechazar nuestra oferta para unirse a [alliance_inviter.GetFactionName]. Tendremos que apañárnoslas sin su ayuda."
+ Faction_Events.7.A: "Nuestra ayuda no es deseada."

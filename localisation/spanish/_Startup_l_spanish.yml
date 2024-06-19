@@ -1,0 +1,15 @@
+﻿l_spanish:
+#######################################################
+# Events
+#######################################################
+ Optimisation.1.t: "Ajuste opcional: Aumento del rendimiento"
+ Optimisation.1.d: "Darkest Hour: A Hearts of Iron Mod puede ser algo exigente en ordenadores de gama baja debido a la magnitud de lo que añade a la experiencia básica de Hearts of Iron IV. Los que tienen ordenadores de gama baja (o si juegas en multijugador o con conexiones lentas W-LAN) pueden notar una caída en el rendimiento a medida que avance la partida. Para ayudar a remediarlo, proporcionamos una opción para reducir el impacto en el rendimiento.\n\n¿Para qué sirve ésto exactamente? Borrará la industria, ejército, armada de muchas naciones e inhibirá la función de la IA para disminuir la carga de la CPU de tu ordenador. Las naciones afectadas son principalmente las que contribuyen muy poco a la guerra y carecen de contenido en la versión actual. El uso de esta función debería beneficiar al rendimiento, aunque puede crear situaciones extrañas o imprevistas (como invadir una nación sólo para descubrir que no tienen ningún ejército al que enfrentarte ni fábricas que tomar)."
+ Optimisation.1.A: "Sí, me gustaría activar esta opción."
+ Optimisation.1.B: "No, jugaré sin ella."
+ DH_Optimisation_tt: "§RSe desactivarán muchos países latinoamericanos, potenciando el rendimiento.§!"
+ 
+#######################################################
+# Ideas
+#######################################################
+ STARTUP_Debuffs: "Perjuicio de optimización"
+ STARTUP_Debuffs_desc: ""

@@ -1,0 +1,22 @@
+﻿l_spanish:
+######################################################################
+#  Events
+######################################################################
+ RAJ_Governor_Changes.1.t: "Cambio de gobernador general"
+ RAJ_Governor_Changes.1.d: ""
+ RAJ_Governor_Changes.1.A: "Lord Linlithgow"
+
+ RAJ_Governor_Changes.2.t: "Cambio de gobernador general"
+ RAJ_Governor_Changes.2.d: ""
+ RAJ_Governor_Changes.2.A: "Archibald Wavell"
+
+ RAJ_Flavour.1.t: "La hambruna de Bengala"
+ RAJ_Flavour.1.d: "[RAJ.GetNewsIcon]Tragedia en la India: la región de Bengala está sufriendo la peor hambruna jamás registrada. El número de víctimas no hace más que aumentar, y ya hay millones de muertos.\n\nLas hambrunas suelen estar provocadas por guerras y la falta de alimentos, pero la de Bengala se ha debido a una combinación de factores. Durante décadas, se han descuidado los ferrocarriles y las líneass de suministro de Bengala, y varios desastres naturales recientes, como el ciclón de Midnapore, han destruido infraestructuras vitales. Agravó la invasión japonesa de Oriente, la debilidad de las cosechas, el encarecimiento de los alimentos y la inestabilidad del mercado.\n\nEl acaparamiento de alimentos no tardó en generalizarse, y se desarrolló un mercado negro de alimentos como consecuencia de la disminución del suministro. La reacción del Gobierno británico al problema ha sido polémica. La propaganda según la cual no existía ninguna hambruna no hizo sino aumentar el acaparamiento, y las importaciones prometidas no han llegado.\n\nLas consecuencias han sido desastrosas. Millones de personas han muerto a manos de la desnutrición y la enfermedad, el orden social se ha alterado, millones se han quedado sin hogar y se prevé que la ayuda sea lenta. Sin embargo, como la hambruna no se ha debido a una sola causa, es difícil estimar en qué medida se podría haber evitado."
+ RAJ_Flavour.1.A: "Realmente horrible."
+
+######################################################################
+#  Ideas
+######################################################################
+RAJ_The_Indian_Empire: "El Imperio de la India"
+RAJ_The_Indian_Empire_desc: "El «Imperio de la India» es la característica estructura política de la India colonial bajo la Corona británica, debido a factores como la extensión del país, el título de «emperador de la India» que se le otorga al monarca británico y la existencia de los «Estados principescos», estados cuasiindependientes dentro de la India gobernados por monarcas locales pero supeditados al Estado colonial."
+RAJ_Marginalized_Muslim_Community: "Comunidad musulmana marginada"

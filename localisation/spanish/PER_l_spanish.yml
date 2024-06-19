@@ -1,0 +1,14 @@
+﻿l_spanish:
+######################################################################
+#  Events
+###################################################################### 
+ PER_Iran.1.t: "Una sugerencia de nuestro Embajador en Alemania"
+ PER_Iran.1.d: ""
+ PER_Iran.1.A: "¡Parece una buena idea!"
+ PER_Iran.1.B: "No hay necesidad de un cambio tan drástico."
+
+ PER_Flavour.1.t: "La hambruna iraní"
+ PER_Flavour.1.d: "[PER.GetNewsIcon]Irán, actualmente bajo ocupación aliada, ha sufrido una gran hambruna.\n\nDesde la ocupación, tanto los británicos como los soviéticos han buscado ampliar su influencia en sus respectivas zonas. Posteriormente se hicieron con el control de un gran número de vehículos y ferrocarriles de propiedad privada, pero, sin la importación de piezas de repuesto, los sistemas de suministro no tardaron en averiarse. El costo de vida aumentó rápidamente un 700 %. La hambruna asoló inicialmente el sur británico tras una mala cosecha. Los cereales que habían prometido los británicos no llegaron nunca y, después de pedir ayuda a América, el diplomático Louis G. Dreyfus, que al principio estaba preocupado por la hambruna, instó a que EE. UU. respaldara «la postura británica e insistiese en que Irán se ayudase a sí mismo antes de depender de importaciones aliadas». De forma oficial, los británicos culparon de la hambruna al acaparamiento, a una distribución ineficaz y a un sistema de transporte insuficiente, pero los murmullos en Washington afirman que la hambruna fue provocada a propósito. Los soviéticos tampoco han ayudado mucho, restringiendo las importaciones de alimentos del norte y culpando a los británicos de la hambruna. Aunque la Unión Soviética ha suministrado 25 000 toneladas de cereales hasta ahora, se considera «demasiado poco y demasiado tarde» para detener la hambruna.\n\nA raíz de los informes sobre el aumento de muertes por inanición, Estados Unidos envió al teniente general Patrick J. Hurley para examinar la hambruna. La hambruna, que debería haberse debido a la guerra directa o la falta de suministro de alimentos, se considera ahora totalmente evitable y causada en gran medida por los bajos envíos y una mentalidad de señalamiento. Por lo pronto, parece que el pueblo iraní tendrá que aguantar hasta la siguiente cosecha."
+ PER_Flavour.1.A: "¿Nuestra ayuda no fue suficiente?"
+ PER_Flavour.1.B: "¿Qué culpa tenemos nosotros? ¡Los iraníes son los que acaparan!"
+ PER_Flavour.1.C: "Un desastre que podría haberse evitado."

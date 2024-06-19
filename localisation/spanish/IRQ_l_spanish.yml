@@ -1,0 +1,27 @@
+﻿l_spanish:
+######################################################################
+#  Iraq Events
+######################################################################
+ IRQ_Politics.1.t: "La muerte de Fáysal I"
+ IRQ_Politics.1.d: ""
+ IRQ_Politics.1.A: ""
+
+ IRQ_Politics.2.t: "La muerte de Gazi I"
+ IRQ_Politics.2.d: ""
+ IRQ_Politics.2.A: ""
+
+ IRQ_Politics.3.t: "Nuri al-Said es nombrado primer ministro"
+ IRQ_Politics.3.d: ""
+ IRQ_Politics.3.A: ""
+
+ IRQ_Politics.4.t: "El golpe del Cuadrado Dorado"
+ IRQ_Politics.4.d: "Hemos recibido informes de diplomáticos británicos en Irak que describen lo que parece ser un golpe de Estado nacionalista para deponer al regente Abd al-Ilah y a su primer ministro Nuri al-Said y colocar a Rashid Alí al-Gailani como primer ministro.\n\nEste golpe está encabezado por cuatro generales nacionalistas del Ejército iraquí conocidos como el ""«Cuadrado Dorado», que pretenden utilizar la guerra para presionar a favor de la plena independencia iraquí, después de que el país obtuviera una independencia limitada en 1932. Para ello, son sospechosos de colaborar con la inteligencia alemana, así como de aceptar ayuda militar de Alemania e Italia.\\n\\nAhora debemos actuar con rapidez, no sea que la situación en Irak se descontrole y nuestros enemigos se aprovechen del caos. Debemos enviar a nuestras fuerzas de inmediato para sofocar esta rebelión y devolver el país a nuestra esfera de influencia."
+ IRQ_Politics.4.A: "¡Preparen la invasión!"
+
+ IRQ_Politics.5.t: "Golpe en Irak"
+ IRQ_Politics.5.d: ""
+ IRQ_Politics.5.A: ""
+
+ IRQ_Politics.6.t: "Capitulación de Irak"
+ IRQ_Politics.6.d: "El «Gobierno de defensa nacional» de Rashid Alí ya no está al mando. Nuestras fuerzas aéreas y terrestres han luchado valientemente y han puesto Irak rápidamente bajo nuestro control. El teniente general Quinan dirigirá a todas las fuerzas británicas y de la Mancomunidad en Irak. Las fuerzas británicas permanecerán en Irak, manteniendo el país bajo nuestro control indefinidamente. Esta ocupación es necesaria para mantener nuestro acceso a los recursos estratégicos de petróleo de Irak. Aparte de los recursos del país, podemos usar su ubicación ventajosa en el futuro cercano para operaciones tanto defensivas como ofensivas. Por último, podemos usarlo para garantizar el transporte de suministros hacia Rusia.\\n\\nNo podemos permitirnos perder este valioso activo para el Imperio, y debemos proteger sus campos petrolíferos tanto de ataques terrestres como aéreos a toda costa. Esta guerra ha demostrado que las fuerzas británicas defenderán la democracia en el mundo ante la amenaza del nacionalismo. Se cree que Rashid Alí y los muftíes de Jerusalén huyeron a Berlín, donde Alí fue muy probablemente recibido por Hitler como jefe del Gobierno iraquí en el exilio."
+ IRQ_Politics.6.A: "Pronto se enfrentarán a la justicia."

@@ -1,0 +1,333 @@
+﻿l_spanish:
+###########################################
+## Generic Spirits
+###########################################
+# Naval Treaties
+ GENERIC_London_Naval_Treaty: "Tratado Naval de Londres"
+ GENERIC_London_Naval_Treaty_desc: "Tras el desastre humano que fue la Gran Guerra, el ferviente patrioterismo que envolvía a los pueblos de Europa se disipó y también lo hizo el interés por mantener una cantidad masiva de fuerzas armadas a punto, pero no para la flota. Las naciones vencedoras del conflicto, subyugados sus adversarios, siguieron arrojando dinero al desarrollo de buques para preservar su influencia y dominación económica en el exterior, pero la escalada tenía que parar en algún momento, ya que las tensiones podían desembocar en otra ruptura de las relaciones y quizás en otro conflicto.\n\nAsí fue como en 1930, tras varios intentos fallidos durante los años veinte por llegar al mismo resultado, las cinco grandes potencias navales se congregaron en Londres y firmaron el tratado de limitación de armamentos navales y tonelaje de los buques, que puso fin a la carrera armamentística en ciernes y, aparentemente, al pozo sin fondo en el que se habían convertido las flotas."
+
+ generic_idea_exploit_natrual_riches: "Explotar las riquezas naturales"
+ generic_idea_exploit_natrual_riches_desc: ""
+
+
+###########################################
+## Generic Events
+###########################################
+
+ GENERIC_Focus_Tree.13.t: "Obras públicas"
+ GENERIC_Focus_Tree.13.d: ""
+ GENERIC_Focus_Tree.13.A: ""
+ GENERIC_Focus_Tree.13.B: ""
+ GENERIC_Focus_Tree.13.C: ""
+
+###########################################
+## Generic Decisions
+###########################################
+# Debug Mode
+ Debug_Decisions: "Modo Depuración"
+
+ DB_German_Civil_War: "Guerra civil alemana"
+ DB_British_Civil_War: "Guerra civil británica"
+ DB_American_Civil_War: "Segunda guerra civil estadounidense"
+ DB_German_Kaiserreich_Restoration_W2: "Restauración del Kaiserreich alemán: Guillermo II"
+ DB_German_Kaiserreich_Restoration_W3: "Restauración del Kaiserreich alemán: Guillermo III"
+ DB_Chinese_Civil_War_Xian: "Guerra civil china: KMT de izquierdas"
+
+# Political Action
+ anti_fascist_raids: "Redadas antifascistas"
+ anti_autocrat_raids: "Redadas antiautocráticas"
+ anti_democratic_raids: "Redadas antidemocráticas"
+ anti_socialist_raids: "Redadas antisocialistas"
+ anti_communist_raids: "Redadas anticomunistas"
+
+# Economic Recovery
+ Wartime_Economic_Recovery: "Recuperación económica de guerra"
+
+# Categories
+ fortification_projects: "Proyectos de fortificaciones"
+ Occupation_Policy: "Política de ocupación"
+
+###########################################
+## Faction Joining Decision Categories
+###########################################
+ Faction_Axis_category: "Unirse al Eje"
+ Faction_Axis_category_desc: ""
+
+ Faction_Pact_of_Rome_category: "Unirse al Pacto de Roma"
+ Faction_Pact_of_Rome_category_desc: ""
+
+ Faction_Asian_category: "Unirse a la Esfera de Coprosperidad de la Gran Asia Oriental"
+ Faction_Asian_category_desc: ""
+
+ Faction_Allies_category: "Unirse a los Aliados"
+ Faction_Allies_category_desc: ""
+
+ Faction_Western_Bloc_category: "Unirse al Bloque Occidental"
+ Faction_Western_Bloc_category_desc: ""
+
+ Faction_Comintern_category: "Unirse a la Komintern"
+ Faction_Comintern_category_desc: ""
+
+ Faction_Internationale_category: "Unirse a la Internacional"
+ Faction_Internationale_category_desc: ""
+
+ Faction_Eastern_Bloc_category: "Unirse al Bloque Oriental"
+ Faction_Eastern_Bloc_category_desc: ""
+
+###########################################
+## Faction Joining Decision Categories
+###########################################
+
+ Faction_Join_Axis: "Unirse al Eje"
+ Faction_Join_Axis_desc: "Únete al Eje, chaval, todos los chulos lo hacen."
+
+ Faction_Join_Allies: "Unirse a los Aliados"
+ Faction_Join_Allies_desc: "Los Aliados son los buenos, ¿no?"
+
+ Faction_Join_Comintern: "Unirse a la Komintern"
+ Faction_Join_Comintern_desc: "¡CAMARADA! ¡Únete por la madre Rusia!"
+
+ Faction_Join_Asia: "Unirse a la Esfera de Coprosperidad de la Gran Asia Oriental"
+ Faction_Join_Asia_desc: "Éstos son unos otakus raritos."
+
+ Faction_Join_Internationale: "Unirse a la Internacional"
+ Faction_Join_Internationale_desc: "Psst, chaval, ¿quieres hacer revoluciones?"
+
+###########################################
+## Custom trigger tooltips
+###########################################
+
+GENERIC_Check_if_Coastal: "No es una nación sin litoral"
+ 
+###########################################
+## Government Changes
+###########################################
+# Stalinists
+ communist_on_the_rise: "Marxismo-leninismo al alza"
+ communist_on_the_rise_desc: "Algunos elementos políticos han empezado a pronunciarse a favor de los valores comunistas, encontrando apoyo en un número cada vez mayor de la población. El camino de la nación hacia el comunismo está abierto, a la espera simplemente de la elección de una transición pacífica o violenta."
+ prepare_for_communist_civil_war: "Prepararse para la guerra civil"
+ prepare_for_communist_civil_war_desc: "No tenemos tiempo para esperar los lentos cambios en la mente de la gente. Por su propio bien, debemos forzar la maquinaria, aunque algunos puedan perder la vida en el proceso. A diferencia de un referéndum pacífico, una guerra civil causará una tremenda devastación a nuestras Fuerzas Armadas y a la industria e infraestructura del país, pero también es más rápida y garantiza que podremos imponer nuestra voluntad con más fuerza después."
+ expand_civil_stalinst_support: "Ampliar el apoyo civil"
+ expand_civil_stalinst_support_desc: "Debemos garantizar la continua difusión del apoyo a nuestra causa entre la población y animarla a desafiar públicamente la autoridad del Gobierno actual. A medida que la posición del Gobierno se vea cada vez más debilitada y la agitación civil siga aumentando, nos resultará más fácil lograr nuestros objetivos. Ésto es especialmente cierto si, a diferencia de un cambio legal de Gobierno, estos objetivos implican un medio más... siniestro de cambio de régimen."
+ army_support_for_communist_civil_war: "Ampliar el apoyo militar"
+ army_support_for_communist_civil_war_desc: "Sin un amplio apoyo de los militares, cualquier esperanza de victoria en una lucha ideológica sería en vano. Debemos asegurar la lealtad de unidades bien situadas de nuestras fuerzas militares."
+ ensure_general_loyalty_for_communist_civil_war: "Garantizar la lealtad de los mandos inferiores del Ejército"
+ ensure_general_loyalty_for_communist_civil_war_desc: "Es posible que ciertos generales alberguen sentimientos en secreto a favor de la democracia. Debemos dirigirnos a ellos y asegurar su lealtad para cuando comiencen los combates."
+ ensure_marshal_loyalty_for_communist_civil_war: "Garantizar la lealtad de los mandos superiores del Ejército"
+ ensure_marshal_loyalty_for_communist_civil_war_desc: "Es posible que ciertos mariscales de campo alberguen sentimientos en secreto a favor del estalinismo. Debemos dirigirnos a ellos y asegurar su lealtad para cuando comiencen los combates."
+ siphon_equipment_stockpiles_for_communist_civil_war: "Malversar equipo"
+ siphon_equipment_stockpiles_for_communist_civil_war_desc: "Al desvalijar los almacenes de equipamiento de la nación, podemos crear un pequeño alijo de armamento que nos ayude en nuestra lucha futura."
+ formulate_surprise_attack_plan_for_communist_civil_war: "Formular un plan de ataque por sorpresa"
+ formulate_surprise_attack_plan_for_communist_civil_war_desc: "El enemigo no tiene ni idea de la calamidad que se les avecina. Debemos asegurarnos de que ésto siga siendo así, al tiempo que dirigimos nuestros planes de batalla para aprovechar al máximo el elemento sorpresa."
+ ignite_the_communist_civil_war: "Provocar la guerra civil"
+ ignite_the_communist_civil_war_desc: "Ha llegado el momento de dar el paso. Se han hecho todos los preparativos que hemos considerado necesarios. No hay vuelta atrás."
+ rebuild_the_nation_communist: "Reconstruir la nación"
+ rebuild_the_nation_communist_desc: "Tras la guerra civil, llega ahora el momento de reconstruir nuestra nación destrozada."
+ open_up_political_discourse_communist: "Abrir el discurso político"
+ open_up_political_discourse_communist_desc: "Debemos abrir la aceptación de puntos de vista divergentes en el Gobierno. Tal vez ésto haga posible finalmente un cambio pacífico en la política de nuestra nación."
+ discredit_government_communist: "Desacreditar al Gobierno"
+ discredit_government_communist_desc: "Al señalar las muchas fallas de nuestro Gobierno actual, podemos hacer que la gente piense en las causas ideológicas de estos fracasos."
+ hold_the_communist_national_referendum: "Convocar un referéndum nacional"
+ hold_the_communist_national_referendum_desc: "Con suficiente apoyo, ya podemos convocar un referéndum que propicie un cambio de Gobierno sin derramamientos de sangre."
+
+# Left Wing Radicals
+ socialist_on_the_rise: "Socialismo al alza"
+ socialist_on_the_rise_desc: "Algunos elementos políticos han empezado a pronunciarse a favor de los valores radicalistas de izquierdas, encontrando apoyo en un número cada vez mayor de la población. El camino de la nación hacia el radicalismo de izquierdas está abierto, a la espera simplemente de la elección de una transición pacífica o violenta."
+ prepare_for_socialist_civil_war: "Prepararse para la guerra civil"
+ prepare_for_socialist_civil_war_desc: "No tenemos tiempo para esperar los lentos cambios en la mente de la gente. Por su propio bien, debemos forzar la maquinaria, aunque algunos puedan perder la vida en el proceso. A diferencia de un referéndum pacífico, una guerra civil causará una tremenda devastación a nuestras Fuerzas Armadas y a la industria e infraestructura del país, pero también es más rápida y garantiza que podremos imponer nuestra voluntad con más fuerza después."
+ expand_civil_socialist_support: "Ampliar el apoyo civil"
+ expand_civil_socialist_desc: "Debemos garantizar la continua difusión del apoyo a nuestra causa entre la población y animarla a desafiar públicamente la autoridad del Gobierno actual. A medida que la posición del Gobierno se vea cada vez más debilitada y la agitación civil siga aumentando, nos resultará más fácil lograr nuestros objetivos. Ésto es especialmente cierto si, a diferencia de un cambio legal de Gobierno, estos objetivos implican un medio más... siniestro de cambio de régimen."
+ army_support_for_socialist_civil_war: "Ampliar el apoyo militar"
+ army_support_for_socialist_civil_war_desc: "Sin un amplio apoyo de los militares, cualquier esperanza de victoria en una lucha ideológica sería en vano. Debemos asegurar la lealtad de unidades bien situadas de nuestras fuerzas militares."
+ ensure_general_loyalty_for_socialist_civil_war: "Garantizar la lealtad de los mandos inferiores del Ejército"
+ ensure_general_loyalty_for_socialist_civil_war_desc: "Es posible que ciertos generales alberguen sentimientos en secreto a favor de la democracia. Debemos dirigirnos a ellos y asegurar su lealtad para cuando comiencen los combates."
+ ensure_marshal_loyalty_for_socialist_civil_war: "Garantizar la lealtad de los mandos superiores del Ejército"
+ ensure_marshal_loyalty_for_socialist_civil_war_desc: "Es posible que ciertos mariscales de campo alberguen sentimientos en secreto a favor del leninismo. Debemos dirigirnos a ellos y asegurar su lealtad para cuando comiencen los combates."
+ siphon_equipment_stockpiles_for_socialist_civil_war: "Malversar equipo"
+ siphon_equipment_stockpiles_for_socialist_civil_war_desc: "Al desvalijar los almacenes de equipamiento de la nación, podemos crear un pequeño alijo de armamento que nos ayude en nuestra lucha futura."
+ formulate_surprise_attack_plan_for_socialist_civil_war: "Formular un plan de ataque por sorpresa"
+ formulate_surprise_attack_plan_for_socialist_civil_war_desc: "El enemigo no tiene ni idea de la calamidad que se les avecina. Debemos asegurarnos de que ésto siga siendo así, al tiempo que dirigimos nuestros planes de batalla para aprovechar al máximo el elemento sorpresa."
+ ignite_the_socialist_civil_war: "Provocar la guerra civil"
+ ignite_the_socialist_civil_war_desc: "Ha llegado el momento de dar el paso. Se han hecho todos los preparativos que hemos considerado necesarios. No hay vuelta atrás."
+ rebuild_the_nation_socialist: "Reconstruir la nación"
+ rebuild_the_nation_socialist_desc: "Tras la guerra civil, llega ahora el momento de reconstruir nuestra nación destrozada."
+ open_up_political_discourse_socialist: "Abrir el discurso político"
+ open_up_political_discourse_socialist_desc: "Debemos abrir la aceptación de puntos de vista divergentes en el Gobierno. Tal vez ésto haga posible finalmente un cambio pacífico en la política de nuestra nación."
+ discredit_government_socialist: "Desacreditar al Gobierno"
+ discredit_government_socialist_desc: "Al señalar las muchas fallas de nuestro Gobierno actual, podemos hacer que la gente piense en las causas ideológicas de estos fracasos."
+ hold_the_socialist_national_referendum: "Convocar un referéndum nacional"
+ hold_the_socialist_national_referendum_desc: "Con suficiente apoyo, ya podemos convocar un referéndum que propicie un cambio de Gobierno sin derramamientos de sangre."
+
+# Fascist
+ fascist_on_the_rise: "Fascismo al alza"
+ fascist_on_the_rise_desc: "Algunos elementos políticos han empezado a pronunciarse a favor de los valores fascistas, encontrando apoyo en un número cada vez mayor de la población. El camino de la nación hacia el fascismo está abierto, a la espera simplemente de la elección de una transición pacífica o violenta."
+ prepare_for_fascist_civil_war: "Prepararse para la guerra civil"
+ prepare_for_fascist_civil_war_desc: "No tenemos tiempo para esperar los lentos cambios en la mente de la gente. Por su propio bien, debemos forzar la maquinaria, aunque algunos puedan perder la vida en el proceso. A diferencia de un referéndum pacífico, una guerra civil causará una tremenda devastación a nuestras Fuerzas Armadas y a la industria e infraestructura del país, pero también es más rápida y garantiza que podremos imponer nuestra voluntad con más fuerza después."
+ expand_civil_fascist_support: "Ampliar el apoyo civil"
+ expand_civil_fascist_support_desc: "Debemos garantizar la continua difusión del apoyo a nuestra causa entre la población y animarla a desafiar públicamente la autoridad del Gobierno actual. A medida que la posición del Gobierno se vea cada vez más debilitada y la agitación civil siga aumentando, nos resultará más fácil lograr nuestros objetivos. Ésto es especialmente cierto si, a diferencia de un cambio legal de Gobierno, estos objetivos implican un medio más... siniestro de cambio de régimen."
+ army_support_for_fascist_civil_war: "Ampliar el apoyo militar"
+ army_support_for_fascist_civil_war_desc: "Sin un amplio apoyo de los militares, cualquier esperanza de victoria en una lucha ideológica armada sería en vano. Debemos asegurar la lealtad de unidades bien situadas de nuestras fuerzas militares."
+ army_support_TT: "Cada vez que se aumenta el apoyo al Ejército, se añade un 10 % a la fuerza de tu facción en la guerra civil, hasta una fuerza total máxima del 70 %.\n"
+ ensure_general_loyalty_for_fascist_civil_war: "Garantizar la lealtad de los mandos inferiores del Ejército"
+ ensure_general_loyalty_for_fascist_civil_war_desc: "Es posible que ciertos generales alberguen sentimientos en secreto a favor del fascismo. Debemos dirigirnos a ellos y asegurar su lealtad para cuando comiencen los combates."
+ ensure_marshal_loyalty_for_fascist_civil_war: "Garantizar la lealtad de los mandos superiores del Ejército"
+ ensure_marshal_loyalty_for_fascist_civil_war_desc: "Es posible que ciertos mariscales de campo alberguen sentimientos en secreto a favor del fascismo. Debemos dirigirnos a ellos y asegurar su lealtad para cuando comiencen los combates."
+ siphon_equipment_stockpiles_for_fascist_civil_war: "Malversar equipo"
+ siphon_equipment_stockpiles_for_fascist_civil_war_desc: "Al desvalijar los almacenes de equipamiento de la nación, podemos crear un pequeño alijo de armamento que nos ayude en nuestra lucha futura."
+ formulate_surprise_attack_plan_for_fascist_civil_war: "Formular un plan de ataque por sorpresa"
+ formulate_surprise_attack_plan_for_fascist_civil_war_desc: "El enemigo no tiene ni idea de la calamidad que se les avecina. Debemos asegurarnos de que ésto siga siendo así, al tiempo que dirigimos nuestros planes de batalla para aprovechar al máximo el elemento sorpresa."
+ formulate_surprise_attack_plan_for_civil_war_tt: "El plan de ataque por sorpresa otorga una bonificación de ataque del 25 % a todas las divisiones en territorio esencial durante 30 días.\n"
+ ignite_the_fascist_civil_war: "Provocar la guerra civil"
+ ignite_the_fascist_civil_war_desc: "Ha llegado el momento de dar el paso. Se han hecho todos los preparativos que hemos considerado necesarios. No hay vuelta atrás."
+ rebuild_the_nation_fascist: "Reconstruir la nación"
+ rebuild_the_nation_fascist_desc: "Tras la guerra civil, llega ahora el momento de reconstruir nuestra nación destrozada."
+ open_up_political_discourse_fascist: "Abrir el discurso político"
+ open_up_political_discourse_fascist_desc: "Debemos abrir la aceptación de puntos de vista divergentes en el Gobierno. Tal vez ésto haga posible finalmente un cambio pacífico en la política de nuestra nación."
+ discredit_government_fascist: "Desacreditar al Gobierno"
+ discredit_government_fascist_desc: "Al señalar las muchas fallas de nuestro Gobierno actual, podemos hacer que la gente piense en las causas ideológicas de estos fracasos."
+ hold_the_fascist_national_referendum: "Convocar un referéndum nacional"
+ hold_the_fascist_national_referendum_desc: "Con suficiente apoyo, ya podemos convocar un referéndum que propicie un cambio de Gobierno sin derramamientos de sangre."
+
+# Paternal Autocrat
+ patneral_autocrat_on_the_rise: "Paternalismo autocrático al alza"
+ patneral_autocrat_on_the_rise_desc: "Algunos elementos políticos han empezado a pronunciarse a favor de los valores paternalistas autocráticos, encontrando apoyo en un número cada vez mayor de la población. El camino de la nación hacia el paternalismo autocrático está abierto, a la espera simplemente de la elección de una transición pacífica o violenta."
+ prepare_for_patneral_autocrat_civil_war: "Prepararse para la guerra civil"
+ prepare_for_patneral_autocrat_civil_war_desc: "No tenemos tiempo para esperar los lentos cambios en la mente de la gente. Por su propio bien, debemos forzar la maquinaria, aunque algunos puedan perder la vida en el proceso. A diferencia de un referéndum pacífico, una guerra civil causará una tremenda devastación a nuestras Fuerzas Armadas y a la industria e infraestructura del país, pero también es más rápida y garantiza que podremos imponer nuestra voluntad con más fuerza después."
+ expand_civil_patneral_autocrat_support: "Ampliar el apoyo civil"
+ expand_civil_patneral_autocrat_support_desc: "Debemos garantizar la continua difusión del apoyo a nuestra causa entre la población y animarla a desafiar públicamente la autoridad del Gobierno actual. A medida que la posición del Gobierno se vea cada vez más debilitada y la agitación civil siga aumentando, nos resultará más fácil lograr nuestros objetivos. Ésto es especialmente cierto si, a diferencia de un cambio legal de Gobierno, estos objetivos implican un medio más... siniestro de cambio de régimen."
+ army_support_for_patneral_autocrat_civil_war: "Ampliar el apoyo militar"
+ army_support_for_patneral_autocrat_civil_war_desc: "Sin un amplio apoyo de los militares, cualquier esperanza de victoria en una lucha ideológica armada sería en vano. Debemos asegurar la lealtad de unidades bien situadas de nuestras fuerzas militares."
+ army_support_TT: "Cada vez que se aumenta el apoyo al Ejército, se añade un 10 % a la fuerza de tu facción en la guerra civil, hasta una fuerza total máxima del 70 %.\n"
+ ensure_general_loyalty_for_patneral_autocrat_civil_war: "Garantizar la lealtad de los mandos inferiores del Ejército"
+ ensure_general_loyalty_for_patneral_autocrat_civil_war_desc: "Es posible que ciertos generales alberguen sentimientos en secreto a favor del paternalismo autocrático. Debemos dirigirnos a ellos y asegurar su lealtad para cuando comiencen los combates."
+ ensure_marshal_loyalty_for_patneral_autocrat_civil_war: "Garantizar la lealtad de los mandos superiores del Ejército"
+ ensure_marshal_loyalty_for_patneral_autocrat_civil_war_desc: "Es posible que ciertos mariscales de campo alberguen sentimientos en secreto a favor del paternalismo autocrático. Debemos dirigirnos a ellos y asegurar su lealtad para cuando comiencen los combates."
+ siphon_equipment_stockpiles_for_patneral_autocrat_civil_war: "Malversar equipo"
+ siphon_equipment_stockpiles_for_patneral_autocrat_civil_war_desc: "Al desvalijar los almacenes de equipamiento de la nación, podemos crear un pequeño alijo de armamento que nos ayude en nuestra lucha futura."
+ formulate_surprise_attack_plan_for_patneral_autocrat_civil_war: "Formular un plan de ataque por sorpresa"
+ formulate_surprise_attack_plan_for_patneral_autocrat_civil_war_desc: "El enemigo no tiene ni idea de la calamidad que se les avecina. Debemos asegurarnos de que ésto siga siendo así, al tiempo que dirigimos nuestros planes de batalla para aprovechar al máximo el elemento sorpresa."
+ formulate_surprise_attack_plan_for_civil_war_tt: "El plan de ataque por sorpresa otorga una bonificación de ataque del 25 % a todas las divisiones en territorio esencial durante 30 días.\n"
+ ignite_the_patneral_autocrat_civil_war: "Provocar la guerra civil"
+ ignite_the_patneral_autocrat_civil_war_desc: "Ha llegado el momento de dar el paso. Se han hecho todos los preparativos que hemos considerado necesarios. No hay vuelta atrás."
+ rebuild_the_nation_patneral_autocrat: "Reconstruir la nación"
+ rebuild_the_nation_patneral_autocrat_desc: "Tras la guerra civil, llega ahora el momento de reconstruir nuestra nación destrozada."
+ open_up_political_discourse_patneral_autocrat: "Abrir el discurso político"
+ open_up_political_discourse_patneral_autocrat_desc: "Debemos abrir la aceptación de puntos de vista divergentes en el Gobierno. Tal vez ésto haga posible finalmente un cambio pacífico en la política de nuestra nación."
+ discredit_government_patneral_autocrat: "Desacreditar al Gobierno"
+ discredit_government_patneral_autocrat_desc: "Al señalar las muchas fallas de nuestro Gobierno actual, podemos hacer que la gente piense en las causas ideológicas de estos fracasos."
+ hold_the_patneral_autocrat_national_referendum: "Convocar un referéndum nacional"
+ hold_the_patneral_autocrat_national_referendum_desc: "Con suficiente apoyo, ya podemos convocar un referéndum que propicie un cambio de Gobierno sin derramamientos de sangre."
+
+###########################################
+## Generic Focuses
+###########################################
+ GEN_Improving_the_Rural_Industry: "Mejorar la industria rural"
+ GEN_Improving_the_Rural_Industry_desc: ""
+
+ GEN_Improve_Agricutlural_Methods: "Mejorar los métodos agrícolas"
+ GEN_Improve_Agricutlural_Methods_desc: ""
+
+ GEN_Land_Reform_economic: "Reforma agraria económica"
+ GEN_Land_Reform_economic_desc: ""
+
+ GEN_Start_Building_a_New_Railway: "Empezar a construir un nuevo ferrocarril"
+ GEN_Start_Building_a_New_Railway_desc: ""
+
+ GEN_Promote_Urbanization: "Fomentar la urbanización"
+ GEN_Promote_Urbanization_desc: ""
+
+ GEN_Improve_Provincial_Infrastructure: "Mejorar la infraestructura provincial"
+ GEN_Improve_Provincial_Infrastructure_desc: ""
+
+ GEN_State_Controlled_Monopoly: "Monopolio controlado por el Estado"
+ GEN_State_Controlled_Monopoly_desc: ""
+
+ GEN_Allow_Private_Railways: "Permitir ferrocarriles privados"
+ GEN_Allow_Private_Railways_desc: ""
+
+ GEN_Build_up_the_Capital_City: "Desarrollar la capital"
+ GEN_Build_up_the_Capital_City_desc: ""
+
+ GEN_Start_Rural_Electrification: "Comenzar la electrificación rural"
+ GEN_Start_Rural_Electrification_desc: ""
+
+ GEN_Open_University_in_the_Capital: "Abrir una universidad en la capital"
+ GEN_Open_University_in_the_Capital_desc: ""
+
+ GEN_Invest_in_Airports: "Invertir en aeropuertos"
+ GEN_Invest_in_Airports_desc: ""
+
+ GEN_Import_Industrial_Machinery: "Importar maquinaria industrial"
+ GEN_Import_Industrial_Machinery_desc: ""
+
+ GEN_Expand_Local_Armory: "Ampliar las armerías locales"
+ GEN_Expand_Local_Armory_desc: ""
+
+ GEN_Begin_the_Industrialization_Process: "Comenzar el proceso de industrialización"
+ GEN_Begin_the_Industrialization_Process_desc: ""
+
+ GEN_Contract_Skilled_Workers: "Contratar trabajadores cualificados"
+ GEN_Contract_Skilled_Workers_desc: ""
+
+ GEN_Promote_Trade: "Fomentar el comercio"
+ GEN_Promote_Trade_desc: ""
+
+ GEN_Development_on_our_own: "Desarrollo por nuestra cuenta"
+ GEN_Development_on_our_own_desc: ""
+
+ GEN_Reactive_Old_Armories: "Reactivar las viejas armerías"
+ GEN_Reactive_Old_Armories_desc: ""
+
+ GEN_Increase_Fuel_Reserves: "Aumentar las reservas de combustible"
+ GEN_Increase_Fuel_Reserves_desc: ""
+
+ GEN_Improve_the_Shipping_Industry: "Mejorar la industria del transporte marítimo"
+ GEN_Improve_the_Shipping_Industry_desc: ""
+
+ GEN_Exploit_Natural_Riches_Economic: "Explotar las riquezas naturales económicas"
+ GEN_Exploit_Natural_Riches_Economic_desc: ""
+
+ GEN_Build_Roads_to_Increase_Commerce: "Construir carreteras para aumentar el comercio"
+ GEN_Build_Roads_to_Increase_Commerce_desc: ""
+
+ GEN_Upgrade_Industrial_Machines: "Mejorar la maquinaria industrial"
+ GEN_Upgrade_Industrial_Machines_desc: ""
+
+ GEN_Expand_the_Domestic_Arms_Industry: "Expandir la industria armamentística nacional"
+ GEN_Expand_the_Domestic_Arms_Industry_desc: ""
+
+ GEN_Increase_the_Wealth_of_the_People: "Aumentar la riqueza del pueblo"
+ GEN_Increase_the_Wealth_of_the_People_desc: ""
+
+ GEN_Clear_the_Slums: "Despejar los suburbios"
+ GEN_Clear_the_Slums_desc: ""
+
+ GEN_Increase_the_Iron_Production: "Aumentar la producción de hierro"
+ GEN_Increase_the_Iron_Production_desc: ""
+
+ GEN_Organize_Public_works_Economic: "Organizar obras públicas económicas"
+ GEN_Organize_Public_works_Economic_desc: ""
+
+ GEN_Capital_Renovation_Plan: "Plan de renovación del capital"
+ GEN_Capital_Renovation_Plan_desc: ""
+
+ GEN_Invest_in_Synthetic_Industry: "Invertir en la industria sintética"
+ GEN_Invest_in_Synthetic_Industry_desc: ""
+
+ GEN_Invest_in_Consumer_Industry: "Invertir en la industria de consumo"
+ GEN_Invest_in_Consumer_Industry_desc: ""
+
+ GEN_Into_the_Modern_Age: "A la era moderna"
+ GEN_Into_the_Modern_Age_desc: ""
+
+ GEN_Secure_the_National_Rebirth: "Asegurar el renacimiento nacional"
+ GEN_Secure_the_National_Rebirth_desc: ""
+
+ GEN_Increase_Social_Welfare_Fascism: "Aumentar el bienestar social"
+ GEN_Increase_Social_Welfare_Fascism_desc: ""
+
+ GEN_Public_Works_fascist: "Obras públicas"
+ GEN_Public_Works_fascist_desc: ""
+
+ GEN_National_Youth_Organisation_fascist: "Organización nacional de la juventud"
+ GEN_National_Youth_Organisation_fascist_desc: ""

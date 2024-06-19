@@ -1,0 +1,76 @@
+﻿l_spanish:
+######################################################################
+#  Liticia Dispute Events
+######################################################################
+ PRU_Liticia_Dispute.1.t: "¡Asesinato de Luis Miguel Sánchez!"
+ PRU_Liticia_Dispute.1.d: "¿Qué haces jugando como Perú? En fin, han troleado un poco a tu líder."
+ PRU_Liticia_Dispute.1.a: "¡Óscar Benavides nos guiará!"
+ 
+ PRU_Liticia_Dispute.2.t: "Perú cede Leticia"
+ PRU_Liticia_Dispute.2.d: "¿Qué cojones haces jugando como Colombia? Toma un estado por la cara en medio de la selva amazónica. ¿Estás contento? Más te vale, porque este evento es el único contenido que tiene Colombia en esta versión."
+ PRU_Liticia_Dispute.2.a: "¡Viva Colombia!"
+ 
+ #####################################################################
+ # 1939 Peruvian Election Event
+ #####################################################################
+ PRU_1939_Election.1.t: "Elecciones peruanas de 1939"
+ PRU_1939_Election.1.d: "referente"
+ PRU_1939_Election.1.a: "¡Manuel Prado Ugarteche sale victorioso!"
+ 
+ #####################################################################
+ # 1941 Peruvian-Ecuadorian War Events
+ #####################################################################
+ PRU_Ecuador_War.1.t: "La guerra del 41"
+ PRU_Ecuador_War.1.d: "Ecuador un poco sus"
+ PRU_Ecuador_War.1.a: "Adelante."
+ PRU_Ecuador_War.1.b: "No vale la pena una guerra."
+ 
+ PRU_Ecuador_War.2.t: "¡Las fuerzas peruanas se movilizan!"
+ PRU_Ecuador_War.2.d: "Perú un poco sus"
+ PRU_Ecuador_War.2.a: "¡Muerte a Perú!"
+ 
+ PRU_Ecuador_War.3.t: "¡Estalla una guerra entre Perú y Ecuador!"
+ PRU_Ecuador_War.3.d: "[From.GetNewsIcon]Tras una serie de disparos y escaramuzas en la frontera entre Perú y Ecuador, tropas peruanas han marchado sobre territorio ecuatoriano, desencadenando oficialmente una guerra entre ambos países.\n\nLa guerra se produce tras años de enfrentamientos fronterizos entre Perú y Ecuador por el territorio comprendido entre la cordillera de los Andes y el río Marañón desde 1938. Los dos países están enfrentados desde la caída de la Gran Colombia en 1857, cuando estalló la primera guerra ecuatoriano-peruana. Colombia, país vecino, también participó en la lucha, enfrentándose a Perú en 1932 por una disputa territorial distinta relacionada con el Tratado Salomón-Lozano. Tras la breve guerra, se firmó un nuevo tratado, el Protocolo de Río de Janeiro de 1934, para mantener el acuerdo original Salomón-Lozano. Colombia, por su parte, reconoció las ambiciones fronterizas de Perú. Ecuador, indignado por el acuerdo, rechazó las reivindicaciones y mantuvo relaciones diplomáticas con Perú. Ambos países empezaron a destinar formaciones y patrullas militares cerca de la frontera, y parece que las tensiones han llegado a un punto álgido.\n\nEl Ejército de Perú es considerablemente mayor que el de Ecuador, y se espera que ganen la guerra pronto."
+ PRU_Ecuador_War.3.a: "¡Los aplastaremos!"
+ PRU_Ecuador_War.3.b: "¡No pasarán!"
+ PRU_Ecuador_War.3.c: "Tenemos cosas más importantes que una disputa territorial insignificante."
+ PRU_Ecuador_War.3.e: "¿Se despedazará también Sudamérica?"
+ 
+ PRU_Ecuador_War.4.t: "¡Victoria ante Ecuador!"
+ PRU_Ecuador_War.4.d: "referente"
+ PRU_Ecuador_War.4.a: "Poggers"
+ 
+ PRU_Ecuador_War.5.t: "¡Perú toma nuestro territorio!"
+ PRU_Ecuador_War.5.d: "referente"
+ PRU_Ecuador_War.5.a: "F"
+ 
+ PRU_Ecuador_War.6.t: "Perú derrota a Ecuador, se firma un alto el fuego"
+ PRU_Ecuador_War.6.d: "[From.GetNewsIcon]La guerra ecuatoriano-peruana ha concluido oficialmente. El presidente de Ecuador ha firmado un alto el fuego para mantener la estabilidad política a medida que las tropas peruanas avanzaban hacia la capital.\n\nLa mano de obra y la tecnología peruanas superan con creces a las ecuatorianas, con divisiones que incluyen tanques, artillería y apoyo aéreo checos. Ésto les permitió cruzar rápidamente la frontera y entrar en la provincia de El Oro. La Fuerza Aérea peruana también realizó ataques aéreos limitados en pueblos como Huaquillas, Machala y Arenillas.\n\nSegún el alto el fuego, Perú ocupará la provincia entera de El Oro, haciendo retroceder por completo las fronteras originales de la posguerra. Sin embargo, se espera que la ocupación sea temporal, ya que ambos países tienen previsto asistir en los próximos meses a una conferencia de paz sobre el conflicto fronterizo en Brasil, en la que diplomáticos estadounidenses, chilenos y argentinos actuarán como mediadores. Esperemos que ésto ponga punto y final al fiasco fronterizo."
+ PRU_Ecuador_War.6.a: "¡Viva Perú!"
+ PRU_Ecuador_War.6.b: "..."
+ PRU_Ecuador_War.6.c: "Era de esperar."
+ PRU_Ecuador_War.6.e: "Otra derrota para Quito."
+ 
+ PRU_Ecuador_War.7.t: "¡Ecuador nos derrota!"
+ PRU_Ecuador_War.7.d: "se te da mal jugar a esto"
+ PRU_Ecuador_War.7.a: "¡Malditos ecuatorianos!"
+ 
+ PRU_Ecuador_War.8.t: "David y Goliat"
+ PRU_Ecuador_War.8.d: "referente"
+ PRU_Ecuador_War.8.a: "¡Así aprenderán!"
+ 
+ PRU_Ecuador_War.9.t: "Ecuador derrota asombrosamente a Perú, se firma un alto el fuego"
+ PRU_Ecuador_War.9.d: "[From.GetNewsIcon]En una victoria militar para la historia, el Ejército ecuatoriano ha obligado al presidente peruano a firmar un alto el fuego, poniendo fin oficialmente a la guerra entre las dos naciones sudamericanas.\n\nSe sabía que el Ejército, la Fuerza Aérea y la tecnología de Ecuador eran más pequeños y anticuados que los de Perú, pero mediante tácticas militares prósperas, sus tropas pudieron capturar las ciudades de Tumbes, Itutu y Piura. Para mantener la estabilidad en Perú, el presidente cedió y firmó el acuerdo de alto el fuego. Ecuador se dispone ahora a ocupar la provincia de Tumbes, así como gran parte de Loreto.\n\nLa ocupación ya ha dado lugar a enfrentamientos entre las tropas peruanas y ecuatorianas, y es en gran medida temporal hasta que comiencen las conversaciones oficiales de paz en Brasil en los próximos meses. Diplomáticos de los Estados Unidos, Chile y Argentina ya han accedido a mediar en la reunión. Por lo pronto, parece que el conflicto fronterizo se ha resuelto de una vez por todas."
+ PRU_Ecuador_War.9.a: "¿Cómo ha podido pasar?"
+ PRU_Ecuador_War.9.b: "¡Viva Ecuador!"
+ PRU_Ecuador_War.9.c: "Podríamos aprender un par de cositas de esos ecuatorianos."
+ PRU_Ecuador_War.9.e: "Una sorprendente victoria."
+ 
+ #####################################################################
+ #  Peru Tooltips
+ #####################################################################
+ PRU_Liticia_Dispute.1.tt: "El nuevo Gobierno intentará poner fin a la disputa fronteriza con §YColombia§!."
+ PRU_Liticia_Dispute.2.tt: "La zona de Leticia, antes en disputa, quedará bajo la vigilancia de la §BSociedad de las Naciones§!."
+ PRU_1939_Election.1.tt: "Manuel Carlos Prado y Ugarteche se ha asegurado un mandato §Bdemocrático§! un tanto dudoso para liderar la nación."
+ PRU_Ecuador_War.1.tt: "Tomaremos la región en disputa por la §Rfuerza§!. Sin embargo, si tardamos demasiado en cumplir nuestros objetivos, §YEcuador§! será capaz de soportar el peso de su Ejército."
+ PRU_Ecuador_War.2.tt: "¡Perú está intentando tomar nuestro territorio! Pero si los retenemos unas semanas, la §Ymovilización§! podría obligar a los peruanos a retirarse."

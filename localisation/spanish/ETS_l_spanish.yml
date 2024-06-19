@@ -1,0 +1,68 @@
+﻿l_spanish:
+######################################################################
+#  Events
+######################################################################
+ ETS.1.t: "Levantamiento de mineros en Jotán"
+ ETS.1.d: "Aparentemente se sofocó una revuelta menor en Kasgar, pero, por desgracia, el incidente desencadenó una rebelión total de la etnia uigur en la región. Han proclamado el Gobierno Islámico de Jotán."
+ ETS.1.A: "¡Malditos sean los turcos!"
+ ETS.1.B: "¡Larga vida al Turquestán Oriental!"
+
+######################################################################
+#  Focuses
+######################################################################
+ ETS_The_Khotan_Emirate: "El emirato de Jotán"
+ ETS_Unite_Rebel_Units: "Unir a las unidades rebeldes"
+ ETS_National_Army: "Ejército nacional"
+ ETS_Alliances_and_Pacts: "Alianzas y pactos"
+ ETS_Proclaim_East_Turkestan: "Proclamar el Turquestán Oriental"
+ ETS_Fight_for_East_Turkestan: "¡Luchar por el Turquestán Oriental!"
+ ETS_Contribute_your_Assets: "Aportad vuestros activos"
+ ETS_Freedom_from_Han_Tyranny: "Libertad de la tiranía Han"
+ ETS_The_Republic: "La república"
+ ETS_The_Islamic_Republic: "La república islámica"
+ ETS_Recognition_from_China: "Reconocimiento de China"
+ ETS_Pan_Islamic_Assistance: "Ayuda panislámica"
+ ETS_Turkic_Intellectual_Exodus: "Éxodo intelectual túrcico"
+ ETS_Cooperate_with_Ma_Cliques: "Cooperar con la camarilla Ma"
+ ETS_Balanced_Stances: "Posturas equilibradas"
+ ETS_Sino_Turkic_Mutual_Assistance_Treaties: "Tratados de asistencia mutua sino-túrcicos"
+ ETS_Turkic_Brotherhood: "Hermandad túrcica"
+ ETS_5_Main_Principles_and_Objectives: "5 objetivos y principios"
+ ETS_Restore_Peace_and_Put_down_Lawlessness: "Restaurar la paz y acabar con la anarquía"
+ ETS_Encourage_and_Restore_Trade: "Fomentar y restaurar el comercio"
+ ETS_Trade_Bazaars: "Bazares comerciales"
+ ETS_East_Turkestan_Security_Force: "Fuerza de Seguridad del Turquestán Oriental"
+ ETS_Constitutional_Draft: "Boceto constitucional"
+ ETS_Sharia_Law: "La sharía"
+ ETS_Islamic_Court_Systems: "Sistemas judiciales islámicos"
+ ETS_Village_and_Nomadic_Autonomy: "Autonomía de pueblos y nómadas"
+ ETS_Islamic_Taxation_System: "Sistema tributario islámico"
+ ETS_Modernization_Programs: "Programas de modernización"
+ ETS_State_Printing_Press: "Imprenta del Estado"
+ ETS_The_Ideal_School_System: "El sistema escolar ideal"
+ ETS_Nationalize_Public_Services: "Nacionalizar los servicios públicos"
+ ETS_Advanced_Animal_Husbandry: "Ganadería avanzada"
+ ETS_Agricultural_Techniques: "Técnicas agrícolas"
+ ETS_Businesses_in_East_Turkestan: "Negocios en el Turquestán Oriental"
+ ETS_Increased_Living_Standards: "Mejor nivel de vida"
+ ETS_Scientific_and_Religious_Education: "Educación científica y religiosa"
+ ETS_Telegraph_Lines: "Líneas telegráficas"
+ ETS_Post_Office_Roads: "Carreteras postales"
+ ETS_Purchase_Educational_Material: "Comprar material educativo"
+ ETS_Literacy_Programs: "Programas de alfabetización"
+
+######################################################################
+#  Ideas
+######################################################################
+ ETS_Separatist_Agendas: "Agendas separatistas"
+ ETS_Separatist_Agendas_desc: ""
+ 
+ ETS_Nomadic_Thoughts: "Pensamientos nómadas"
+ ETS_Nomadic_Thoughts_desc: ""
+ 
+ ETS_Turkics_of_Different_Kinds: "Túrcicos de distintos tipos"
+ ETS_Turkics_of_Different_Kinds_desc: ""
+ 
+ ETS_Overwhelming_Illiterracy: "Analfabetismo abrumador"
+ ETS_Overwhelming_Illiterracy_desc: ""
+ 

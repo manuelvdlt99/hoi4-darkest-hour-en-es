@@ -1,0 +1,152 @@
+﻿l_spanish: 
+######################################################################
+#  Tunganistan Events
+######################################################################
+#Tunganistan formation
+ TNG_Politics.1.t: "Derrota inevitable"
+ TNG_Politics.1.d: "Tras una serie de sucesivas derrotas, el alto mando militar ha considerado necesario que nos llevemos al resto de nuestras fuerzas por uno de dos posibles caminos alternativos. Buscar un armisticio con la camarilla de Sinkiang o avanzar al sur, hacia el sur de Sinkiang, donde se verán obligados a dejarnos por el momento. ¿Qué hacemos?"
+ TNG_Politics.1.A: "Buscar un armisticio."
+ TNG_Politics.1.B: "Avanzar al sur."
+#Backing from Ma Cliques
+ TNG_Politics.2.t: "Tunganistán solicita armas"
+ TNG_Politics.2.d: "Los tunganos, que están en guerra con la camarilla de Sinkiang, nos han solicitado armas, prometiendo ayuda en el futuro y cosas semejantes. Los tunganos esperan recompensarnos por dichas acciones en el futuro. ¿Aceptamos?"
+ TNG_Politics.2.A: "Sí."
+ TNG_Politics.2.B: "no"
+ 
+ TNG_Politics.3.t: "La camarilla Ma acepta"
+ TNG_Politics.3.d: "Tras recibir nuestra solicitud, la camarilla Ma ha aceptado nuestra demanda de armas y nos abastecerá pronto."
+ TNG_Politics.3.A: "¡Excelente!"
+
+ TNG_Politics.4.t: "La camarilla Ma se niega"
+ TNG_Politics.4.d: "Tras recibir nuestra solicitud, la camarilla Ma ha rechazado nuestra demanda de armas y no nos enviará los suministros que necesitamos."
+ TNG_Politics.4.A: "Qué pena..."
+
+ TNG_Politics.5.t: "Ma Chung-ying ha desaparecido"
+ TNG_Politics.5.d: "Misteriosamente después de nuestra paz temporal con la camarilla de Sinkiang, nuestro oficial al mando, Ma Chung-ying, desapareció. Ahora la cuestión es qué oficial subalterno debería asumir el control de la 36.ª División. ¿Ma Hu-shan o Ma Chan-tsang?"
+ TNG_Politics.5.A: "Ma Hu-shan."
+ TNG_Politics.5.B: "Ma Chan-tsang."
+
+ TNG_Politics.6.t: "La 36.ª División solicita un armisticio"
+ TNG_Politics.6.d: "Los recientes sucesos en la guerra han hecho que la 36.ª División solicite una tregua temporal para nuestro conflicto. ¿Aceptamos su propuesta?"
+ TNG_Politics.6.A: "Sí."
+ TNG_Politics.6.B: "No."
+
+######################################################################
+#  Tunganistan Focuses
+######################################################################
+ TNG_The_Frontier: "La frontera"
+ TNG_Kidnapping_and_Ransoms: "Secuestros y rescates"
+ TNG_Search_for_Recruits: "Buscar reclutas "
+ TNG_Backing_from_the_Ma_Cliques: "Apoyo de la camarilla Ma"
+ TNG_Destroy_the_Soviet_Puppet: "Destruir al títere soviético"
+ TNG_Crush_the_Ugyghur_Revolt: "Aplastar la revuelta uigur"
+ TNG_Xinjiang_is_Ours: "¡Sinkiang es nuestro!"
+ TNG_Reward_the_Defectors: "Recompensar a los desertores"
+ TNG_Power_to_Our_Commanders: "Poder a nuestros comandantes"
+ TNG_Banquet_of_Death: "Banquete de la muerte"
+ TNG_Where_is_Ma_Zhongying: "¿Dónde está Ma Chung-ying?"
+ TNG_Rule_of_the_Young_General: "Gobierno del joven general"
+ TNG_Crush_the_Uyghur_Revolt: "Aplastar la revuelta uigur"
+ TNG_Centralize_Province_Affairs: "Centralizar los asuntos provinciales"
+ TNG_Make_Everything_Work: "Hacer que todo funcione"
+ TNG_Shuffle_and_Topple_Officials: "Mezclar y derrocar funcionarios"
+ TNG_Dominate_Trade: "Dominar el comercio"
+ TNG_A_Tax_For_Everything: "Un impuesto para todo"
+ TNG_The_Book_of_Lord_Shang: "El Libro de Lord Shang"
+ TNG_Beyond_Recovery: "TNG_Beyond_Recovery"
+ TNG_Damaged_Beyond_Recovery: "Dañados sin remedio"
+ TNG_Massacre_the_South: "Masacrar el sur"
+ TNG_Break_the_KMT: "Romper al KMT"
+ TNG_New_National_Symbols: "Nuevos símbolos nacionales"
+ TNG_Public_Trial_Showcases: "Juicios públicos"
+ TNG_Erect_Statues: "Erigir estatuas"
+ TNG_Rotting_in_Sinkiang: "Pudriéndose en Sinkiang"
+ TNG_Claim_the_Mandate: "Reclamar el mandato"
+ TNG_Rulers_Absolutism: "El absolutismo de los gobernantes"
+ TNG_Technique_in_Ruling: "Técnica al gobernar"
+ TNG_Redraft_Laws_and_Regulations: "Reescribir leyes y regulaciones"
+ TNG_Personal_Courting: "Cortejo personal"
+ TNG_The_Legal_Corps: "El cuerpo legal"
+ TNG_Submission_to_Authority: "Sumisión a la autoridad"
+ TNG_Legalism_in_Practice: "Legalismo en la práctica"
+ TNG_Ma_Hushans_Claws: "Las garras de Ma Hu-shan"
+ TNG_Betrayal: "Traición"
+ TNG_Ma_Zhancangs_Gun: "El arma de Ma Chan-tsang"
+ TNG_New_Dihua_Plan: "Nuevo plan Dihua"
+ TNG_Terror_in_Dihua: "Terror en Dihua"
+ TNG_Rule_by_Fear: "Gobierno del terror"
+ TNG_Spies_Everywhere: "Espías por todas partes"
+ TNG_The_Dream_of_a_Khanate: "El sueño de un kanato"
+ TNG_Slave_Driven_Economy: "Economía esclavista"
+ TNG_Commercial_Profitering: "Mercantilismo comercial"
+ TNG_Metal_Smelting: "Fundición de metales"
+ TNG_Invest_in_the_Silk_Industry: "Invertir en la industria de la seda"
+ TNG_Expand_Local_Arsenals: "Ampliar los arsenales locales "
+ TNG_Expand_Local_Arsenals: "Ampliar los arsenales locales"
+ TNG_Laying_the_Roads: "Allanar los caminos"
+ TNG_The_Model_Province: "La provincia modélica"
+ TNG_Exploit_the_Economy: "Explotar la economía"
+ TNG_Excavate_Raw_Materials: "Excavar materias primas"
+ TNG_Massive_Arsenal_Production: "Producción masiva de arsenales"
+ TNG_Keep_Taxing: "Seguir tasando"
+ TNG_Double_The_Taxes: "Doblar los impuestos"
+ TNG_Economic_Buildup: "Desarrollo económico"
+ TNG_A_State_of_Despair: "Un estado de desesperación"
+ TNG_Connect_the_Gansu_Corridor: "Conectar el corredor de Gansu"
+ TNG_Opportunity_and_Banditry: "Oportunidad y bandidaje"
+ TNG_Links_with_the_Soviets: "Vínculos con los soviéticos"
+ TNG_Military_Loyalists: "Fieles militares"
+ TNG_Accumulate_Wealth: "Acumular riquezas"
+ TNG_Economic_Monopoly: "Monopolio económico"
+ TNG_The_Sellout: "El vendido"
+
+######################################################################
+#  Tunganistan Decisions
+######################################################################
+# Ma Zhongying
+ TNG_Ma_Zhongying: "Ma Chung-ying"
+ TNG_Ma_Zhongying_desc: ""
+
+ TNG_Ma_Zhongying_Determined: "Decidido"
+ TNG_Ma_Zhongying_Pleased: "Satisfecho"
+ TNG_Ma_Zhongying_Frustrated: "Frustrado"
+ TNG_Ma_Zhongying_Depressed: "Deprimido"
+ TNG_Ma_Zhongying_Insane: "Loco"
+
+ TNG_Keep_a_Personal_Treasury: "Mantener una tesorería personal"
+ TNG_Keep_a_Personal_Treasury_desc: ""
+ TNG_Keep_a_Personal_Treasury_tt: "El estado de ánimo de §YMa Chung-ying§! mejorará en: §G+2§!"
+ TNG_Pick_up_some_Girls: "Ligarse a algunas chicas"
+ TNG_Pick_up_some_Girls_desc: ""
+ TNG_Pick_up_some_Girls_tt: "Mujeres: §R-3§!\n"
+ TNG_Go_on_a_Raid: "Ir a una incursión"
+ TNG_Go_on_a_Raid_desc: ""
+ TNG_Hold_a_Party: "Montar una fiesta"
+ TNG_Hold_a_Party_desc: ""
+ TNG_Blood_and_Terror: "Sangre y terror"
+ TNG_Blood_and_Terror_desc: ""
+ TNG_Blood_and_Terror_tt: "El estado de ánimo de §YMa Chung-ying§! mejorará en: §R-3§!"
+ TNG_Inspect_the_Divisions: "Inspeccionar las divisiones"
+ TNG_Inspect_the_Divisions_desc: ""
+ TNG_Inspect_the_Divisions_tt: "El estado de ánimo de §YMa Chung-ying§! mejorará en: §R-2§!"
+ 
+######################################################################
+#  Tunganistan Ideas
+######################################################################
+ TNG_Army_is_the_State: "El Ejército es el Estado"
+ TNG_Army_is_the_State_desc: ""
+
+ TNG_Dungans_Armies: "Ejércitos tunganos"
+ TNG_Dungans_Armies_desc: ""
+
+ TNG_Overwhelming_Illiterracy: "Analfabetismo abrumador"
+ TNG_Overwhelming_Illiterracy_desc: ""
+
+ TNG_Centralised_Economy: "Economía centralizada"
+ TNG_Centralised_Economy_desc: ""
+
+ TNG_Centralised_Economy: "Malestar uigur"
+ TNG_Centralised_Economy_desc: ""
+ 
+ TNG_Centralised_Economy_2: "Opresión de los uigures"
+ TNG_Centralised_Economy_2_desc: ""

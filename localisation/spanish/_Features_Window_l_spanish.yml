@@ -1,0 +1,42 @@
+﻿l_spanish:
+ # GUI:
+ DH_FEATURES_WINDOW_HEADER: "[This.GetFeaturesWindowHeader]"
+ DH_FEATURES_WINDOW_TITLE: "[This.GetFeaturesWindowTitle]"
+ DH_FEATURES_WINDOW_TEXT: "[This.GetFeaturesWindowText]"
+ DH_FEATURES_WINDOW_PREV_TAB_BUTTON_TT: "Página anterior"
+ DH_FEATURES_WINDOW_NEXT_TAB_BUTTON_TT: "Siguiente página"
+ DH_FEATURES_WINDOW_CLOSE_BUTTON_TEXT: "¡A jugar!"
+
+ # Scripted Localisation:
+ DH_FEATURES_WINDOW_HEADER_FEATURE: "§GFunción§!"
+ DH_FEATURES_WINDOW_HEADER_NEW_FEATURE: "§ONueva función§!"
+ DH_FEATURES_WINDOW_HEADER_WELCOME: "Te damos la bienvenida a"
+
+ DH_FEATURES_WINDOW_TEXT_WELCOME: "§RDarkest Hour§! es un mod de conversión total para Hearts of Iron IV. \n\n\nEmpieza en el año 1933, presencia el ascenso de Hitler, combate la Gran Depresión y prepara a tu nación para la tempestad inminente que destrozará a Europa y al mundo."
+
+ DH_FEATURES_WINDOW_TITLE_SOVIET_WAR_TREE: "Árbol bélico soviético"
+ DH_FEATURES_WINDOW_TEXT_SOVIET_WAR_TREE: "Un árbol centrado en los soviéticos y su guerra contra Alemania. \n\nLos dos lados se centran en los aspectos ofensivos y defensivos de la guerra; cada lado otorga diferentes bonificaciones a la Unión Soviética. \n\nAdemás, el árbol les concede ahora a los soviéticos la oportunidad de declararle la guerra a Alemania."
+
+ DH_FEATURES_WINDOW_TITLE_HELP_WINDOW: "Ventana de ayuda"
+ DH_FEATURES_WINDOW_TEXT_HELP_WINDOW: "Puedes acceder a esta ventana pulsando la tecla §REsc§!.\n\nNuestras mecánicas más importantes figuran aquí para que puedas acceder a ellas en cualquier momento si necesitas ayuda. "
+
+ DH_FEATURES_WINDOW_TITLE_GROZA_DECISIONS: "Operación Groza"
+ DH_FEATURES_WINDOW_TEXT_GROZA_DECISIONS: "La Operación Groza explora una situación hipotética en la que Stalin ataca primero a Alemania. \n\nLleva a cabo una política exterior agresiva como la Unión Soviética, prepara al Ejército Rojo y §R¡dirige la marcha de la revolución hacia el oeste!§!"
+
+ DH_FEATURES_WINDOW_TITLE_CONSTRUCTION: "Construcción"
+ DH_FEATURES_WINDOW_TEXT_CONSTRUCTION: "Muestra la velocidad de las construcciones. Se puede §Gactivar§! y §Rdesactivar§!.\n\nEl mérito es de «Yes, Paimon» en Steam Workshop."
+
+ DH_FEATURES_WINDOW_TITLE_ECONOMY: "Economía"
+ DH_FEATURES_WINDOW_TEXT_ECONOMY: "El dinero se obtiene principalmente de los bienes de consumo.\n\nSe gasta principalmente en fábricas militares: encargarle a una fábrica que produzca X costará dinero.\n\nTambién puedes gastarte el dinero en otras cosas, como eventos, decisiones o enfoques.\n\n§R¡Ojo con la inflación!§!"
+
+ DH_FEATURES_WINDOW_TITLE_DEPRESSION: "Depresión"
+ DH_FEATURES_WINDOW_TEXT_DEPRESSION: "Hay dos valores: desempleo e impacto del desempleo.\n\nCada % del paro aporta un §Rperjuicio§! a la nación. \n\nItalia, por ejemplo, tiene un 30 % de desempleo con un impacto neutral."
+
+ DH_FEATURES_WINDOW_TITLE_PARLIAMENT: "Parlamento"
+ DH_FEATURES_WINDOW_TEXT_PARLIAMENT: "El parlamento tiene muchos partidos. Cada uno tiene un porcentaje de escaños, un porcentaje de apoyo del Gobierno y popularidad del partido.\n\nLa barra de progreso inferior es el apoyo total que estos partidos tienen en el Gobierno. \n\nSe calcula con el número de escaños y el porcentaje de apoyo del Gobierno."
+
+ DH_FEATURES_WINDOW_TITLE_FACTIONS: "Facciones"
+ DH_FEATURES_WINDOW_TEXT_FACTIONS: "Cada una de las facciones tiene dos valores: influencia y opinión.\n\nCada uno puede ir de §R0 %§! a §G100 %§!, y cada facción te concede modificadores especiales.\n\nCuanto §Gmás altos§!/§Rmás bajos§! sean los dos valores, más distintos serán los modificadores."
+
+ DH_FEATURES_WINDOW_TITLE_COMBAT: "Combate"
+ DH_FEATURES_WINDOW_TEXT_COMBAT: "Los ejércitos de §RDarkest Hour§!  pretenden coincidir con la situación histórica de los años treinta y\napuntan a ""«Metas que reflejan la historia».\n\nAlgunos países tendrán que esforzarse más para reforzar su ejército que otros, pero éso se traduce en retos únicos para cada nación."

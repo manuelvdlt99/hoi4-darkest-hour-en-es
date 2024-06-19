@@ -1,0 +1,690 @@
+﻿l_spanish:
+######################################################################
+#  Polish Events
+######################################################################
+ POL_Death_of_Pilsudski.1.t: "Józef Piłsudski, mariscal de Polonia, muerto a los 67"
+ POL_Death_of_Pilsudski.1.d: "[FROM.GetNewsIcon]En medio de la tensión política en Europa, el mariscal Józef Piłsudski ha fallecido repentinamente hoy en el Palacio Belwederski de Varsovia por problemas de salud hasta ahora desconocidos. La nación entera de Polonia ha entrado en un periodo inmediato de luto mientras la nación lo recuerda como un general de fama mundial y un poderoso estadista, con un pasado como libertador de Polonia, vencedor de la guerra polaco-soviética y visionario en medio de un periodo inestable de la historia de la nación. Su muerte puede dejar un efecto duradero en la sociedad polaca, ya que su estatus de culto puede encumbrarlo como héroe nacional entre los muchos polacos, e incluso el papa Pío XI se declaró «amigo de Piłsudski» y poco después celebró una ceremonia en su honor unos días más tarde en la sede de la Sociedad de las Naciones en Ginebra. A continuación se sucedieron numerosas condolencias y oficios de líderes mundiales, como [SOV.GetLeader] y [GER.GetLeader], que presentaron sus respetos al margen de diferencias políticas.\n\nSin embargo, algunos de los que se opusieron a él se mostraron menos que comprensivos, como el Partido Comunista Polaco y parte de la oposición democrática, que han llegado a emprender una campaña de denuncia en toda regla, calificándolo vehementemente de dictador fascista sin ningún respeto por la libertad. El resto de la oposición, aunque ve directamente a Piłsudski como un rival, ha mostrado sus condolencias a pesar del conflicto.\n\nDesgraciadamente, se desconoce el futuro del panorama político de la nación y de su partido Sanacja gobernante, dado que el vacío de poder que ha dejado Piłsudski exige un sucesor entre sus numerosos aliados políticos del pasado."
+ POL_Death_of_Pilsudski.1.POL: "Powodzenia, Marszałku."
+ POL_Death_of_Pilsudski.1.SOV: "Un rival digno."
+ POL_Death_of_Pilsudski.1.GER: "Un héroe verdaderamente respetable."
+ POL_Death_of_Pilsudski.1.ITA: "Derramó su sangre por su pueblo."
+ POL_Death_of_Pilsudski.1.JAP: "Que su legado haga avanzar a Polonia."
+ POL_Death_of_Pilsudski.1.FRA: "Se mantuvo firme contra viento y marea."
+ POL_Death_of_Pilsudski.1.ENG: "Un hombre del pueblo."
+ POL_Death_of_Pilsudski.1.AUS: "Luchó por la libertad de su nación."
+ POL_Death_of_Pilsudski.1.A: "Memento mori."
+
+ POL_Front_Morges.1.t: "La fundación del Frente Morges"
+ POL_Front_Morges.1.d: "[FROM.GetNewsIcon]Aunque se ha pensado poco en la oposición democrática desde la dominación total del partido Sanacja, incluso después de su fractura, los partidos centristas de los años veinte siguen activos, aunque hoy son más pequeños. En Suiza, en el pueblo de Morges, una alianza política bautizada como el Frente Morges fue ratificada por los líderes de los partidos Demócrata Cristiano y Nacional Obrero, la veterana organización llamada Unión de Hallerianos, el ex primer ministro Ignacy Paderewski y el general Władysław Sikorski. \n\nLa principal idea tras esta peculiar alianza era formar un frente unido contra el partido Sanacja mediante la formación de un nuevo gobierno democrático con Paderewski como presidente y Wincenty Witos como primer ministro. Sin embargo, a pesar de las importantes figuras implicadas en dicha alianza, el partido ha tenido poca publicidad y aún menos apoyo entre la gente de Polonia, lo que lo ha empujado aún más al borde del olvido, aun con la confianza de algunos de sus miembros más destacados."
+ POL_Front_Morges.1.A: "Poco se puede hacer a estas alturas." 
+
+ POL_Sanation.1.t: "El partido Sanacja se fractura"
+ POL_Sanation.1.d: "Tras varias semanas de reuniones, las conversaciones en el Bloque No Partidista de Colaboración con el Gobierno han degenerado en abandonos y concursos de gritos. El colapso del partido ha hecho estragos en toda la sociedad polaca, y muchos han perdido toda confianza en el Gobierno tras la muerte de nuestro carismático líder. Mientras que la oposición al margen de la Sanacja ha seguido mostrando una baja aprobación en la opinión pública y en el Sejm, la situación en Europa exige un Gobierno estable. Dentro del partido, Walery Sławek, antiguo primer ministro desde 1930 y buen amigo del Mariscal, ha renunciado a su lealtad al resto de la Sanacja y ha anunciado su intención de convertirse en presidente de la república bajo una facción reformista de izquierdas conocida como «los coroneles», la mayoría de cuyos líderes son los oficiales del Ejército más cercanos a Piłsudski. Nuestro presidente actual, asignado por el propio Piłsudski, Ignacy Mościcki, ha reafirmado al pueblo que seguirá al mando tal y como quiso «su querido amigo». Los observadores políticos han etiquetado a su bando como una facción de la Sanacja de centro del statu quo, o del «Castillo», por el hecho de que el susodicho reside en el premonitorio castillo de Varsovia. Por último, el comandante en jefe Edward Rydz-Śmigły también se ha lanzado al ruedo y ha anunciado su candidatura al liderazgo bajo su propio pensamiento político de derechas, conocido como «OZON», pese a su escaso apoyo interno pero su alta popularidad en el Ejército. En el ámbito público, el conflicto entre los tres gigantes se reduce aparentemente a sólo dos hombres: Sławek y Mościcki. Sin embargo, no se puede ignorar el control de Rydz-Śmigły sobre las Fuerzas Armadas, como han comprobado muchos en Europa. Hasta que un solo hombre pueda cantar victoria, las líneas de batalla amenazan con separar a Polonia."
+ POL_Sanation.1.A: "¡Ésto es como 1927 otra vez!" 
+
+ POL_Sanation.2.t: "La fundación del Frente Morges"
+ POL_Sanation.2.d: "Desde la dominación total del movimiento Sanacja, se ha pensado poco en la oposición democrática en el Sejm, pero los partidos de centro de los años veinte siguen muy activos. Aunque son mucho más pequeños y no tan conocidos, la fractura del antiguo BBWR ha brindado una breve oportunidad para volver a la política interna.\nEn el pueblo de Morges, en la orilla del lago Lemán de Suiza, una alianza política bautizada como el Frente Morges fue ratificada por los diversos líderes de los partidos y movimientos democráticos al margen. Son los partidos Demócrata Cristiano y Nacional Obrero, así como la veterana asociación Unión de Hallerianos, unidos tras el ex primer ministro Ignacy Paderewski y el general Władysław Sikorski. La principal idea tras esta peculiar alianza era formar un frente unido contra la autoritaria Sanacja mediante un nuevo gobierno democrático con Paderewski como presidente y líder del «Partido Popular Polaco», Wincenty Witos como primer ministro.y Sikorski al mando de las Fuerzas Armadas.\nA pesar del impresionante plantel de importantes figuras políticas implicadas en dicha alianza, la confianza polaca en la verdadera democracia es la más baja de la historia de la «República». El partido ha tenido poca publicidad en Europa y aún menos apoyo entre sus ciudadanos en Polonia. Les espera un largo y difícil camino, pero quizás, en determinadas circunstancias, podrían encontrarse al timón de una verdadera democracia polaca."
+ POL_Sanation.2.A: "Más que una coalición, un cúmulo." 
+
+ POL_Sanation.3.t: "La trayectoria de la Segunda República"
+ POL_Sanation.3.d: "Desde la muerte del mariscal Piłsudski, Polonia ha estado al borde del caos político. El movimiento Sanacja se fracturó casi al instante después de su muerte, dividiéndose en tres grupos. La izquierda de la Sanacja, con el primer ministro Walery Sławek a la cabeza, pretende transformar el sistema gubernamental en un formato de «vive y deja vivir» con los partidos que han sido excluidos en su mayoría de la política ejecutiva desde el golpe de mayo, planeando derogar los factores más autoritarios del Gobierno. Es una buena opción sin duda: Sławek ya ha demostrado su valía en situaciones de crisis y podría volver a hacerlo. El centro colectivo del movimiento Sanacja mantiene su lealtad al presidente Ignacy Mościcki. Los partidarios del statu quo anterior establecido por la Constitución de abril ratificada por el Sejm respaldan a un hombre que nunca se desvió de la voluntad del Mariscal; con todo el mundo consciente de su lealtad, es el favorito en la carrera por el poder. El generał Rydz-Śmigły. La oveja negra de los tres candidatos, no es muy conocido en la esfera política. Rydz, pieza clave en el golpe de 1926, fue recompensado con su nombramiento como lugarteniente del mariscal Piłsudski. Sus antecedentes militares y la preferencia del Mariscal han dado a Rydz el potencial para jugarse el liderazgo de Polonia. Queda una última opción. En torno a Wladyslaw Sikorski, un amplio grupo de partidos centristas ha formado un frente democrático unido, el Frente Morges, dedicado a restaurar la democracia polaca. Son tiempos inestables: si el movimiento Sanacja no encuentra una solución para su lucha por el poder, entonces esta alternativa quizás sea la única forma de que Polonia persista. Cuatro reyes mueven ficha y Polonia pende de un hilo. Cuando callen las campanas por Piłsudski, ¿a qué despertará la nación?"
+ POL_Sanation.3.A: "El cambio es ley de vida. ¡Todo a Sławek!"
+ POL_Sanation.3.B: "Los muros del Castillo resisten: ¡Mościcki se mantiene firme!"
+ POL_Sanation.3.C: "La pluma y la espada se alían. ¡Rydz sale victorioso!"
+ POL_Sanation.3.D: "La Sanacja está hecha pedazos: ¡se acabaron los tiranos!"
+
+ POL_Sanation.4.t: "El segundo gran líder de Polonia"
+ POL_Sanation.4.d: "Dicen que los hombres grandes crean buenos tiempos, y que los débiles los siguen poco después. Pero ¡atención! Porque Polonia no se presta a tal debilidad. El segundo hombre del Estado, Rydz-Śmigły, ha pasado el tiempo transcurrido desde la muerte del mariscal Piłsudski como lo que antes se consideraba un desvalido. Sin embargo, ahora es lo que fue Piłsudski: el eje que mantiene unida a Polonia.\nEl nuevo mariscal ha paseado por las calles de Leópolis, Białystok, Gdansk y Varsovia y ha visto cómo se ha realizado su trabajo. Las etnias ya no se enfrentan en las calles como solían hacer —ukranianos, judíos, polacos, lituanos—, sino que coexisten bajo la bandera polaca. Quizá no como utópicos amigos de la mano, pero coexisten por lealtad a Piłsudski, a los ideales de Piłsudski y al único y verdadero sucesor de Piłsudski.\nLas calles ya no están llenas de indigentes, hambrientos y sin techo, que se quedaron sin trabajo gracias a la inestabilidad económica mantenida por un Gobierno inepto demasiado obsesionado con su propio orgullo para ser pragmático. Ahora están llenas de trabajadores que siguen adelante con sus vidas, ciudadanos normales que pueden permitirse vivir y estar orgullosos de lo que tienen. Las calles de Polonia están limpias, sus políticas sociales son beneficiosas para todos; y todo gracias a las reformas estatales del nuevo mariscal, que ha convertido lo que antes era una pesadilla burocrática en una máquina eficiente que hace cambios cuando conviene a las condiciones materiales del pueblo polaco.\nNuestro nuevo Mariscal —el héroe que se mantuvo firme en Varsovia haciendo retroceder a los rusos en 1920, un héroe que ayudó a hacer de Polonia la nación que es hoy junto al antiguo mariscal Piłsudski— es uno que cumple y, si Dios quiere, seguirá haciendo que Polonia se sienta orgullosa bajo su liderazgo."
+ POL_Sanation.4.A: "¡Todo por el mariscal Rydz-Śmigły, todo por Polonia!"
+
+ POL_1933_Election.1.t: "El Sejm reelige a Mościcki para la presidencia"
+ POL_1933_Election.1.d: "Ratificado con un atronador aplauso, Ignacy Mościcki ha sido reelegido presidente de Polonia por el Sejm esta misma mañana. La primera legislatura de Mościcki duró siete años, y su elección en 1926 se produjo en un momento turbulento en la República. El golpe de mayo de ese mismo año había destituido tanto al presidente como al primer ministro del cargo. El mariscal Piłsudski había ganado la presidencia en unas elecciones inmediatas después del golpe, pero, tras darse cuenta de que el cargo tenía poco poder ejecutivo, declinó el puesto. \n\nEn su lugar, convocó nuevas elecciones y postuló a un Mościcki políticamente desconocido, un químico de la Politécnica de Varsovia. Aunque era miembro del Partido Socialista Polaco de Piłsudski, no tenía experiencia previa en el Gobierno o la política, lo que significaba que la mayor parte del poder real seguiría en manos de Piłsudski, mientras Ignacy se granjeaba una reputación y mantenía su lealtad al Mariscal.\n\nPero éso fue entonces, y ésto es ahora. \n\nCon su partido conjunto BBWR permaneciendo firmemente en el poder y dirigiendo la mayoría de los votos en el Sejm, Ignacy Mościcki fue elegido para el cargo con 332 votos de los 343 miembros presentes, el único candidato con suficiente apoyo para ser nominado, ya que la mayoría de los partidos de la oposición boicotearon totalmente la votación. Con siete años de experiencia en su haber, seguirá guiando a la República con pericia, dignidad y, sobre todo, con la orientación del Mariscal."
+ POL_1933_Election.1.A: "Una república de boquilla, pero por el bien de toda Polonia."
+ 
+ POL_1933_Election.2.t: "Nuevo campo de prisioneros en Bereza Kartuska"
+ POL_1933_Election.2.d: "Comunistas, terroristas, separatistas ucranianos y bielorrusos y demás subversivos políticos son una amenaza constante para la seguridad, la paz y el orden social. El asesinato del ministro del Interior, Bronisław Pieracki, por un nacionalista ucraniano es prueba suficiente de que debemos contener a estos peligrosos individuos. El Gobierno ha decidido crear una institución donde estos delincuentes permanezcan lo más alejados posible de la sociedad. El principal objetivo de la prisión de Bereza Kartuska es aislar a las personas cuyas actividades puedan amenazar la seguridad pública. En este sentido, nos centraremos en aquellos alborotadores que puedan ser un peligro potencial para nuestra autoridad, especialmente los simpatizantes de Alemania o del nacionalsocialismo. La gestión de la institución basada en una antigua prisión zarista dependerá del Ministerio del Interior y de la Sección de Nacionalidades del Departamento. Circunstancias excepcionales requieren soluciones radicales para proteger al país de posibles enemigos internos."
+ POL_1933_Election.2.A: "El fin justifica los medios."
+ 
+ POL_1933_Election.3.t: "El incidente de Westerplatte"
+ POL_1933_Election.3.d: "A primera hora de la mañana, todo un batallón de infantes de marina desembarcó en los muelles de la península de Westerplatte, mientras multitud de civiles observaban curiosos. El puerto estaba en una zona de tensión entre nosotros, los alemanes y los gedanenses. Con el Gobierno de Dánzig tratando de subvencionar el control de nuestra fuerza policial portuaria de doble mando y los políticos alemanes pidiendo ajustes fronterizos en la región, no tuvimos más remedio que desplegar más hombres en el puesto de avanzada como demostración de fuerza.\nLos Gobiernos alemán y gedanense tuvieron mucho que decir sobre nuestra jugada, considerándola un acto de agresión y, para los gedanenses, un clavo en el ataúd de su plan para hacerse con el control de la policía portuaria. Con las crecientes presiones de Alemania, la Ciudad Libre y la Sociedad de las Naciones, conseguimos llegar a un acuerdo. A cambio de que la Ciudad Libre retirara sus objeciones a nuestro anterior acuerdo de doble control de la fuerza policial portuaria, nuestras tropas se retirarían del puesto de avanzada para aliviar las tensiones."
+ POL_1933_Election.3.A: "Otra cosa más por la que nos pueden odiar los alemanes."
+
+ POL_1933_Election.4.t: "De muchos, uno"
+ POL_1933_Election.4.d: "Bielorrusos, ucranianos, alemanes, lituanos, eslovacos y judíos: Polonia siempre ha sido una tierra de muchas etnias, y la cosa no ha cambiado. Polonia y sus hermanos lituanos ocuparon vastas extensiones de terreno en el vacío de poder posterior al colapso de los mongoles en el siglo XIII. Tiene experiencia tratando con etnias fugitivas; sin embargo, durante el último siglo, ha sido el pueblo polaco el que se ha convertido en la etnia fugitiva, una espina clavada en múltiples imperios que se disputan y luchan por la independencia. \n\nAhora independiente, el nacionalismo que se extiende por Polonia es la cruz de su propia estabilidad, ya que unifica a los polacos pero deja insatisfechos a muchos otros dentro de nuestras fronteras. Los ucranianos, en particular, claman por un Estado propio, aplastados bajo la bota soviética sólo una década antes. Entre la Alianza Nacional Democrática Ucraniana (UNDO) en el Sejm y la mucho más radical Organización de Nacionalistas Ucranianos (OUN) dispersa en las provincias orientales, todos los ucranianos polacos recuerdan las redadas y campañas de arrestos que recorrieron Galitzia en 1930, que no hicieron sino aumentar la furia, burbujeante bajo los pantanos. \n\nBajo Józef Piłsudski —azote de los bolcheviques, artífice de la independencia polaca—, muchos polacos y ucranianos por igual comprenden que el comunismo es el verdadero peligro, sólo que al otro lado de la frontera. El Mariscal aspira a mantener la recién encontrada unidad de Polonia sin inflamar las tensiones en el este. Pero, con el nacionalismo candente en toda Europa más que nunca, está por ver si podrá continuar con ese hercúleo esfuerzo."
+ POL_1933_Election.4.A: "Limando asperezas."
+
+ POL_1933_Election.5.t: "Salvaguardar la Rzeczpospolita"
+ POL_1933_Election.5.d: "Piłsudski volvió a salir de su automóvil frente al Sejm. Sus oídos se llenaron del habitual coro de vítores de la gente que acudía a verle hacer sus cosas cada día. No podía evitar sonreír: sabía que era el eje de la política y la estabilidad de esta nación y, cuando entraba en el Sejm y veía los ojos de sus miembros mirarlo con una mezcla de asombro y temor, sabía que ellos también lo entendían.\nTomó asiento y se pasó una mano por el pelo. Hace un año, estos burócratas glorificados daban largas a pequeñas decisiones que no deberían haber llevado más de unos minutos para leer y firmar, pero, en su lugar, tardaban horas. Así era la democracia, pensó Piłsudski, hasta ahora. Un poco de fuerza y una nueva Constitución, y ahora Polonia ya no estaba frenada por la debilidad del proceso democrático.\nOía los vítores de fuera y los miembros del Sejm lo miraban como cachorros perdidos en busca de orientación. Polonia era realmente una nación incipiente, sus miembros del Gobierno infantiloides; si le correspondía a él guiarlos, que así fuera. Se puso en pie con una risita interna, se acercó al podio presidencial y comenzó su discurso con su habitual actitud ruda."
+ POL_1933_Election.5.A: "Józef Piłsudski, un dictador clemente."
+
+ POL_1933_Election.6.t: "Ratificación de la Constitución de Abril"
+ POL_1933_Election.6.d: ""
+ POL_1933_Election.6.A: ""
+
+ POL_Colonel_Government.1.t: "Rydz-Śmigły asume el cargo de mariscal"
+ POL_Colonel_Government.1.d: "Antes de la muerte del mariscal Piłsudski, Edward Rydz-Śmigły, inspector general de las Fuerzas Armadas, acumulaba poder lentamente, pero ahora, en un esfuerzo por llenar el vacío que dejó Piłsudski, su alcance e influencia han crecido rápidamente, para disgusto de algunos. Este ascenso ha culminado con su promoción a mariscal de Polonia, sucediendo formalmente a Józef Piłsudski.\nSin embargo, el camino hasta convertirse en el «segundo hombre del Estado después del presidente» no ha sido fácil, ya que las luchas intestinas entre él mismo, el presidente Ignacy Mościcki y el primer ministro Walery Slawek podrían hecho perfectamente que otro hombre ocupara su lugar. Por suerte para Rydz-Śmigły, Mościcki entró en razón y estableció una alianza, lo que permitió a Slawek ser tranquilamente marginado al olvido político."
+ POL_Colonel_Government.1.A: "Un nuevo mariscal, una nueva era."
+
+ POL_Colonel_Government.2.t: "Establecer el movimiento OZN"
+ POL_Colonel_Government.2.d: "El ascenso al poder de Edward Rydz-Śmigły dejó a la mayoría de los miembros de nuestro Gobierno sorprendidos por la rapidez con la que ascendió. Su aspecto se convirtió en el de un titán político, especialmente con su ascenso a mariscal de Polonia. La formación del movimiento OZN, o Campo de Unidad Nacional, reforzó aún más el poder de Rydz-Śmigły sobre el país. El movimiento OZN lo retrataba como el siguiente en la línea de sucesión para liderar el país, el heredero de la Segunda República polaca. El anuncio oficial de la formación del movimiento OZN salió de la boca de Adam Koc, y sus objetivos eran en gran medida promilitares.\nTras la muerte de Józef Piłsudski hace dos años, Edward había intentado unir a una multitud de facciones del Gobierno y, aunque fracasó, sus partidarios aumentaron en número. Gran parte de estos partidarios que intentó unir eran los restos del partido BBWR, que se habían aferrado al poco poder que les quedaba tras la muerte de Józef Piłsudski. El partido BBWR ya no podía mantenerse y se disolvió. Por consiguiente, sus restos fueron absorbidos por el partido OZN. Con ello, tanto el movimiento OZN como Edward siguieron creciendo en poder."
+ POL_Colonel_Government.2.A: "Continúa la mentira de la República."
+
+ POL_Colonel_Government.3.t: "Unión de la Joven Polonia"
+ POL_Colonel_Government.3.d: "La fundación del movimiento OZN dio lugar a un partido de derechas sumamente militarista y nacionalista en nuestro Gobierno que respalda la toma del poder de la nación por el sansón autoritario Edward Rydz-Śmigły, actual mariscal de Polonia. La influencia del OZN entre toda la sociedad polaca es notable, sobre todo entre los niños. El sentimiento de nacionalismo es común en el propio país, pero cuando se mezcla con el militarismo crea una sociedad en la que el servicio militar se valora como normalidad social. El movimiento OZN considera a los niños una de las herramientas para transformar nuestra sociedad en una Polonia mejor, así como para cultivar un nuevo espíritu polaco puro.\nEl OZN pretende ensalzar la idea de la militarización de las escuelas para proporcionar a la República un flujo constante de niños nacionalistas que servirían con orgullo y morirían por nosotros. El uso de este tipo de adoctrinamiento consolida la mentalidad de que el Estado es más grande que uno mismo y de que el nacionalismo debe estar respaldado por la lealtad al país, un fanatismo más bien descerebrado y zombi. La estricta propaganda de militarización ha llevado a que se produzca este adoctrinamiento."
+ POL_Colonel_Government.3.A: "¡Que alguien piense en los niños!"
+
+ POL_Colonel_Government.4.t: "Reevaluar el Fondo de Defensa Nacional"
+ POL_Colonel_Government.4.d: "La guerra vendrá más pronto que tarde. Que nuestros enemigos vengan desde el este o desde el oeste es irrelevante, ya que el resultado será catastrófico de todas formas. Nuestro Ejército está criminalmente poco financiado, obsoleto y no supondrá prácticamente ningún desafío para los belicistas que sin duda vendrán hacia nosotros.\nPor suerte, el Mariscal ha visto las deficiencias de nuestras Fuerzas Armadas y ha tomado medidas para rectificar la situación, pero se ha visto muy frenado por la falta de margen en el presupuesto. Para evitar que nuestros esfuerzos de rearme se estanquen, deberíamos crear inmediatamente un Fondo de Defensa Nacional.\nEl dinero del fondo, procedente de muchas fuentes, debería bastar para cubrir los costes del rearme y brindarnos una oportunidad de luchar en las batallas que sin duda se avecinan."
+ POL_Colonel_Government.4.A: "Estaremos listos."
+
+ POL_Colonel_Government.5.t: "La muerte del mariscal"
+ POL_Colonel_Government.5.d: "En medio de una época especialmente tensa en el continente, nuestro querido mariscal, Józef Piłsudski, ha fallecido repentinamente esta mañana en el Palacio Belwederski de Varsovia a causa de un problema de salud no anunciado previamente. Toda nuestra nación y nuestros pueblos han entrado en un periodo inmediato de duelo, recordándolo como un general de fama mundial y un poderoso estadista. Después de salvar al Estado en el milagro sobre el Vístula, su título como liberador de Polonia y vencedor de la guerra polaco-soviética muestra a un salvador nacional en medio de un periodo inestable de nuestra historia. Puede que su muerte deje un efecto duradero en la sociedad polaca, ya que su estatus político de culto lo encumbra como héroe entre los numerosos ciudadanos y nacionalidades de la Rzeczpospolita. Las numerosas condolencias y oficios de líderes mundiales, como [SOV.GetLeader] y [GER.GetLeader], muestran un nivel de respeto superior a cualquier diferencia política. Incluso el papa Pío XI se consideró «amigo de Piłsudski» y celebró una ceremonia en su honor unos días después en la sede de la Sociedad de las Naciones en Ginebra.\nLamentablemente, se desconoce el futuro del ámbito político y del statu quo de la nación. El reinado de Piłsudski y su control total sober el Gobierno crearon accidentalmente un gran vacío de poder. Aunque pidió un sucesor de entre sus numerosos aliados políticos del pasado, estas peticiones parecen haberse echado en saco roto. Su Bloque no Partidista de Colaboración con el Gobierno está totalmente descabezado y el movimiento Sanacja en el que se basa se está fracturando rápidamente por motivos ideológicos. Con el rumoreado auge de una coalición democrática entre los partidos minoritarios, cuando el duelo se supere, Polonia volverá a sumirse en la agitación política."
+ POL_Colonel_Government.5.A: ""
+
+ POL_Colonel_Government.6.t: "El cambio agrario"
+ POL_Colonel_Government.6.d: "Polonia no es un país industrializado. Los alemanes y los rusos tenían miedo de dar algo a nuestro pueblo por si lo utilizábamos para sublevarnos. Ésto quiere decir que gran parte de nuestro país depende de grandes explotaciones familiares y que la mayor parte de nuestra industria se concentra en las ciudades. Ésto no puede ser. Debemos realizar exhaustivas reformas económicas si queremos ser una potencia capaz de defenderse de todos sus enemigos.\n\nSin embargo, se debate en qué sentido deberían realizarse. Algunos alegan que Polonia debería seguir un modelo corporativista, con industrias organizadas bajo una serie de «corporaciones nacionales» que supervisen el funcionamiento de industrias como la agrícola, la manufacturera, etcétera. Aunque nos otorgaría más poder de decisión sobre cómo se dirigen estas corporaciones, también nos dejaría extremadamente vulnerables en caso de que una de estas corporaciones fuera «por libre», por así decirlo. En la búsqueda de beneficios a corto plazo, tienen el potencial de provocar enormes daños en poco tiempo.\n\nExiste otra opción posiblemente más sencilla, pero más peligrosa. Podríamos dirigir nuestro país hacia una economía mixta en la que el Gobierno y el pueblo compartan la propiedad. Este sistema ha tenido muchísimo tirón en países como los Estados Unidos; sin embargo, también se han demostrado los peligros de este sistema en estos mismos lugares. La economía atravesaría un ciclo de auge y caída. El auge sería fantástico, pero la caída sería desastrosa, quizás incluso revolucionaria."
+ POL_Colonel_Government.6.A: "Dar al pueblo voz y voto en la economía."
+ POL_Colonel_Government.6.B: "¡Corporaciones nacionales para la defensa nacional!"
+
+ POL_Mid_Politics.1.t: "La nacionalización estabiliza el esloti"
+ POL_Mid_Politics.1.d: "Con el renacimiento de Polonia llega la creación de una nueva moneda, el esloti. Sin embargo, la nueva moneda de Polonia es volátil. Las finanzas internacionales están preocupadas por la viabilidad a largo plazo de nuestro país, y la inestabilidad de nuestra economía mientras encontramos nuestro equilibrio parece haber exacerbado estas preocupaciones. Si queremos desarrollar una economía y un Estado que resistan al paso del tiempo, debemos construir unos cimientos sólidos sobre una moneda sólida.\n\nDestacados economistas de nuestro país han sugerido que reforcemos el esloti mediante una amplia nacionalización de los bienes enemigos que aún se encuentran en Polonia. Con el valor de estos bienes respaldando la moneda, se podría restaurar la confianza en ella. El hecho de que nuestros burócratas se repartan por todo el país para confiscar bienes en manos de Gobiernos extranjeros o agentes hostiles ya ha tenido un efecto notable en el valor del esloti."
+ POL_Mid_Politics.1.A: "Lo tuyo es mío."
+
+ POL_Economic.1.t: "Fábricas unidas de compuestos nitrogenados"
+ POL_Economic.1.d: "Antes de esta época, era conocido como uno de los mayores químicos polacos por sus múltiples patentes sobre la síntesis del óxido nitroso. Fue alabado por el reputado físico Albert Einstein por su revolucionaria labor en la química. Incluso fue profesor en la prestigiosa Universidad Tecnológica de Varsovia. Pero cuando su nación lo llamó, lo dejó todo atrás para servir al pueblo.\n\nIgnacy Mościcki, el recién reelegido presidente de Polonia, es un científico en el fondo. Atraído a la política pública, dejó su puesto de profesor para unirse al Gobierno de Piłsudski en 1927. Ahora, de nuevo en el poder, Mościcki quiere aprovechar su experiencia previa con su renovado poder. ¿Qué mejor manera de poner en marcha una nueva política económica que utilizar lo que Polonia ya tiene? Sustancias químicas. La larga historia del incipiente sector químico polaco se remonta a antes de la fundación de la Segunda República, pero tiene historia: el Instituto de Investigación Científica y Técnica, que realizaba experimentos con metano, la empresa Przemysł Chemiczny y la magnánima Fábrica Estatal de Compuestos Nitrogenados de Chorzów. La observación y reorganización de estas industrias, junto con otras, nos permitirá ampliar y agilizar la fabricación de productos químicos en la Rzeczpospolita y devolver aún más el orgullo a una identidad nacional renacida.\n\nAunque Ignacy debe centrarse en los numerosos problemas a los que se enfrenta la nación en su conjunto, este proyecto llama mucho a su vocación. Su implicación personal se remonta a tiempos más lejanos, cuando la ciencia era una pasión, y cuando mucha gente sólo lo conocía por su destacado apodo: el rey del nitrógeno."
+ POL_Economic.1.A: "Salve al rey, nena."
+
+ POL_Economic.2.t: "¡La línea Średnicowa abre sus puertas a los pasajeros!"
+ POL_Economic.2.d: "Aunque Varsovia es una de las ciudades más desarrolladas del país, hay un problema importante con su infraestructura. El río Vístula la atraviesa, lo que hace que las mitades oeste y este de Varsovia sean de muy difícil acceso, ya que los ciudadanos que deseaban ver el otro lado tenían que ir a pie. Este mismo problema dificulta también el transporte interior, ya que, si alguien quiere tomar un tren de Poznan a Leópolis, tendrá que hacer escala en Varsovia. Hoy se ha dado un gran paso para unir el este y el oeste de Varsovia y, por extensión, del país.\n\nLa línea Średnicowa, antes sólo disponible para los transportes industriales y militares importantes, se ha electrificado por completo y los trenes pueden atravesar Varsovia sin parar ni dar rodeos. Estos viajes de pasajeros se realizarán con locomotoras eléctricas que, a pesar de la utilización de túneles subterráneos, podrán circular íntegramente hasta la otra mitad de nuestra capital."
+ POL_Economic.2.A: "¡Un billete de ida hacia Leópolis, por favor!"
+
+ POL_Economic_Four_Years_Plan.1.t: "Empresa manufacturera H. Cegielski"
+ POL_Economic_Four_Years_Plan.1.d: "Mientras nuestro país aseguraba su independencia a través de conflictos abiertos y levantamientos, muchas zonas de Polonia, especialmente las ciudades en ruinas y los pueblos pequeños, necesitaban una modernización masiva, concretamente en el sector del transporte público. Los grandes centros de población tenían fábricas en distritos separados, lejos de las viviendas de los trabajadores, por lo que era necesario establecer y abastecer sistemas de transporte público, desde autobuses hasta taxis y tranvías. Este negocio ha sido muy lucrativo para la empresa manufacturera H. Cegielski, que, desde el final de la guerra polaco-soviética, ha crecido en tamaño y valor de mercado, y sólo la Gran Depresión ha frenado su progreso.\n\nSin embargo, hace poco H. Cegielski decidió abrir sus capacidades de fabricación no sólo a las ciudades, sino también a los complejos militares del Ejército polaco. Esta nueva sucursal de la empresa en Rzeszów se ha construido específicamente para suministrar a nuestras Fuerzas Armadas los cañones pesados que solicitemos que se fabriquen. Además de la artillería, la nueva fábrica H. Cegielski también es capaz de producir las diversas herramientas necesarias para un ejército, desde cajas de munición hasta cantimploras y máquinas herramientas.\n\nLa empresa seguirá abasteciendo a nuestro Ejército si hacemos un contrato adecuado con ella y, con su experiencia y gran capacidad de fabricación, deberíamos tenerla muy en cuenta."
+ POL_Economic_Four_Years_Plan.1.A: "¡Que alguien me traiga una pluma, un folio y al ministro de Finanzas!"
+
+ POL_Economic_Four_Years_Plan.2.t: "Consolidar el Distrito Industrial Central"
+ POL_Economic_Four_Years_Plan.2.d: "La Gran Depresión ha sumido al planeta en una decadencia económica como el mundo nunca había visto, y nuestra República no es ninguna excepción. La gente anda por la calle con hambre y sin trabajo, marchitándose mientras nuestro sector industrial se hunde con ellos. El Distrito Industrial Central podría poner remedio a dos problemas al mismo tiempo, ampliando nuestras regiones industriales en Polonia central y creando nuevos puestos de empleo para las cientos de miles de personas sin empleo. Su distancia de las fronteras hostiles nos permitirá establecer una base sólida lejos del frente en caso de guerra, especialmente con Alemania y nuestros anteriores soberanos, Rusia.\n\nLas regiones centrales de Polonia son los objetivos principales para la expansión industrial, y tenemos pensado convertirlos en el corazón industrial de la nación, un corazón forjado con sudor y hierro. Nuevas acerías, minas, graneros, fábricas de armas y de tanques brotarán como briznas de hierba; se mire donde se mire, habrá una nueva fábrica. Los ferrocarriles serpentearán a través de las llanuras y a lo largo de las montañas, transportando valiosos materiales y mercancías por todo el país. Aunque el plan tardará bastante tiempo en completarse, esperamos que dé resultados extraordinarios y consolide aún más nuestra posición frente a las amenazas exteriores; una nación sólo puede aspirar a hacerse más poderosa a través del poderío industrial."
+ POL_Economic_Four_Years_Plan.2.A: "Esa fábrica no estaba ahí ayer, ¿no?"
+
+ POL_Economic_Four_Years_Plan.3.t: "Contratos químicos polacos"
+ POL_Economic_Four_Years_Plan.3.d: "Un país puede exportar muchos bienes valiosos. Los productos manufacturados, las materias primas, los minerales e incluso la mano de obra son ejemplos de ello. Sin embargo, Polonia carece de muchos de estos recursos. Nuestra industria no rinde a un nivel que nos permita mantenernos a nosotros mismos y, al mismo tiempo, apoyar a un sector de exportaciones a gran escala sano y, lo que es más importante, rentable. Por éso investigaremos una nueva área de estudio: la química. Estamos bien situados para una próspera industria química gracias a los acuerdos con Occidente y a la ciencia ya establecida. Con el postor adecuado, ¡nuestras arcas estarán siempre llenas!"
+ POL_Economic_Four_Years_Plan.3.A: "¡Polonia será la capital química del mundo!"
+
+ POL_Economic_Mid.1.t: "El orgullo de los armamentos polacos"
+ POL_Economic_Mid.1.d: "Nuestra pequeña industria armamentística se ha ido nutriendo lentamente desde su nacimiento, y ahora se alza ante nosotros como un león industrial rugiente que afila los colmillos de nuestra nación cada día que pasa. Aunque aún no podemos esperar competir con el mundo occidental o el oso ruso al este, compensamos nuestras carencias produciendo las armas de guerra de mayor calidad que podemos.\n\nNuestros aviones alcanzan cotas nunca vistas en la historia de la aviación polaca y demuestran ser dignos de servir a los pilotos de nuestra Fuerza Aérea en expansión. Nuestros cazas excedentes se disputan con ansias en los mercados, y sólo el comprador más digno se alza con la victoria: todo el mundo quiere probar la ingeniería polaca. Nuestros fusiles disparan con puntería y precisión y pueden resistir al paso del tiempo igual que lo ha hecho el espíritu polaco, y siguen siendo tan duraderos como los corazones de acero de los hombres y mujeres de Polonia.\n\nLas fábricas cobrarán vida y seguirán abasteciéndonos, siempre que nosotros las abastezcamos."
+ POL_Economic_Mid.1.A: "Un fusil muy fiable, ¿no crees?"
+
+ POL_Military.1.t: "Vender tierras republicanas"
+ POL_Military.1.d: "Cuando Polonia obtuvo su independencia, el nuevo Gobierno polaco tomó el control de todas las tierras dentro de sus fronteras que estaban en manos de los Gobiernos alemán, ruso y austriaco, así como de las abandonadas por los ciudadanos de esas naciones que huyeron a sus países de origen. Como consecuencia, el Gobierno posee ahora directamente una parte considerable del país. Estas tierras son demasiado grandes para que las gestionemos, y es casi seguro que se dilapidarán en los años que llevará organizar todas estas nuevas tierras en un sistema más eficiente.\n\nPor ende, se ha decidido vender una gran parte de estas tierras al pueblo en general. No nos importa lo que hagan con ellas mientras no estén en nuestras manos. Pondremos anuncios en los principales periódicos mostrando parcelas locales, celebraremos subastas masivas y enviaremos vendedores a vender directamente. ¿No son las tierras la forma más sencilla de crear riquezas? Hagamos ricos, pues, a unos cuantos polacos más."
+ POL_Military.1.A: "Lo nuestro es suyo."
+
+ POL_Military.2.t: "Una promesa del pueblo"
+ POL_Military.2.d: "Polonia es una idea que vive en el corazón de todo su pueblo, incluidos los de otros países. Ahora que el concepto vuelve a aparecer en el mapa, debe defenderse. Sin embargo, con enemigos en todas partes, el Gobierno no puede hacerlo solo. Por éso, el Gobierno intentará canalizar el patriotismo fervoroso que arde dentro de cada polaco. Para hacer frente a la previsible avalancha de apoyo público, se ha creado el Fondo de Defensa Nacional.\n\nEl Gobierno ha salido de gira, informando a la gente sobre el FON y solicitando donaciones. La comunidad internacional ha reaccionado negativamente. Alegan que ésto nunca funcionará, que el FON se convertirá en una cuenta bancaria más para el Gobierno o sus empleados, o que es una vergüenza que un país pida a sus propios ciudadanos que contribuyan a su defensa.\n\nEn cambio, no reconocen la singularidad del espíritu polaco. Todos los polacos, desde el niño más pequeño hasta el hombre más anciano, preferirían ser indigentes antes que vivir sometidos a un Gobierno no polaco que inevitablemente intentaría extinguir el concepto mismo de nación polaca. Ahora que Polonia ha recuperado su independencia, es cuestión de tiempo que uno de sus hijos se alce para defenderla de sus muchos enemigos inmerecidos."
+ POL_Military.2.A: "¡Por Polonia lo daré todo!"
+
+ POL_Military.3.t: "Una nación responde"
+ POL_Military.3.d: "Los ministros del Gobierno han expresado sus reservas acerca de la formación del Fondo de Defensa Nacional. Sabíamos que nuestro pueblo es patriota, pero muchos cuestionaron la afirmación del mariscal Piłsudski de que renunciarían a lo poco que tenían en defensa del país. Sin embargo, sus inquietudes se han disipado definitivamente. El Fondo ha acumulado mil millones de eslotis, la mayoría de los cuales procede de la venta de terrenos y de inversiones públicas.\n\nSin embargo, los polacos, ansiosos por asegurarse de que no vuelven a borrar a Polonia del mapa, han reunido casi 40 millones de eslotis. La gente se ha gastado sus ahorros, los niños sus pagas, y algunos incluso han donado platos, joyas, monedas preciosas y otros objetos de valor. Muchas corporaciones también están contribuyendo grandes sumas de dinero, demostrando su patriotismo. Algunos polacos famosos que no pueden o no quieren donar directamente por diversos motivos han contribuido al programa prestando su nombre."
+ POL_Military.3.A: "¡Juntos mantendremos Polonia a salvo!"
+
+ POL_Plan_East.1.t: "Plan Este"
+ POL_Plan_East.1.d: "A nuestro este y oeste, estamos rodeados de enemigos. Si bien nuestro adversario al oeste no debe tomarse a la ligera, nuestro adversario al este, la Unión Soviética, es una preocupación primordial. Rusia ha sido el adversario de Polonia en todas sus formas. Nos han tratado como a perros durante más de un siglo para rompernos. En su lugar, su imperio se desmoronó en 1918, nosotros surgimos de nuestras cenizas, tan fuertes y poderosos como siempre. Los intentos de los soviéticos de conquistarnos en 1920 fueron un fracaso colosal, y nuestras victorias en Varsovia y en el Vístula se han estudiado en todo el mundo. Sin embargo, todas las lecciones se pueden olvidar con el tiempo.\n\nEl lunático de Moscú parece haber olvidado la lección. Sigue enfadado por el fracaso de la invasión, su retórica contra nosotros sigue siendo venenosa y su odio a la idea de un Estado polaco independiente es bien sabido y está documentado. Cuando envíe inevitablemente sus ejércitos contra nosotros, tendremos que fortificar nuestra frontera oriental, preparar a nuestros ejércitos para la acometida y preparar los corazones de nuestro pueblo para la larga guerra que se avecina."
+ POL_Plan_East.1.A: "¡La lucha final es inevitable!"
+
+ POL_Plan_East.2.t: "Enemigos a las puertas"
+ POL_Plan_East.2.d: "Ha llegado por fin la guerra que todo el mundo predecía. Stalin, insatisfecho con que su imperio abarque desde el Báltico hasta el Pacífico, ha decidido expandirlo. Incluso ahora, los soldados soviéticos cruzan nuestra frontera, enterrándose unos a otros en montañas de su propia carne. Cada soldado soviético muerto nos une más. Sin embargo, ésto no debería nublarnos el juicio. La victoria es inevitable, pero queda muy lejos.\n\nDebemos preparar a nuestro pueblo para la larga guerra que les espera. Ya ha comenzado el racionamiento y se han activado las sirenas antiaéreas en todo el país. En estos momentos se están distribuyendo cartillas militares y nuestra industria está pasando rápidamente a la producción bélica. Puede que Polonia no haya empezado esta guerra, pero la llevaremos hasta el final, hasta Moscú."
+ POL_Plan_East.2.A: "¡Tomamos Moscú una vez, lo haremos otra vez!"
+
+ POL_Plan_East.3.t: "La retirada es una opción"
+ POL_Plan_East.3.d: "La mayoría de los países consideran la retirada un último recurso. Prefieren malgastar cien hombres defendiendo cada centímetro cuadrado de tierra, hombres que podrían emplearse mejor defendiendo algo de valor real. Que no se confunda nuestra reverencia por Polonia con descuido. Sin embargo, nuestro Ejército ha llegado a la misma conclusión a la que llegó el gran estadista romano Fabiano contra Aníbal. Nos hemos dado cuenta de que defender todas nuestras fronteras es inútil. Nos extenderán, aislarán y destruirán en detalle por un terreno con escaso valor práctico o defensivo.\n\nEn su lugar, renunciaremos temporalmente a este terreno, permitiendo a nuestros hombres replegarse a líneas defensivas mejor preparadas a lo largo de terrenos naturalmente más defendibles, como ríos. Entonces, cuando el enemigo esté muy dentro de nuestro país y sobrepasado, contraatacaremos y los destruiremos."
+ POL_Plan_East.3.A: "¡Los atraeremos a una trampa!"
+
+ POL_Plan_East.4.t: "El Cuerpo de Protección Fronteriza"
+ POL_Plan_East.4_tt: "Se crearán 12 divisiones de guardia fronteriza."
+ POL_Plan_East.4.d: "Nuestra frontera oriental es casi incontrolable. Es demasiado larga y llana para ser patrullada eficazmente por la policía local, y abarca desde Lituania al norte hasta Rumanía y el río Stult al sur. Los saboteadores soviéticos cruzan regularmente, desbordando a la policía local, lo que nos lleva a recibir mensajes en los que rogan al Ejército que se haga cargo. Sin embargo, como el Ejército está esperando a que la policía ceda formalmente el control de la frontera, no se hace nada. Ésto no puede seguir así si queremos que nuestras fronteras estén protegidas de la interferencia exterior. Por tanto, se ha formado el Korpus Ochrony Pogranicza, o Cuerpo de Protección Fronteriza, como una fusión de las administraciones militar y policial en la frontera.\n\nEl KOP está compuesto por 12 regimientos, cada uno nombrado a partir de la zona de la frontera que debe defender. Estas divisiones se dividirán a su vez en batallones más pequeños para resguardar fortalezas específicas en el territorio asignado del regimiento. Estos batallones se dividirán a su vez en unidades más pequeñas para resguardar búnkeres y bastiones ubicados entre los fuertes. Con una segunda línea de reservas móviles, es casi seguro que esta disposición obrará maravillas para acabar con la constante amenaza de incursión soviética.\n\nPara disuadir al KOP de cualquier infiltración subversiva, estos hombres, elegidos de entre los más hábiles del oeste, patrullarán activamente la frontera y atacarán primero a quienes intenten sondear nuestras defensas. Estos hombres estarán en primera línea de la lucha por la supervivencia de Polonia hasta que regrese la guerra."
+ POL_Plan_East.4.A: "La tempestad del este se calma."
+
+ POL_Plan_West.1.t: "Plan Oeste"
+ POL_Plan_West.1.d: "Mientras muchos de nuestros planificadores militares miran al este con nerviosa certeza, no debemos pasar por alto las hordas hitlerianas a nuestro oeste. Cuando nuestro país se independizó de Rusia, los Aliados victoriosos nos otorgaron tierras. Muchas de estas tierras, como Silesia y Pomerania, fueron arrebatadas por la fuerza a Alemania después de que se negase a acatar el tratado. Estas ofensas, junto con nuestras acciones más pacíficas pero igualmente escandalosas, no han pasado desapercibidas en Alemania. A pesar de sus palabras venenosas, nos llevábamos bien con nuestro vecino occidental. Pero éso fue hasta hace poco.\n\nHitler siempre ha tenido ambiciones en Oriente. Se ha puesto duro con nosotros ahora que está al mando. Sus funcionarios han dejado constancia de lo «bárbaros» que somos, y su propagandista Goebbels nos ha calificado de error histórico. Todo ésto sólo puede tener una conclusión: la guerra. Aunque no podemos alejar la vista del todo de los soviéticos, la situación nos obliga a focalizar nuestras nuevas defensas en el oeste. Para combatir mejor a la Wehrmacht en rápida expansión, se construirán nuevas fortificaciones, se actualizarán los viejos planes y se modernizarán nuestros ejércitos."
+ POL_Plan_West.1.A: "¡No entraremos dócilmente en esa buena noche!"
+
+ POL_Plan_West.2.t: "La eterna defensa"
+ POL_Plan_West.2.d: "A medida que nuestro adversario ataca nuestras líneas a diario, los llamamientos a una contraofensiva se han hecho casi ensordecedores. Hemos resistido, dicen, y ahora es el momento de contraatacar. Lo que no reconocen es que nuestro Estado ha llegado a su punto álgido. Se envían directamente al frente armas y balas, y algunas fábricas de tanques sacan sus tanques de las cadenas de montaje directamente a campos de batalla activos. Una ofensiva ahora dilapidaría la poca reserva estratégica que tenemos en hombres y armas para lo que casi con seguridad serían ganancias marginales.\n\nEn su lugar, nos centraremos en la defensa. Puede que nuestro rival sea grande, pero no hay nada infinito en esta vida. Puede que lleve años y cientos de miles, por no decir millones, de muertes, pero nuestro rival terminará hartándose de pelearse con un muro de ladrillos. Entonces, y sólo entonces, veremos la paz. Sí, la victoria distará de gloriosa o valerosa, pero es todo lo que cabe esperar."
+ POL_Plan_West.2.A: "¿Y si nos quedamos sin tierras donde enterrar a nuestros enemigos?"
+
+ POL_Plan_West.3.t: "Los batallones móviles de Maczek"
+ POL_Plan_West.3.d: "Polonia no puede permitirse quedar rezagada a medida que el mundo adopta la mecanización de la guerra. La 10.ª Brigada de Caballería Motorizada se formó para poner a prueba el concepto de un nuevo cuerpo mecanizado polaco. Su misión principal es servir de reserva, ya que actualmente es nuestra única brigada motorizada. Vigilará nuestros movimientos, atacará a las unidades blindadas y motorizadas enemigas y cerrará las brechas en el frente cuando sea necesario. Nuestro cuerpo de oficiales, principalmente los de caballería, se muestra escéptico ante la capacidad de una unidad de este tipo, así que hemos traído una cara nueva para demostrar su viabilidad.\n\nStanisław Maczek es un soldado de corazón. Luchó por Austria-Hungría en la Gran Guerra antes de unirse a la joven República de Polonia después de que el Imperio se fracturase. Ha servido con distinción y valor en cada conflicto desde entonces. Saltó a la fama como comandante de un «batallón volador» durante la guerra polaco-soviética. Movió a su unidad rápidamente de un frente a otro, reforzando las frágiles defensas y actuando como una especie de «bombero». Este hombre, que ya ha demostrado su capacidad de avanzar rápidamente, liderará ahora la unidad más rápida del Ejército. Si alguien puede demostrar su valía, es él."
+ POL_Plan_West.3.A: "¡Tres hurras por la invencible Brigada Negra!"
+
+ POL_Plan_West.4.t: "El fusil antimaterial wz. 35"
+ POL_Plan_West.4.d: "Uno de los secretos militares mejor guardados de Polonia se encuentra en Varsovia, en varias piezas y entre diversas cajas, aparentemente destinadas a Uruguay. Lo que en una plétora de albaranes se etiqueta como «equipo de vigilancia» es en realidad un arma de vanguardia, diseñada desde cero para darnos ventaja sobre las flotas de tanques enormemente superiores que nos rodean. Las armas antitanque tradicionales son engorrosas y su fabricación requiere mucho tiempo.\n\nPara competir con la calidad de los alemanes o la cantidad de los soviéticos, debemos igualar las condiciones. Sus portadores han jurado guardar el secreto y están obligados a transportar el arma en una caja que no debe abrirse a menos que sea absolutamente necesario. Si la captura o la muerte parecen inevitables, las armas serán destruidas.\n\nTodo ésto para mantener el secreto del fusil antimaterial wz. 35 a salvo. Con un cartucho de 7,92 mm, puede disparar hasta 10 balas por minuto, aunque un cargador típico sólo contiene cuatro cartuchos. El arma se diseñó expresamente para inhabilitar tanques. El peso del arma de unos 10 kg normalmente conllevaría un retroceso igual de pesado. Sin embargo, el retroceso no es mayor que el de un fusil Mauser estándar debido a su freno de boca. Todo ésto se combina para convertirlo en un asesino de tanques ideal. A medida que nuestros enemigos se acercan, el pináculo de la ciencia polaca puede ser capaz de salvar nuestras almas."
+ POL_Plan_West.4.A: "Nuestra salvación."
+
+ POL_Plan_West.5.t: "¿Nuestro propio tanque polaco?"
+ POL_Plan_West.5.d: "Hasta ahora, la incipiente fuerza blindada de Polonia ha estado compuesta en su totalidad de importaciones occidentales, principalmente del Vickers 6-ton Mk. E británico. Si queremos alcanzar la verdadera independencia, también debemos tener una fuerza blindada independiente y libre de influencias extranjeras. Ésto ha propiciado la creación del primer tanque polaco, el «Polaco de 7 Toneladas» o 7TP. Aunque se basa en el Vickers británico que hemos usado en el pasado, el 7TP puede considerarse una mejora del diseño británico.\n\nHemos añadido un motor diésel más fiable, convirtiendo el tanque en el segundo tanque diésel después de los japoneses, un cañón antitanque de 37 mm que puede abrir casi cualquier tanque alemán como un abrelatas, más blindaje en la parte delantera, concediéndonos 17 mm de protección en lugar de los 13 mm originales, hemos rehecho la ventilación, hemos intalado el revolucionario periscopio Mk. IV diseñado en Polonia y hemos añadido una radio.\n\nTodas estas mejoras se combinan para del 7TP una mejora considerable con respecto a nuestra flota de tanques anterior. El 7TP no sólo es más potente que el Mk. E, sino que también puede hacer frente a los pánzers alemanes más fácilmente gracias a su naturaleza de tanque ligero, que le permite mantener la movilidad necesaria para la guerra moderna. El mercado exterior parece estar de acuerdo, ya que Rumanía ha expresado interés en el tanque y ha enviado una comisión para posiblemente comprar tanques nuestros para su flota."
+ POL_Plan_West.5.A: "¡Han llegado los húsares de acero!"
+
+ POL_Plan_West.6.t: "Empleo en la Defensa Nacional"
+ POL_Plan_West.6.d: "La defensa nacional es un concepto sencillo que se ha replicado por todo el mundo. Permite a los reservistas y a los desempleados seguir sirviendo a su país en batallones de reserva. Estos valientes hombres darán sus vidas defendiendo Polonia y dejando libres a tropas más profesionales para frentes más difíciles. Organizaciones similares, como la Guardia Nacional de los Estados Unidos y la Home Guard del Reino Unido, han tenido un gran éxito. Nuestro alto mando militar prevé que la Defensa Nacional tenga resultados parecidos.\n\nSin embargo, estos hombres serán más que carne de cañón. Su formación será a tiempo parcial, al igual que su servicio en tiempos de paz. Sus armas serán reliquias de la Gran Guerra o de antes, y serán conducidos al peligro por hombres con poco más entrenamiento que ellos. Es inevitable que muchos de estos hombres perezcan. En cambio, Polonia vivirá y honrará su recuerdo como consecuencia de su sacrificio."
+ POL_Plan_West.6.A: "La defensa nacional exige sacrificios."
+
+ POL_Plan_Completed.1.t: "Polonia, al filo de la muerte"
+ POL_Plan_Completed.1.d: ""
+ POL_Plan_Completed.1.A: ""
+
+ POL_Plan_Completed.2.t: "El gran sitio"
+ POL_Plan_Completed.2.d: "¡Polonia sigue viva! ¡Los enemigos de Polonia se han vuelto a alzar contra nosotros! Una vez más, como ha ocurrido en innumerables ocasiones a lo largo de nuestra larga e ilustre historia, hombres polacos deben dar su vida en defensa de una nación que lucha por su propia existencia contra la propia historia. Aunque algunos han alegado que el ataque es la mejor defensa, Polonia no desea conquistar. Sólo quiere estar sola.\n\nÉsto significa que tendremos que esperar a nuestros adversarios. Cargarán contra nuestras líneas y miles perecerán. Mientras los ataúdes inundan nuestras ciudades enemigas, seguiremos como siempre. Sus ofensivas se desmoronarán, al igual que su espíritu, y si se les da tiempo suficiente, harán las paces. No cabe duda de que esta guerra será sangrienta, pero la paz que lograremos hará que cada sacrificio valga la pena."
+ POL_Plan_Completed.2.A: "¡Que mueran empalados en nuestras bayonetas!"
+
+ POL_Airforce.1.t: "El Aeropuerto de Okęcie abre sus puertas"
+ POL_Airforce.1.d: "El desarrollo urbanístico empezó a impedir el uso de Pole Mokotowskie, un aeródromo situado en el Campo Mokotowskie de Varsovia, por lo que en 1924 se decidió que era necesario construir un nuevo aeropuerto. Después de mucho pensarlo, el Ministerio de Ferrocarriles, que supervisa el transporte aéreo polaco, compró un terreno cerca del pueblo de Okęcie. El complejo se terminó tras una década de construcción con un presupuesto de casi diez millones de eslotis. Fue diseñado en estilo modernista, con tres hangares, garajes y una gran terminal. Como capital europea moderna que es, Varsovia por fin tiene el aeropuerto que merecía. Tras su finalización en 1934, el complejo se amplió con una base de la Fuerza Aérea polaca, una sucursal del Instituto de Aviación y una planta manufacturera de aviones dirigida por PZL, el principal diseñador de aviones de Polonia. En su primer año acogería a 10 750 pasajeros, cifra que no haría sino crecer con el tiempo."
+ POL_Airforce.1.A: "¡El comienzo de una nueva era de la aviación polaca!"
+
+ POL_Airforce.2.t: "Invertir en aviación civil"
+ POL_Airforce.2.d: "Aunque se ha insistido mucho en las aplicaciones militares de los aviones, hay que hacer el mismo hincapié en sus aplicaciones civiles. La razón es simple: la aviación comercial se está convirtiendo en una industria importante. Tardar horas en volar de una punta del país al otro cuando antes se tardaba una semana o más es crear puentes donde antes no los había. Un empresario de Zbąszyń puede ahora establecer contacto rápidamente con contactos de Rovno para aprovechar las oportunidades económicas, lo que se traduce en un crecimiento más rápido. Mientras tanto, el turismo aéreo y de ocio se ha disparado; si somos capaces de aprovecharlo, podremos generar otra fuente de ingresos para nuestra siempre mermado tesoro."
+ POL_Airforce.2.A: "Una inversión en el futuro."
+
+ POL_Airforce.3.t: "Rayski dimite frustrado"
+ POL_Airforce.3.d: ""
+ POL_Airforce.3.A: "Rechazar su dimisión."
+ POL_Airforce.3.B: "Nombrar a Józef Zając."
+
+ POL_Airforce.4.t: "El bombardero medio propio de Polonia"
+ POL_Airforce.4.d: "Zygmunt Puławski, el diseñador aéreo líder de Polonia, ha terminado meses de trabajo. El primer PZL.37 Łoś («alce») operativo ha salido de su hangar para deleite de los entusiastas de la aviación y los agregados extranjeros. Quedan aún más impresionados cuando se les hace una demostración del avión y se les explican sus características. Polonia ha logrado una hazaña increíble, ya que el Łoś es ahora el bombardero medio más avanzado en el mercado.\n\nPuede llevar más bombas que cualquier otro bombardero en el mercado y es rápido y fácil de controlar. Además, gracias a su tren de aterrizaje de doble rueda, puede operar tanto desde campos y praderas como desde aeródromos. Ya hemos recibido una docena de pedidos para exportación, incluido uno de Alemania."
+ POL_Airforce.4.A: "¡Un triunfo del diseño polaco!"
+
+ POL_Airforce.5.t: "El PZL.23 Karaś"
+ POL_Airforce.5.d: "Aunque los bombarderos más pesados están bien, Polonia necesita algo más maniobrable y ligero. Una producción más sencilla no sólo nos permitirá producir más, sino que, cuando lleguen los teutones, podremos abrumarlos y hacer saltar sus fuerzas por los aires. El PZL.23 Karaś es la respuesta a esa necesidad.\n\nAunque no es un avión perfecto, su tren de aterrizaje le impide volar desde algunos de nuestros aeródromos más accidentados, es más que adecuado. Es un avión totalmente metálico, de ala baja en voladizo, con tres tripulantes, incluido un bombardero que puede disparar una ametralladora desde su góndola inferior. Puede dar muerte con una carga máxima de 700 kg, como cualquier otro bombardero. Ya se ha empezado a producir y estará listo cuando lleguen nuestros adversarios."
+ POL_Airforce.5.A: "¡El nuevo terror de los cielos!"
+
+ POL_Airforce.6.t: "El diseño de alas de gaviota de Pulawski"
+ POL_Airforce.6.d: ""
+ POL_Airforce.6.A: ""
+
+ POL_Navy.1.t: "¡Un nuevo puerto de pasajeros para la República!"
+ POL_Navy.1.d: "Gdansk ha vuelto a manos polacas gracias a la suerte, la astucia, la audacia e incluso la violencia. Nos la robaron en Versalles y le otorgaron una independencia que no merecía para darnos una última bofetada. Era un diamante del Báltico. Seríamos mucho más poderosos en alta mar si lo poseyéramos, y nuestra Armada podría defender mejor nuestros intereses en el extranjero. Éso sin tener en cuenta los miles de polacos étnicos que siguen atrapados en la ciudad. Una broma cruel más de un mundo que detesta el concepto de una Polonia libre.\n\nNos vimos obligados por el derecho internacional a permanecer impasibles mientras los malditos teutones se hacían con el control del Gobierno de la ciudad. Oprimieron a los polacos nativos en Polonia igual que hicieron en Alemania. Recibimos montañas de súplicas de estas almas desamparadas rogándonos que acudiéramos a ayudarlas. Sí, hicimos incursiones en la ciudad, pero eran simples mellas en la fortaleza de la Sociedad de las Naciones.\n\nSin embargo, todo éso queda ahora en el pasado. Puede que los alemanes sientan ahora lo que han estado sirviendo cuando las tropas polacas desfilen por las calles de la ciudad y los polacos salgan en masa a dar la bienvenida a sus salvadores. A la población alemana se le ha encomendado la tarea de reconstruir la ciudad y eliminar la suciedad germánica que sigue contaminando el otrora inmaculado perfil polaco de la ciudad. El Gobierno ya ha sido informado de que miles de polacos están deseosos de instalarse en la ciudad. Lo que antes era nuestro ahora vuelve a serlo, y ni siquiera Dios, nuestro Señor, podrá arrebatarnos Gdansk."
+ POL_Navy.1.A: "Nec temere, nec timide."
+
+ POL_Navy.2.t: "Estrategia de despliegue de infantes de marina"
+ POL_Navy.2.d: "Aunque nuestra Armada se centra principalmente en el Báltico, ésto no significa que podamos ignorar la guerra de infantería marítima. Puede parecer absurdo, pero podría pedirse a las tropas polacas que asalten costas enemigas lejos de casa, como Suecia o Dinamarca, o incluso más lejos. Si tenemos que enviar a nuestros chicos al extranjero, deben hacerlo de la forma más segura posible. Cada polaco es valioso. Debilitar ahora nuestra tecnología de infantería de marina sólo se traducirá en un desastre en el futuro, lo que significa que debemos redoblar nuestros esfuerzos. ¡La infantería de marina de Polonia será de la mejor del mundo!"
+ POL_Navy.2.A: "Rozpocznij program kosmicznych marines."
+
+ POL_Navy.3.t: "Dirigirse a las potencias occidentales"
+ POL_Navy.3.d: "Aunque Polonia tiene industria suficiente para construir y mantener una armada, le falta un componente crítico: los diseños. Durante siglos, Polonia no ha tenido costa, y a veces ni siquiera un lugar en el mapa. Ésto ha hecho que escaseen nuestros pensadores navales, y los que quedan se limitan a las pocas lanchas torpederas que pudimos arrebatar a los alemanes en Versalles. Las lanchas torpederas por sí solas no pueden proteger nuestras costas; necesitamos buques más grandes. Afortunadamente, nuestros vecinos occidentales tienen una larga tradición naval propia, y cada uno de ellos ha ofrecido su propia perspectiva sobre en qué debería centrarse la Armada polaca basándose en sus propias especialidades. La industria polaca, pese a su tamaño, sólo puede respaldar una propuesta: ¿cuál será?"
+ POL_Navy.3.A: "Buscar astilleros franceses para destructores."
+ POL_Navy.3.B: "Incluir además a diseñadores mercantes neerlandeses."
+ POL_Navy.3.C: "Buscar también cruceros pesados británicos."
+ POL_Navy.3.D: "La Armada es secundaria, dejemos los planes para más adelante."
+
+ POL_Navy.4.t: "Crecimiento continuado en el puerto de Gdynia"
+ POL_Navy.4.d: "Nuestra inversión en Gdynia está dando excelentes resultados. El comandante del puerto ya ha iniciado las operaciones de dragado para profundizar y ensanchar el puerto para albergar más buques y de mayor tamaño. Al mismo tiempo, ha empezado a fortificar las defensas de este nuevo pilar de nuestra Armada. Donde antes había una tranquila aldea de casas agrupadas en torno a un respetable puerto ahora hay un puerto militarizado.\n\nJunto con el tráfico civil regular que entra y sale de la mitad civil de las instalaciones, altas vallas coronadas con alambre de espino mantienen a cualquier posible saboteador o espía alejado de los recién construidos astilleros militares. Junto con el vallado y las defensas, se está construyendo un aeropuerto militar. Como el terreno es mayormente llano y ya lo tenemos, el nuevo aeropuerto será una base importante para los aviones que apoyen a nuestros marineros en el mar. Por supuesto, el aeropuerto cuenta con abundantes defensas antiaéreas. Aunque actualmente controlamos el aire, puede que no siempre sea el caso."
+ POL_Navy.4.A: "¡Construir para el futuro!"
+
+ POL_Navy.5.t: "Ampliar la Marina Mercante de Polonia"
+ POL_Navy.5.d: "En 1920 se celebró una emotiva ceremonia después de que nuestros valientes soldados tomaran las tierras alrededor de Gdansk. El general Józef Haller llegó a Puck, cerca de Gdansk, y casó a Polonia con el mar Báltico. Haller recibió dos anillos de platino fabricados por destacados polacos en Gdansk. Los anillos fueron entregados a Puck, que montó a caballo y presidió una ceremonia sagrada en la que la bandera polaca fue bendecida por un sacerdote.\n\nA continuación, la bandera fue izada en un buque en el puerto, cediendo simbólicamente la defensa de las costas polacas a la recién creada Armada. Entonces cogió uno de sus anillos y lo arrojó al Báltico después de que los lugareños abrieran un agujero en la bahía helada, declarando: «En nombre de la Santa República de Polonia, yo, el general Józef Haller, tomo el control de esta antigua costa eslava del Mar Báltico».\n\nDurante una conmemoración del evento hoy en Rewa, se ha izado la bandera polaca sobre diez barcazas atracadas. Estos diez modestos buques, recién construidos para nuestra incipiente nación, forman ahora la base de la nueva Armada polaca. Con ellos navegan siglos de historia, y cada milla que navegan ahora se suma a nuestros volúmenes de tradición naval. Éste no es el fin de nuestra misión para dominar el mar, sino más bien el comienzo."
+ POL_Navy.5.A: "Dla boga i chwały!"
+
+ POL_Navy.6.t: "El puerto dorado de la República"
+ POL_Navy.6.d: "Polonia no sólo es libre después de siglos de opresión rusa y años de guerra, sino que también tiene acceso al mercado global. El puerto de Gdansk es esa salida. Los alemanes pueden quejarse de que el nuevo «corredor polaco» aísla a Prusia Oriental del resto del país, pero nosotros nos regocijamos. Sin Gdansk y el corredor, dependeríamos totalmente de Alemania para importar y exportar. Éso daría a los despreciados teutones una enorme influencia sobre nosotros, ¡influencia que sin duda utilizarían para reducirnos de nuevo a la condición de vasallos!\n\nA pesar de estas ventajas, nuestros planificadores navales ven el estado actual de Gdansk como el principio, no el final, del desarrollo del puerto. Con una generosa financiación, se ha iniciado la construcción de una enorme ampliación de los muelles, que permitirá más comercio pero también una mayor presencia naval, lo que nos dará más voz y voto sobre lo que ocurra en el Báltico y otra restricción sobre el poder alemán."
+ POL_Navy.6.A: ""
+
+ POL_Navy.7.t: "Gdansk vuelve a Polonia"
+ POL_Navy.7.d: ""
+ POL_Navy.7.A: ""
+
+ POL_Navy.8.t: "Dirección de la Armada"
+ POL_Navy.8.d: ""
+ POL_Navy.8.A: "Seleccionar la flota de alta mar de Swirski."
+ POL_Navy.8.B: "Seleccionar la guerra indirecta de Unrug."
+
+ POL_Innovative.1.t: "Restaurar la cultura y el orgullo polacos"
+ POL_Innovative.1.d: "Amenazados como están, los malditos teutones y los bárbaros rusos se esforzaron por borrar nuestra orgullosa cultura. Los alemanes lo consiguieron robando a nuestros hijos de los pechos de sus cariñosas madres y metiéndolos en escuelas diseñadas específicamente para germanizarlos. Se ensalzaba a los héroes alemanes mientras se vilipendiaba a los polacos. Los rusos fueron más crueles. Simplemente deportaron a los polacos que luchaban contra la rusificación e intentaron sacarnos el espíritu polaco a golpe de «educación» y represión. Sin embargo, estos dos monstruos han fracasado estrepitosamente.\n\nCon el regreso de un Estado polaco a suelo europeo, urge invertir estas tendencias de germanización y rusificación. Cada polaco contiene un infierno patriótico a la espera de ser encendido. Podemos invertir el cruel devenir de la historia y devolver a Polonia al lugar que le corresponde entre las naciones haciendo hincapié en la historia independiente de Polonia, subvencionando nuestra incipiente cultura y vengándonos de los bárbaros teutones y rusos."
+ POL_Innovative.1.A: "¡Varsovia será la capital cultural de Oriente!"
+
+ POL_Innovative.2.t: "En las profundidades del bosque de Kabaty"
+ POL_Innovative.2.d: "Polonia está rodeada de enemigos por todos los lados. A nuestro oeste, las hordas hitlerianas salivan ante la posibilidad de apoderarse del corredor de Gdansk. Mientras tanto, a nuestro este, los demonios comunistas rusos ya intentaron una vez destruir nuestra orgullosa nación, pero su arrogancia condujo a su aniquilación en el río Vístula. Aunque nuestras tres naciones han mantenido la paz, no somos tan ingenuos como para pensar que durará para siempre. Por éso, nuestro Buró de Crifrado ha estado intentando constantemente descifrar los códigos de nuestros enemigos.\n\nHan comenzado a realizar recientemente importantes progresos en la descifración de los códigos Enigma alemanes en sus nuevas instalaciones en el bosque de Kabaty. Que nosotros sepamos, los alemanes no sólo desconocen nuestra ventaja emergente, sino que además estamos mucho más cerca de descifrar el código que Occidente. Si lo hacemos, obtendremos una ventaja considerable."
+ POL_Innovative.2.A: "¡Por fin, nuestra gallina de los huevos de oro!"
+
+ POL_Innovative.3.t: "El Buró de Cifrado y Enigma"
+ POL_Innovative.3.d: "El uso del descifrado de códigos en la guerra es un fenómeno relativamente nuevo. Durante la mayor parte de la historia, las órdenes se daban en persona, y los mensajeros eran más frecuentemente asesinados que capturados. Sin embargo, el avance de la tecnología de radio ha dado lugar a que las órdenes se emitan a través de ellas, y los mensajes de radio pueden ser interceptados. Interceptar estos mensajes puede otorgarnos una ventaja considerable a la hora de predecir la siguiente jugada de nuestros rivales. Ésto lo descubrimos cuando la Sección de Cifrado descifró los mensajes soviéticos y nos ayudó a obrar el «milagro sobre el Vístula». Dado que el descifrado de códigos es tan importante para la formación de nuestro país, es natural que lo cultivemos más.\n\nÉsto ha dado lugar a la creación del Buró de Cifrado, una agencia independiente dedicada exclusivamente a descifrar a nuestros posibles adversarios. Uno de estos adversarios es Alemania, que emplea el código Enigma, considerado el más seguro del mundo. Hemos tenido la suerte de recibir una alerta temprana. Los alemanes parecen habernos enviado una variante comercial de la máquina Enigma por equivocación. Aunque es poco útil para desencriptar la Enigma militar, la máquina ha despertado el interés del Buró. Creen que, con el tiempo suficiente, serán capaces de descifrar Enigma."
+ POL_Innovative.3.A: "Lo que nos salvó una vez volverá a salvarnos."
+
+
+######################################################################
+#  Polish Focuses
+######################################################################
+ #Economy & Politic
+ POL_Economy: "La economía polaca"
+ POL_Economy_desc: "La economía polaca no está en buen estado. En comparación con nuestros vecinos, nuestra industria es pequeña, y los avances económicos que estábamos logrando se han visto frenados por el crac de Wall Street de 1929 y la consiguiente Gran Depresión, de la que aún no nos hemos recuperado de forma significativa. Sin embargo, con la reciente reelección de Mościcki y la estabilidad política que ello conllevará, podemos empezar a hacer cambios y mejoras significativos a nuestra economía para volver a encauzar a la nación.\n\nCon varios planes económicos listos para ponerse en marcha, así como proyectos que conectarán y mejorarán nuestra nación, por fin empezamos a ver el lado bueno del desastre en el que nos encontramos."
+
+ POL_1933_Election: "Elecciones presidenciales de 1933"
+ POL_1933_Election_desc: "Ignacy Mościcki ha sido reelegido líder de nuestra joven república. Desde que llegó al poder en 1926, nos ha ayudado a superar los numerosos retos que se plantean a una nación que se encuentra entre la espada y la pared, así como la Gran Depresión, que ha dejado una enorme mella en nuestra estabilidad económica.\n\nPor suerte, el presidente era el único candidato disponible para el Sejm, ya que la mayoría de los partidos de la oposición habían boicoteado la votación. Sin embargo, ésto pone de manifiesto que queda mucho por hacer para proteger a la República de los enemigos, tanto dentro como fuera del Estado, y todo ello bajo la atenta mirada del mariscal Piłsudski."
+
+ POL_Finish_Off_Opposition: "Acabar con la oposición"
+ POL_Finish_Off_Opposition_desc: "La oposición a nuestro Gobierno adopta diversas formas, como la resistencia política y étnica. En términos políticos, los radicales como los comunistas siempre han supuesto una amenaza para nosotros, ya que están financiados por los miserables soviéticos al este desde que perdieron en 1921. Los alemanes no son mucho mejores, ya que apoyan a grupos nacionalsocialistas pequeños en el oeste de nuestra nación. Todos estos radicales tienen poca influencia, pero en un momento dado podrían alterar el orden de nuestra nación. Por su parte, algunos separatistas bielorrusos y ucranianos están intentando reunir suficientes fuerzas para declarar naciones escindidas, aunque por ahora está todo bajo control.\n\nSi queremos hacer frente a estos traidores, tendremos que ensuciarnos las manos, y éso debe incluir la construcción de nuevos campos de prisioneros para recluir a todos estos criminales."
+
+ POL_State_Sponsored_Assimilation: "Asimilación auspiciada por el Estado"
+ POL_State_Sponsored_Assimilation_desc: "El Gobierno polaco lleva mucho tiempo intentando alejar a las grandes minorías étnicas de sus culturas nativas, un proceso conocido como polonización. Sin embargo, esta política ha sido un fracaso colosal que ha animado a los grupos minoritarios a resistir y rebelarse contra el gobierno polaco. Por ejemplo, la población ucraniana de Leópolis ha formado grupos partisanos que realizan atentados y asesinatos contra funcionarios y militares polacos. El fracaso de la polonización en Leópolis no ha hecho sino alimentar el resentimiento y reforzar la resistencia ucraniana."
+ 
+ POL_Strenghten_Watterplate_Garnison: "Reforzar a la guarnición de Westerplatte"
+ POL_Strenghten_Watterplate_Garnison_desc: "Desde el final de la Gran Guerra, los alemanes siempre se han quejado del «corredor polaco», que divide Prusia Oriental del resto de Alemania. Ha sido fuente de grandes tensiones a lo largo de los años, y recientemente se ha recrudecido debido al cambiante panorama político de nuestros vecinos occidentales. Para asegurarnos de que los alemanes no se hagan ilusiones, reforzaremos la pequeña guarnición que tenemos en Gdansk y que protege un pequeño depósito que nos pertenece por derecho. Existe, por supuesto, la pequeña posibilidad de que los alemanes no se lo tomen muy bien, así que esperemos que no salga nada de lo que nosotros vemos como un desplazamiento sensato de soldados."
+ 
+ POL_Charismatic_Authoritarianism: "Autoritarismo carismático"
+ POL_Charismatic_Authoritarianism_desc: "Polonia había estado 150 años sin existir, y la visión y determinación de Piłsudski fueron esenciales para el restablecimiento de Polonia como Estado soberano. Su genialidad militar y su perspicacia política le permitieron unir a varias facciones polacas, dando lugar a una nación fuerte y unificada. Ocultó magistralmente el hecho de que la República de Polonia no es una república.\n\nAunque los métodos de Piłsudski no fueron siempre democráticos, luchó incansablemente por la independencia polaca del Imperio ruso. A pesar de ello, siguió siendo popular entre los polacos por su papel en el establecimiento del Estado polaco moderno a partir de la nada, y sus acciones siempre estuvieron motivadas por el amor a su país y el deseo de protegerlo."
+ 
+ POL_Ratify_April_Constitution: "Ratificar la Constitución de Abril"
+ POL_Ratify_April_Constitution_desc: "Tras la Gran Guerra, a Polonia le costó establecer un sistema político estable capaz de soportar las presiones internas y externas. A pesar de los varios intentos de redactar una Constitución, el país ha estado asolado por luchas políticas internas, agitación social e intervenciones extranjeras. Para abordar estos retos y asegurar el futuro de Polonia, nuestro Gobierno ha propuesto la Constitución de Abril. \n\nLa Constitución de Abril, redactada por un comité de expertos y aprobada por la Asamblea Nacional, es un documento exhaustivo que describe la estructura y funciones del Gobierno, los derechos y deberes de los ciudadanos y los principios de justicia, igualdad y libertad, y refleja nuestras aspiraciones nacionales, valores democráticos y legado histórico."
+ 
+ POL_Sanation_Left: "La izquierda de la Sanacja"
+ 
+ POL_Chase_True_Enemy: "Perseguir al verdadero enemigo"
+ 
+ POL_Cooperate_with_Sosnowski: "Cooperar con Sosnowski"
+ 
+ POL_Legion_of_Merit: "La Legión al Mérito"
+ 
+ POL_Doctrine_of_Defense: "La doctrina de defensa"
+ 
+ POL_Castle_over_Varsaw: "El Castillo de Varsovia"
+ 
+ POL_Budgetary_Reform: "Reforma presupuestaria"
+ 
+ POL_Consolidate_Elite_Support: "Consolidar el apoyo de la élite"
+ 
+ POL_Policy_Neutrality: "Una política de neutralidad"
+ 
+ POL_Ressurect_Galician_Oil: "Resucitar la industria petrolera galiciana"
+ 
+ POL_Crush_Army_Influence: "Aplastar la influencia del Ejército"
+ 
+ POL_Heir_Of_Marshal: "El heredero del Mariscal"
+ 
+ POL_Power_Sharing_Agreement: "El acuerdo de reparto del poder"
+ POL_Power_Sharing_Agreement_desc: "El presidente Ignacy Mościcki y el mariscal Edward Rydz-Śmigły han aceptado un acuerdo de reparto del poder que aportará a Polonia estabilidad y progreso. El acuerdo conlleva el reparto de las responsabilidades entre los dos líderes, que han accedido a colaborar para abordar las cuestiones apremiantes del país.\n\nMościcki seguirá sirviendo como presidente de la República de Polonia, supervisando las relaciones exteriores, políticas económicas e iniciativas culturales del país, según el acuerdo. Por su parte, como mariscal de Polonia, Rydz-Śmigły será responsable de reforzar las capacidades militares del país, supervisando la defensa nacional y manteniendo la ley y el orden."
+ 
+ POL_Stregthen_Zloty: "Reforzar el esloti"
+ POL_Stregthen_Zloty_desc: "El presidente Mościcki ha lanzado un esfuerzo concertado para fortalecer la moneda nacional polaca, el esloti, frente a los retos económicos. Esta iniciativa prevé estabilizar la economía polaca, atraer inversiones del extranjero y proporcionar estabilidad financiera a los polacos.\n\nMościcki ha formado una fuerza operativa especial para supervisar el fortalecimiento del esloti. La fuerza operativa se concentrará en implementar medidas destinadas a reducir la inflación, aumentar las inversiones extranjeras en Polonia y mejorar las capacidades de exportación del país. Mościcki se compromete a llevar a cabo estas medidas de forma coordinada y eficaz, colaborando estrechamente con el sector privado y otras partes interesadas para alcanzar sus objetivos."
+ 
+ POL_Continue_Public_Nationalizations: "Continuar con las nacionalizaciones públicas"
+ POL_Continue_Public_Nationalizations_desc: "Pese a numerosos obstáculos, Polonia ha dado pasos importantes hacia el establecimiento de una economía moderna y próspera. La política de propiedad pública del Gobierno, que ha ayudado a crear puestos de empleo, mejorar la productividad y reducir la desigualdad, ha sido clave en este progreso. En reconocimiento de estos logros, el Gobierno ha anunciado un nuevo programa para ampliar y continuar la nacionalización pública en la próxima década.\n\nA través de este programa, el Gobierno adquirirá participaciones en industrias estratégicas como la energía, el transporte y las telecomunicaciones. Estas industrias se modernizarán y ampliarán para satisfacer la creciente demanda de la economía polaca y propocionar mejores servicios públicos. Ésto no sólo creará nuevos puestos de empleo, sino que también mantendrá la infraestructura esencial en manos públicas, garantizando la seguridad económica del país.\n\nContinuar con la nacionalización pública es un intento audaz y ambicioso de construir una Polonia más fuerte y próspera. Podemos crear una economía que funcione para todos los polacos, no sólo para unos pocos, ampliando la propiedad pública."
+ 
+ POL_Deepen_Trust_Financial_Institutions: "Aumentar la confianza en las instituciones financieras"
+ POL_Deepen_Trust_Financial_Institutions_desc: "Es esencial que el Gobierno dé pasos para restaurar la confianza en las instituciones financieras de Polonia. El crecimiento económico y la estabilidad serán imposibles de alcanzar sin confianza en estas instituciones, por lo que debemos lanzar un programa global destinado a abordar esta cuestión. Esta iniciativa mejorará el marco normativo, aumentará los conocimientos financieros y fomentará la inversión. Al poner estas medidas en marcha, crearemos un sistema financiero estable y transparente que sentará las bases de una Polonia próspera y segura."
+ 
+ POL_Issue_New_Banknote_Denominations: "Emitir nuevas denominaciones de billetes"
+ POL_Issue_New_Banknote_Denominations_desc: "Como la inseguridad del esloti sigue siendo una preocupación acuciante, el Gobierno ha propuesto un programa de reforma monetaria que introducirá nuevas denominaciones y reforzará el valor de nuestra moneda nacional. Han propuesto la emisión de nuevos billetes con las denominaciones de 10, 20, 50, 100, 200 y 500 eslotis, que sustituirían a la moneda actual y estarían respaldados por reservas de oro para garantizar la estabilidad. Ésto no sólo restaurará la confianza en la moneda, sino que también ayudará en la lucha contra la inflación al reducir la oferta de dinero en circulación.\n\nAdemás de los billetes, el Gobierno emitirá nuevas monedas con las denominaciones de 1, 2 y 5 eslotis. Estas monedas se fabricarán con materiales de alta calidad, como níquel y bronce, e incluirán las medidas más recientes contra la falsificación.\n\nUn nuevo banco central se encargará de gestionar la política monetaria y regular el sistema bancario. Ésto garantizará la estabilidad de la nueva moneda y la capacidad de la economía de crecer y desarrollarse. Podemos garantizar que Polonia prosiga su camino hacia la prosperidad y el crecimiento aplicando este programa de reformas."
+ 
+ POL_Colonel_Government: "El Gobierno del coronel"
+ POL_Colonel_Government_desc: "La muerte del mariscal Józef Piłsudski, el fundador y líder del Estado polaco, ha dejado un vacío en la cúpula de nuestro país y ha creado un vacío de poder que amenaza a nuestra estabilidad y seguridad. Para garantizar una transición fluida del poder y nuestra independencia, nuestro Gobierno ha nombrado al mariscal Edward Rydz-Śmigły sucesor de Piłsudski y le ha encargado continuar su legado.\n\nEl mariscal Rydz-Śmigły, aliado cercano y protegido de Piłsudski, es un respetado comandante militar y líder político que ha demostrado su lealtad y compromiso con los intereses de nuestro país. Jugó un papel decisivo en muchas de las campañas militares de nuestro país, incluida la guerra polaco-soviética.\n\nEl mariscal hereda un legado de liderazgo fuerte y pensamiento visionario que él debe mantener y expandir. Debe seguir promoviendo los intereses de nuestro país y defendiendo nuestra soberanía ante las amenazas externas, lidiando a la par con asuntos internos como el malestar social, la desigualdad económica y la polarización política."
+ 
+ POL_Consolidate_Nationalist_Wing: "Consolidar el ala nacionalista"
+ POL_Consolidate_Nationalist_Wing_desc: "Al asumir el mando del país, el Mariscal reconoce la necesidad de un frente nacionalista unido en Polonia, tanto militar como políticamente. Con la amenaza de una agresión externa al acecho, Polonia debe presentar un frente fuerte y unido al mundo. Para ello, Rydz-Śmigły ha declarado su intención de reforzar el ala nacionalista de Polonia.\n\nSe reorganizará y racionalizará el Ejército como primer paso de este proceso, centrándose en la modernización y la eficiencia. Todas las organizaciones militares nacionalistas se integrarán en una única unidad cohesiva. A continuación, se dirigirá a los grupos y partidos nacionalistas de toda Polonia en un intento de reunirlos en una coalición unida bajo su liderazgo. Esta coalición estará basada en los principios del nacionalismo polaco, centrándose en preservar la soberanía y la independencia de Polonia. Todo con el Mariscal al timón.\n\nEl Mariscal cree que Polonia será capaz de enfrentarse a cualquier amenaza externa con fuerza y decisión. Trabajando juntos, el pueblo polaco puede garantizar su independencia y soberanía, allanando al mismo tiempo el camino hacia un futuro mejor para sí mismos y para su país."
+ 
+ POL_Fund_Military_Modernization: "Financiar la modernización militar"
+ POL_Fund_Military_Modernization_desc: "El Mariscal ha reconocido la necesidad crítica de modernizar el Ejército polaco. Propone un exhaustivo plan para financiar y modernizar la infraestructura y el equipo militar de Polonia para alcanzar este objetivo. Al destinar recursos al establecimiento de un nuevo complejo industrial-militar, éste permitirá al país fabricar sus propias armas, municiones y vehículos, reduciendo su dependencia de proveedores extranjeros.\n\nAsimismo, el plan hace hincapié en la importancia de modernizar el equipo militar existente de Polonia mediante la compra de nuevos tanques, artillería y aviones, mejorando a la vez los ya existentes. También está previsto construir un moderno sistema de defensa aérea para proteger al país de los ataques enemigos.\n\nRydz-Smigly aboga por el aumento del gasto militar y la creación de un fondo especial para la modernización, pues considera que, con una financiación adecuada, Polonia puede conseguir un Ejército moderno y eficaz, capaz de defender al país frente a cualquier amenaza potencial."
+ 
+ POL_Reform_Statist_Model: "Reformar el modelo estatalista"
+ POL_Reform_Statist_Model_desc: "El modelo económico estatalista de Polonia lleva en vigor desde el final de la Gran Guerra, pero no ha seguido el ritmo de la cambiante economía mundial. El Gobierno ha reconocido que es necesaria una reforma para potenciar la competitividad económica y el crecimiento en el país. Trazaremos una estrategia para reformar el modelo económico estatalista y la transición a un sistema más moderno basado en el mercado. Los métodos de reforma incluirán la reducción de la propiedad estatal de las empresas, el aumento de la inversión privada y el fomento del espíritu empresarial.\n\nLa capacidad del Gobierno de implementar estas reformas y gestionar la transición a un nuevo modelo económico determinará el éxito del plan. Polonia, por su parte, puede posicionarse para el crecimiento económico y la prosperidad a largo plazo abrazando el cambio y fomentando la innovación."
+ POL_Reform_Statist_Model_tt: "\n§MTras 180 días§!, la economía cambiará a §LEconomía mixta§! y todas las demás leyes económicas §Restarán bloqueadas§!."
+ 
+ POL_Form_the_OZN: "Formar el OZN"
+ POL_Form_the_OZN_desc: "En la era de la posguerra, Polonia se enfrenta a numerosos desafíos, como divisiones políticas y luchas económicas. Para abordar estas cuestiones y promover la unidad nacional, el Mariscal ha decidido crear el Campo de Unidad Nacional (OZN), que será una coalición de partidos políticos y grupos sociales comprometidos con la reconstrucción de Polonia y la mejoría de la vida de sus ciudadanos.\n\nEl éxito del OZN estará determinado por la capacidad del Gobierno de dirigir la coalición y abordar los desafíos de Polonia. El OZN, por su parte, tiene potencial de ser una poderosa fuerza de cambio positivo en Polonia trabajando juntos y promoviendo la unidad nacional."
+ 
+ POL_Cult_of_the_Marshal: "Culto del Mariscal"
+ POL_Cult_of_the_Marshal_desc: "El Mariscal, como una de las figuras políticas y militares más destacadas de Polonia, ha sido durante mucho tiempo una figura polémica en la historia de nuestro país. El mariscal Rydz-Śmigły, admirado por su liderazgo durante la guerra polaco-soviética y sus esfuerzos por modernizar el Ejército polaco, tiene un poder e influencia enormes sobre la vida política y social de nuestro país. Como comandante en jefe de las Fuerzas Armadas polacas, usará su cargo para promover su propia imagen como héroe nacional y salvador.\n\nEl Mariscal ha utilizado diversas tácticas, como erigir estatuas y monumentos en su honor, publicitar sus logros en los medios de comunicación y reprimir cualquier crítica o disidencia dirigida contra él. También ha construido una red de seguidores y partidarios devotos que lo defenderán a toda costa. Estos esfuerzos lo han retratado como símbolo de la resistencia y fortaleza de Polonia frente a la adversidad."
+ 
+ POL_Warsaw_Cross_City_Line: "Abrir la línea Średnicowa"
+ POL_Warsaw_Cross_City_Line_desc: "La capital de nuestra nación, Varsovia, es un lugar enorme y precioso, además de vasto, y su ubicación hace que la ciudad esté partida por la mitad por el río Vístula. Ésto significa que viajar por la ciudad puede resultar incómodo, ya que hay muy pocos medios de transporte que lleven a los ciudadanos de un lado a otro, y los que hay suelen estar muy ocupados.\n\nPara aliviar la situación, así como para aumentar la productividad y felicidad de los residentes de Varsovia, se abrirá una nueva línea transversal. De este modo, los trenes circularán con regularidad para ayudar a mantener el flujo de gente ocupada sin problemas, y seguro que también ayudará a impulsar la recuperación económica."
+ 
+ POL_Factory_Nitrogen_Coumpond: "Fábricas unidas de compuestos nitrogenados"
+ POL_Factory_Nitrogen_Coumpond_desc: "Tenemos una oportunidad única de utilizar un recurso que se ha descuidado desde la fundación de nuestra nación: las sustancias químicas. La expansión y el enriquecimiento de la industria química nos permitirán impulsarnos en la escena mundial como productores fiables de diversos productos químicos que necesitan muchas naciones de todo el mundo. También sería de gran ayuda para nuestras industrias nacionales, ya que no necesitarían importar tanto como en la actualidad. La puesta en marcha de proyectos especiales de investigación sobre la producción química debería ser una prioridad de nuestro Gobierno."
+ 
+ POL_Keynesian_Economics: "Economía keynesiana"
+ 
+ POL_Expand_Silesian_Mining: "Ampliar la minería en Silesia"
+ 
+ POL_Attract_Western_Investement: "Atraer inversiones occidentales"
+ 
+ POL_Reinforce_Banking_Sector: "Reforzar el sector bancario"
+ 
+ POL_Continue_Rural_Education: "Continuar la educación rural"
+ 
+ POL_Enrich_the_East: "Enriquecer el este"
+ 
+ POL_Finish_Warsaw_Station: "Terminar la estación de Varsovia"
+ 
+ POL_Extend_Public_Works: "Extender las obras públicas"
+ 
+ POL_Investment_Frenzy: "Frenesí de inversiones"
+ 
+ POL_Polish_Academy_Litterature: "Abrir la Academia Polaca de Literatura"
+ 
+ POL_Nationwide_Radio_Covergae: "Cobertura nacional de radio"
+ 
+ POL_Cooperate_Lwow_School_Mathematics: "Cooperar con la Escuela de Matemáticas de Leópolis"
+ POL_Cooperate_Lwow_School_Mathematics_desc: "Polonia se está quedando rezagada en I+D mientras el Reich alemán parece militarizarse rápidamente. Para abordar este preocupante asunto, el Gobierno ha optado por colaborar con la Escuela de Matemáticas de Leópolis. Esta escuela, reputada por su productividad y sus extensas contribuciones a materias como la topología general, la teoría de conjuntos y el análisis funcional, será un valioso activo en nuestros esfuerzos por contrarrestar la amenaza de la inteligencia alemana."
+ 
+ POL_Continue_Four_Years_Plan: "Continuar con el Plan Cuatrienal"
+ 
+ POL_Finish_the_Coal_Trunk_Line: "Terminar la Línea Troncal del Carbón"
+ 
+ POL_Promote_Chemical_Industry: "Promover la industria química"
+ 
+ POL_Subsidise_Arms_Exporter: "Subvencionar las exportaciones de armas"
+ 
+ POL_Subsidise_Stalowa_Wola: "Subvencionar Stalowa Woła"
+ 
+ POL_Found_the_SEPEWE_Syndicate: "Fundar el consorcio SEPEWE"
+ 
+ POL_Increase_Arms_Exports: "Aumentar las exportaciones de armas"
+ 
+ POL_Continue_Urban_Buildip: "Continuar la expansión urbana"
+ 
+ POL_Delop_Encrypted_Radio_Com: "Desarrollar comunicaciones por radio encriptadas"
+ 
+ POL_Expand_Warsaw_Industrial_Region: "Ampliar la región industrial de Varsovia"
+ 
+ POL_Rural_Eletrification_Drive: "Impulso a la electrificación rural"
+ 
+ POL_Push_Higher_Education: "Impulsar la educación superior"
+ 
+ POL_Modernize_Starachowize: "Modernizar las fábricas de Starachowice"
+ 
+ POL_Create_Central_Industrial_Region: "Crear el Distrito Industrial Central"
+ 
+ POL_Prepare_Fifteen_Years_Plan: "Prepararse para el plan de los 15 años"
+ 
+ POL_Increase_Arms_Export: "Aumentar las exportaciones de armas"
+ 
+ POL_Branch_Out_Cegielski: "Ramificar H. Cegielski"
+ 
+ POL_Danzig_Gambit: "El gambito de Gdansk"
+ 
+ POL_The_Polish_Prestige: "§aEl prestigio polaco§!"
+ 
+ POL_A_Nation_Responds: "Una nación responde"
+ 
+ POL_Plan_Wschod: "Plan Wschód"
+ 
+ POL_Enemies_at_the_Gates: "Enemigos a las puertas"
+ 
+ POL_The_Internal_Defense: "La defensa interna"
+ 
+ POL_Establish_Defensive_Protocols: "Establecer protocolos defensivos"
+ 
+ POL_Expand_the_Border_Protection_Corps: "Expandir el Cuerpo de Protección Fronteriza"
+ 
+ POL_Modernize_the_Warsaw_Fortress: "Modernizar la Fortaleza Varsovia"
+ 
+ POL_Plan_Zachod: "Plan Zachód"
+ 
+ POL_Preparing_the_Obrona_Narodowa: "Preparar la Defensa Nacional"
+ 
+ POL_The_1st_Polish_Armored_Division: "La 1.ª División Blindada polaca"
+ 
+ POL_Project_Uruguay: "Proyecto Uruguay"
+ 
+ POL_Overwhelming_Force: "Fuerza abrumadora"
+ 
+ POL_Siedmiotonowy_Polski: "Siedmiotonowy polski; el 7TP"
+ 
+ POL_All_is_Not_Yet_Lost: "No todo está perdido"
+ 
+ POL_24_Hour_Artillery_Production: "Producción de artillería las 24 horas"
+ 
+ POL_Streamline_Weapon_Manufacturing: "Racionalizar la fabricación de armas"
+ 
+ POL_Approve_New_Tank_Quotas: "Aprobar nuevas cuotas de tanques"
+ 
+ POL_The_Emergency: "La emergencia"
+ 
+ POL_Build_the_Resistance: "Desarrollar la resistencia"
+ 
+ POL_The_Great_Siege: "El gran sitio"
+ 
+ POR_Radar_Dev_British: "Desarrollo de radar con los británicos"
+ 
+ POL_Between_the_seas_concept: "El concepto «entre mares»"
+ 
+ POL_Promethean_Project: "El prometeísmo"
+ 
+ POL_Solidarity_Ruthenians: "Solidaridad con los rutenos"
+ 
+ POL_Deal_With_Huns: "Lidiar con los hunos"
+ 
+ POL_San_Narew_Line: "Línea San-Narew"
+ 
+ POL_Open_Krakow_National_Museum: "Inaugurar el Museo Nacional de Cracovia"
+ POL_Open_Krakow_National_Museum_desc: "¡El Museo Nacional de Cracovia, que lleva bastante tiempo en construcción, está casi terminado! Esta estructura albergará el mayor museo de Polonia, así como la principal rama de museos nacionales del país. Incluirá 11 galerías, 2 bibliotecas y 12 talleres de conservación divididos en 21 departamentos a partir del periodo artístico. Contiene aproximadamente 780 000 piezas de arte, con especial atención a la pintura polaca.\n\nLa colección incluye obras maestras de artistas como Konrad Krzyżanowski, Olga Boznańska y Władysław Ślewiński, del movimiento Joven Polonia. El edificio principal alberga una gran colección de piezas militares que datan de los siglos XII al XX, entre ellas armaduras polacas de los siglos XVI y XVII, sables, sillas de montar y caparazones."
+ 
+ POL_Finalise_Recovery_Anti_Polonism: "Terminar de recuperarse del antipolonismo"
+ 
+ #Navy
+ POL_Finish_Gdynia_Passenger_Port: "§3Terminar el puerto de pasajeros de Gdynia§!"
+ POL_The_Danzig_Gambit: "El gambito de Gdansk"
+ POL_Swirskis_High_Fleet: "Flota de alta mar de Swirski"
+ POL_High_Fleet: "Ha seleccionado la §Bflota de alta mar de Swirski§!"
+ POL_Deploy_the_Polish_Marines: "Desplegar a la infantería de marina polaca"
+ POL_Deploy_the_Polish_Marines_desc: "Los polacos no han dejado de aumentar, pero ahora más que nunca debemos preparar a nuestra infantería de marina. Debemos preparar al Ejército para cualquier tipo de guerra, y una con desembarcos múltiples es una de las muchas guerras que tendremos que librar. Debemos estar preparados para cualquier tipo de circunstancias que el mundo pueda arrojar sobre nosotros. Para ello, debemos desplegar a la infantería de marina polaca, para conquistar tierras lejanas y mantener al enemigo a raya. Los infantes de marina también protegerán nuestros buques en el mar. Los regimientos primero y segundo de fusileros marinos polacos ya pueden desplegarse y abastecerse completamente al mismo tiempo."
+ POL_Expedite_Destroyer_Squadrons: "Acelerar las escuadras de destructores"
+ POL_Push_for_Cruiser_Development: "Impulsar el desarrollo de cruceros"
+ POL_Offshore_Ship_Construction: "Construcción de buques de alta mar"
+ POL_Embrace_the_Maritime_and_Colonial_League: "Abrazar la Liga Marítima y Colonial"
+
+ POL_Urbanisation_of_Gdynia: "Urbanización de Gdynia"
+ POL_Urbanisation_of_Gdynia_desc: "La Ciudad Libre de Danzig tiene una autonomía limitada sobre su ciudad y las poblaciones cercanas, bloqueando el acceso al mar Báltico. La pequeña ciudad de Gdynia es ahora nuestra mayor ciudad en la costa. Para asegurarnos de que la ciudad portuaria no fracase, su proceso de urbanización es vital en grado sumo. Debemos ampliar la industria de la zona, así como la población.\n\nSi queremos resistir a las amenazas modernas de la época, debemos militarizarnos, y la urbanización de este puerto será la forma de proteger a nuestra nación en el mar."
+
+ POL_Expand_the_Merchant_Flotilla: "Ampliar la flotilla mercante"
+ POL_Unrugs_Indirect_Warfare: "La guerra indirecta de Unrug"
+ POL_Indirect_Warfare: "Ha seleccionado la §Bguerra indirecta de Unrug§!"
+ POL_Land_Coastal_Defences: "Defensas costeras terrestres"
+ POL_Land_Coastal_Defences_desc: "La amenaza de una invasión desde el mar es real. En una próxima guerra, sin nos invaden desde el mar, apenas tenemos defensas para protegernos de una invasión naval.\n\nNuestra ciudad portuaria de Gdynia es vulnerable tras la reciente urbanización y es un lugar clave a proteger, ya que es nuestro único acceso al mar. Ahora tenemos la industria para hacerlo, debemos actuar en consecuencia para garantizar la prosperidad polaca."
+
+ POL_Form_Submarine_Flotillas: "Formar flotillas de submarinos"
+ POL_Form_Submarine_Flotillas_desc: "Con el Tratado de Versalles y el fin de la Gran Guerra, el pueblo polaco se ha independizado recientemente del difunto Imperio ruso, ganando más territorio tras la derrota de Alemania en dicho conflicto. Ahora hay que defender el puerto de Gdynia, nuestro único acceso al mar. Debemos dar prioridad a la ampliación de los submarinos de la Armada ahora y centrarnos en otras partes más adelante.\n\nEl pueblo polaco estará protegido: los protegeremos nosotros, y si nos quedamos quietos ahora, nuestros futuros enemigos nos aplastarán. Es la voluntad de los pueblos polacos que estos submarinos sean una de las muchas incorporaciones a nuestras crecientes Fuerzas Armadas. Parece que la guerra es inevitable, así que debemos construir un Ejército que rivalice con nuestros peligrosos vecinos."
+
+ POL_Develop_the_Worek_Plan: "Desarrollar el Plan Worek"
+ POL_The_Twin_of_Gdansk: "El gemelo de Gdansk"
+ #Airforce
+ POL_Warsaw_Airport: "§SAeropuerto de Okęcie§!"
+ POL_Warsaw_Airport_desc: "Cuando el crecimiento urbano alrededor del aeródromo de Varsovia, en el Campo Mokotowskie, empezó a dificultar los viajes en avión, el Ministerio de Ferrocarriles compró terrenos cerca de la ciudad de Okęcie para construir un nuevo aeródromo en 1924.\n\nEste flamante y vanguardista complejo cuenta ahora con tres hangares, espacio para exposiciones, garajes y, por supuesto, una terminal vanguardista y de grandes dimensiones con una pista de rodaje de hormigón con cabinas para varios aviones y capacidad para albergar hasta 10 000 pasajeros. Por supuesto, el aeropuerto puede usarse como base aérea para la Fuerza Aérea, lo que ayudará a mejorar la defensa aérea de Varsovia.\n\nEl coste ha sido de unos diez millones de eslotis, pero ¡Polonia cuenta ahora con un aeropuerto digno de cualquier capital europea!"
+ 
+ POL_Open_PZL_Factory: "Abrir la fábrica PZL WP-1"
+ 
+ POL_Modernise_Civil_Aviation: "Modernizar la aviación civil"
+ 
+ POL_Keep_Ludomil_Rayski: "Mantener a Ludomił Rayski"
+ 
+ POL_Appoint_Joseph_Zajac: "Nombrar a Józef Zając"
+ 
+ POL_Support_from_the_Skies: "Apoyo desde el cielo"
+ 
+ POL_Greater_Payloads: "Mayores cargas explosivas"
+ 
+ POL_Increase_Reconnaissance_Flights: "Aumentar los vuelos de reconocimiento"
+ 
+ POL_The_Karas: "El Karaś"
+ 
+ POL_Improving_the_Specifications: "Mejorar las especificaciones"
+ 
+ POL_An_International_Interest: "Un interés internacional"
+ 
+ POL_Better_Reversing_Guns: "Mejor ingeniería inversa de armas"
+ 
+ POL_Aerial_Combat_Maneuvers: "Maniobras de combate aéreo"
+ 
+ POL_The_Pulawski_Wing: "El ala de Puławski"
+ 
+ POL_The_New_Aerial_Doctrine: "La nueva doctrina aérea"
+ 
+ POL_The_Skies_are_Filled: "Los cielos están llenos"
+ 
+ POL_Further_CAS_Production_Rates: "Impulsar las tasas de producción del apoyo aéreo"
+ 
+ POL_Tactical_Superiority_over_Poland: "Superioridad táctica sobre Polonia"
+ 
+ POL_Emergency_Fighter_Buildup: "Acumulación de cazas de emergencia"
+ 
+ POL_Off_the_Line_On_the_Runway: "De la cadena a la pista"
+ POL_Off_the_Line_On_the_Runway_tt: "Añade un §Ocoste de producción de -10 % adicional§! al §gtipo de avión seleccionado§!."
+ #Innovative
+ POL_Polish_Innovative_Revival: "El renacimiento innovador polaco"
+ POL_Polish_Innovative_Revival_desc: "La Gran Depresión afectó gravemente a nuestro país y el Gobierno optó por reducir los fondos a la investigación científica y la educación para mitigar los efectos de la recesión económica. Como consecuencia, en ausencia de intervención gubernamental, el número de mentes brillantes en todos los sectores ha caído en picado, sin indicios de que vaya a aumentar. Para hacer frente a este problema inminente, nuestro Gobierno ha decidido aumentar todos los fondos destinados a la investigación y la educación. Esperemos que Polonia siga produciendo mentes revolucionarias e innovadoras que ayuden al desarrollo de nuestro país y al mundo entero."
+
+ POL_Cipher_Bureau: "Ha desbloqueado §LBuró de Cifrado y Enigma§!"
+ POL_Cipher_Bureau_tt: "§BDesbloquea el enfoque nacional El renacimiento innovador polaco.§!"
+
+ POL_Polish_Academy_Literature: "Academia Polaca de Literatura"
+ POL_Polish_Academy_Literature_desc: "Tras años de represión forzosa de la educación, la lengua y la religión polacas bajo el dominio prusiano y de rusificación total en los territorios ocupados por los zaristas, Stefan Żeromski, apodado la «conciencia de la literatura polaca», ha propuesto la creación de una Academia de Literatura para combatir este problema.\n\nLa misión de la Academia es mejorar la calidad de las publicaciones de Polonia colaborando con organizaciones gubernamentales y no gubernamentales dedicadas a la promoción de la cultura y el arte polacos en general. Tendrá 15 miembros vitalicios, siete de los cuales serán elegidos por el Ministro de Religión y Educación Pública. Los miembros del primer grupo propusieron a los ocho restantes. Esperemos que Polonia pueda expandir así su cultura y su literatura, revirtiendo años de opresión a manos de potencias extranjeras."
+
+ POL_Open_the_Krakow_National_Museum: "Inaugurar el Museo Nacional de Cracovia"
+
+ POL_Cooperate_Lwow_School_Mathematics: "Cooperar con la Escuela de Matemáticas de Leópolis"
+
+ POL_Finalise_the_Recovery_from_Anti_Polonism: "Terminar de recuperarse del antipolonismo"
+
+ POL_Develop_Encrypted_Radio_Communications: "Desarrollar comunicaciones por radio encriptadas"
+
+ POL_Nationwide_Radio_Coverage: "Cobertura nacional de radio"
+
+ POL_Radar_Development_with_the_British: "Desarrollo de radar con los británicos"
+
+######################################################################
+#  Polish Ideas & Spirits
+######################################################################
+ POL_The_Great_Depression: "La Gran Depresión"
+ POL_The_Great_Depression2: "La Gran Depresión"
+ POL_The_Great_Depression3: "La Gran Depresión"
+ POL_The_Great_Depression4: "La Gran Depresión"
+
+
+ POL_One_Poland_Many_Poles: "Una Polonia, muchos polacos"
+
+ POL_Nowela_Sierpniowa: "Enmienda de agosto"
+ POL_Nowela_Sierpniowa_desc: "La enmienda del 2 de agosto de 1926 de la Constitución de Marzo reforzó el poder ejecutivo en Polonia. La enmienda de agosto permitía al presidente disolver el Parlamento y emitir decretos y ordenanzas con fuerza de ley. El Gobierno tiene derecho a presentar su propio presupuesto si el Parlamento no lo ha aprobado en el plazo establecido, y el día de dicha moción no podría someterse a votación una moción de censura contra el Gobierno. La enmienda fue adoptada por una gran mayoría de los parlamentarios. No cambió el sistema político del Estado, pero mejoró considerablemente los Gobiernos."
+ 
+ POL_May_Coup: "El golpe de mayo"
+ 
+ POL_Embers_of_Industry: "Rescoldos de la industria"
+ POL_Economy_Laws_Locked_tt: "§RMientras Rescoldos de la industria esté activo, no será posible cambiar las leyes económicas.§!"
+
+ POL_Fractured_Government: "Gobierno fracturado"
+
+ POL_New_Marshall: "El nuevo mariscal"
+
+ POL_Retooling_Economiy: "Reacondicionando la economía"
+
+ POL_Education_Subsidies: "Subvenciones a la educación"
+
+ POL_Chemical_Exports: "Exportaciones químicas"
+
+ POL_Retreat_is_an_Option: "La retirada no es una opción"
+
+ POL_Poland_is_Not_Yet_Lost: "Polonia aún no está perdida"
+
+ POL_Emergency_Production: "Producción de emergencia de armas"
+ POL_Emergency_Production_2: "Producción de emergencia de armas"
+ POL_Emergency_Production_3: "Producción de emergencia de armas"
+ POL_Emergency_Production_4: "Producción de emergencia de armas"
+
+ POL_Wytwomia_Platowcow: "Wytwórnia Płatowców"
+
+ POL_Pulawskis_Gull_wing_Design: "El diseño de alas de gaviota de Pulawski"
+
+POL_Emergency_Production_Aircraft: "Producción de emergencia de aviones"
+POL_Emergency_Production_Aircraft_1: "Producción de emergencia de aviones"
+POL_Emergency_Production_Aircraft_2: "Producción de emergencia de aviones"
+POL_Emergency_Production_Aircraft_3: "Producción de emergencia de aviones"
+POL_Emergency_Production_Aircraft_4: "Producción de emergencia de aviones"
+POL_Emergency_Production_Aircraft_5: "Producción de emergencia de aviones"
+POL_Emergency_Production_Aircraft_6: "Producción de emergencia de aviones"
+
+POL_Expanding_the_Marynarka_1: "Ampliar la Armada"
+POL_Expanding_the_Marynarka_2: "Ampliar la Armada"
+POL_Expanding_the_Marynarka_3: "Ampliar la Armada"
+POL_Expanding_the_Marynarka_4: "Ampliar la Armada"
+
+POL_The_Maritime_and_Colonial_League_Fund: "El fondo de la Liga Marítima y Colonial"
+
+POL_CAS_International_Interest: "Interés internacional en apoyo aéreo cercano"
+
+POL_A_Steady_Currency: "Una moneda estable"
+POL_A_Steady_Currency_2: "Una moneda estable"
+
+POL_Innovative_Revival: "Renacimiento innovador"
+POL_Innovative_Revival_2: "Renacimiento innovador"
+
+######################################################################
+#  Polish Decision's
+######################################################################
+
+ POL_Issuing_Currency_flag: "Emitir moneda"
+ POL_Issuing_Currency: "Emisión de moneda"
+
+ POL_Small_Issuance: "Emisión pequeña"
+
+ POL_Medium_Issuance: "Emisión media"
+ 
+ POL_Large_Issuance: "Emisión grande"
+
+ POL_Power_to_the_People: "Poder al pueblo"
+ POL_Electrify_Kielce: "Electrificar Kielce"
+ POL_Electrified_Kielce: "Kielce §Yelectrificado§!"
+ POL_Electrify_Lublin: "Electrificar Lublin"
+ POL_Electrified_Lublin: "Lublin §Yelectrificado§!"
+ POL_Electrify_Myszkow_Katowice_Oswiecim: "Electrificar Myszków, Katowice y Oświęcim"
+ POL_Electrify_Poznan: "Electrificar Poznan"
+ POL_Electrify_Pomorze_Wschodnie: "Electrificar Pomerania Oriental"
+ POL_Electrify_Plock: "Electrificar Płock"
+ POL_Electrify_Bialystok: "Electrificar Białystok"
+ POL_Electrify_Grodno_Suwalki_Druskieniki: "Electrificar Grodno, Suwałki y Druskieniki"
+ POL_Electrify_Nowogrodek: "Electrificar Nowogródek"
+ POL_Electrify_Wilno_Wilejka: "Electrificar Vilna y Vilnia"
+ POL_Electrify_Polesie: "Electrificar Polesia"
+ POL_Electrify_Wolyn: "Electrificar Volinia"
+ POL_Electrify_Tarnopol: "Electrificar Tarnópol"
+ POL_Electrify_Przemysl_Krystynopol_Lwow: "Electrificar Przemyśl, Krystynopol y Leópolis"
+ POL_Electrify_Stanislawow: "Electrificar Stanisławów"
+
+ POL_Defending_the_Fringes: "Defender la periferia"
+ POL_Construct_the_Sarny_Fortified_Area: "Construir la Zona Fortificada de Sarny"
+ POL_Create_a_Tarnopol_Line: "Crear una línea de Tarnópol"
+ POL_Extend_the_Hel_Fortified_Area: "Extender la Zona Fortificada de Hel"
+ POL_Fortify_the_Silesian_Frontier: "Fortificar la frontera con Silesia"
+
+ POL_Protecting_the_Polish_Heartlands: "Proteger el corazón de Polonia"
+ POL_The_Northern_Neman_Line: "La línea norte del Niemen"
+ POL_Wall_Along_the_Bug: "Muralla a lo largo del Bug"
+ POL_Prepare_the_Vistula: "Preparar el Vístula"
+ POL_Bridge_the_River_Gap: "Salvar la brecha fluvial"
+
+ POL_Emergency_Measures: "Medidas de emergencia"
+ POL_Enact_Barricades_in_Western_Cities: "Promulgar barricadas en las ciudades occidentales"
+ POL_Enact_Barricades_along_the_Sea: "Promulgar barricadas a lo largo del mar"
+ POL_Emergency_Defensives_in_Warsaw: "Defensas de emergencia en Varsovia"
+ POL_Enact_Barricades_in_Eastern_Cities: "Promulgar barricadas en las ciudades orientales"
+ POL_Conscript_Tractors_to_Pull_Artillery: "Tractores para tirar de la artillería"
+ POL_Mobilize_the_Polish_National_Defense_Volunteers: "¡Movilizar a los voluntarios de la Defensa Nacional!"
+ POL_Mobilize_the_Polish_National_Defense_Volunteers_tt: "§O¡Se movilizará a 16 divisiones de voluntarios para defender la patria!§!"
+
+ POL_Prospect_New_Airfields: "Prospección de nuevos aeródromos"
+ Widen_the_Grodno_Runways: "Ensanchar las pistas de Grodno"
+ Build_a_Landing_Strip_in_the_Marshes: "Construir una pista de aterrizaje en las marismas"
+ Expand_the_Hangers_at_Pomorze_Wschodnie: "Ampliar los hangares de Pomerania Oriental"
+ POL_Civil_Aviation_Decision_Selected: "Ya ha seleccionado una opción"
+ POL_Can_Select_Only_One_Option_tt: "\n==============================\n§R¡Sólo puedes seleccionar una opción!§!\n=============================="
+
+
+ POL_Infrastructure_Disruption: "Alteración de infraestructuras"
+ Sabotage_the_main_roads_in_the_Polsie_Marshes: "Sabotear la carretera principal de los pantanos de Polesia"
+ Destroy_the_Grodno_Bridge_across_the_Neman: "Destruir el puente de Grodno sobre el Niemen"
+ Abandon_the_port_defenders_sever_the_Gdynia_Road: "Abandonar a los defensores del puerto"
+ Sever_the_Southern_Vistula_Bridge_in_Krakow: "Romper el puente del Vístula sur en Cracovia"
+ Cut_All_Lines_out_of_Warsaw: "Cortar todas las líneas que salen de Varsovia"
+ POL_First_Resistance_Effort_Selected: "Ha seleccionado Alteración de infraestructuras"
+
+
+ POL_Sabotaging_our_Hardwork: "Sabotear nuestro duro trabajo"
+ Our_Final_Hour: "Nuestra hora final"
+ Destroy_the_Golden_Port_before_the_Germans_Arrive: "Destruir el puerto dorado antes de que lleguen los alemanes"
+ Kill_the_Four_Year_Plan: "Acabar con el Plan Cuatrienal"
+ POL_Second_Resistance_Effort_Selected: "Ha seleccionado Sabotear nuestro duro trabajo"

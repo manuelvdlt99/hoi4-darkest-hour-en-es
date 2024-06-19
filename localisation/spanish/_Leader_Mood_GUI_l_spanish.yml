@@ -1,0 +1,4 @@
+﻿l_spanish:
+ LEADER_MOOD: "§YEstado de ánimo§! actual de §Y[This.GetLeader]§!: [Root.GetMaZhongyingMoodLevel] ([?Root.TNG_Ma_Zhongying_Mood|0+])"
+ LEADER_MOOD_TT: "El §Yestado de ánimo§! Actual de nuestro [This.leader_title_one] §Y[This.GetLeader]§! es: [This.GetMaZhongyingMoodLevel] ([?TNG_Ma_Zhongying_Mood|0+])"
+ 

@@ -1,0 +1,138 @@
+﻿l_spanish:
+############################################################
+### Faction Names
+############################################################
+ FACTION_Axis_Powers: "Potencias del Eje"
+
+ FACTION_Rome_Pact: "Pacto de Roma"
+
+ FACTION_Entente: "Entente"
+ FACTION_Allies: "Aliados"
+ FACTION_NATO: "OTAN"
+
+ FACTION_Communist_International: "Internacional Comunista"
+ FACTION_Eastern_Bloc: "Bloque del Este"
+ FACTION_Warsaw_Pact: "Pacto de Varsovia"
+ FACTION_CSTO: "OTSC"
+
+ FACTION_Toa_Shin_Chitsujo: "Nuevo Orden en Asia Oriental"
+ FACTION_Dai_Toa_Kyoeiken: "Esfera de Coprosperidad de la Gran Asia Oriental"
+
+ FACTION_Little_Entente: "Pequeña Entente"
+ FACTION_Pacte_Oriental: "Pacto Oriental"
+
+ FACTION_NRAJSA: "Ejército Revolucionario de Salvación Nacional Antijaponés"
+ FACTION_Second_United_Front: "Segundo Frente Unido"
+
+ FACTION_Dervish_Accord: "Acuerdo Derviche"
+
+############################################################
+### Opinion Modifier
+############################################################
+ similar_ideologies: "Ideología parecida"
+ different_ideologies: "Ideología distinta"
+ same_ideologies: "Misma ideología"
+ democractic_ideologies: "Ideología democrática"
+##############################
+#  German NFT Opinion Modifiers
+##############################
+ GER_POL_Customs_War: "Guerra aduanera germano-polaca"
+ LoN_Left_the_League: "Ha abandonado la Sociedad de las Naciones"
+ TUR_germany_pact: "Pacto comercial turco-alemán"
+ TUR_anti_german_trade: "Turquía ha declinado el pacto"
+ TUR_anti_german_diplo: "Turquía ha declinado el pacto"
+ GER_anti_turkey_diplo: "Turquía ha declinado el pacto"
+ GER_anti_turkey_trade: "Turquía ha declinado el pacto"
+ GER_anti_turkey_trade: "Turquía ha declinado el pacto"
+
+ fascist_leanings_good: ""
+ GER_partitioned_yugoslavia_hun: ""
+ GER_partitioned_yugoslavia_ita: ""
+ GER_POL_Customs_War: ""
+ GER_SOV_Trade_Agreement: ""
+ GER_CHI_Trade_Agreement: ""
+ GER_CHI_Trade_Agreement_reduced: ""
+ GER_Recognized_Manchuoko: "Ha reconocido a Manchukuo"
+ GER_Recognized_Manchuoko_CHI: "Ha reconocido a Manchukuo"
+ GER_Condemned_Japanese_Agression: "Ha condenado la agresión japonesa"
+ GER_Condemned_Japanese_Agression_JAP: "Ha condenado la agresión japonesa"
+##############################
+###  SCW Opinion Modifiers
+##############################
+ sent_help_spanish_civil_war: "Ha enviado ayuda durante la guerra civil"
+##############################
+###  Bulgarian Opinion Modifiers
+##############################
+ BUL_sold_planes: "Ha aprobado la compra de aviones"
+##############################
+###   SPA Civil War Opinion Modifiers
+##############################
+ SPA_amigos: "Nossos amigos Iberianos!"
+ SPA_condor: "Ha enviado a la Legión Cóndor"
+ SPA_regia_marina: "Apoyo de la Regia Marina"
+ SPA_italy_help_1: "Apoyo italiano en la guerra civil"
+ SPA_italy_help_2: "Italia envía más apoyo"
+ SPA_italy_volunteer_1: "Ha enviado al Corpo di Truppe Volontarie"
+ SPA_italy_volunteer_2: "Ha reforzado el Corpo di Truppe Volontarie"
+ SPA_ethiopian_advisors: "Ha enviado veteranos etíopes"
+ SPA_german_advisors: "Ha enviado asesores de Alemania"
+ SPA_viriatos: "Ha enviado a los Viriatos"
+ SPR_ENG_sent_volunteers: "Ha enviado voluntarios"
+ SPR_USA_sent_volunteers: "Ha enviado voluntarios"
+ SPR_MEX_sent_volunteers: "Ha enviado voluntarios"
+ SPR_SOV_sent_rifles: "Ha enviado fusiles para la guerra civil"
+ SPR_SOV_sent_artillery: "Ha enviado equipo pesado para la guerra civil"
+##############################
+###   Vichy Opinion Modifiers
+##############################
+ VIC_Germany_refused_to_help: "Se ha negado a devolvernos los tanques"
+##############################
+###   Tunganistan Opinion Modifiers
+##############################
+ TNG_anti_china: "Anti-China"
+##############################
+###   Romanian Opinion Modifiers
+##############################
+ ROM_axis_overture_opinion: "Propuesta del Eje a Rumanía"
+ ROM_driving_off_the_thieves_opinion: "Rumanía ahuyenta a los ladrones"
+ ROM_export_petroleum: "Rumanía exporta petróleo"
+ ROM_diplomatic_approachement: "Acercamiento diplomático de Rumanía"
+ ROM_diplomatic_approachement_trade: "Acercamiento comercial de Rumanía"
+ ROM_deal_with_nazi_symp: "Acuerdo con simpatizantes nazis"
+ 
+############################################################
+###   Recall Volunteers
+############################################################
+ RECALL_VOLUNTEERS_TITLE: "Retirar voluntarios"
+ RECALL_VOLUNTEERS_ACTION_DESC: "Podemos decidir retirar a los voluntarios que hemos enviado a otros países."
+ RECALL_VOLUNTEERS_TOOLTIP: "§Y[This.GetNameWithFlag]§! §Rdebe tener voluntarios nuestros que podamos retirar.§!"
+ RECALL_VOLUNTEERS_TOOLTIP_G: "§Y[This.GetNameWithFlag]§! §Rdebe tener voluntarios nuestros que podamos retirar."
+
+############################################################
+###   Vanilla Diplomatic Actions
+############################################################
+ GER_Invite_Into_The_AK_Pact: "Invitar al §YPacto Antikomintern§!"
+
+ CAN_ONLY_JOIN_JAP_FACTION_IF_NEIGHBOR_OR_IN_ASIA_OR_AUSTRALIA: "§Y[Root.GetNameDefCap]§! §Rno colinda con ningún miembro de §!§Y[From.GetFactionName]§!§R y nuestra capital no está en Asia o en Australia.§!"
+ CAN_ONLY_JOIN_JAP_OTHER_FACTION_IF_NEIGHBOR_OR_IN_ASIA_OR_AUSTRALIA: "§Y[Root.GetNameDefCap]§! §Rno colinda con ningún miembro de §!§Y[From.GetFactionName]§!§R y su capital no está en Asia o en Australia.§!"
+ CAN_ONLY_INVITE_JAP_FACTION_IF_NEIGHBOR_OR_IN_ASIA_OR_AUSTRALIA: "§Y[From.GetNameDefCap]§! §Rno colinda con ningún miembro de §!§Y[Root.GetFactionName]§!§R y su capital no está en Asia o en Australia.§!"
+ CAN_ONLY_INVITE_JAP_INTO_FACTION_IF_NEIGHBOR_OR_IN_ASIA_OR_AUSTRALIA: "§Y[From.GetNameDefCap]§! §Rno colinda con ningún miembro de §!§Y[Root.GetFactionName]§!§R y nuestra capital no está en Asia o en Australia.§!"
+ CAN_ONLY_CREATE_JAP_FACTION_IF_NEIGHBOR_OR_IN_ASIA_OR_AUSTRALIA: "§RNo somos vecinos de§! §Y[From.GetNameDef]§! §Rni tampoco las capitales de ambos países en Asia o Australia.§!"
+
+ CAN_ONLY_JOIN_FACTION_WITH_AT_LEAST_50_WS: "§RNecesitamos al menos un §Y50 %§! §Rde apoyo bélico para unirnos a una facción.§!"
+ CAN_ONLY_JOIN_FACTION_WITH_100_WT_OR_AT_WAR_WITH_MAJOR: "§R- La tensión mundial debe estar al §Y100 %§! o tenemos que estar en guerra con una potencia para unirnos a una facción.§!"
+ CAN_ONLY_BE_INVITED_INTO_FACTION_WITH_AT_LEAST_50_WS: "§R[From.GetNameDefCap] necesita al menos un §Y50 %§! §Rde apoyo bélico para unirse a una facción.§!"
+ CAN_ONLY_BE_INVITED_INTO_FACTION_WITH_100_WT_OR_AT_WAR_WITH_MAJOR: "§R- La tensión mundial debe estar al §Y100 %§! o [From.GetNameDef] tiene que estar en guerra con una potencia para unirse a una facción.§!"
+
+ RULE_ALLOW_GUARANTEES_BLOCKED_TOOLTIP_OVERLORD_SUBJECT: "§RUn soberano no puede garantizar a su propio súbdito.§!"
+ RULE_ALLOW_GUARANTEES_BLOCKED_TOOLTIP_SUBJECT_OVERLORD: "§RUn súbdito no puede garantizar a su soberano.§!"
+ RULE_ALLOW_GUARANTEES_BLOCKED_TOOLTIP_FACTION: "§RLos miembros de una misma facción no pueden garantizarse los unos a los otros.§!"
+
+ RULE_ALLOW_NONAGGRESSIONPACTS_BLOCKED_TOOLTIP_OVERLORD_SUBJECT: "§RUn soberano no puede firmar un pacto de no agresión con su propio súbdito.§!"
+ RULE_ALLOW_NONAGGRESSIONPACTS_BLOCKED_TOOLTIP_SUBJECT_OVERLORD: "§RUn súbdito no puede firmar un pacto de no agresión con su soberano.§!"
+ RULE_ALLOW_NONAGGRESSIONPACTS_BLOCKED_TOOLTIP_FACTION: "§RLos miembros de una misma facción no pueden firmar un pacto de no agresión los unos con los otros.§!"
+ 
+ PREVENT_ALLIES_CALL_WAR_ON_SOV: "§RLamentablemente, el Reino Unido y sus aliados no están dispuestos a luchar contra los alemanes y la Unión Soviética. Por ende, no es posible llamarlos a luchar contra los comunistas. Al este, Polonia está sola.§!"
+ PREVENT_ALLIES_JOIN_WAR_ON_SOV: "§RA pesar de que los alemanes empezaron esta pelea, la opinión pública sigue muy afectada por la Gran Guerra. Por ende, intervenir en contra de los soviéticos sería un suicidio político y posiblemente militar. Lucharemos contra los hunos, pero Polonia tendrá que luchar sola contra los comunistas.§!"
+ PREVENT_ITALY_JOIN_WAR_ON_FRANCE: "§RNuestro afán por unirnos a la Segunda Guerra Mundial se ve ensombrecido por la dura realidad de nuestra inadecuada preparación militar.\n\nA pesar de nuestras ganas de implicarnos, nuestras limitadas capacidades y recursos militares están muy por debajo de lo que requiere una participación activa en el conflicto. §!"
+ PREVENT_GERMANY_CALL_WAR_ON_ITA: "§RNuestro deseo de reclutar a Italia en la guerra contra Francia y el Reino Unido termina en decepción, ya que Italia no está suficientemente preparada para unirse al conflicto..\n\nA pesar de nuestra insistencia, Italia no está preparada para la guerra, por lo que es imposible involucrarla en la lucha contra las naciones aliadas.§!"

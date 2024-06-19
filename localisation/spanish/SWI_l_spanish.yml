@@ -1,0 +1,7 @@
+﻿l_spanish:
+######################################################################
+#  Events
+######################################################################
+ SWI_Election.1.t: "Nuevo presidente elegido"
+ SWI_Election.1.d: "Con la expiración del mandato de un año de [ROOT.GetLeader], la Asamblea Federal ha elegido a un nuevo presidente para el año que viene."
+ SWI_Election.1.A: "¡Hasta luego, [ROOT.GetLeader]!"

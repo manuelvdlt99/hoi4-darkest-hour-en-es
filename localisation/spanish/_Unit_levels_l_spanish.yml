@@ -1,0 +1,44 @@
+﻿l_spanish:
+UNIT_LEVEL_0: "Civil"
+UNIT_LEVEL_1: "Recluta I"		        	#0.02
+UNIT_LEVEL_2: "Recluta II"			        #0.04
+UNIT_LEVEL_3: "Verde I"			        #0.06
+UNIT_LEVEL_4: "Verde II"		        	#0.08
+UNIT_LEVEL_5: "Instrucción básica"		    	#0.10##
+UNIT_LEVEL_6: "Instrucción intermedia I"	#0.14
+UNIT_LEVEL_7: "Instrucción intermedia II"	#0.18
+UNIT_LEVEL_8: "Instrucción avanzada I"		#0.22
+UNIT_LEVEL_9: "Instrucción avanzada II"		#0.26
+UNIT_LEVEL_10: "Regular"		        	#0.30##
+UNIT_LEVEL_11: "Probado en combate I"		    #0.39
+UNIT_LEVEL_12: "Probado en combate II"		    #0.48
+UNIT_LEVEL_13: "Curtido I"                #0.57
+UNIT_LEVEL_14: "Curtido II"               #0.66
+UNIT_LEVEL_15: "Experimentado"   			#0.75
+UNIT_LEVEL_16: "Aguerrido I"	    		#0.78
+UNIT_LEVEL_17: "Aguerrido II"		    	#0.81
+UNIT_LEVEL_18: "Veterano I"	        		#0.84
+UNIT_LEVEL_19: "Veterano II"		    	#0.87
+UNIT_LEVEL_20: "Élite"		        		#0.90
+
+SHIP_LEVEL_0: "Lanzado"
+SHIP_LEVEL_1: "Acondicionando I"		    #0.02
+SHIP_LEVEL_2: "Acondicionando II"			#0.04
+SHIP_LEVEL_3: "Pruebas en el mar I"		    #0.06
+SHIP_LEVEL_4: "Pruebas en el mar II"			#0.08
+SHIP_LEVEL_5: "Entregado"		    	#0.10##
+SHIP_LEVEL_6: "Periodo de prueba I"	        #0.14
+SHIP_LEVEL_7: "Periodo de prueba II"	        #0.18
+SHIP_LEVEL_8: "Puesta a punto I"		#0.22
+SHIP_LEVEL_9: "Puesta a punto II"	#0.26
+SHIP_LEVEL_10: "Puesta en marcha"			#0.30##
+SHIP_LEVEL_11: "Probado en combate I"		#0.39
+SHIP_LEVEL_12: "Probado en combate II"		#0.48
+SHIP_LEVEL_13: "Curtido I"			#0.57
+SHIP_LEVEL_14: "Curtido II"			#0.66
+SHIP_LEVEL_15: "Experimentado"			#0.75
+SHIP_LEVEL_16: "Aguerrido I"			#0.78
+SHIP_LEVEL_17: "Aguerrido II"			#0.81
+SHIP_LEVEL_18: "Veterano I"	    		#0.84
+SHIP_LEVEL_19: "Veterano II"			#0.87
+SHIP_LEVEL_20: "Élite"			        #0.90

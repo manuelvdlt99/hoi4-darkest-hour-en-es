@@ -1,0 +1,468 @@
+﻿l_spanish:
+######################################################################
+#  German Kaiserreich Focuses
+######################################################################
+### Wehrmacht Putsch
+ GER_Establish_Provisional_Government: "Establecer el Gobierno provisional"
+ GER_Establish_Provisional_Government_desc: "Con el éxito del golpe de Estado y la caída del traicionero régimen nazi, nuestra nación no tiene Gobierno y los militares actúan a imagen y semejanza de éste, luchando contra los leales al corrupto, incompetente y malvado régimen que lo precedió, pero sin poderes administrativos o burocráticos de ningún tipo. Por tanto, crearemos un Gobierno provisional, uno que garantice la legimitidad de los nuevos gobernantes de Alemania y mantenga el statu quo tal cual, como un Gobierno dirigido por la Wehrmacht. Aunque la democracia es un sistema popular que nuestros compatriotas quieren tener, dada la situación actual, no podemos permitirnos el lujo de las elecciones libres."
+ GER_Denazification: "Desnazificación"
+ GER_Denazification_desc: "Aunque el régimen nazi ya no existe y el tiempo que gobernó fue limitado, no por ello dejaron de remodelar la sociedad alemana, cuya propaganda aún está reciente en las mentes de los ciudadanos, que siguen comprometidos con los métodos corruptos y deshumanizadores de Hitler. Por tanto, nos vemos obligados como protectores del pueblo a eliminar tal propaganda de las mentes de nuestros ciudadanos y limpiarla de la sociedad, asegurándonos de que ninguna persona como Hitler vuelva a ganar protagonismo en nuestro país. No sólo éso, sino que realizaremos una serie de «juicios falsos» contra destacados oficiales nazis, dando un claro ejemplo de ellos y para el resto de Alemania."
+ GER_Reeducation_Program: "Programa de reeducación"
+ GER_Reeducation_Program_desc: "Aunque nuestro programa de desnazificación sigue en curso, muchos de los soldados y oficiales de nuestra Wehrmacht, aunque se pusieron de nuestro lado, siguen simpatizando con el corrupto régimen nazi. Estos oficiales, jóvenes en su mayoría, están confundidos sobre la moralidad, lo que está bien y lo que está mal. Desgraciadamente, han sido manipulados por los propagandistas de Hitler, que lograron convertir a estos jóvenes soldados en nazis leales. Por ello, nos esforzaremos por reformar y purgar las mentes de nuestros jóvenes soldados de la propaganda del nazismo y educarlos en cambio en formas compatibles con nuestra ideología."
+ GER_Purge_the_Army: "Purgar el Ejército"
+ GER_Purge_the_Army_desc: "Aunque la Wehrmacht ha demostrado ser un aliado inestimable en nuestra lucha contra el régimen nazi, su gente no lo es. Estos soldados, aunque se pusieron de nuestra parte en nuestra lucha para derrotar a los nazis, siguen simpatizando con ellos, con los traidores que han pervertido Alemania e impusieron su malograda imagen de ella en la patria. Aunque algunos miembros de nuestra cúpula sugieren que los eduquemos, no es posible, ya que son traidores y deben ser tratados como tales. Purgaremos la Wehrmacht de cualquiera que guarde simpatías al régimen nazi, independientemente de su rango. Deben aprender la lección por adoptar las enseñanzas de un régimen malvado y monstruoso."
+ GER_Lift_Martial_Law: "Levantar la ley marcial"
+ GER_Lift_Martial_Law_desc: "Para garantizar el control militar total de la nación, hemos declarado la ley marcial desde que se sentaron las bases de nuestro régimen actual. Desde entonces, se creó una era de estabilidad y libertad frente a los terroristas nazis, y los militares se aseguraron de que la amenaza nazi no volviera a resurgir en nuestras tierras. Sin embargo, la declaración de la ley marcial ha empezado a pasar factura a nuestro mandato, pues la violencia y la oposición a nuestro régimen actual no provienen de los nazis, sino de la población corriente alemana, que quiere que los militares abandonen la política lo antes posible. Con opciones limitadas, levantaremos la ley marcial e iniciaremos el periodo de transición a una nueva Alemania, una que decida el futuro de Alemania y, posiblemente, del mundo."
+ GER_Consolidate_the_Junta: "Consolidar la junta"
+ GER_Consolidate_the_Junta_desc: "Aunque el pueblo clame «democracia» y «libertad», deberían saber que estos frágiles conceptos son la razón misma por la que la amenaza nazi fue elegida para el poder. Por no hablar de que nuestro mandato acaba de empezar. Partidos de todas las ideologías del espectro político han empezado a movilizar sus esfuerzos para influir en la política pública, tanto por medios pacíficos como violentos. Por ende, es obligación de la Wehrmacht asegurar que Alemania se gobierne con puño de hierro, ya que es la única protectora del pueblo alemán. Puede que la democracia llegue, pero, por el momento, el Ejército se queda."
+ GER_Restore_the_Kaiserreich: "Restaurar el Kaiserreich"
+ GER_Restore_the_Kaiserreich_desc: "Durante décadas, Alemania tuvo una edad de oro, por así decirlo. Rápida industrialización, el ejército más poderoso del mundo y la segunda mayor economía del mundo: esos sueños se hicieron realidad cuando el Kaiserreich gobernaba nuestra gloriosa Alemania. Sin embargo, debido a las desgracias de la Weltkrieg, nos hemos visto despojados del poder y el destino que debíamos tener. Como consecuencia, tuvimos una democracia frágil seguida de la amenaza nazi. Para garantizar la supervivencia de Alemania, deberíamos restaurar el Kaiserreich, pues ellos son los verdaderos salvadores de Alemania, siempre lo fueron y siempre lo serán."
+
+
+ democratic_ministers_allowed_tt: "§YSe permitirá la entrada de ministros democráticos en el Gobierno.§!"
+ # Wilhelm II's Tree
+ GER_Encourage_Christian_Trade_Unions: "Fomentar los sindicatos cristianos"
+ GER_Encourage_Christian_Trade_Unions_desc: "Aunque el sindicalismo ha sido una lacra para nuestro país durante muchas décadas y ha amenazado constantemente con perturbar nuestros esfuerzos económicos convocando una huelga general, sencillamente no es posible disolver todos los sindicatos sin afectar enormemente a la estabilidad general de Alemania. Sin embargo, existe la posibilidad de apoyar a los diversos sindicatos cuyos fines y cuya actitud política se alineen en cierta medida con los nuestros.\n\nApoyando a estos sindicatos, los pondremos básicamente bajo nuestro control, lo que nos permitirá influir en las acciones e impedir cualquier agitación comunista perjudicial. Además, nuestro apoyo permitirá a estos sindicatos atraer más trabajo, lo que esperamos que restrinja el poder de los sindicatos comunistas o socialistas."
+
+ GER_The_Second_Ludendorff: "¿Un segundo Ludendorff?"
+ GER_The_Second_Ludendorff_desc: "A medida que avanzaba la Weltkrieg, Guillermo II delegó gran parte del proceso de toma de decisiones en el general Erich Ludendorff y otros generales del Ejército, limitándose a funciones ceremoniales y honoríficas, permitiendo que el Estado Mayor alemán dirigiera el país y convirtiendo el Imperio en una dictadura militar.\n\nAhora que hemos traído a Guillermo II de su exilio como dirigente legítimo de Alemania, el Estado Mayor tiene la oportunidad de hacer exactamente lo mismo otra vez. Pretenden limitar al Káiser a un papel meramente representativo y mantener el poder entre ellos. Esta vez, sin embargo, esperan proporcionar un liderazgo lo suficientemente fuerte como para que Alemania gane la inevitable guerra con las democracias occidentales."
+
+ GER_Wehrmacht_Leadership: "Liderazgo de la Wehrmacht"
+ GER_Wehrmacht_Leadership_desc: ""
+ GER_Bring_Back_Popular_Figureheads: "Recuperar las figuras insignes populares"
+ GER_Bring_Back_Popular_Figureheads_desc: ""
+ GER_A_Guided_Puppet: "Una marioneta guiada"
+ GER_A_Guided_Puppet_desc: ""
+ GER_Curtail_the_Wehrmacht: "Reducir la Wehrmacht"
+ GER_Curtail_the_Wehrmacht_desc: ""
+ GER_Restore_the_Reichstag: "Restaurar el Reichstag"
+ GER_Restore_the_Reichstag_desc: ""
+ GER_Rely_on_Decentralization: "Confiar en la descentralización"
+ GER_Rely_on_Decentralization_desc: ""
+ GER_Prussian_Constitutionalism: "Constitucionalismo prusiano"
+ GER_Prussian_Constitutionalism_desc: "La Casa de Hohenzollern dirigió el Imperio alemán desde su formación utilizando un sistema político único y acertadamente denominado constitucionalismo prusiano. Esta forma de gobierno incluía una Constitución y un sistema democrático guiado, dejando el resto de los poderes ejecutivos en manos del káiser. Por desgracia, todo ésto se acabó tras la Weltkrieg y la creación de la República de Weimar.\n\nTras el golpe del Ejército al régimen nazi de Adolf Hitler, que sucedió al Gobierno federal, el káiser Guillermo II volvió al trono. Desde su regreso, el Káiser ha reparado el daño que hicieron las administraciones anteriores y ha reformado las partes ineficaces del Gobierno. Estas reparaciones y reformas han supuesto el regreso del constitucionalismo prusiano a Alemania, y pronto llegará una nueva era de prosperidad para el país."
+ GER_Traditional_Economics: "Economía tradicional"
+ GER_Traditional_Economics_desc: ""
+
+ GER_Empower_the_Junkers: "Conferir poderes a los junkers"
+ GER_Empower_the_Junkers_desc: "En los años previos a la Weltkrieg, los junkers, una clase noble de aristócratas militaristas y reaccionarios, controlaba la mayor parte del campo y el Ejército alemanes. Ferozmente leal al káiser y a la patria, siempre se podía confiar en un junker para dirigir un regimiento u ofrecer sabios consejos en tiempos de crisis, cualidades que el Káiser ha echado en falta desde su regreso.\n\nPara que el Reich del Káiser sobreviva, necesitará oficiales y administradores en los que poder confiar, y ¿quiénes son más aptos para esa tarea que los que la desempeñaron admirablemente durante siglos? La ineficaz República de Weimar despojó a la nobleza de sus tierras y títulos, pero el Káiser tiene ahora la oportunidad de enmendar esta injusticia. Si se restaurasen sus propiedades y títulos, los junkers seguramente volverían a ocupar el lugar que les corresponde a la derecha del Káiser."
+
+ GER_Halt_Agrarian_Reform: "Detener la reforma agraria"
+ GER_Halt_Agrarian_Reform_desc: "Aunque la restauración de las condiciones anteriores a Weimar avanza constantemente, hubo muchas personas y familias, además del Káiser y los Hohenzollern, que se vieron perjudicadas cuando el Kaiserreich se desmoronó y los traidores de noviembre declararon su república, con lo que cientos de familias nobles perdieron tanto sus títulos como sus propiedades.\n\nPara restaurar sus derechos divinos y conseguir nuevos aliados, restauraremos oficialmente cada título nobiliario y concederemos algunos nuevos a un grupo selecto de personas que han mostrado su valía en los últimos meses. Esto nos acercará un paso más a los días de gloria del Kaiserreich, al tiempo que garantizará la buena fe de la nueva aristocracia alemana."
+
+ GER_Aristocratic_Land_Base: "Tierras aristocráticas"
+ GER_Aristocratic_Land_Base_desc: "La restauración del Imperio requiere que la nobleza vuelva a su lugar legítimo en el Estado alemán, y la mejor forma de conseguirlo es devolviéndoles el control sobre la tierra. Para consolidar el poder de la monarquía, el Káiser ha decidido distribuir una cantidad considerable de tierras entre la aristocracia alemana. \n\nÉsto también nos permitirá tener más poder político sin depender de las organizaciones de los campesinos, facilitando futuros proyectos agrícolas. ¡La nobleza ha venido para quedarse!"
+
+ GER_Smash_Radical_Syndicates: "Aplastar los sindicatos radicales"
+ GER_Smash_Radical_Syndicates_desc: ""
+
+ GER_Restart_the_Steel_Cartels: "Restaurar los cárteles del acero"
+ GER_Restart_the_Steel_Cartels_desc: "En Alemania abundan el hierro y el carbón, lo que significa que la producción de acero está destinada a prosperar. Últimamente, cada vez hay más fábricas independientes que producen acero, lo que mantiene alta la competencia entre los distintos productores. Algunas grandes empresas han decidido unirse para eliminar la competencia, lo cual es técnicamente ilegal; sin embargo, a medida que crecen el Estado y el Ejército alemanes, también lo hace el consumo y, por ende, la falta de acero. Permitiremos estos llamados «cárteles del acero» o monopolios en la industria siderúrgica, siempre y cuando pongan precios aceptables y mantengan la producción elevada."
+
+ GER_Privatize_Industrial_Sectors: "Privatizar las industrias estatales restantes"
+ GER_Privatize_Industrial_Sectors_desc: "Nuestro Káiser fue elegido por la gracia de Dios para dirigir a Alemania y a su pueblo, no para enredarse en el pequeño comercio, la producción industrial y los conflictos laborales. \n\nA la vuelta del Káiser, su Gobierno se encontró en posesión de varias industrias clave, como acerías, minas, ferrocarriles, astilleros y servicios públicos, todos ellos por debajo de la dignidad de nuestro Gobierno. Al privatizar estas empresas —entregándoselas a individuos o vendiéndolas al mayor postor—, podemos hacer la economía alemana más competitiva, tanto a nivel nacional como internacional. La privatización en masa de la industria estatal también nos granjearía algunos amigos poderosos en la comunidad empresarial, cuyo apoyo necesitaremos en el futuro.\n\nQue el Gobierno gobierne y los hombres de negocios hagan negocios."
+
+ GER_Privatize_the_Deutsches_Reichbahn: "Privatizar el Deutsche Reichsbahn"
+ GER_Privatize_the_Deutsches_Reichbahn_desc: ""
+ GER_Open_the_Economy: "Abrir la economía"
+ GER_Open_the_Economy_desc: ""
+ GER_Solidify_Stable_Investments: "Consolidar las inversiones estables"
+ GER_Solidify_Stable_Investments_desc: ""
+ GER_Reinstate_the_Gold_Standard: "Reintroducir el patrón oro"
+ GER_Reinstate_the_Gold_Standard_desc: ""
+
+ GER_Hire_Leading_Economists: "Contratar a economistas líderes"
+ GER_Hire_Leading_Economists_desc: "Un buen líder sabe delegar tareas en quienes son más aptos para ellas, y ¿quién es más apto para gestionar la economía que quien la ha estudiado toda su vida?\n\nAlemania ha sido durante mucho tiempo un centro de pensamiento económico que ha producido muchos grandes economistas como Jakob Fugger, Adam Müller y Friedrich List, y la tradición alemana de excelencia en el ámbito de las finanzas continúa hasta nuestros días. Con nuestra economía aún lejos de su pleno potencial, parece prudente abrir los libros y llamar a los expertos.\n\nVarios economistas actuales dispuestos a colaborar con nosotros son Hjalmar Schacht, antiguo consejero del Dresdner Bank, el alcalde de Leipzig, Carl Friedrich Goerdeler, y el banquero Walther Funk. Cualquiera de estos hombres tendría sin duda una aportación útil para el funcionamiento de nuestra economía en el futuro."
+
+ GER_Government_Profits: "Beneficios gubernamentales"
+ GER_Government_Profits_desc: ""
+
+ GER_A_State_within_a_State: "Un Estado dentro de un Estado"
+ GER_A_State_within_a_State_desc: "El Alto Mando del Ejército (OKH) ha estado luchando lentamente por una mayor autonomía del Ejército y, por tanto, una menor supervisión civil. Muchos ven ésto como un claro intento del Ejército de conseguir más poder, de dejarles que hagan prácticamente lo que sea fuera de las fronteras de Alemania y quizás algunos actos injustificados en la nación alemana. El Gobierno civil se ha percatado de esta «toma de poder» y, en su lugar, ha pugnado por la expansión de la supervisión civil sobre el Ejército para que éste tenga «mejor moral» y no amenace a la población civil de Alemania y de naciones extranjeras. Las tensiones han llegado a un punto crítico y hay que hacer algo."
+
+ GER_Imperial_Bureaucracy: "Burocracia imperial"
+ GER_Imperial_Bureaucracy_desc: "La burocracia imperial sufrió en los años del antiguo Imperio. El modelo descentralizado que siguieron destruyó la eficiencia de su Gobierno, ya que la nación no estaba unida en sus acciones políticas. Prusia estaba centralizada y su eficiencia le permitió terminar evolucionando en un fuerte Imperio alemán. Sin embargo, durante las rebeliones de 1848, el Imperio alemán empezó a descentralizarse. Algunas figuras políticas han estado impulsando una agenda descentralizadora, pero debemos recordarles que la descentralización supuso la destrucción política del Segundo Reich alemán. \n\nAhora que se ha restablecido el Imperio alemán, debemos ponernos al día y asegurar un mayor poder político a costa del poder de los estados federales. Debemos impulsar un nuevo Imperio alemán, unido bajo un Gobierno central y con autoridad que cumpla la voluntad del Emperador y de su pueblo. Debemos arreglar la burocracia imperial para catapultar a Alemania a la perfección política."
+
+ GER_Restore_the_Integrity_of_the_Reichstag: "Restaurar la integridad del Reichstag"
+ GER_Restore_the_Integrity_of_the_Reichstag_desc: "El Reichstag es uno de los órganos legislativos de Alemania y existe desde la unificación del país, sobreviviendo a la caótica República de Weimar, establecida después de nuestra derrota en la Weltkrieg. Entonces llegaron Adolf Hitler y el NSDAP y paralizaron el Reichstag y su capacidad administrativa, haciéndolo prácticamente inútil, ya que los nazis podían aprobar las leyes que quisieran. \n\nPero ahora que el káiser Guillermo II ha vuelto al trono de Alemania, ha pedido la restauración del poder del Reichstag y la elección de nuevos miembros para reparar la integridad de la institución y restaurar la fe del pueblo alemán en él."
+
+ GER_Enforce_Decentralization: "Imponer la descentralización"
+ GER_Enforce_Decentralization_desc: "Los funcionarios que tomaron el poder en Alemania tras la caída del Imperio promulgaron reformas de centralización y muchas entidades políticas locales y estatales perdieron su poder. Puesto que el Imperio ha renacido, debemos impulsar nuevas reformas para invertir este proceso. Devolviendo el poder a los estados federales, podemos hacer un proceso burocrático más eficiente. \n\nLa eficiencia es clave en el Estado alemán, y no debemos perderla manteniendo las reformas de la República de Weimar y del Reich alemán. Para que el Imperio alemán sea fuerte, los estados federales deben ser fuertes. Para que los estados federales sean fuertes, debemos imponer la descentralización y dar poder a los estados."
+
+ GER_Curtail_the_Wehrmacht: "Reducir la Wehrmacht"
+ GER_Curtail_the_Wehrmacht_desc: "El Ejército sobrepasó el límite en la Weltkrieg, haciéndose con el control de Alemania ante las narices de la monarquía y convirtiendo al honorable Káiser en una figura impotente. Su estúpida toma de decisiones fue uno de los factores que llevaron a nuestra nación a ser subvertida y destruida desde dentro por elementos del frente rojo y democráticos, y no deben poder desbocarse de nuevo. Por tanto, limitaremos su poder a la hora de en el Gobierno civil y tomaremos medidas para impedir que tomen el control. ¡Nunca otro 1918, larga vida al Káiser!"
+
+ GER_A_Guided_Puppet: "Una marioneta guiada"
+ GER_A_Guided_Puppet_desc: "El Ejército demostró ser capaz de gobernar el país durante la Weltkrieg, y de nuevo es un excelente órgano asesor del Káiser. A medida que su poder ha ido creciendo en Alemania, también lo ha hecho su influencia sobre los cargos civiles y los procedimientos políticos de la nación; hasta tal punto influyen en el Káiser y en los órganos de gobierno bajo su mando que se han convertido en lo que viene a ser unos titiriteros. \n\nPor supuesto, el Ejército sólo vela por los intereses de la nación, ¡y el Káiser lo sabe! Mientras les haga caso, Alemania no desfallecerá, ¡seguirá siendo fuerte y conseguirá su lugar legítimo bajo el sol! ¡El Káiser y el Ejército forjarán juntos un Reich que durará mil años!"
+
+ GER_Bring_Back_the_Old_Guard: "Traer a la vieja guardia de vuelta"
+ GER_Bring_Back_the_Old_Guard_desc: "Para volvernos más populares a los ojos del pueblo alemán, deberíamos traer de vuelta a algunas caras conocidas para que actúen como figuras insignes. La mera presencia de estas personas en esta administración debería poder calmar los nervios del pueblo alemán y permitirle depositar su confianza en nosotros. Ésto nos facilitará la ejecución de nuestros planes para el país. El ejemplo perfecto del tipo de hombre que buscamos sería el viejo general de la Weltkrieg Paul von Lettow-Vorbeck, también conocido como el León de África."
+
+ GER_Keep_High_Military_Spending: "Mantener los gastos militares altos"
+ GER_Keep_High_Military_Spending_desc: "El Ejército alemán siempre ha sido la espina dorsal del Estado alemán. Reducir su financiación sería igual que dejar de regar una planta: sería contraproducente e impediría a Alemania prosperar. Rodeados de enemigos, debemos mantenernos fuertes: la supervivencia del más fuerte, luchar o morir. Éste es el estado del mundo, y no reconocerlo es de idiota.\n\nEl Ejército conservará su enorme financiación. El Ejército de Alemania eclipsará a todas las demás naciones en el futuro, como lo ha hecho en el pasado. ¡Todos los hombres irán armados con un fusil por el que cualquier noble británico salivaría! ¡Nuestra artillería tapará el sol y nuestros tanques convertirán el suelo en ceniza! Vorwärts, Deutsche Truppen!"
+
+ GER_Carte_Blanche_to_the_Army: "Carta blanca al Ejército"
+ GER_Carte_Blanche_to_the_Army_desc: "Para mantener la capacidad del Ejército de defender Alemania y sus intereses en todo momento, el Káiser ha decidido que la asignación anual del presupuesto al Ejército sea decidida a partir de ahora únicamente por los expertos más curtidos en materia de defensa y preparación general para el combate, expertos que, por supuesto, estarán ubicados en el alto mando alemán.\n\nLa defensa de Alemania ya no se verá limitada por tonterías como restricciones presupuestarias u otras preocupaciones triviales: ¡si el Ejército lo necesita, lo tendrá!"
+
+ GER_German_Discipline: "Disciplina alemana"
+ GER_German_Discipline_desc: "El pueblo alemán, aparte de un pequeño grupo, posee la capacidad innata de ser autodisciplinado y comprender la importancia del trabajo duro y el papel que desempeña en sus posibles futuros éxitos. La capacidad de nuestro pueblo para mantener la disciplina incluso en las condiciones más duras es extremadamente útil para el Ejército, ya que el soldado estándar casi siempre acabará teniendo ventaja sobre su enemigo. Los programas de instrucción del Ejército también pueden permitirse el lujo de acortarse, ya que la disciplina que poseen casi todos los reclutas les permite aprender las técnicas básicas mucho más rápido que nuestros adversarios actuales y futuros."
+
+ GER_Autonomy_of_the_OKH: "Autonomía del OKH"
+ GER_Autonomy_of_the_OKH_desc: "A medida que seguimos ampliando el Alto Mando del Ejército, hay informes de oficiales que operan en el cuartel general de que el Káiser, en su gran autoridad, está interveniendo en los asuntos militares. Aunque se valora su aportación, muchos creen que se extralimita, ya que no es un soldado, sino un monarca, y debería dejar los planes de batalla a los oficiales. Otros dicen que es derecho del Emperador intervenir y que sus decisiones deberían tomarse como órdenes ejecutivas. Es verdad que el Káiser es nuestro líder, pero la soldadesca debe quedar relegada en los generales y, como tal, debe darse cierta autonomía al OKH, para asegurar la estabilidad en el alto mando y garantizar la lealtad de todo el núcleo de oficiales."
+
+ GER_Army_with_a_State: "Ejército con un Estado"
+ GER_Army_with_a_State_desc: "Sólo hay dos constantes en el Kaiserreich: el Káiser y su Ejército. Incluso antes de los días del Imperio, los militares siempre han desempeñado un papel esencial en la determinación de nuestro futuro. Ellos deciden qué guerras libramos, deciden qué amenazas están en el Reich y, lo más importante, deciden si permitir al hombre de a pie ejercer su derecho a decidir el futuro de su nación.\n\nComo se ha visto en la historia de la humanidad, el Ejército es una institución capaz y eficaz tanto para la seguridad nacional como para el gobierno. Son los guardianes del Estado y, por consiguiente, son el propio Estado. Dada su eficiencia y competencias, ¿por qué íbamos a despojarlos de su poder? Cuando el enemigo está a las puertas, no nos limitamos a lanzar nuestras espadas al horno, sino que apuñalamos a nuestros enemigos con ellas.\n\nComo tal, esta supuesta noción de «ejercicio de la autoridad civil» es ridícula en el mejor de los casos y peligrosa en el peor. Si el Kaiserreich ha de reclamar su hegemonía, debe tener la orientación de sus guardianes. El Estado será el Ejército y el Ejército, el Estado."
+
+ GER_A_Militant_Monarchy: "Una monarquía militante"
+ GER_A_Militant_Monarchy_desc: "El Imperio alemán, bajo el liderazgo del gran káiser Guillermo III y su leal Gobierno, es estable y está por fin listo para enfrentarse a los retos a los que el país se enfrentará cuando intentemos tomar nuestro legítimo lugar bajo el sol y nos venguemos de las democracias occidentales. Este esfuerzo se verá favorecido por el hecho de que el Ejército alemán ha recibido muchísima atención bajo la administración del Káiser debido al extremo fervor militarista que ha infundido en el pueblo alemán, que ahora ve al Ejército no como una amenaza para el sistema, como los tontos de Weimar querían hacerles creer, ¡sino como el protector de la patria y de su propia forma de vida!"
+
+ GER_Invest_in_Military_Industries: "Invertir en industrias militares"
+ GER_Invest_in_Military_Industries_desc: "Ahora que las tensiones aumentan en todo el mundo y queremos ocupar por fin nuestro lugar bajo el sol, sería prudente que aumentáramos e invirtiéramos sustancialmente en nuestras industrias militares para poder producir grandes cantidades de armas ligeras, vehículos blindados, artillería y demás equipos útiles para seguir ampliando nuestro Ejército, mantenerlo bien dotado y tener una reserva sustancial para que pueda actuar al máximo nivel posible en múltiples frentes en un conflicto largo y prolongado."
+
+ GER_Pan_German_Aspirations: "Aspiraciones pangermánicas"
+ GER_Pan_German_Aspirations_desc: "Hitler y sus camisas pardas nazis estaban condenados al fracaso desde el principio, ya que las ideas mismas sobre las que se construyó su movimiento iban mal encaminadas y eran erróneas en muchísimos sentidos. Pero en una cosa sí que tenían razón: deberíamos convertir en nuestro deber unir a todos los pueblos de etnia alemana y germanoparlantes bajo una gran nación. Este objetivo nos obligará a reivindicar esas tierras de los países que actualmente las poseen. No les sentará bien, pero tendrán que aceptar que nada se interpondrá entre nosotros y la unificación de nuestro pueblo."
+
+ GER_Restore_Prussian_Militarism: "Restaurar el militarismo prusiano"
+ GER_Restore_Prussian_Militarism_desc: "El Reino de Prusia tenía un fuerte sentido del militarismo y, bajo el gobierno de la Casa de Hohenzollern, convirtió Alemania en un gran imperio, infundiendo ese sentido de militarismo en todo el pueblo alemán. Pero, tras nuestra agotadora derrota en la Weltkrieg y la firma del Tratado de Versalles, muchos de los nuestros perdieron su actitud militarista, incluidos los prusianos.\n\nPero ahora, tras la caída de la débil República de Weimar, el fin del experimento nazi y el retorno de un káiser al trono, tenemos ahora la oportunidad de rectificar este problema. Para ello, tendremos que hacer que el pueblo prusiano se enfrente a su innegable legado militar, que se remonta hasta la Orden Teutónica. Este proceso debería ser mucho más fluido ahora que la Casa de Hohenzollern ha vuelto. El retorno del militarismo prusiano contribuirá entonces a revitalizar el apoyo público en toda Alemania al Ejército y sus diversas ramas, lo que ayudará al reclutamiento y nos dará la mano de obra necesaria para vengarnos de nuestros enemigos."
+
+ GER_A_Nationalist_Monarchy: "Una monarquía nacionalista"
+ GER_A_Nationalist_Monarchy_desc: "Cuando comenzó la Weltkrieg, el fervor nacionalista guió a nuestro Káiser hasta el final. La voluntad y la postura patriótica de Guillermo II fueron justo lo que necesitaba el país para seguir hasta el final. Sin embargo, nuestra victoria nos fue arrebatada de forma brutal y vil por los traidores en el Gobierno cuando exiliaron a nuestra gloriosa monarquía del país. Ahora vuelve a reinar la Casa de Hohenzollern, y con ella la actitud prusiana. \n\nNo sólo eres alemán, eres un patriota, una persona valiente dispuesta a darlo todo por el Káiser. Ésto debe volver a Prusia, después de años de proceso democrático que ha permitido que nuestra hermosa nación y sus gentes se desinteresen y desconecten de los demás. \n\nSe acabó. Lucharemos por el Káiser y por Alemania pase lo que pase. El nacionalismo ha prevalecido antes y volverá a prevalecer, así que debemos coger el testigo donde se dejó caer hace dos décadas y volver a encender el estandarte del Káiser. Deutschland über alles!"
+
+ GER_Investment_in_Rural_Areas: "Inversiones en las zonas rurales"
+ GER_Investment_in_Rural_Areas_desc: "Aunque, claro está, no hubo combates en suelo alemán, la Weltkrieg dejó huella en el campo alemán. Los productos químicos que antes se utilizaban como fertilizantes escupieron proyectiles por la tierra de nadie, y los antiguos jornaleros empuñaron fusiles en Verdún y el Somme. \n\nCuando los campesinos volvieron a casa tras el armisticio, encontraron sus campos yermos, sus rebaños esquilmados y sus casas y graneros en mal estado. El débil Gobierno de Weimar intentó y no consiguió devolver la agricultura alemana a su estado anterior a la guerra; casi 20 años después de la guerra, la agricultura alemana sigue siendo una tenue sombra de lo que fue.\n\nNos toca a nosotros restaurar el fundamento de la sociedad alemana y asegurarnos de que el espectro de otro «invierno de los nabos» no vuelva a asolar a los leales súbditos del Káiser."
+
+ GER_Stand_Against_France: "Oponerse a Francia"
+ GER_Stand_Against_France_desc: "En 1919, las potencias de la Entente firmaron un tratado diseñado para humillar y destruir a Alemania en la Galería de los Espejos del Palacio de Versalles. Este tratado nos despojó de nuestro territorio legítimo, nos obligó a pagar reparaciones de guerra y limitó la fuerza que podríamos haber conseguido. Todo ésto se hizo ante la incesante y violenta insistencia de Francia, que consiguió las provincias de Alsacia y Lorena, provincias centrales de nuestra nación. En los años veinte, marcharon sobre el Ruhr, doblegaron a nuestros ciudadanos brutalmente y nos robaron nuestra industria. Francia siempre ha sido el enemigo mortarl de Alemania y, por tanto, debemos trabajar para rectificar la dominación de Francia. \n\nComo tal, declararemos Alsacia-Lorena parte de nuestro territorio, y anunciamos así nuestra reivindicación de esas tierras. Tomaremos lo que nos pertenece y nos mantendremos firmes sobre el cadáver podrido e hinchado de Francia."
+
+ # Wilhelm III's Tree
+ GER_Auf_zum_Marsch: "Auf zum Marsch!"
+ GER_Auf_zum_Marsch_desc: "¡Por fin ha vuelto el monarca legítimo al trono! Casi dos décadas después de su abdicación forzosa, el káiser Guillermo III, el «joven Guillermo», ha regresado para reclamar su lugar legítimo como líder del Estado alemán.\n\nEl káiser Guillermo III es un hombre muy diferente a su padre. Mientras que Guillermo II tenía fama de ser un tipo bastante impulsivo que tomaba decisiones atrevidas que llevaron no sólo a Alemania sino a la propia Europa por un camino oscuro, Guillermo III es conocido por ser un tipo frío y calculador. Un factor que comparte con su padre es su interés por el militarismo, y valga Dios, en éso lo supera. La retórica expansionista del joven Guillermo y su condena de Versalles no tienen igual, ni siquiera entre los ideólogos del Reichstag. \n\nEl joven Guillermo también tiene lazos con muchos partidos y figuras conservadores clave, sobre todo el DNVP y su líder, Alfred Hugenberg, junto con varios generales de la vieja guardia y altos funcionarios. Ni que decir tiene que Guillermo lleva tiempo preparándose para este día."
+
+ GER_The_Popular_Monarch: "El monarca popular"
+ GER_The_Popular_Monarch_desc: "Ahora es cuando comienza Alemania. Ahora que la Casa de Hohenzollern ha vuelto a Alemania, nuestro nuevo monarca se está quitando la careta. La postura populista y los ideales nacionalistas son justo lo que necesita la nación tras derrocar al déspota idiota y a sus compinches. Los fascistas que ostentaban el gobierno no eran patriotas, sino meras hienas, que se fortalecían a sí mismos y a sus aliados y no a lo que realmente importa, como el pueblo real de Alemania. Sin embargo, Guillermo III, y la monarquía en general, están consiguiendo lo que realmente hay que hacer. Gente que normalmente no le daría importancia a la política se ha fijado en nuestro nuevo káiser. Su enfoque carismático a la nación, combinado con sus habilidades para la oratoria y su agenda nacionalista, ha propulsado a la familia real y al DNVP a nuevas cotas. Con este nivel de apoyo, Alemania puede conseguir lo que aspiramos a conseguir. Deutschland über alles!"
+
+ GER_The_Second_Bismarck: "El segundo Bismarck"
+ GER_The_Second_Bismarck_desc: "Muchos dicen que Otto von Bismarck, unificador de Alemania y fundador del imperio de Alemania, no puede ser igualado. Afirman que su grandeza es inigualable y que jamás habrá otro Bismarck. Está claro que estas personas no han conocido a Alfred Hugenberg. Su liderazgo, carisma y competencia coinciden con los del Canciller de Hierro, y sus instintos políticos lo convierten en un asesino entre bastidores. Ahora que lidera el Partido Nacional del Pueblo Alemán o DNVP, el partido dedicado a recrear la grandeza alemana y a apoyar a la dinastía Hohenzollern, su influencia no hace más que crecer. Es hora de ofrecerle a Hugenberg la cancillería, por nuestro bien y por el de Alemania."
+ 
+ GER_Kaisertreue_Regierung: "Kaisertreue Regierung"
+ GER_Kaisertreue_Regierung_desc: "Alemania es una nación con muchas facciones distintas, cada una de las cuales desempeña un papel importante en el funcionamiento de la nación: el Heer, el frente reaccionario y los magnates industriales. Hacer un Gobierno que no involucre a una de estas facciones sería dirigir Alemania sin una parte de sí misma y, por lo tanto, el Káiser reunirá un gabinete Kaisertreue, leal a él y a Alemania, con personas de todas estas facciones involucradas. ¡Con alemanes de todo tipo trabajando para llevar a la gloriosa nación a su lugar bajo el sol una vez más, seguro que volveremos a conseguir la gloria!"
+
+ GER_Reinstate_Old_Guard_Officers: "Restablecer a los antiguos funcionarios partidarios"
+ GER_Reinstate_Old_Guard_Officers_desc: "A pesar de todos los oficiales y generales del Ejército desleales que hubo durante la Weltkrieg, hubo muchos que realmente apoyaron una restauración antes del regreso del Káiser al poder. Héroes de guerra como August von Mackensen y Ludendorff sirvieron a la nación con valentía durante la Weltkrieg, y ahora necesitamos su servicio más que nunca. Un Ejército en rápida expansión necesita un cuerpo de oficiales en rápida expansión, y ¿quiénes son mejores para liderarlo que los hombres con más experiencia que nadie en el país?\n\nAsí pues, como manda el Káiser, así será: estos viejos generales serán llamados para echar una mano a Alemania una vez más y asegurar su lugar bajo el sol antes de que la tierra se los lleve por donde vinieron."
+ 
+ GER_Retire_the_Old_Guard: "Jubilar a los generales sospechosos"
+ GER_Retire_the_Old_Guard_desc: "En los días que corren, un Ejército leal y comprometido es increíblemente importante y, si nuestro nuevo Káiser ha de guiar a Alemania y a su pueblo hacia un futuro grande y próspero, el Ejército debe deshacerse de cualquier influencia disidente a cualquier precio. No importa lo talentosos que sean en el campo de batalla si no están comprometidos del todo con la monarquía. Si existe la más ligera posibilidad de que se vuelvan en contra del país, deben ser expulsados, pero en silencio, así que en vez de despedirlos u obligarlos a dimitir, los persuadiremos para que se «jubilen». Las primeras víctimas de nuestros esfuerzos persuasivos serán los generales leales a Adolf Hitler. Ésto garantizará que sus peligrosas ideas e influencia sean eliminadas de nuestro Ejército. "
+ 
+ GER_Populist_Politics: "Política populista"
+ GER_Populist_Politics_desc: "Los cimientos de cualquier nación son su gente, y Alemania no es ninguna excepción. Con el ascenso del Partido Nacional del Pueblo Alemán y su política monárquica y aristocrática, muchos pensaron que el pueblo llano volvería a ser olvidado por el viejo orden.\n\nNos vendría bien incorporar algo de retórica y políticas populistas en nuestro programa, lo que ayudaría a reforzar nuestra base de simpatizantes y a alejar a la gente de los comunistas y otros grupos de la oposición."
+ 
+ GER_Sideline_Democratic_Process: "Marginar el proceso democrático"
+ GER_Sideline_Democratic_Process_desc: "Aunque el nuevo Kaiserreich es una democracia parlamentaria sobre el papel, los años de la República de Weimar y la anarquía que amenazó con consumir Alemania debido a los fracasos del sistema democrático no hacen más que confirmar la observación del Káiser de que un gobierno popular insensato desembocará en la caída de Alemania. \n\nSin embargo, aún hay muchos alemanes que se aferran a la idea de los partidos y el parlamento y que reaccionarían a la disolución del Parlamento y a la eliminación de los últimos rastros de la democracia fallida.\n\nPara evitar disturbios y revueltas en todo el país, el Káiser y su Gobierno han ideado una serie de nuevas leyes y reglamentos que nos permitirán eludir por completo tanto el Parlamento como otros obstáculos democráticos, manteniendo al mismo tiempo la fachada de un sistema democrático."
+ 
+ GER_Loyalty_to_the_Kaiser_and_the_Fatherland: "¡Lealtad al Káiser y a la patria!"
+ GER_Loyalty_to_the_Kaiser_and_the_Fatherland_desc: "Alemania es una tierra con muchos trasfondos alemanes. Prusianos, bávaros, suabos, sajones y más componen nuestro gran reino de Europa. Sin embargo, muchos de estos llamados «alemanes» tienen lealtades dispares, y ¡muchos ni siquiera se consideran alemanes! Los comunistas bávaros siguen luchando por la independencia bajo el socialismo, y muchos otros de los antiguos reinos hacen campaña por la restauración de sus reyes y monarquías. Por tanto, tenemos que volver a integrar el país, igual que hizo Bismarck durante la guerra franco-prusiana. Debe implantarse la lealtad a Alemania y al Káiser en las mentes de todos los hombres y mujeres que viven en esta gran nación, así que debemos comenzar los preparativos para múltiples campañas de reintegración."
+
+ GER_Crackdown_on_Foreign_Influence: "Represión de la influencia extranjera"
+ GER_Crackdown_on_Foreign_Influence_desc: "Durante demasiado tiempo, la cultura alemana se ha visto diluida por influencias extranjeras, ya fueran películas de Hollywood, tendencias de la moda de París o agitación bolchevique de Moscú, y alemanes por lo demás decentes han olvidado o renunciado a su orgullo patriótico. \n\nPara combatir esta preocupante tendencia, el Gobierno ha decidido reprimir todo tipo de influencia extranjera, ya sea de naturaleza cultural, política o científica, a la vez que instala organismos gubernamentales designados que, a partir de ahora, se dedicarán a reparar los daños ya causados.\n\nAunque esta medida es impopular tanto entre la población como entre la mayoría de potencias extranjeras, nos ayudará enormemente a unir a la población alemana contra cualquier enemigo externo."
+
+ GER_The_Economic_Dictator: "El dictador económico"
+ GER_The_Economic_Dictator_desc: "Alfred Hugenberg es un candidato ideal para el cargo de ministro de Economía: sus antecedentes en la industria y su franca lealtad al Káiser lo dejan claro, pero aporta otras ventajas menos evidentes que quizá no lo sean tanto.\n\nLos planes de Hugenberg detallan una mayor intervención del Estado en la economía, proporcionando tierras públicas no rentables a los pequeños agricultores para incitar el espíritu emprendedor en la clase baja y creando una comunidad de pequeños empresarios de clase baja que actúen como baluarte contra las fuerzas marxistas-socialistas que tientan a las clases bajas para que voten al SPD y a otras fuerzas radicales y aborrecibles que permanecen en el Reichstag.\n\nSus planes de «colonización» de los territorios adquiridos en futuras campañas también despiertan la curiosidad del Káiser; tal vez se podría elaborar algún tipo de plan para ésto también..."
+
+ GER_Support_the_Farmers: "Apoyar a los agricultores"
+ GER_Support_the_Farmers_desc: "Los necios demócratas que precedieron al Gobierno actual ignoraron durante demasiado tiempo a los agricultores. Ya es hora de que les devolvamos el favor y ayudemos a toda Alemania en el proceso. Se pondrá en marcha el plan de Hugenberg de ayudar a los granjeros a crear pequeñas empresas rentables.\n\nEl plan detalla la confiscación de tierras gubernamentales no rentables y su traspaso a pequeños agricultores, incitando el espíritu emprendedor en quienes reciban las tierras y creando una comunidad de empresarios opuestos a las omnipresentes fuerzas marxistas que siguen alejando a las clases bajas de la luz de los valores tradicionales alemanes. El efecto macroeconómico de ésto será magnífico: más empleos primarios para la clase baja y un aumento de la eficiencia de la economía alemana."
+ 
+ GER_Total_Protectionism: "Proteccionismo total"
+ GER_Total_Protectionism_desc: "Si los últimos años le han enseñado algo a Alemania, es que no podemos depender de otras naciones para el comercio. Este dependencia a lo largo de la segunda década de este siglo provocó el sufrimiento del pueblo alemán tras el crac de Wall Street, cuyos efectos siguen notándose.\n\nDebemos proteger nuestras industrias sea como sea para impedir que se repita este desastre, aunque éso suponga imponer aranceles tan exagerados a las importaciones que nadie quiera competir con los productos alemanes en el mercado interior. Así garantizamos que nuestras industrias prosperen dentro de nuestras fronteras: ningún trabajador alemán tendrá que competir con los talleres clandestinos de la India, China o Japón para vender sus productos. ¡El sudor de la frente del trabajador le hará ganar su justo salario!"
+
+ GER_Subsidize_Innovative_Buisnesses: "Subvencionar las empresas innovadoras"
+ GER_Subsidize_Innovative_Buisnesses_desc: "Durante los días de gloria del antiguo Kaiserreich, Alemania experimentó un auge económico de la llamada Gründerzeit, durante la cual se fundaron una cantidad sin precedentes de empresas, ya fuesen enanas o gigantescas, lo cual tuvo un efecto extremadamente positivo en la economía. Sin embargo, esta época terminó muy pronto cuando se cortaron las subvenciones financiadas por las reparaciones de guerra francesas.\n\nNo obstante, el Káiser y su Gobierno han reconocido que la clave del éxito de Alemania en esos tiempos fue la voluntad del Gobierno de subvencionar y apoyar a las empresas, que eran lo bastante atrevidas como para propulsar el avance tecnológico de Alemania, con invenciones rompedores y nuevos e innovadores métodos de producción. Así pues, el Gobierno ha decidido que, a partir de ahora, toda empresa que esté dispuesta a asumir el riesgo de la innovación o que ya haya aplicado medidas sencillas, en lugar de confiar en métodos probados, será subvencionada con fondos públicos, independientemente del tamaño y la situación financiera de la empresa.\n\nEstas medidas son una forma casi infalible, si bien bastante cara, de garantizar que la industria alemana siga siendo una de las más avanzadas del mundo, al tiempo que mejora nuestra economía a un ritmo constante."
+
+ GER_Expand_the_Kiel_Kanal: "Ampliar el canal de Kiel"
+ GER_Expand_the_Kiel_Kanal_desc: "El canal de Kiel es importante para el comercio y proporciona fácil acceso al mar Báltico permitiendo a los buques saltarse los mares tormentosos de la península de Jutlandia, ahorrando una media de 460 kilómetros en el trayecto. Construido y ampliado bajo el mandato del káiser Guillermo II para ayudar a los intereses mercantiles y servir a la antigua Kaiserliche Marine, lo correcto sería que su hijo y nuestro actual káiser, Guillermo III, siguiera ampliando el canal de Kiel como continuación del legado de su padre y para que pueda servir mejor a nuestra Marina en constante expansión."
+
+ GER_Expand_the_Radio_Industry: "Ampliar la industria de la radio"
+ GER_Expand_the_Radio_Industry_desc: "Aunque los medios alemanes no tienen la influencia de lugares como Hollywood o París, los programas de radio de los nacionalsocialistas han demostrado que las radios modernas son una herramienta sumamente eficaz para transmitir un mensaje especial al populacho. Imitaremos el éxito de los nazis ampliando la industria radiofónica alemana, permitiendo que todos los hogares o al menos los barrios tengan acceso a una radio y a programas radiofónicos regulares patrocinados por el Estado, que convencerán a la población de nuestro Gobierno e infundirán lealtad tanto al Kaiserreich como al Káiser."
+
+ GER_Economic_Cooperation_with_Our_Neighbors: "Cooperación económica con nuestros vecinos"
+ GER_Economic_Cooperation_with_Our_Neighbors_desc: "Tenemos una de las economías más fuertes del continente europeo y está creciendo con rapidez, para regocijo de nuestra gente y envidia de nuestros vecinos, que nos ven como una amenaza e intentan por todos los medios seguir el ritmo de nuestra rápida innovación y avances tecnológicos, pero no pueden. Podemos aprovechar esta oportunidad para seguir desarrollando nuestro enorme potencial económico, al tiempo que creamos una imagen positiva de nosotros en el escenario mundial. Para ello, nos dirigiremos a nuestros vecinos y les ofreceremos buenos acuerdos que sean mutuamente beneficiosos, reforzando nuestra economía, ayudándolos a desarrollar las suyas y creando relaciones bilaterales positivas que puedan ser beneficiosas en el futuro."
+
+ GER_Limit_Imports: "Limitar las importaciones"
+ GER_Limit_Imports_desc: "Aunque los últimos años nos han enseñado que la sobredependencia del comercio internacional puede pasar factura a todas las naciones involucradas, sería una locura restringir nuestra economía al comercio puramente interior, como algunos radicales han sugerido. En su lugar, proponemos un plan de exportaciones limitadas: sólo venemos lo que nos sobra y compramos lo que necesitamos. Ni más ni menos, no dependemos de nadie, sólo subsistimos. Las empresas alemanas pueden comerciar donde les plazca, siempre que cumplan una determinada cuota del mercado interior.\n\nNuestras industrias podrán prosperar sin la presencia abrumadora de industrias extranjeras construidas a base de talleres clandestinos con las que ninguna empresa normal y humana podría aspirar a competir en precio y producción. No pondremos en peligro la calidad de vida del trabajador alemán para que nuestro PIB tenga un numerito más alto. Atrás quedan los días del materialismo: ¡Alemania ya no sirve al dólar, sino al Káiser!"
+
+ GER_Ramp_up_the_War_Production: "Intensificar la producción bélica"
+ GER_Ramp_up_the_War_Production_desc: "Ha llegado la hora de armar a nuestros soldados para la tempestad inminente. Mediante un complejo plan de subvenciones a los pequeños fabricantes de armas y contratos públicos baratos a las grandes empresas dispuestas a satisfacer las elevadas cuotas exigidas para la producción alemana de armamento, aumentaremos la producción de los materiales necesarios para la guerra. Armas, balas, granadas, raciones y ropa: no importa lo que sea, si puedes fabricarlo y estás dispuesto a aceptar los subsidios, tus medios de producción se pondrán a trabajar. No habrá hombre sin equipo ni soldado sin Stahlhelm; cada uno tendrá un camión que lo suministrará día tras día.\n\nNuestros enemigos seguramente noten este aumento de la producción bélica, pero estamos seguros de que produciremos equipos mucho más rápido de lo que lo haríamos de otro modo. Las Fuerzas Armadas del Káiser están preparadas para volver a marchar y, se enfrenten a quien se enfrenten, la victoria estará asegurada. Alemania volverá a tener su lugar bajo el sol, y ese lugar bajo el sol empieza aquí."
+
+ GER_Focus_on_Heavy_Equipment: "Centrarse en el equipo pesado"
+ GER_Focus_on_Heavy_Equipment_desc: "La Weltkrieg ha demostrado la importancia de la artillería en el campo de batalla, tanto por su efecto físico como por su efecto psicológico en el enemigo, mientras que los estancamientos de las trincheras dieron paso a la creación de los tanques, bestias blindadas enormes que demostraron ser inestimables para romper esos estancamientos y obligar al enemigo a retroceder. Ahora, a medida que aparecen nuevos avances en tecnología y doctrina militar, estos equipos pesados son cada vez más eficaces en el campo de batalla. Deberíamos tomar la decisión de centrarnos en producir más equipo así y arrojar proyectiles al enemigo, no hombres."
+
+ GER_Focus_on_Infantry: "Centrarse en la infantería"
+ GER_Focus_on_Infantry_desc: "Las tropas de infantería son la columna vertebral de cualquier ejército, y nuestro Heer no es distinto. Los papeles que se espera que la infantería desempeñe están en constante evolución, y su forma de desempeñar esas funciones se están refinando constantemente. Ahora que un conflicto a gran escala parece inevitable, nos interesa centrarnos en nuestra infantería y seguir desarrollando más mejoras que nos puedan dar una ventaja clave contra nuestros posibles enemigos en nuestras futuras campañas.\n\nAl centrarnos más en la guerra de infantería, podemos producir el equipo que nuestros hombres necesitan de forma más eficiente, lo que los mantendrá bien abastecidos y les permitirá rendir al máximo nivel y derrotar a cualquiera que se interponga en su camino."
+
+ GER_Modern_Elitism: "Elitismo moderno"
+ GER_Modern_Elitism_desc: "Aunque cada alemán es valioso a su manera, Dios creó tipos de personas con su papel en la sociedad ya previsto para ellos, ya sean trabajadores, soldados, generales o aristócratas. Debemos proyectar esta ley divina en la nueva sociedad alemana que pretendemos crear devolviendo a los aristócratas el lugar que les corresponde como dirigentes de Alemania y de su pueblo. \n\nAtrás quedarán los días del gobierno de la mafia en los que se confundía al simple trabajador alemán haciéndole creer que él mismo estaba destinado a ser un gobernante, lo que le hacía rechazar su lugar en la sociedad y a sus superiores, mientras él mismo se frustraba constantemente con su objetivo de convertirse en alguien que no es.\n\nNos aseguraremos de que cada aleman sepa cuál es su lugar en la sociedad y la importancia de su trabajo para que pueda encontrar la paz viviendo como Dios quiere que vivan."
+
+ GER_Reform_the_Volksgemeinschaft: "Reformar la Volksgemeinschaft"
+ GER_Reform_the_Volksgemeinschaft_desc: "Un concepto interesante que introdujeron los nazis en Alemania fue la Volksgemeinschaft o «comunidad popular», la idea de que todo alemán, independientemente de su afiliación política, trabajo o estatus social, está conectado con cualquier otro alemán a través de su ascendencia y sangre compartidas. Mientras que los nazis usaron este noble concepto para engañar a Alemania con su ideología degenerada, nosotros hemos decidido retomar la idea y mejorarla para reflejar mejor el espíritu propiamente alemán.\n\nA partir de ahora, todo alemán formará parte de una familia nacionalizada en la que los hijos e hijas de Alemania aprenderán a apoyarse mutuamente bajo la atenta y cariñosa mirada del patriarca de la familia, el Káiser."
+
+ GER_A_Popular_Welfare: "¡Un bienestar popular!"
+ GER_A_Popular_Welfare_desc: "En el espíritu de Bismarck y su concepto del socialismo estatal, el Káiser ha decidido que la vida a menudo complicada del trabajador o agricultor alemán estará respaldada a partir de ahora por una variedad de programas gubernamentales que ayudarán a proteger al trabajador individual de las consecuencias del desempleo, los accidentes graves en el trabajo y otros factores que podrían perfectamente amenazar el modus vivendi de familias enteras de alemanes leales y trabajadores.\n\nAdemás de estas medidas, que están principalmente dirigidas a la población masculina de Alemania, el Káiser también tiene un interés personal en la protección de los hijos y las madres de Alemania, que, a partir de ahora, estarán respaldados por pensiones alimenticias, bajas de maternidad y un sistema especial de préstamos que permitirá a las familias pedir un préstamo matrimonial sin intereses de hasta 1000 Reichsmark, que se reducirá en un 25 % por cada hijo nacido.\n\nAunque estas medidas son ciertamente complicadas y costosas, aumentarán no obstante nuestra tasa de natalidad y nuestro apoyo popular, a la par que les arrebatará apoyo al SPD y demás partidos socialistas."
+
+ GER_The_Social_Market_Economy: "La economía de mercado social"
+ GER_The_Social_Market_Economy_desc: "Con nuestras reformas económicas prácticamente concluidas, por fin estamos listos para pulir el duro trabajo del Káiser y sus economistas más capaces y convertirlo en una economía innovadora. Denominada la «economía de mercado social» por varios economistas del mundo, este nuevo sistema nos permitirá garantizar a cada alemán la libertad de empresa y, al mismo tiempo, apoyar a los trabajadores alemanes con una red estable de seguridad y regulaciones laborales para protegerlo de la pobreza y la explotación, tal y como Bismarck imaginó con su concepto de «socialismo de Estado».\n\nFinalizar estas reformas catapultaría la popularidad del Káiser y su Gobierno a nuevas cotas, al tiempo que sacaría las castañas del fuego a los marxistas."
+
+ GER_Further_Support_for_Christian_Trade_Unions: "Más apoyo para los sindicatos cristianos"
+ GER_Further_Support_for_Christian_Trade_Unions_desc: "Aunque es cierto que la mayoría de sindicatos son un foco de agitación socialista y comunista, el Káiser reconoce que los trabajadores alemanes patrióticos y religiosos deberían tener la opción de exponer sus intereses ante el Gobierno de forma civilizada y organizada.\n\nPor tanto, el Káiser ha decretado que, a partir de ahora, los sindicatos cristianos existentes, como la Federación Unida de Sindicatos Cristianos de Alemania, serán oficialmente patrocinados y respaldados por el Gobierno para que resulten más atractivos a los trabajadores alemanes.\n\nA su vez, ésto permitirá a los trabajadores exponer sus preocupaciones directamente ante el Gobierno sin necesidad de convocar huelgas ni provocar disturbios, mientras que, con suerte, los sindicatos socialistas y comunistas seguirán perdiendo influencia."
+
+ GER_Ban_Trade_Unions: "Ilegalizar los sindicatos"
+ GER_Ban_Trade_Unions_desc: "Durante demasiado tiempo, los sindicatos que operan en Alemania han perturbado el panorama económico y político organizando huelgas y engañando a los trabajadores con propaganda socialista y comunista. \n\nEl Káiser ha dejado claro por activa y por pasiva que no se aceptará más esta situación y ha declarado que todos los sindicatos a partir de ahora serán considerados organizaciones criminales, haciendo la afiliación y la actividad en ellos punibles por ley.\n\nAunque es una decisión sumamente polémica, nos daría un control sin precedentes sobre los trabajadores y reforzaría nuestra posición contra los agitadores bolcheviques."
+
+ GER_Hierarchical_Economics: "Economía jerárquica"
+ GER_Hierarchical_Economics_desc: ""
+
+ GER_Technocratic_Principles: "Principios tecnocráticos"
+ GER_Technocratic_Principles_desc: ""
+
+ # Shared Military Part
+ GER_Rebuilding_the_Kaiserliche_Marine: "Reconstruir la Kaiserliche Marine"
+ GER_Rebuilding_the_Kaiserliche_Marine_desc: ""
+
+ GER_Rebuild_the_Kaiserreich: "Reconstruir el Kaiserreich"
+ GER_Rebuild_the_Kaiserreich_desc: "La economía de Alemania lleva sufriendo desde la caída del Segundo Reich alemán. La hiperinflación que afectó a la economía después de la guerra y la Gran Depresión debilitaron enormemente la capacidad de Alemania de reconstruirse tras la Guerra Mundial. La agitación política que rodeó este acontecimiento llevó incluso a Hitler a ser elegido canciller antes de que los legítimos alemanes pudieran expulsarlo del poder y restaurar la monarquía. Ahora debemos reconstruir la economía de Alemania para que brille en el nuevo Kaiserreich.\n\nLos asesores económicos del Káiser proponen construir fábricas civiles y militares que estén dirigidas por junkers leales al Kaiserreich. Ésto impulsará la economía a su grandeza de antes de la guerra al proporcionar puestos de empleo y una fuente de ingresos para el pueblo alemán. El plan también abarca las infraestructuras, con el objetivo de aumentar la red ferroviaria alemana y las autopistas para potenciar aún más la economía alemana y unir a la nación por carretera y ferrocarril. Estas fábricas y nuevas infraestructuras serán las piedras angulares para una gran economía del Kaiserreich."
+
+ GER_The_Second_Tirpitz_Plan: "El segundo plan Tirpitz"
+ GER_The_Second_Tirpitz_Plan_desc: ""
+ GER_Reacquire_Weltkrieg_Era_Vessels: "Readquirir los navíos de la Weltkrieg"
+ GER_Reacquire_Weltkrieg_Era_Vessels_desc: ""
+ GER_Return_to_Prussian_Roots: "Volver a las raíces prusianas"
+ GER_Return_to_Prussian_Roots_desc: ""
+ GER_Reorganize_the_Heer: "Reorganizar el Heer"
+ GER_Reorganize_the_Heer_desc: ""
+ GER_Motorization_of_the_Heer: "Motorización del Heer"
+ GER_Motorization_of_the_Heer_desc: ""
+ GER_Panzer_Dragoner: "Panzergrenadier"
+ GER_Panzer_Dragoner_desc: ""
+ GER_Rekindle_Imperial_Naval_Tradition: "Reavivar la tradición naval imperial"
+ GER_Rekindle_Imperial_Naval_Tradition_desc: ""
+ GER_Expand_the_Dockyards: "Ampliar los astilleros"
+ GER_Expand_the_Dockyards_desc: ""
+ GER_Schlachtflotte: "Schlachtflotte"
+ GER_Schlachtflotte_desc: ""
+ GER_Flugzeugtrager_Entwicklung: "Flugzeugträger"
+ GER_Flugzeugtrager_Entwicklung_desc: ""
+ GER_Schnell_Kavallerie: "Schnell Kavallerie"
+ GER_Schnell_Kavallerie_desc: ""
+ GER_Schwere_Kavallerie: "Schwere Kavallerie"
+ GER_Schwere_Kavallerie_desc: ""
+ GER_Deutsche_Luftstreitkrafte: "Deutsche Luftstreitkräfte"
+ GER_Deutsche_Luftstreitkrafte_desc: ""
+ GER_Kommunikation_und_Koordination: "Kommunikation und Koordination"
+ GER_Kommunikation_und_Koordination_desc: ""
+ GER_Mobile_Artillerie: "Mobile Artillerie"
+ GER_Mobile_Artillerie_desc: ""
+ GER_Gott_Mit_Uns: "Gott mit uns"
+ GER_Gott_Mit_Uns_desc: ""
+ GER_Bomber_Development: "Desarrollo de bombarderos"
+ GER_Bomber_Development_desc: ""
+ GER_Jager_Programm: "Programa Jäger"
+ GER_Jager_Programm_desc: ""
+ GER_Dusenflugzeuge: "Desarrollo de aviones a reacción"
+ GER_Dusenflugzeuge_desc: ""
+ GER_Call_Back_Exiled_Scientists: "Llamar a los científicos exiliados"
+ GER_Call_Back_Exiled_Scientists_desc: ""
+ GER_Raketen_Entwicklung: "Raketen Entwicklung"
+ GER_Raketen_Entwicklung_desc: ""
+ GER_Revive_the_Uranprojekt: "Revivir el Proyecto Uranio"
+ GER_Revive_the_Uranprojekt_desc: ""
+ GER_Superwaffen_des_Kaiserreich: "Superwaffen des Kaiserreiches"
+ GER_Superwaffen_des_Kaiserreich_desc: ""
+ GER_Aufkalrungsflotte: "Aufklärungsflotte"
+ GER_Aufkalrungsflotte_desc: ""
+ GER_Uboot_Programm: "U-Programm"
+ GER_Uboot_Programm_desc: ""
+ GER_Complete_the_Plan: "Completar el plan"
+ GER_Complete_the_Plan_desc: ""
+ GER_Lessons_of_the_Weltkrieg: "Lecciones de la Guerra Mundial"
+ GER_Lessons_of_the_Weltkrieg_desc: ""
+ GER_Infantry_Attacks: "Infanterie greift an!"
+ GER_Infantry_Attacks_desc: ""
+ GER_Artillery_Modernization: "Modernización de la artillería"
+ GER_Artillery_Modernization_desc: ""
+ GER_Panzerabwehr: "Panzerabwehr"
+ GER_Panzerabwehr_desc: ""
+ GER_Flugabwehr: "Flugabwehr"
+ GER_Flugabwehr_desc: ""
+ GER_Raketenartillerie: "Raketenartillerie"
+ GER_Raketenartillerie_desc: ""
+ GER_Blut_und_Eisen: "Blut und Eisen"
+ GER_Blut_und_Eisen_desc: ""
+ GER_Kustenfliegergruppe: "Küstenfliegergruppe"
+ GER_Kustenfliegergruppe_desc: ""
+ GER_Kaiser_Schlachtschiff_H: "Schlachtschiff-H"
+ GER_Kaiser_Schlachtschiff_H_desc: ""
+ GER_State_level_Bureaucracy: "Burocracia a nivel estatal"
+ GER_State_level_Bureaucracy_desc: ""
+ GER_Question_Of_The_Bundserat: "La cuestión del Bundesrat"
+ GER_Question_Of_The_Bundserat_desc: ""
+ GER_Doctrine_Of_The_Kaisers_Army: "Doctrina del Ejército del Káiser"
+ GER_Doctrine_Of_The_Kaisers_Army_desc: ""
+ GER_The_Kaiserreich_Consolidated: "El Kaiserreich, consolidado"
+ GER_The_Kaiserreich_Consolidated_desc: ""
+######################################################################
+#  German Kaiserreich Events
+######################################################################
+ # Restoring the Kaiserreich Event Chain
+ GER_OKH.1.t: "¿Restaurar el Kaiserreich?"
+ GER_OKH.1.d: "Acabado el mandato de la amenaza nazi y con la Wehrmacht gobernando la nación con puño de hierro, va siendo hora de considerar el futuro de nuestra gloriosa nación. Actualmente, nuestros líderes militares han acudido en masa al concepto de «restaurar el Kaiserreich», alegando los propios éxitos que nuestra nación experimentó gracias a ello, desde nuestra rápida industrialización hasta convertirnos en una potencia mundial, con el mayor ejército permanente. Aunque es razonable restaurar el Kaiserreich, también nos hacemos la pregunta: ¿quién será el legítimo heredero al trono? Se nos presentan dos opciones: Guillermo II, último káiser de Alemania que actualmente reside en los Países Bajos, o Guillermo, príncipe heredero de Alemania y siguiente en la línea de sucesión de la Casa de Hohenzollern, por lo que sería káiser. El príncipe heredero es ciertamente la opción más fácil, puesto que está en suelo alemán y es muy activo en política, lo que lo convierte en un candidato apto. Sin embargo, Guillermo II sigue siendo el legítimo heredero al trono, pero actualmente está exiliado en los Países Bajos y es difícil enviarlo aquí. Sólo podemos escoger a uno, y ambos tienen políticas drásticas sobre cómo gobernar Alemania, así que debemos andarnos con cuidado."
+ GER_OKH.1.A: "Nos reuniremos con el príncipe heredero."
+ GER_OKH.1.A.tt: "§YÉsto desbloqueará la trayectoria de Guillermo III.§!\n"
+ GER_OKH.1.B: "Le enviaremos una carta al Káiser en Holanda."
+ GER_OKH.1.B.tt: "§YÉsto desbloqueará la trayectoria de Guillermo II.§!\n"
+
+ GER_OKH.2.t: "Reunión con el príncipe heredero"
+ GER_OKH.2.d: "Era una tarde tranquila en Berlín cuando Guillermo, príncipe heredero de Alemania, fue convocado de repente por el nuevo Gobierno provisional para charlar sobre el futuro de su país. Estaba emocionado y sorprendido, pues podía por fin reclamar su derecho natural como gobernante de Alemania. Cuando Ludwig y Guillermo se conocieron, fue como si fueran amigos de toda la vida, intercambiando ideas y conversaciones informales, algo que nadie ha experimentado jamás. En las últimas horas de la reunión, Ludwig le dio a Guillermo la oferta, que éste estaba encantado de aceptar, de ser el próximo káiser de Alemania. Como era de esperar, aceptó la oferta y planeó con entusiasmo la siguiente etapa de los acontecimientos en la planificación de su coronación."
+ GER_OKH.2.A: "Como era de esperar, aceptó la oferta."
+
+ GER_OKH.3.t: "La coronación"
+ GER_OKH.3.d: "[FROM.GetNewsIcon]Después de semanas preparando, planificando, decorando la sala y financiando el evento, ha llegado la hora de mostrarle al mundo que tenemos un nuevo líder, un nuevo káiser. El príncipe heredero, Guillermo, caminaba lentamente hacia su recién creado trono, desarrollado en persona por el Gobierno provisional, lleno de joyas y creado con algunos de los materiales más valiosos y sofisticados del mundo, mientras la gente aclamaba su coronación. Fue un evento que se mostró no sólo en Berlín, sino en todo el mundo, enviando un claro mensaje a todo el mundo de que la Casa de Hohenzollern ha vuelto una vez más a ser los verdaderos amos de Alemania. En su privilegiado discurso, el recién coronado káiser Guillermo III juró al pueblo alemán que no volvería a ser explotado o manipulado por potencias extranjeras o por las personas ambiciosas y santurronas de nuestro imperio. Hizo un llamamiento a la estabilidad, la unidad nacional y la revitalización del nacionalismo, ya que el propio Káiser ha desencadenado una cadena de sucesos que puede redefinir el panorama europeo para siempre; pero, por el momento, ya ha enviado un mensaje claro a las naciones de Europa: el Imperio alemán vuelve a erigirse como potencia regional y, potencialmente, mundial."
+ GER_OKH.3.A: "¡El Kaiserreich se mantiene firme!"
+
+ GER_OKH.4.t: "Carta de reconciliación"
+ GER_OKH.4.d: "Desde que la cúpula de la Wehrmacht eligió al káiser Guillermo II como el nuevo káiser, sobre todo porque conservamos el control de facto de Alemania, hemos intercambiado cartas entre nuestro Gobierno y el Káiser, que está actualmente residiendo en los Países Bajos en un exilio autoproclamado. Estaba confuso, por decir algo. Al fin y al cabo, el Gobierno que lo precedía había sido derrocado recientemente y guardaba rencillas al antiguo káiser, al que culpaban como uno de los principales factores de la caída del país, y él sentía que una vez más se le estaba utilizando para hacerse con el poder dentro de Alemania. Por ello, sus respuestas fueron siempre vacilantes, temiendo que, sin embargo, tras un puñado de cartas, el káiser Guillermo II haya aceptado finalmente la oferta del Gobierno provisional, su reintegración en el trono del káiser, su último deseo antes de su muerte, para la que no conocemos fecha."
+ GER_OKH.4.A: "El Káiser entró por fin en razón."
+
+ GER_OKH.5.t: "El káiser exiliado"
+ GER_OKH.5.d: "Con el Káiser totalmente de acuerdo con nuestro plan para reinstalarse a sí mismo y a su familia en el trono, aún nos queda un pequeño obstáculo: los propios Países Bajos. Los políticos de Ámsterdam creen que el Káiser estaría mucho más amenazado si vuelve a Alemania, pues creen que podríamos utilizarlo con más «segundas intenciones», por no mencionar la postura firme y neutral que adopta esta nación a nuestro oeste. Esta excusa no es más que un intento descarado de extraernos concesiones a cambio del Káiser y, por tanto, han bloqueado todos los medios para extraditarlo a su patria. \nPor tanto, la cúpula ha propuesto tres opciones para abordar ésto. \nLa primera es hacer un ultimátum: exigir la vuelta del Káiser o atenerse a una guerra. Sin embargo, aunque esta es la forma más sencilla de recuperar al Káiser, por no decir la más fácil, si entramos en guerra con ellos, podríamos enfrentarnos a una intervención de las potencias occidentales. \nSi no, podemos ceder a sus exigencias, garantizando su soberanía y concesiones similares. Sin embargo, ¿de verdad vale la pena proteger la soberanía de una nación pequeña como Holanda? Por no mencionar las posibles consecuencias de postrarnos ante una nación tan pequeña. \nPor último, tenemos una opción más discreta: crearemos una operación de rescate para traer en secreto al Káiser a Alemania, dado que depender de la diplomacia nos obliga a hacer concesiones y la opción militar corre el riesgo de una escalada, eliminando así esas variables de la mesa. Por supuesto, esta operación no sólo requerirá un gran esfuerzo, sino que también conllevará un gran riesgo. Si fracasamos, recibiremos críticas y sufriremos una posible intervención aliada. \n\nNo obstante, las opciones son ésas, y sólo una de ellas será la óptima para traer a nuestro Káiser a casa."
+ GER_OKH.5.A: "Hacer las concesiones."
+ GER_OKH.5.A.tt: "§GNos fiaremos de la diplomacia y no nos jugaremos una escalada.§!"
+ GER_OKH.5.B: "¡Enviar el ultimátum!"
+ GER_OKH.5.B.tt: "§R¡Verán todo el poderío de la Wehrmacht!§!"
+ GER_OKH.5.C: "¡Sacar al Káiser de ahí!"
+ GER_OKH.5.C.tt: "§HLas soluciones diplomáticas y militares están sobrevaloradas.§!"
+
+ GER_OKH.6.t: "Preparación: tapadera"
+ GER_OKH.6.d: "Con gran sorpresa, los dirigentes de Berlín han deducido que la diplomacia y el manu militari no son opciones viables y que las operaciones seguras y de extracción son las únicas formas de traer de vuelta a nuestro glorioso Káiser a su patria. Esta operación, llamada Operación Wilhelm y encabezada por Wilhelm Canaris, jefe de la Abwehr, es considerada la más arriesgada y valiosa jamás emprendida por nuestro Gobierno. Como parte de nuestros preparativos para esta importantísima operación, debemos decidir nuestra tapadera, dado que nos ayudará en el futuro. Podríamos hacernos pasar por unos turistas sin más que están visitando los Países Bajos durante un par de días. Sin embargo, debemos tener en cuenta que nos llevaremos al Káiser, y aunque podemos falsificar un pasaporte para él, es bastante difícil teniendo en cuenta que los Países Bajos han tomado importantes medidas para asegurar que su extradición no se produzca sin su consentimiento. Si no, podemos hacernos pasar por doctores en una misión médica, en la que podemos transportar al Káiser con seguridad en nuestros transportes, ya que podemos simplemente declarar que estamos enviando pacientes a Berlín para que reciban el mejor tratamiento médico. Sin embargo, podrían hacernos preguntas sobre nuestro trabajo sobre el terreno y, dada nuestra falta de conocimientos de términos médicos complejos, nos podrían detener por falsificar registros y potencialmente por espionaje si se descubre el pastel. La decisión es suya, pero afectará en el futuro."
+ GER_OKH.6.A: "He oído que Róterdam es precioso en esta época del año."
+ GER_OKH.6.B: "Tenemos que ayudar a los heridos de gravedad y a los enfermos terminales."
+
+ GER_OKH.7.t: "Preparación: punto de entrada"
+ GER_OKH.7.d: "Como ya hemos ultimado nuestra tapadera, debemos decidir nuestro punto de entrada, también esencial para nuestra operación. Hay tres opciones evidentes que podemos usar: tierra, mar o aire. Por tierra, a través de la frontera entre nuestras dos naciones, es la opción más fácil, ya que las fronteras, aunque están reguladas, siguen siendo más baratas que las otras dos. Sin embargo, si nos dejamos en mal lugar en la frontera, puede que nos resulte más difícil volver a casa. El mar también es una opción, a través de los diversos puertos de los Países Bajos, que son un aspecto importante de su economía. Por último, nos queda el aire, a través de los aeropuertos de los Países Bajos. Aunque las últimas dos son opciones aparentemente factibles, ambas tienen no sólo el mismo problema que el método fronterizo, sino también otro problema distinto: el tiempo. Las últimas dos opciones utilizan puntos de entrada que están más alejados de la residencia del Káiser. Puesto que el tiempo es un factor importante, debería considerarse si esas dos opciones son realmente factibles. De nuevo, la decisión es suya."
+ GER_OKH.7.A: "Por tierra es la opción más barata y rápida."
+ GER_OKH.7.B: "Siempre he querido montar en barco."
+ GER_OKH.7.C: "Los avances en la aviación traerán al Káiser a casa."
+
+ GER_OKH.8.t: "Entrar en la residencia del Káiser"
+ GER_OKH.8.d: "El proceso de inmigración transcurrió sin contratiempos, los funcionarios se creyeron nuestra tapadera y nos dejaron pasar sin ningún problema. Con ese enigma solventado, vamos a comenzar la operación. Hicimos reconocimiento de la residencia, que estaba vigilada por personal armado de aspecto holandés con las manos en el gatillo, listos para disparar. Decidimos acercanos sigilosamente por atrás. Entramos en la residencia, pero puede que despertásemos al Káiser demasiado pronto. —¿Quién anda ahí? —preguntó, pero no podíamos responder hasta confirmar que era él, por motivos de confidencialidad.\n\n—Quién anda ahí? —volvió a preguntar, esta vez gritando de ira. Si no responde, llamaré a los guardias de afuera. Sin más remedio, le dijimos nuestra identidad, y menos mal que era él. —¡Mein Gott, por fin ha llegado mi equipo de rescate! —dijo.\n\nLo escoltamos a hurtadillas fuera de la residencia hasta un hotel cercano. Nos queda un enigma más para poder dar la misión por cumplida: el puesto fronterizo."
+ GER_OKH.8.A: "Gracias a Dios que no ha terminado mal."
+
+ GER_OKH.9.t: "El puesto fronterizo"
+ GER_OKH.9.d: "Con el Káiser asegurado y nuestro equipo aún intacto, nos enfrentamos al mayor obstáculo de nuestra misión: el puesto fronterizo. Como el Káiser es muy conocido en los sectores más adinerados de la sociedad neerlandesa, no es práctico transportarlo por mar o aire, ya que los pasajeros lo reconocerían fácilmente y llamarían a la policía. Por tanto, hemos decidido transportar al Káiser por carretera, a través del puesto fronterizo. Sin embargo, el centro de inmigración es muy riguroso, y se sabe que los agentes confunden a la gente para comprobar si están dando información veraz. Debemos tener cuidado con sus preguntas, pues, si fracasamos, ésto terminará con sangre."
+ GER_OKH.9.A: "Tengan cuidado y todo irá bien."
+
+ GER_OKH.10.t: "Primera pregunta: ¿Cuál es el motivo de su visita a los Países Bajos?"
+ GER_OKH.10.d: "El agente fronterizo se acercó a nosotros, despacio y armado con su fusil. Nos saludó cordialmente, usando su limitado conocimiento del alemán para hacernos preguntas. Su primera pregunta fue cuál era el motivo de nuestra visita a los Países Bajos. Respondimos con seguridad:"
+ GER_OKH.10.A: "Vacaciones."
+ GER_OKH.10.B: "Misión médica a los Países Bajos desde Alemania."
+
+ GER_OKH.11.t: "Segunda pregunta: ¿Adónde van exactamente?"
+ GER_OKH.11.d: "El agente estaba encantado de que llegasen turistas para visitar su precioso país. Al fin y al cabo, tiene mucha importancia histórica y la mar de destinos turísticos. El agente, con curiosidad por saber adónde íbamos, preguntó a qué lugar concreto íbamos."
+ GER_OKH.11.A: "Vamos a Róterdam, es encantador."
+ GER_OKH.11.B: "Núremberg es precioso."
+
+ GER_OKH.12.t: "Segunda pregunta: ¿Llevan algún paciente?"
+ GER_OKH.12.d: "El agente se mostró encantado al enterarse de que médicos de Berlín acudían a su país, a pesar de no estar en un Estado amigo. Afirmó que los médicos alemanes eran de los mejores del mundo y que él había sido tratado por uno de ellos. De todos modos, el agente nos preguntó si llevábamos otros pacientes y si teníamos documentos para ellos. Dijimos que..."
+ GER_OKH.12.A: "Sí, está sedado ahora mismo, pero tenga su papeleo."
+ GER_OKH.12.B: "No llevamos ningún paciente."
+
+ GER_OKH.13.t: "Tiroteo en el puesto fronterizo"
+ GER_OKH.13.d: "[FROM.GetNewsIcon]Tras comprobar la documentación e inspeccionar el vehículo, los agentes fueron alertados de que no éramos quienes decíamos ser y que debíamos salir del coche. Debido a nuestra precaria situación, no nos quedó otra que abrir fuego contra los guardias fronterizos, dando lugar a un tiroteo. Intercambiamos disparos y ambos bandos sufrieron bajas. En el caos, descubrimos que el káiser Guillermo II murió durante el combate. Fue uno de los primeros caídos a juzgar por la trayectoria de las balas y la hora estimada de muerte. Como resultado, los dirigentes de la Wehrmacht repudiaron la operación, purgando a sus participantes, y declararon el estado de luto en Alemania. Ahora, sin káiser, es lógico que le pidamos al príncipe Guillermo que sea el próximo káiser."
+ GER_OKH.13.A: "Ésto nunca debería haber pasado..."
+
+ GER_OKH.14.t: "El retorno del káiser Guillermo II"
+ GER_OKH.14.d: "[FROM.GetNewsIcon]Tras comprobar la documentación e inspeccionar el vehículo, llegaron a la conclusión de que éramos ciudadanos normales y corrientes de Alemania y de que no había ninguna sospecha. Ésto quiere decir que el Káiser volvió sano y salvo a Alemania sin impedimentos. A medianoche en Berlín, él y el resto de la cúpula de la Wehrmacht siguieron planeando la siguiente etapa, anunciando su regreso. Al mediodía, el mundo se conmocionó al escuchar la voz del Káiser por primera vez en la radio alemana... —Queridos compatriotas, he pasado toda mi vida en Holanda pensando en Alemania, sobre todo en su gente. He visto de primera mano las maravillas de mis ciudadanos, que lucharon valientemente en la Weltkrieg que asoló el mundo. Sin embargo, mi trono no hizo más que bloquearme, obligándome a complacer a las instituciones y facciones corruptas de nuestro glorioso Ejército, que explotaron mi debilidad para controlar Alemania con puño de hierro. Ahora, al regresar a mi patria, prometo que nosotros, como alemanes, y como vuestro káiser, dejaremos de ser el hazmerreír de Europa, reclamaremos nuestro destino como los verdaderos amos del mundo y haremos realidad una nueva Alemania, una nueva era, ¡una Pax Germanica! Imagino que todos tendrán preguntas, por ejemplo, cómo estoy hablando con mis compatriotas en este preciso instante. Se debe a los esfuerzos ejemplares de la Abwehr, que ha luchado con uñas y dientes para garantizar mi salvoconducto desde Holanda, que me ha utilizado injustamente como moneda de cambio, hasta mi patria, Alemania. Espero que éso los tranquilice ante mi repentino regreso."
+ GER_OKH.14.A: "Ha sido un largo viaje, pero por fin podemos dormir en paz."
+
+ GER_OKH.15.t: "Los Países Bajos han aceptado nuestras concesiones"
+ GER_OKH.15.d: "Tras las negociaciones secretas entre nosotros y Holanda sobre el futuro del káiser Guillermo II, tanto nuestro Ministerio de Asuntos Exteriores como el suyo han anunciado que el Káiser volverá a Alemania. Casualmente, se publicó un acuerdo para su distribución pocas horas después de dicho traslado. En él se afirma que Alemania, en su compromiso de «proteger a sus aliados», jurará defender a la pequeña nación de los Países Bajos de las diversas amenazas que se le puedan presentar, en un esfuerzo por «proteger a las naciones pequeñas de la agresividad de naciones más grandes». Aunque la prensa está diseccionando el acuerdo mientras hablamos, no tiene importancia, ya que todo el mundo está volcado en el regreso del Káiser a casa. Miles de alemanes ya estaban haciendo cola en las carreteras hacia Berlín, tras lo cual el Káiser pronunció un discurso frente al Reichstag, retransmitido a todo el mundo de forma muy parecida a como lo hacía la Wehrmacht... —Queridos compatriotas, he pasado toda mi vida en Holanda pensando en Alemania, sobre todo en su gente. He visto de primera mano las maravillas de mis ciudadanos, que lucharon valientemente en la Weltkrieg que asoló el mundo. Sin embargo, mi trono no hizo más que bloquearme, obligándome a complacer a las instituciones y facciones corruptas de nuestro glorioso Ejército, que explotaron mi debilidad para controlar Alemania con puño de hierro. Ahora, al regresar a mi patria, prometo que nosotros, como alemanes, y como vuestro káiser, dejaremos de ser el hazmerreír de Europa, reclamaremos nuestro destino como los verdaderos amos del mundo y haremos realidad una nueva Alemania, una nueva era, ¡una Pax Germanica!"
+ GER_OKH.15.A: "Más vale que valga la pena, si no, habrá sido en vano."
+
+ GER_OKH.16.t: "Los Países Bajos han accedido a nuestras exigencias"
+ GER_OKH.16.d: "Apenas días después de enviarles el ultimátum, el Ministerio de Asuntos Exteriores ha anunciado que aceptará la solicitud de extradición del káiser Guillermo II a nuestra nación. Ésto confirma informalmente que los Países Bajos han accedido a nuestras exigencias y han devuelto sano y salvo a nuestro Káiser sin ningún tipo de lesión ni peligro para su vida. Miles de alemanes ya estaban haciendo cola en las carreteras hacia Berlín, tras lo cual el Káiser pronunció un discurso frente al Reichstag, retransmitido a todo el mundo de forma muy parecida a como lo hacía la Wehrmacht... —Queridos compatriotas, he pasado toda mi vida en Holanda pensando en Alemania, sobre todo en su gente. He visto de primera mano las maravillas de mis ciudadanos, que lucharon valientemente en la Weltkrieg que asoló el mundo. Sin embargo, mi trono no hizo más que bloquearme, obligándome a complacer a las instituciones y facciones corruptas de nuestro glorioso Ejército, que explotaron mi debilidad para controlar Alemania con puño de hierro. Ahora, al regresar a mi patria, prometo que nosotros, como alemanes, y como vuestro káiser, dejaremos de ser el hazmerreír de Europa, reclamaremos nuestro destino como los verdaderos amos del mundo y haremos realidad una nueva Alemania, una nueva era, ¡una Pax Germanica!"
+ GER_OKH.16.A: "El viejo sí que sabe hacer discursos pasionales."
+
+ GER_OKH.17.t: "Los Países Bajos han ignorado nuestro ultimátum"
+ GER_OKH.17.d: "Los Países Bajos, en lo que parece ser una decisión ciertamente ingenua, ha ignorado nuestro ultimátum en lo que parece ser un esfuerzo inútil para presionarnos, de nuevo una medida bastante tonta por su parte. Tenemos dos formas de actuar. Una es recular y hacer como que ésto nunca ha pasado, dejando que Guillermo se quede en Holanda mientras usamos nuestra opción alternativa. La otra es cumplir el ultimátum, declararles la guerra a los Países Bajos y ocupar la nación hasta que estén de acuerdo con nuestras exigencias. La primera opción, aunque es factible, ya pone en peligro la relación entre el Káiser y nuestro Gobierno provisional, una relación que no podemos permitirnos perder. Además, muestra debilidad por nuestra parte, dado que los Países Bajos son una nación pequeña y, si reculamos, evidenciaría que Alemania no está en condiciones de hacer exigencias, lo que pondría en peligro nuestra reputación diplomática. Sin embargo, si escalamos ésto a un conflicto militar, cabría esperar una obvia intervención de Francia y del Reino Unido, ya que literalmente estaríamos invadiendo una nación soberana por su falta de voluntad de cooperar en el regreso de un káiser que lleva décadas esperando justicia en los tribunales de la Entente. Debemos decidir con cuidado, porque las consecuencias pueden ser demasiado grandes."
+ GER_OKH.17.A: "No podemos jugarnos una guerra con los Aliados, debemos recular."
+ GER_OKH.17.B: "¡Cómo se atreven a ignorarnos! ¡Verán todo el poderío de la Wehrmacht!"
+
+ German_Kaiserreich.1.t: "¿Cooperación económica con Italia?"
+ German_Kaiserreich.1.desc: "Enróllate más, macho."
+ German_Kaiserreich.1.A: "¡Aceptar del tirón!"
+ German_Kaiserreich.1.B: "Que les den."
+
+ German_Kaiserreich.2.t: "¿Cooperación económica con Alemania?"
+ German_Kaiserreich.2.desc: "Enróllate más, macho."
+ German_Kaiserreich.2.A: "¡Aceptar del tirón!"
+ German_Kaiserreich.2.B: "Que les den."
+
+######################################################################
+#  German Kaiserreich Ideas
+######################################################################
+ # Wilhelm III
+ GER_Kaiserreich_Auf_zum_Marsch: "El káiser moderno"
+ GER_Kaiserreich_Auf_zum_Marsch_desc: ""
+ GER_Kaiserreich_Populist_Politics: "Un nuevo populismo"
+ GER_Kaiserreich_Populist_Politics_desc: ""
+ GER_Kaiserreich_Loyalty_to_the_Fatherland: "Gloria Preussen"
+ GER_Kaiserreich_Loyalty_to_the_Fatherland_desc: ""
+ GER_Kaiserreich_Tehcnocratic_Principles: "Principios tecnocráticos"
+ GER_Kaiserreich_Tehcnocratic_Principles_desc: ""
+ GER_Kaiserreich_Create_a_Technocratic_Leadership: "Cúpula tecnocrática"
+ GER_Kaiserreich_Create_a_Technocratic_Leadership_desc: ""
+ GER_Kaiserreich_Modern_Elitism: "Clase de élite leal"
+ GER_Kaiserreich_Modern_Elitism_desc: ""
+ GER_Kaiserreich_Reform_the_Volskgemeinschaft: "Un sindicato guiado"
+ GER_Kaiserreich_Reform_the_Volskgemeinschaft_desc: ""
+ GER_Kaiserreich_A_Popular_Welfare: "¡Nuevo bienestar!"
+ GER_Kaiserreich_A_Popular_Welfare_desc: ""
+ GER_Kaiserreich_Military_Industrial_Complex: "Complejo industrial-militar"
+ GER_Kaiserreich_Military_Industrial_Complex_desc: ""
+
+ # Wilhelm II
+ GER_Kaiserreich_Rebuild_the_Kaiserreich: "Un káiser familiar"
+ GER_Kaiserreich_Rebuild_the_Kaiserreich_desc: ""
+ GER_Kaiserreich_Wehrmacht_Leadership: "Un Ejército con un Estado"
+ GER_Kaiserreich_Wehrmacht_Leadership_desc: ""
+ GER_Kaiserreich_Bring_back_popular_Figureheads: "Un Ejército con un Estado"
+ GER_Kaiserreich_Bring_back_popular_Figureheads_desc: ""
+ GER_Kaiserreich_A_Guided_Puppet: "Un Ejército con un Estado"
+ GER_Kaiserreich_A_Guided_Puppet_desc: ""
+ GER_Kaiserreich_Restore_the_Reichstag: "Una democracia reconstruida"
+ GER_Kaiserreich_Restore_the_Reichstag_desc: ""
+ GER_Kaiserreich_Rely_on_Decentralization: "Poder a los estados"
+ GER_Kaiserreich_Rely_on_Decentralization_desc: ""
+ GER_Kaiserreich_Prussian_Constitutionalism: "Una democracia reconstruida"
+ GER_Kaiserreich_Prussian_Constitutionalism_desc: ""
+ GER_Kaiserreich_Empower_the_Junkers: "Junkers con poderes"
+ GER_Kaiserreich_Empower_the_Junkers_desc: ""
+ GER_Kaiserreich_Halt_Agrarian_Reform: "Junkers con poderes"
+ GER_Kaiserreich_Halt_Agrarian_Reform_desc: ""
+ GER_Kasierreich_Encourage_Christian_Trade_Unions: "Sindicatos cristianos"
+ GER_Kasierreich_Encourage_Christian_Trade_Unions_desc: ""
+ GER_Kaiserreich_Solidify_Stable_Investments: "Inversiones extranjeras"
+ GER_Kaiserreich_Solidify_Stable_Investments_desc: ""
+ GER_Kaiserreich_Reinstate_the_Gold_Standard: "Goldmark"
+ GER_Kaiserreich_Reinstate_the_Gold_Standard_desc: ""
+
+ # Kaiser Military Ideas
+ GER_Kaiserreich_Blut_und_Eisen: "Blut und Eisen"
+ GER_Kaiserreich_Blut_und_Eisen_desc: ""
+ GER_Kaiserreich_Gott_Mit_Uns: "Gott mit uns"
+ GER_Kaiserreich_Gott_Mit_Uns_desc: ""
+ GER_Kaiserreich_Call_Back_Exiled_Scientists_Returned: "¡Nuestros científicos han vuelto!"
+ GER_Kaiserreich_Call_Back_Exiled_Scientists_Returned_desc: ""
+ GER_Kaiserreich_Call_Back_Exiled_Scientists_Apologetic: "Gobierno comprensivo"
+ GER_Kaiserreich_Call_Back_Exiled_Scientists_Apologetic_desc: ""
+ GER_Kaiserreich_Superwaffen_Des_Kasierreich: "Invencibles mediante la ciencia"
+ GER_Kaiserreich_Superwaffen_Des_Kasierreich_desc: ""
+ GER_Kaiserreich_The_Second_Tirpitz_Plan: "El segundo plan Tirpitz"
+ GER_Kaiserreich_The_Second_Tirpitz_Plan_desc: ""

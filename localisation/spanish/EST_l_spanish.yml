@@ -1,0 +1,15 @@
+﻿l_spanish:
+######################################################################
+#  Estonia Events
+######################################################################
+ EST_Politics.1.t: "Cambio de primer ministro"
+ EST_Politics.1.d: ""
+ EST_Politics.1.A: "Konstantin Päts"
+
+ EST_Politics.2.t: "Cambio de primer ministro"
+ EST_Politics.2.d: ""
+ EST_Politics.2.A: "Kaarel Eenpalu"
+
+ EST_Politics.3.t: "Cambio de primer ministro"
+ EST_Politics.3.d: ""
+ EST_Politics.3.A: "Jüri Uluots"

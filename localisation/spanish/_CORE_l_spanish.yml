@@ -1,0 +1,145 @@
+﻿l_spanish:
+######################################################################
+## Main Menu
+######################################################################
+ DH_exit: "Salir"
+ DH_nudge: "Nudge"
+ DH_discord: "Únete a nuestro Discord"
+ DH_steam_workshop: "Steam Workshop"
+ DH_options: "Opciones"
+ DH_BOOKMARK: "Marcadores"
+ DH_COUNTRY_SELECTION: "Seleccionar país"
+ DH_version: "$DH_version_short$ «The Road to War»"
+ DH_version_short: "DH v1.0.5dev"
+ DH_submod_version: ""
+ DH_COUNTRY_INFO_TITLE: "Información"
+ DH_leader: "Líder:"
+ DH_ideology: "Ideología:"
+ DH_government: "Gobierno:"
+ DH_elections: "Elecciones:"
+ DH_ruling_party: "Partido gobernante:"
+
+ MANPOWER_TITLE: "Población:"
+ RESISTANCE_TITLE: "Descontento:"
+
+ FE_HISTORICAL: "IA histórica, §Rmárcalo§!"
+
+######################################################################
+## Addons
+######################################################################
+ DH_Addon_Vanilla_Map_Style: "§YComplemento de mapa al estilo estándar:§!\nCompatible con checksum: §GSÍ§!\n\n§g¿Quieres disfrutar de Darkest Hour pero añoras ese clásico aspecto estándar del juego? Nosotros nos encargamos.§!"
+ DH_Addon_Colorized_Portraits: "§YComplemento de retratos a color:§!\nCompatible con checksum: §GSÍ§!\n\n§g¿Cansado de los retratos en blanco y negro que incluye DH? Este mod los cambia por retratos a color. Sólo los líderes de los países están incorporados de momento.§!"
+ DH_Addon_Censored_Swastika: "§YComplemento de esvásticas censuradas:§!\nCompatible con checksum: §GSÍ§!\n\n§g¿Para qué? Te permite disfrutar de Darkest Hour y hacer vídeos para YouTube sin que YouTube te meta la condenada etiqueta amarilla de desmonetización. En resumen, quita todo el imaginario nazi e histórico que los sensibles ojos de YouTube y otros servicios no pueden mirar sin echarse a llorar. Esperamos que te ayude a grabar tu experiencia en Darkest Hour.§!"
+######################################################################
+## Effects/Modifiers
+######################################################################
+ EFFECT_ADD_ARMY_EXPERIENCE: "£army_experience_20x20 Experiencia militar: $VAL|=+0$."
+ EFFECT_ADD_NAVY_EXPERIENCE: "£nvy_experience_20x20 Experiencia naval: $VAL|=+0$."
+ EFFECT_ADD_AIR_EXPERIENCE: "£air_experience_20x20 Experiencia aérea: $VAL|=+0$."
+ EFFECT_ADD_WAR_SUPPORT: "Obtiene £war_support apoyo bélico de base: $VAL|+=%$."
+ EFFECT_SET_WAR_SUPPORT: "Fija el £war_support apoyo bélico en: $VAL|H%$."
+ EFFECT_ADD_STABILITY: "Obtiene £stability_20x20 estabilidad de base: $VAL|+=%$."
+ EFFECT_SET_STABILITY: "Fija la £stability_20x20 estabilidad en: $VAL|H%$."
+ POLITICS_SET_POLITICAL_POWER: "Fija el £pol_power_20x20 poder político en $VAL|0Y$."
+ POLITICS_ADD_POLITICAL_POWER: "£pol_power_20x20 Poder político: $VAL|=+0$."
+ TRIGGER_HAS_POLITICAL_POWER_MORE_THAN: "Más de $NUMBER|H$ de £pol_power_20x20 poder político"
+ TRIGGER_HAS_POLITICAL_POWER_LESS_THAN: "Menos de $NUMBER|H$ de £pol_power_20x20 poder político"
+ STABILITY_TRIGGER: "£stability_20x20 Estabilidad"
+ WAR_SUPPORT_TRIGGER: "£war_support Apoyo bélico"
+ EFFECT_ADD_RESISTANCE: "£resistance_icon Resistencia: $VALUE$."
+ EFFECT_ADD_COMPLIANCE: "£compliance_icon Obediencia: $VALUE$."
+ EFFECT_SET_RESISTANCE: "£resistance_icon Fija la resistencia en: $VALUE|H$."
+ EFFECT_SET_COMPLIANCE: "£compliance_icon Fija la obediencia en: $VALUE|H$."
+ EFFECT_MANPOWER_ADD_COUNTRY: "£manpower_texticon Mano de obra: $VAL|+=0$."
+ EFFECT_MANPOWER_ADD_STATE: "£manpower_texticon Mano de obra: $VAL|+=0$."
+ EFFECT_REMOVE_FM_LEADER: "$NAME|H$ dejará de ser un £generals_icon mariscal de campo.\n"
+ EFFECT_REMOVE_CC_LEADER: "$NAME|H$ dejará de ser un £generals_icon general.\n"
+ EFFECT_REMOVE_NAVY_LEADER: "$NAME|H$ dejará de ser un £commander_navy_icon §3comandante naval§!.\n"
+ EFFECT_CREATE_NAVY_LEADER: "$NAME|H$ será un £commander_navy_icon §3comandante naval§!.\n"
+ EFFECT_CREATE_FM_LEADER: "$NAME|H$ será un £generals_icon §smariscal de campo§!.\n"
+ EFFECT_CREATE_CC_LEADER: "$NAME|H$ será un £generals_icon §sgeneral§!.\n"
+ EFFECT_ADD_RESOURCE: "§GAñade§! producción de $RESOURCE|H$ en §O$STATE$§!."
+ EFFECT_REMOVE_RESOURCE: "§RElimina§! producción de $RESOURCE|H$ en §O$STATE$§!."
+ EFFECT_ADD_TEMPORARY_RESOURCE: "Añade producción de $RESOURCE|H$ en §O$STATE$§! durante $DAYS|H$ días."
+ EFFECT_REMOVE_TEMPORARY_RESOURCE: "Elimina producción de $RESOURCE|H$ en §O$STATE$§! durante $DAYS|H$ días."
+
+ EFFECT_ADD_IDEA_NATIONAL_SPIRIT_TOOLTIP_DETAILED: "Obtiene el §Omodificador nacional§! $NAME|Y$, que concede ($DESC$).\n"
+ EFFECT_CHANGE_LAW_foreign_policy: "Cambia la §Opolítica exterior§! a $NAME|Y$, que concede ($DESC$).\n"
+ EFFECT_CHANGE_LAW_economy: "Cambia la §Oley económica§! a $NAME|Y$, que concede ($DESC$).\n"
+ EFFECT_CHANGE_LAW_mobilization_laws: "Cambia la §Oley de movilización§! a $NAME|Y$, que concede ($DESC$).\n"
+ EFFECT_CHANGE_LAW_trade_laws: "Cambia la §Oley comercial§! a $NAME|Y$, que concede ($DESC$).\n"
+ EFFECT_CHANGE_LAW_social_policies: "Cambia las §Opolíticas sociales§! a $NAME|Y$, que concede ($DESC$).\n"
+ EFFECT_CHANGE_LAW_domestic_policies: "Cambia las §Opolíticas nacionales§! a $NAME|Y$, que concede ($DESC$).\n"
+ EFFECT_CHANGE_LAW_recruitment_laws: "Cambia la §Oley de reclutamiento§! a $NAME|Y$, que concede ($DESC$)."
+
+ UNUSED_SLOT: "             Selecciona una tecnología para £research_icon_1 investigar"
+ RESEARCH_GLOBAL_BONUS: "£research_icon_1 Bonificación a la velocidad de investigación: $VAL|+%0$"
+ RESEARCH_TOTAL_BONUS: "£research_icon_1 Velocidad de investigación: $VAL$"
+ EFFECT_ADD_TECH_BONUS_BONUS_ONLY: "$USES$$BONUS|%0+$£research_icon_1 Bonificación de investigación para: $LIST|Y$."
+ EFFECT_ADD_TECH_BONUS: "Reduce la penalización por adelanto en $AHEAD|.1G$ años y otorga una $BONUS|%0+$£research_icon_1 bonificación de investigación. Válida para las siguientes $USES|H$ investigaciones de estas tecnologías: $LIST|H$."
+ RESEARCH_TOTAL_BONUS: "£research_icon_2 Velocidad de investigación: $VAL$"
+ RESEARCH: "£research_icon_2 Investigación"
+ RESEARCH_TIME_TOOLTIP: "Tiempo para £research_icon_2 investigar: $DAYS|Y$ días "
+ RESEARCH_TIME_TOOLTIP_WITH_XP: "Tiempo para £research_icon_2 investigar: $DAYS|Y$ días ($DAYS_WITH_XP|Y$ días para $XP_TEXT$)"
+ RESEARCH_BONUS_USED: "Se consumirá una £research_icon_2 bonificación de investigación para $NAME|H$ ($BONUS$). Sólo se usa una bonificación por cada investigación.\n"
+ RESEARCH_BONUS: "También podría aplicarse $NAME|H$ ($BONUS$).\n"
+ RESEARCH_BONUS_VALUE: "$BONUS|%0H$ £research_icon_2 velocidad de investigación"
+ RESEARCH_BONUS_PENALTY: "$BONUS|.1H$ años de reducción a la penalización por adelanto"
+ RESEARCH_BONUSES_TOOLTIP: "Bonificaciones limitadas de tecnología que tenemos:"
+ RESEARCH_BONUSES_EMPTY_TOOLTIP: "Las bonificaciones limitadas de tecnología aparecerán aquí."
+ RESEARCH_BONUS_SPEED_DESC: "§Y$COUNT$x§! $VALUE|G%0$ £research_icon_2 velocidad de investigación $NAME$"
+ RESEARCH_BONUS_AHEAD_DESC: "§Y$COUNT$x§! $VALUE|G.1$ años de reducción a la penalización por adelanto $NAME$"
+ RESEARCH_BONUS_SPEED_AHEAD_DESC: "§Y$COUNT$x§! $VALUE1|G%0$ £research_icon_2 velocidad de investigación y $VALUE2|G.1$ años de reducción a la penalización por adelanto $NAME$"
+ RESEARCH_BONUS_SPEED_NO_COUNT_DESC: "£research_icon_2 La velocidad de investigación aumentará en $VALUE|G%0$."
+ RESEARCH_BONUS_AHEAD_NO_COUNT_DESC: "La penalización por adelanto se reducirá en $VALUE|.1G$ años."
+ RESEARCH_BONUS_SPEED_AHEAD_NO_COUNT_DESC: "£research_icon_2 La velocidad de investigación aumentará en $VALUE|G%0$ y la penalización por adelanto se reducirá en $VALUE2|.1G$ años."
+ RESEARCH_BONUS_VALUE_DESC: "£research_icon_2 Bonificación de investigación: $VALUE|Y%0$"
+
+ EFFECT_ADD_DYMAMIC_MODIFIER: "Añade el espíritu: $NAME|H$"
+ EFFECT_ADD_DYMAMIC_MODIFIER_WITH_DAYS: "Añade el espíritu: $NAME|H$ ($NUM|H$ días)"
+
+ EFFECT_ADD_EXTRA_STATE_SHARED_BUILDING_SLOTS: "Añade $COUNT|G$ §wcasillas de construcción§!."
+ EFFECT_REMOVE_EXTRA_STATE_SHARED_BUILDING_SLOTS: "Elimina $COUNT|G$ §wcasillas de construcción§!."
+ EFFECT_REMOVE_BUILDING: "Elimina $NUMBER|R$ $BUILDING|J$ en $LOCATION|Y$."
+ EFFECT_ADD_BUILDING_CONSTRUCTION: "Inicia la construcción de $NUMBER|+$ $BUILDING|J$."
+ EFFECT_ADD_BUILDING_CONSTRUCTION_INSTANT: "Añade $NUMBER|+$ $BUILDING|J$."
+ EFFECT_ADD_BUILDING_CONSTRUCTION_PROVINCE: "Inicia la construcción de $NUMBER|+$ $BUILDING|J$ en una provincia del estado."
+ EFFECT_ADD_BUILDING_CONSTRUCTION_INSTANT_PROVINCE: "Añade $NUMBER|+$ $BUILDING|J$ en una provincia del estado."
+
+
+ FOCUS_STATUS_TOOLTIP: "§ATiempo hasta terminar§!: $DAYS|0H$ días"
+ FOCUS_STATUS_INPROGRESS_TOOLTIP: "§ATiempo hasta terminar§!: $DAYS|0H$ días. ($LEFT|0H$ días restantes)"
+ EFFECT_DESTROY_SHIP: "$COUNT|H$ $TYPE|H$ está §fdestruido§!"
+ EFFECT_DESTROY_SHIPS: "$COUNT|H$ $TYPE|H$ están §fdestruidos§!"
+
+ CONSTRUCTION_SPEED: "Velocidad de construcción: $SPEED|l$"
+
+ ######################################################################
+ ## Tooltips
+ ######################################################################
+ DH_FOR_0.2: "---------- | §YIMPORTANTE§! | ----------\n§RHistoria alternativa para 2.0/3.0§!\n§R   ¡¡¡ ESTA TRAYECTORIA NO FUNCIONARÁ !!!§!\n\n\n"
+ TECH_River_Effect_3Percent: "Río:\n Movimiento: §G+3 %§!"
+ TECH_River_Effect_5Percent: "Río:\n Movimiento: §G+5 %§!"
+ TECH_River_Effect_10Percent: "Río:\n Movimiento: §G+10 %§!"
+ RELEASE_ALL_OWNED_STATES: "§RAl liberarlos, nos quedaríamos sin territorios.§!"
+ RELEASE_ALL_OWNED_CORES: "§RAl liberarlos, debemos poseer al menos uno de nuestros estados esenciales.§!"
+ RELEASE_NOT_ALLOWED: "§R[ROOT.GetNameDefCap] no puede liberarse de [FROM.GetNameDef].§!"
+ RELEASE_SPLINTER: "§RNo podemos liberar a los enemigos de nuestra causa.§!"
+
+ 3_RANDOM_GENERALS_GAIN_1_LOGISTICS_TT: "-------------------------------------------------------\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §sLogística§!\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §sLogística§!\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §sLogística§!\n-------------------------------------------------------"
+ 3_RANDOM_GENERALS_GAIN_1_DEFENSE_TT: "-------------------------------------------------------\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §SDefensa§!\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §SDefensa§!\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §SDefensa§!\n-------------------------------------------------------"
+ 3_RANDOM_GENERALS_GAIN_1_PLANNING_TT: "--------------------------------------------------------\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §lplanificación§!\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §lplanificación§!\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §lplanificación§!\n--------------------------------------------------------"
+ 3_RANDOM_GENERALS_GAIN_1_ATTACK_TT: "--------------------------------------------------------\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §Rataque§!\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §Rataque§!\nUn £generals_icon §Ygeneral§! aleatorio obtendrá: §G+1§! §Rataque§!\n--------------------------------------------------------"
+
+ ######################################################################
+ ## Political & Occupational Localisation
+ ######################################################################
+ COUNTRY_OCCUPATION_TITLE: "Gestión de ocupación"
+ MAIN_GARRISON_TEMPLATE: "Información general de ocupación"
+ FOREIGN_SUPPORT_TOOLTIP: "Mano de obra extranjera suministrada para reforzar nuestras propias fuerzas de ocupación."
+ EXPAND_STATES_TOOLTIP: "Ampliar la vista detallada del estado."
+
+ ######################################################################
+ ## Focus Filter Localisation
+ ######################################################################
+ FOCUS_FILTER_HISTORICAL: "Histórico"

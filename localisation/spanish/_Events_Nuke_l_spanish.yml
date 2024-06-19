@@ -1,0 +1,156 @@
+﻿l_spanish:
+##############################################
+## Generic Nuclear Attack
+##############################################  
+ Nuke_Other.0.t: "Bombardeo atómico de [From.From.GetNameDef]"
+ Nuke_Other.0.d: " "
+ Nuke_Other.0.A: "Dios mío..."
+ Nuke_Other.0.B: "¡Ésto se está yendo de las manos!"
+ Nuke_Other.0.C: "Deberían haberse rendido antes de tener que recurrir a ésto."
+##############################################
+## Nuclear Attacks on Japan
+##############################################  
+ Nuke_JAP.1.t: "Bombardeo atómico de Nagasaki"
+ Nuke_JAP.1.d: "[FROM.GetNewsIcon]La ciudad portuaria de Nagasaki ya había sufrido bombardeos aéreos, pero ninguno ha sido como el que ha tenido lugar en [GetDateText], pues no ha sido un bombardeo enemigo ordinario. Desde lo alto de los cielos, un bombardero [ROOT.GetAdjective] sobrevoló la ciudad junto a dos aviones, mientras los ciudadanos estaban confusos sobre por qué tres atacarían Nagasaki. Sus preguntas recibieron una respuesta mortal y catastrófica: 25 kilotones de energía atómica.\n\nLo que vino después fue el caos, la destrucción y el sufrimiento inhumano.\n\nLa ciudad era conocida por Mitsubishi Steel and Armament Works, la cual ayudaba a producir material para el esfuerzo bélico japonés; fue aniquilada en un abrir y cerrar de ojos, así como la mayor parte de la ciudad y el puerto. Miles de personas que pretendían hacer su vida cotidiana fueron aniquiladas antes de tener siquiera tiempo para reaccionar. Personas inocentes atrapadas en medio de guerras y conflictos se han sumado a la deprimentemente larga lista de víctimas que no parece dejar de crecer. Pero ésto es distinto. Un arma de tal magnitud seguramente significará que se escribirá sobre Nagasaki en los libros de historia durante muchas décadas, aunque por todas las razones equivocadas.\n\nSe ha informado de altos niveles de radiación en la zona y se aconseja a la gente que se aleje. Ahora que los japoneses saben que los [ROOT.GetAdjective] tienen un arma tan poderosa en su arsenal, ¿estarán dispuestos a deponer las armas? Éso parece, ya que la situación bélica no evoluciona a su favor..."
+ Nuke_JAP.1.A: "¿Cuánto tiempo podrán continuar la lucha?"
+ Nuke_JAP.1.B: "Un ataque aéreo infernal y sufrimos las consecuencias."
+ Nuke_JAP.1.C: "¡Rendíos o pereceréis entre llamas!"
+ 
+ Nuke_JAP.2.t: "Bombardeo atómico de Hiroshima"
+ Nuke_JAP.2.d: "[FROM.GetNewsIcon]Fuego. Ceniza. Infierno. Ésto es lo que la gente leerá, no sólo hoy, sino para siempre. En [GetDateText], [ROOT.GetNameDef] soltó lo que se puede describir como el arma más poderosa jamás vista: una bomba atómica.\n\nSu blanco: Hiroshima.\n\nEl arma mortífera fue lanzada desde un bombardero [ROOT.GetAdjective] acompañado por un avión de instrumentación y otro de fotografía, todos ellos apenas percibidos, ya que muchos ciudadanos pensaron probablemente que regresaban a una base cercana. Después de caer unos 45 segundos, la bomba estalló justo encima del suelo con una imponente explosión y un destello cegador de luz. Entonces comenzó la devastación. Seis kilómetros cuadrados del centro de la ciudad fueron arrasados en cuestión de segundos, y gran parte de la zona restante quedó en ruinas. Escuelas llenas de niños, restaurantes, tiendas y cafeterías repletos de gente que hacía su vida cotidiana fueron borrados del mapa sin piedad; las estimaciones aún son difusas, pero algunos dicen que 90 000 han muerto en el acto.\n\nPara los que han sobrevivido por los pelos, ¿qué se encontrarán? Calles arruinadas, amigos y familias muertos, un mundo dado la vuelta. Y para el resto de Japón, ¿ahora qué? ¿[JAP.GetLeader] animará a la nación a luchar hasta el final, como es tradición entre los guerreros? En ese caso, ¿qué hará falta para que sus líderes vean por fin que la guerra se les escapa de las manos? Mientras se hacen tantas preguntas, sólo una ha recibido respuesta: la era atómica ya ha llegado, para bien o para mal."
+ Nuke_JAP.2.A: "La amenaza del futuro a la vista."
+ Nuke_JAP.2.B: "¡Nuestra nación morirá luchando si debe!"
+ Nuke_JAP.2.C: "Otra poderosa arma en el arsenal de la justicia."
+ 
+ Nuke_JAP.3.t: "Bombardeo atómico de Tokio"
+ Nuke_JAP.3.d: "[FROM.GetNewsIcon]Tokio es una ciudad con historia, ya que ha sido la capital imperial desde 1868, tras el fin del shogunato. Tras sufrir graves daños en el gran terremoto de Kantō de 1923, se reconstruyó rápidamente, pero volvió a ser atacado por bombarderos enemigos durante la guerra. Ahora, ha sido alcanzado por un bombardero, un bombardero [ROOT.GetAdjective] para ser específicos, dejando caer un único artefacto que ha causado una destrucción insondable.\n\nGran parte de la ciudad era de madera, que quedó diezmada por la potencia de la explosión. Otros edificios, como los que se construyeron para soportar terremotos, tampoco tenían ninguna posibilidad, al igual que quienes se encontraban en su interior. Aunque la población era mucho menor que cuando empezó la guerra, aún vivían millones en la antigua ciudad, lo que se traduce en millones de muertos y heridos. Los observadores señalan que es demasiado pronto para calcular las bajas. \n\nAlgo que preocupa mucho al pueblo japonés es el bienestar de su Emperador. El Palacio Imperial quedó arrasado durante la detonación, y es poco probable que sobreviviese nadie de los que se encontraban en su interior. Por suerte, estaba en Osaka reunido con los afectados por el ataque aéreo allí acontecido. Algunos informes dicen que está volviendo a Tokio, aunque no podrá acercarse debido a los descomunales daños.\n\nLos japoneses no son conocidos por rendirse fácilmente, pero la destrucción de su capital podría hacer que se piensen dos veces el luchar contra un enemigo que tiene mucha más ventaja."
+ Nuke_JAP.3.A: "El sol empieza a ponerse en el imperio."
+ Nuke_JAP.3.B: "Seguro que el emperador nos une."
+ Nuke_JAP.3.C: "Estamos a punto de derribarlos."
+##############################################
+## Nuclear Attacks on the Soviets
+##############################################  
+ Nuke_SOV.1.t: "Bombardeo atómico de Moscú"
+ Nuke_SOV.1.d: "[FROM.GetNewsIcon]Moscú ha conocido unos cuantos horrores de la guerra, pero ni los asedios, ni el hambre, ni siquiera el incendio de la ciudad por Napoleón en 1812 pueden compararse con ésto.\n\nUn arma atómica [ROOT.GetAdjective], más poderosa que cualquier bomba jamás creada en la historia de la humanidad, fue lanzada vía bombardero a un kilómetro del centro de la Plaza Roja. \n\nLa ciudad quedó irreconocible en cuestión de segundos. \n\nLa pequeña bola de fuego alcanzó y vaporizó el Museo Estatal de Historia, destruyendo millones de artefactos y registros recopilados durante miles de años. Pese a recibir la peor parte de la explosión, la bomba sólo derribó siete de las coloridas cúpulas de la catedral de San Basilio y calcinó las otras tres. La Torre Spásskaya se partió en dos; la mitad superior de la torre del reloj voló unos centímetros antes de estrellarse contra la plaza. La fortaleza del Kremlin fue arrasada, así como los miles de hogares y edificios que rodean la zona cero.\n\nSe desconoce por el momento el número de víctimas mortales, pero los equipos de rescate se están centrando en salvar el mayor número posible de vidas y apagar un voraz incendio que se está propagando por los suburbios de la ciudad. Sin embargo, se espera que sean decenas de millones. Se ha informado de que los dirigentes y funcionarios de la ciudad se encuentran a salvo en un lugar no revelado."
+ Nuke_SOV.1.A: "¡Ésto es una locura!"
+ Nuke_SOV.1.B: "¡Lo pagarán caro!"
+ Nuke_SOV.1.C: "La muerte de uno es una tragedia, la muerte de millones es estadística, ¿verdad?"
+ 
+ Nuke_SOV.2.t: "Bombardeo atómico de Leningrado"
+ Nuke_SOV.2.d: "[FROM.GetNewsIcon]"
+ Nuke_SOV.2.A: "Dios mío..."
+ Nuke_SOV.2.B: "Puede que hayamos subestimado al enemigo..."
+ Nuke_SOV.2.C: "Deberían haberse rendido antes de tener que recurrir a ésto."
+##############################################
+## Nuclear Attacks on Germany
+##############################################  
+ Nuke_GER.1.t: "Obliteración atómica de Berlín"
+ Nuke_GER.1.d: "[FROM.GetNewsIcon]El pueblo alemán ha mirado hoy al cielo, no para ver nubes o bombarderos sobrevolando la ciudad como de costumbre, sino para ver una luz más brillante que el sol y una nube gigante de humo y ceniza que se elevaba en forma de hongo en la capital alemana. La mayor arma moderna de [ROOT.GetNameDef], la bomba atómica, ha llegado hasta Berlín.\n\nLa bomba cayó a casi 300 metros de la Puerta de Brandeburgo, destruyendo el monumento del siglo XVIII en un estallido como si estuviese hecho de cartón. El edificio del Reichstag, símbolo de la democracia, tampoco tuvo suerte, ya que la onda expansiva demolió la mayor parte del edificio ya dañado por el fuego. Los muchos mercados y las calles bulliciosas, como la Gendarmenmarkt, se convirtieron en un caos infernal. Los pocos que sobrevivieron al estallido inicial intentaron huir, pero la lluvia de fuego y ceniza tóxica de la lluvia atómica fue un golpe final para muchos civiles pobres. Testigos presenciales a las afueras de Berlín informan de que miles de ventanas han quedado destrozadas y de que una nube negra se ha cernido sobre la ciudad a causa de los incendios que la consumen. Por pura suerte, el Gobierno y los funcionarios militares presentes en Berlín estaban bajo tierra o fuera de la ciudad antes de que la bomba estallase.\n\nLos servicios de emergencia de la zona se apresuraron a ayudar al mayor número posible de personas, pero los escombros y restos de los edificios derrumbados han dificultado cada vez más el acceso en vehículo al centro de la ciudad. Esto no hará sino aumentar la cifra estimada de un millón y medio de muertos."
+ Nuke_GER.1.A: "Dios mío..."
+ Nuke_GER.1.B: "¡Ésto sólo refuerza nuestra determinación!"
+ Nuke_GER.1.C: "«There'll be a hot time in the town of Berlin»..."
+ 
+ Nuke_GER.2.t: "Bombardeo atómico de Essen"
+ Nuke_GER.2.d: "[FROM.GetNewsIcon]Essen, una longeva potencia industrial y la segunda ciudad más grande del Ruhr, se enfrentó a su hora más oscura cuando una bomba atómica estalló directamente sobre el distrito del mercado.\n\nSe sabe poco sobre por qué [ROOT.GetNameDef] lanzó una de sus armas más poderosas en Essen, ya que había ciudades más grandes en Renania y mejores blancos industriales de los que aprovecharse, pero, en todo caso, la ciudad alemana ha terminado envuelta en el caos. Las muchas instalaciones de minería y carbón de Essen han quedado destruidas o envueltas en llamas, lo que ha contribuido a agravar el enorme incendio que asola la ciudad. Los lugareños han apodado al incendio el «Feuer aus Eisen», «fuego de hierro», debido a la destrucción de varios distritos de minería. El trascendental complejo industrial de la mina de carbón de Zollverein también recibió importantes daños en sus pozos y ascensores, debido a la intensa onda expansiva tras la detonación. Pero, gracias a lo que parecía la gracia de Dios, el emblemático pozo 12 se mantuvo en pie.\n\nLos servicios de emergencia de Essen no han tenido apenas problemas para acceder a la ciudad, y actualmente están intentando evacuar a los ciudadanos allí presentes. Se desconoce la estimación actual de muertes, pero se cree que es inferior a 150 000."
+ Nuke_GER.2.A: "Qué lugar tan extraño para usar un arma así."
+ Nuke_GER.2.B: "¿Ha sido sólo para demostrar su poderío?"
+ Nuke_GER.2.C: "¿De qué van? ¡Era el blanco perfecto!"
+##############################################
+## Nuclear Attacks on Italy
+##############################################  
+ Nuke_ITA.1.t: "Bombardeo atómico de Roma"
+ Nuke_ITA.1.d: "[FROM.GetNewsIcon]La ciudad eterna ha mostrado que sus días podrían estar contados, ya que [ROOT.GetNameDef] ha lanzado el arma más letal conocida por el hombre en Roma.\n\nUna bomba atómica cayó desde un bombardero [ROOT.GetAdjective] y explotó sobre el Coliseo. La estructura de dos mil años de antigüedad fue pulverizada al instante, al igual que todo a su alrededor. Poco después, el arma generó una onda expansiva tan potente que fragmentó los pilares del Pantenón, mientras seguía arrasando casas y negocios que existían en la ciudad desde hacía cientos de años en un radio de un kilómetro. Aunque la explosión estaba alejada del Vaticano, una onda expansiva menor hizo añicos muchas ventanas en toda la Santa Sede. Una gran nube de hongo se elevó entonces sobre la ciudad, haciendo llover fuego y ceniza tóxica sobre la antigua metrópoli, como Pompeya en el año 79 d. C.\n\nLos servicios de bomberos y rescate de Roma llenaron las calles en llamas para apagar los catastróficos incendios que estaban atrapando a muchas víctimas, sólo para descubrir que su principal fuente de agua, el río Tíber, se había evaporado debido al calor extremo de la bomba. Sólo el tiempo dirá si el Caput Mundi sobrevivirá a este letal ataque.\n\nEl Papa, que estaba en la parte norte de la península italiana en el momento del ataque, no tardó en condenar el uso de tal arma, describiéndolo como «un acto que sólo se le podría ocurrir al mismísimo diablo»."
+ Nuke_ITA.1.A: "En la guerra nunca hay moral, ¿verdad?"
+ Nuke_ITA.1.B: "¿Ha salido el Papa con vida?"
+ Nuke_ITA.1.C: "¡Al final, sus manos estarán manchadas de sangre, no las nuestras!"
+ 
+ Nuke_ITA.2.t: "Bombardeo atómico de Venecia"
+ Nuke_ITA.2.d: "[FROM.GetNewsIcon]En un momento dado, la reina del Adriático seguía siendo una de las ciudades más bellas y encantadoras de Europa. Pero en otro, se convirtió en un billete de ida a una pesadilla radiactiva. El programa nuclear [ROOT.GetAdjective] ha mostrado su verdadero poder cuando un bombardero lanzó una bomba atómica sobre la ciudad italiana de Venecia. La bola de fuego del arma vaporizó el centro de la ciudad, destruyendo la arquitectura antigua que se mantuvo durante miles de años. Sin embargo, los canales son otra historia. Debido a la relativa novedad de la bomba atómica, ni siquiera [ROOT.GetNameDef] sabía cómo afectaría al agua, pero Venecia nos mostró espectacularmente lo que la bomba podía hacer. La onda expansiva no sólo arrasó miles de edificios, sino que provocó que los canales convirtieran los ríos en pequeños maremotos, ahogando a muchos que pensaban escapar por el agua. Muchos monumentos históricos también han sido destruidos o han quedado muy dañados. Los testigos aseguran que el campanile de San Marcos, el emblemático campanario, se desprendió por completo de sus cimientos y su campana emitió un último tintineo al caer en picado al canal. El Arsenal de Venecia, almacén de antiguos astilleros y armerías, quedó reducido a ruinas. Podría llevar años devolver Venecia a su estado original, pero los miles de años de construcción histórica nunca se reconstruirán de verdad. El puente de la Libertad, uno de los únicos puntos de acceso a Venecia por carretera, quedó parcialmente destruido por la onda expansiva y, al parecer, los equipos de rescate [FROM.GetAdjective] tuvieron que sentarse a contemplar cómo la ciudad flotante ardía y se hundía en la costa de Mestre hasta que llegaron más equipos de rescate."
+ Nuke_ITA.2.A: "Nada se libra en este mundo."
+ Nuke_ITA.2.B: "¡La llama del faro no se extinguirá tan rápidamente!"
+ Nuke_ITA.2.C: "Un barco lleno de civiles inocentes, y acabamos de hundirlo."
+##############################################
+## Nuclear Attacks on France
+##############################################  
+ Nuke_FRA.1.t: "Bombardeo atómico de París"
+ Nuke_FRA.1.d: "[FROM.GetNewsIcon]Las revoluciones, las guerras y los desastres han asolado París desde el día en que fue fundado en 259 a. C. por tribus celtas, pero la capital cultural del mundo nunca cayó. Sin embargo, la ciudad del amor ha sido hoy violentamente sacudida, y puede que nunca se recupere del todo.\n\nUna bomba atómica [ROOT.GetAdjective] cayó desde un bombardero a gran altura y aterrizó cerca del Jardín de las Tullerías. En tan sólo un segundo, la bola de fuego consumió el jardín y envió una onda expansiva que destruyó cientos de negocios y hogares inestimables. La nube de hongo resultante envió lluvias de caniza y fuego por toda la ciudad, iniciando varios incendios en lugares que no estaban ni cerca de la zona cero. El Bois de Boulogne, el segundo parque más grande de París, fue incendiado por la lluvia radiactiva, lo que provocó una nube de humo aún mayor cuando el hongo nuclear se desvaneció.\n\nLos innumerables monumentos de todo París no pudieron salvarse esta vez por su singularidad. El Louvre fue el primero cuando los daños causados por la explosión y el calor de la bola de fuego redujeron a cenizas el museo de cristal y la incomparable cantidad de obras de arte históricas. La mayor parte de Notre Dame quedó arrasada por la onda expansiva, pero lo que quedaba ardió en llamas. La Torre Eiffel, el corazón y el alma de París, tuvo la suerte de estar lo bastante lejos del alcance de alta presión. Cuando se disipó parte del humo, los ciudadanos pudieron ver que seguía en pie. Un símbolo de esperanza, ennegrecido, gravemente dañado, pero aún en pie. "
+ Nuke_FRA.1.A: "La ciudad de la luz se ha fundido, por ahora."
+ Nuke_FRA.1.B: "Justo ayer parecía que París siempre estaría ahí."
+ Nuke_FRA.1.C: "Hay que realizar sacrificios, todos lo terminan aprendiendo al final."
+##############################################
+## Nuclear Attacks on Britain
+##############################################  
+ Nuke_ENG.1.t: "Bombardeo atómico de Londres"
+ Nuke_ENG.1.d: "[FROM.GetNewsIcon]Separados de Europa por el canal de la Mancha, los londinenses siempre han vivido con ese sentimiento limitado de seguridad. Hoy, ese sentimiento se ha hecho añicos.\n\n[ROOT.GetNameDefCap] lanzó el arma más letal conocida por el hombre, la bomba atómica, cerca del South Bank de Londres. Cuando la bomba estalló sobre el Queen's Walk, una onda expansiva mortal recorrió toda la ciudad. Muchos distritos históricos, llenos de casas y negocios familiares, fueron aplastados como tortitas. El campus de King’s College, que entonces albergaba a cientos de estudiantes, se convirtió en un polvorín. Se da por muertos a muchos estudiantes que iban a la universidad, mientras que algunos aún se consideran desaparecidos. El metro de Londres, que actuaba como refugio antiaéreo, se derrumbó en varias zonas. Aún se desconocen las bajas provocadas por ello. \n\nLa explosión no tuvo piedad con las joyas de Londres. El Big Ben repicó por última vez mientras la Cámara de los Comunes y el Palacio de Buckingham sufrían un colapso total bajo la presión de la onda expansiva. Por suerte, la cámara estaba en receso en el momento del bombardeo, pero aún se desconoce el paradero de la familia real y de muchos funcionarios. El Tower Bridge tampoco estaba a salvo, ya que la misma onda expansiva partió en dos el puente basculante de accionamiento hidráulico, precipitando ambas mitades al río. Ahora, mientras Londres arde con lluvia radiactiva a su alrededor, el futuro de [FROM.GetNameDef] está realmente sumido en la incertidumbre."
+ Nuke_ENG.1.A: "La humanidad ha alcanzado un nuevo nivel de locura."
+ Nuke_ENG.1.B: "«We’ll meet again, don’t know where, don’t know when»..."
+ Nuke_ENG.1.C: "Londres arderá para que el resto del mundo no lo haga."
+##############################################
+## Nuclear Attacks on Turkey
+##############################################  
+ Nuke_TUR.1.t: "Bombardeo atómico de Estambul"
+ Nuke_TUR.1.d: "[FROM.GetNewsIcon]Estambul, antes conocido como Bizancio, Nueva Roma y Constantinopla, una ciudad con más historia que el propio país al que pertenece, ha quedado reducida a nada más que escombros y cenizas en cuestión de minutos. En este fatídico día, la ciudad ha sido alcanzada por una bomba atómica lanzada desde un bombardero enviado por el Gobierno [ROOT.GetAdjective] con el fin de impulsar su esfuerzo bélico contra Turquía. Con una población aproximada de 800 000 habitantes, se espera que las bajas civiles sean elevadas.\n\nEstambul, antigua capital del Imperio romano, del Imperio romano de Oriente, del Imperio latino, del Imperio bizantino y del Imperio otomano, tuvo mucha importancia y desempeñó un papel importante en la historia durante muchos siglos. En 1923, tras la guerra de independencia turca, Ankara sustituyó a la ciudad como capital de la recién formada República de Turquía, pero Estambul siguió teniendo una gran importancia simbólica y económica para Turquía, y su pérdida seguramente inflija un gran daño a la moral de las fuerzas y el Gobierno turcos, así como a su economía.\n\nEn el día de hoy, el mundo ha perdido un lugar de gran valor histórico y cultural que puede que nunca recuperemos."
+ Nuke_TUR.1.A: "Se acabaron los días de gloria de Turquía."
+ Nuke_TUR.1.B: "Nuestra historia... Perdida."
+ Nuke_TUR.1.C: "No se ha perdido nada de valor."
+##############################################
+## Nuclear Attacks on Greece
+##############################################  
+ Nuke_GRE.1.t: "Atenas arrasada por un incendio atómico"
+ Nuke_GRE.1.d: "[FROM.GetNewsIcon]Atenas, la cuna de la democracia, vuelve a verse en la encrucijada de la historia. La antigua ciudad y sus muchos monumentos se habían salvado de la destrucción de la guerra, sólo para ser aniquilados en un pispás por una luz atómica cegadora y un infierno voraz.\n\nUn solo bombardero [ROOT.GetAdjective] soltó su carga explosiva directamente sobre el corazón de la vieja ciudad. La bomba, lanzada a 400 metros de altura, desató una explosión equivalente a 15 kilotones de TNT sobre la capital griega. Se espera que la pérdida de vidas humanas sea catastrófica, ya que la altura de la detonación permitió que la explosión no se viera obstaculizada por las colinas circundantes.\n\nEl Partenón, la Acrópolis y los templos de Atenea Niké, Hefesto y Zeus Olímpico fueron arrasados; el poder del hombre superó incluso al de los dioses. El famoso Estadio Panathinaikó permaneció casi intacto, pero su mármol blanco quedó chamuscado por el feroz calor de la explosión. El Museo Arqueológico Nacional también recibió grandes daños.\n\nLas colinas y montañas circundantes han complicado los esfuerzos de rescate, mientras el humo de los incendios y la lluvia radiactiva de la explosión se ciernen sobre la ciudad sin visos de movimiento en un futuro próximo. El retraso continuado de estos equipos de rescate esenciales provocará sin duda que el número de víctimas mortales aumente aún más."
+ Nuke_GRE.1.A: "La cuna de la democracia y el fin del mundo..."
+ Nuke_GRE.1.B: "¡Que los dioses se apiaden de nosotros!"
+ Nuke_GRE.1.C: "Veni, vidi, vici."
+##############################################
+## Nuclear Attacks on Beijing
+##############################################  
+ Nuke_CHI.1.t: "Bombardeo atómico de Pekín"
+ Nuke_CHI.1.d: "[FROM.GetNewsIcon]Pekín, el proclamado «centro del mundo», se convirtió en el centro de atención del mundo cuando fue abruptamente demolido por una reciente demostración del programa atómico de [ROOT.GetNameDef].\n\nEl ataque pareció menos un intento por detener el esfuerzo bélico de [FROM.GetNameDef] y más una demostración del poderío militar del Ejército [ROOT.GetAdjective], al ser lanzada la bomba directamente sobre la Ciudad Prohibida. En un instante, una bola de fuego envolvió y demolió el Palacio Imperial, los patios circundantes, las murallas y los templos. Ni siquiera el famoso Templo del Cielo se libró de este destino. El lugar donde los emperadores de las dinastías Ming y Qing rezaban para obtener buenas cosechas quedó reducido a un montón de escombros. Los campos que fueron su atención durante estas oraciones son conocidos campos de fuego y muerte. Una de las ciudades más antiguas del mundo es ahora la más reciente en convertirse en una cicatriz humeante sobre la faz de la tierra. Los observadores predicen que la pérdida de artefactos culturales e históricos alcance niveles inauditos.\n\nLos servicios de rescate siguen luchando contra las llamas a medida que se adentran en el corazón de la antigua capital china, pero se espera que haya pocos supervivientes entre los escombros. La cantidad de bajas será inconmensurable."
+ Nuke_CHI.1.A: "En medio del caos, también hay oportunidades..."
+ Nuke_CHI.1.B: "La ciudad celestial no brilla más..."
+ Nuke_CHI.1.C: "La mayor victoria es aquélla que no requiere una batalla."
+##############################################
+## Nuclear Attacks on America
+##############################################  
+ Nuke_USA.1.t: "Bombardeo atómico de Washington D. C."
+ Nuke_USA.1.d: "[FROM.GetNewsIcon]La piedra angular de la libertad y la democracia estadounidenses. El Capitolio era la envidia del mundo y el orgullo de los Estados Unidos, sólo para ser vaporizado al instante por el calor extremo, el fuego y las ondas expansivas que envolvieron a la ciudad entera.\n\nGracias a la última innovación técnica de [ROOT.GetNameDef], un bombardero cargado con un artefacto nuclear se aproximó a la ciudad junto con la escolta de un escuadrón de cazas. Se enviaron cazas estadounidenses a interceptarlo, pero estos esfuerzos fueron en vano cuando el bombardero [ROOT.GetAdjective] abrió su bodega de bombas sobre la ciudad.\n\nY fue entonces cuando se desató el infierno, cuadro del Infierno de Dante.\n\nTras detonar justo encima del Capitolio, los efectos de la explosión nuclear no tardaron en hacerse evidentes. Todo el patrimonio y los vestigios de la capital fueron destruidos en el acto. El centro neurálgico de la planificación bélica estadounidense no sólo se ha venido abajo, sino que ha sido borrado quirúrgicamente por la bomba atómica.\n\nWashington D. C. es una sombra de lo que fue. Después de que la bola de fuego se calmara rápidamente y se formara una nube de hongo, los supervivientes que quedaban se asomaron al oscuro cielo gris y vieron que por todas partes había escombros y edificios derrumbados, cubiertos por un espeso humo coronado por ceniza que caía del cielo."
+ Nuke_USA.1.A: "Dios mío."
+ Nuke_USA.1.B: "¡LO LAMENTARÉIS!"
+ Nuke_USA.1.C: "¿Y ahora quién es la «potencia mundial», América?"
+ Nuke_USA.1.C.GER: "Verdadero Endsieg. Wunderbar!"
+
+ Nuke_USA.2.t: "Bombardeo atómico de Nueva York"
+ Nuke_USA.2.d: "[FROM.GetNewsIcon]El avión solo que sobrevolaba Nueva York fue lo primero que a mucha gente le extrañó. Durante la guerra, si aparecían aviones en el cielo sobre la ciudad, normalmente iban en grupo. Nadie se fijó en la insignia de la Fuerza Aérea [ROOT.GetName], y nadie se dio cuenta de cuando el avión soltó un único objeto de su bodega de bombas y se fue volando a máxima velocidad. Todos se dieron cuenta del destello cegador de luz que estalló en Manhattan cuarenta segundos después.\n\nMiles de personas que se encontraban en la trayectoria de la explosión fueron incineradas en un nanosegundo, incapaces de comprender lo que había ocurrido. Ellos tuvieron suerte. La onda expansiva arrasó todo lo que no estaba cimentado en la tierra mientras despedazaba los cañones de hormigón de Nueva York. Aunque no era cegadora, la luz seguía viéndose en los distritos neoyorquinos circundantes y en partes de los condados de Hudson y Bergen, en Nueva Jersey. Pueden creer estar a salvo, pero la radiación terminará llegando a ellos.\n\nEn cambio, la aniquilación total de Manhattan es muy real y ha anonadado al país. El Gobierno estadounidense ha condenado el ataque como un crimen contra la humanidad y ha jurado venganza contra los responsables. Mientras tanto, [Root.GetNameDef] culpa del ataque al rechazo de Estados Unidos a las conversaciones de paz y jura soltar más mientras Estados Unidos se resista."
+ Nuke_USA.2.A: "Dios mío..."
+ Nuke_USA.2.B: "¡Ésto es una pesadilla!"
+ Nuke_USA.2.C: "Deberían haberse rendido antes de tener que recurrir a ésto."
+ 
+ Nuke_USA.3.t: "Bombardeo atómico de San Francisco"
+ Nuke_USA.3.d: "[FROM.GetNewsIcon]"
+ Nuke_USA.3.A: "Dios mío..."
+ Nuke_USA.3.B: "¡Qué horror!"
+ Nuke_USA.3.C: "Deberían haberse rendido antes de tener que recurrir a ésto."
+##############################################
+## Nuclear Attacks on Australia
+##############################################  
+ Nuke_AST.1.t: "Sídney destruida en ataque atómico"
+ Nuke_AST.1.d: "[FROM.GetNewsIcon]El fuego, la ceniza y las llamas cubrían el paisaje. Un puente otrora orgulloso, símbolo de esperanza y compañerismo para todos los que vivían en la hermosa ciudad, descansa ahora como una sombra retorcida y deformada de lo que fue. [ROOT.GetNameDefCap], envalentonado por su nuevo programa de armas atómicas, se aseguró de que Sídney nunca volviera a ser la misma.\n\nLas calles de la mayor ciudad de Australia estaban peligrosamente tranquilas, mientras los equipos de socorro respondían a la situación. El paisaje se tiñó de un rojo espeluznante mientras una tormenta de arena procedente del interior del país se precipitaba sobre los restos de los bloques y edificios de la ciudad. Circular Quay había quedado completamente arrasado, ya que la bomba detonó a menos de 100 metros sobre el muelle. La explosión y la consiguiente onda expansiva rompieron ventanas hasta el sur de Wollongong y arrasaron por completo los suburbios del este, convirtiéndolos en cenizas y polvo. Sombras en la acera, un solemne recordatorio de lo que les ocurrió a los que nunca fueron encontrados.\n\nUna ciudad de dos millones de personas. Una metrópoli bulliciosa en las Antípodas. Posiblemente la ciudad más importante de Australia. Ahora, un páramo en ruinas donde viven más ornitorrincos que personas. Muchos se preguntan por qué alguien haría algo así. Cómo pudo desatarse semejante fuerza de la naturaleza sobre una nación tan pequeña como Australia. Otros siguen preguntándose si serán los siguientes."
+ Nuke_AST.1.A: "¿Qué le ha pasado a la humanidad?"
+ Nuke_AST.1.B: "Cenizas a las cenizas... Polvo al polvo. Lo recordaremos."
+ Nuke_AST.1.C: "Ahora me he convertido en la muerte, el destructor de mundos."
+##############################################
+## Nuclear Attacks on Austria
+##############################################  
+ Nuke_AUS.1.t: "Bombardeo atómico de Viena"
+ Nuke_AUS.1.d: "[FROM.GetNewsIcon]"
+ Nuke_AUS.1.A: "Dios mío..."
+ Nuke_AUS.1.B: "¡Jesús!"
+ Nuke_AUS.1.C: "Deberían haberse rendido antes de tener que recurrir a ésto."
+##############################################
+## Nuclear Attacks on the Netherlands
+##############################################  
+ Nuke_HOL.1.t: "Bombardeo atómico de Ámsterdam"
+ Nuke_HOL.1.d: "[FROM.GetNewsIcon]"
+ Nuke_HOL.1.A: "Dios mío..."
+ Nuke_HOL.1.B: "¡Éso no venía a cuento!"
+ Nuke_HOL.1.C: "Deberían haberse rendido antes de tener que recurrir a ésto."

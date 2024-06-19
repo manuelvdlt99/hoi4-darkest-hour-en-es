@@ -1,0 +1,258 @@
+﻿l_spanish:
+######################################################################
+#  Ethiopia Events
+######################################################################
+ ETH_Italian_Loss_in_War.1.t: "Colonialismo, refutado"
+ ETH_Italian_Loss_in_War.1.d: "A medida que las armas vuelven a callar, todos permanecen en un silencio atónito. Incluso los soldados italianos, que han sido expulsados a las playas de Eritrea y se están quedando sin comida ni munición, apenas pueden creer lo que ha ocurrido en los últimos meses. Lo que comenzó como una matanza de etíopes y una apuesta segura para vengar la derrota de sus abuelos en Adua se ha convertido en una nueva humillación. Los soldados italianos ya no podían continuar y ahora, con las tropas etíopes marchando victoriosas por Mogadiscio y Asmara, los dos ejes del imperio colonial del África oriental italiana están en manos enemigas.\n\nDos ejércitos italianos enteros se vieron obligados a rendirse debido a la falta de suministros y de rutas de escape. Miles de soldados italianos, la crème de la crème del Ejército italiano, han comenzado la larga y humillante marcha a campamentos de prisioneros por toda Etiopía. Etiopía ha superado a Italia en eufóricas celebraciones mientras Italia se tambalea. Su emperador, Haile Selassie, está siendo comparado con el Mesías, bendecido por Dios mismo para triunfar.\n\n¿De qué otra forma podría producirse un resultado tan improbable? Los habitantes de Adís Abeba lo celebraron durante dos semanas, los de Harar durante una, y en todas las aldeas y ciudades dieron gracias a Dios y a Haile por haberlos rescatado de la opresión y la explotación de los italianos. Ahora, con todas las cartas y todo el tiempo del mundo, el victorioso emperador Haile Selassie se reunirá con los italianos para conseguir la paz y asegurarse de que sea una que asegure su reino para siempre."
+ ETH_Italian_Loss_in_War.1.A: "¡Adelante, querida madre Etiopía!"
+
+ ETH_Italian_Loss_in_War.2.t: "L'emergenza"
+ ETH_Italian_Loss_in_War.2.d: "Con lo bien que empezamos. Los primeros enfrentamientos con los etíopes revelaron que no eran rivales para las ametralladoras, los tanques y el gas venenoso. Sin embargo, la guerra se ha saldado con otro desastre más debido a una combinación de la incompetencia italiana y la brillantez etíope. Mussolini trató de mantener la noticia en secreto todo el tiempo que pudo, pero se terminó sabiendo. Cuando la noticia llegó a Roma, los comunistas montaron disturbios durante dos semanas y ocuparon varios edificios; los camisas negras tuvieron que matar a cientos de ellos para dispersarlos. Una multitud furiosa apalizó hasta la muerte al gobernador fascista de Milán.\n\nLos republicanos tomaron Venecia brevemente, asaltando la residencia del alcalde y declarando el comienzo de una nueva República Italiana antes de ser aplastados. Escenas como éstas se podían ver en todas las grandes ciudades, ya que la gente reaccionaba con conmoción y rabia ante el fracaso del Ejército italiano. Incluso dentro del Gobierno, el Rey ha declarado abiertamente que está reconsiderando el nombramiento de Mussolini para un puesto de poder. Mussolini consiguió que se retractara, pero el hecho de que lo hiciera preocupó a muchos fascistas.\n\nA nivel nacional, sin embargo, el orden fascista ha sobrevivido a duras penas al caos, cual hombre que se aferra desesperadamente a una canoa en medio de una tormenta. No obstante, nadie estaba tan enfadado como Mussolini. Ya ha firmado la sentencia de muerte de todos los generales implicados en la debacle. No sólo eso, sino que ha dirigido el desarrollo de una nueva estrategia para realizar un desembarco anfibio en Eritrea con el fin de reiniciar la guerra y restaurar el honor italiano.\n\nAunque el conde Ciano revocó rápidamente —y en secreto— estas órdenes, está claro que la derrota ha sacudido al Duce hasta la médula, así como la fe del país en él. Mussolini debe hacer algo, lo que sea, para recuperar la confianza del pueblo si quiere sobrevivir. El único problema es que nadie sabe lo que hacer, excepto viajar a Adís Abeba y esperar lo mejor."
+ ETH_Italian_Loss_in_War.2.A: "Si tuviésemos a un Augusto en lugar de a un Heliogábalo."
+
+ ETH_Flavour.1.t: "Primer día de cole"
+ ETH_Flavour.1.d: "Taye estaba tan emocionado como si fuera su primer día de colegio, a pesar de que entonces tenía seis años y ahora tiene 22. Bueno, técnicamente sí era su primer día en la recién abierta escuela de instrucción de oficiales para pilotos. Pero ¿cómo no iba a estarlo? Estaba delante de un famoso aviador estadounidense, John Robinson, o el «Cóndor Marrón», como algunas personas lo llaman. También había oído hablar de otro aviador estadounidense famoso que estaba en Etiopía llamado Hubert Julian, o el «Águila Negra», pero nunca lo había conocido. Pero aparte de emocionado, Taye se preguntaba por qué unos extranjeros vendrían a Etiopía y ayudarían a luchar a los etíopes contra los imperialistas italianos. Así que, cuando se presentó la oportunidad, Taye apartó a Robinson y le hizo exactamente esa pregunta.\n\n—¿Quieres saber por qué estoy luchando junto a vosotros? Mejor pregúntate por qué nadie más lucha junto a vosotros. Una potencia imperialista liderada por un dictador fascista está amenazando vuestro hogar. Etiopía es uno de los últimos países libres de África, no colonizado ni afectado por las potencias occidentales. Esta lucha no sólo consiste en defender vuestro hogar. Consiste en defender el concepto de una África libre e independiente. Una idea que estas potencias desean extinguir, por lo que debemos unirnos a toda costa para detenerlas.\n\nTaye sintió un arrebato de confianza y orgullo tras escuchar su respuesta. Este conflicto no sólo ha afectado a los etíopes. Es una lucha por toda África, y si se gana, podría suponer el fin del imperialismo y el colonialismo occidentales en África."
+ ETH_Flavour.1.A: "Si perecemos, también lo hará la idea de una África libre."
+
+######################################################################
+#  Ethiopia Focuses
+######################################################################
+ ETH_Wal_Wal_Incident: "El incidente de Walwal"
+ ETH_Wal_Wal_Incident_desc: "A pesar de nuestros mejores intentos por presionar a la guarnición somalí de Walwal, respaldada por Italia, para que se retirara de nuestro territorio soberano, parece que nuestros esfuerzos fueron en vano. Los italianos están en pie de guerra, después no sólo de provocar a nuestras tropas enfrentándose a ellas, sino que también han traído aviones y automóviles blindados para respaldar sus reivindicaciones sobre el territorio. El frágil tratado de no agresión firmado a principios de este año parece haber sido sólo una promesa vacía...."
+ ETH_Wal_Wal_incident_tt: "§YEste enfoque se completará cuando ocurra el incidente de Walwal.§!"
+
+ ETH_Selassies_Modernisation: "Terminar la modernización"
+ ETH_Selassies_Modernisation_desc: "Las últimas dos décadas han sido una época de grandes cambios en Etiopía. Una serie de modernizaciones nos han llevado a la era moderna, pero aún queda mucho por hacer. Terminar los últimos proyectos nos permitirá avanzar en otros aspectos."
+
+ ETH_The_Lion_of_Judah: "El León de Judá"
+ ETH_The_Lion_of_Judah_desc: "El linaje de honra de Etiopía, cuyas raíces se remontan al antiguo rey bíblico Salomón y la reina Saba, sigue aguantando el paso del tiempo. Muchos imperios han surgido y caído desde los inicios de nuestra nación, pero nosotros permanecemos intactos, inalterados. Este gran regalo no es sino un testimonio de la buena fe de Dios para con el siempre fiel pueblo de Etiopía. El otro es el espléndido liderazgo del gran emperador Haile Selassie, ¡gran salvador de las libertades de los etíopes, el magnífico reformador, el que nos guiará a una nueva y valiente era de prosperidad! Zeraf, zeraf Ītiyoppya!"
+
+ ETH_Ethiopian_Imperial_Army: "§aEjército Imperial Etíope§!"
+ ETH_Ethiopian_Imperial_Army_desc: ""
+
+ ETH_Imperial_Ethiopian_Navy: "§3Armada Imperial Etíope§!"
+ ETH_Imperial_Ethiopian_Navy_desc: ""
+
+ ETH_Pleas_to_the_League_of_Nations: "Súplicas a la Sociedad de las Naciones"
+ ETH_Pleas_to_the_League_of_Nations_desc: "A pesar de la agresividad mostrada por los italianos, siguen teniendo una ventaja tecnológica considerable frente a nosotros; intentar ponernos a su altura por nuestra cuenta sería una tontería. Tenemos que depositar nuestra confianza en el jurado de la Sociedad de las Naciones para que no sólo condene la transgresión de nuestra soberanía, sino que también castigue a Italia como corresponde por la masacre de nuestros hombres."
+
+ ETH_Mobilising_The_NDF: "Movilizar a la FDN"
+ ETH_Mobilising_The_NDF_desc: "Al igual que el colonizador italiano afila su espada para atacar, el león etíope debe estar al acecho y dispuesto a luchar por el bien de sus pueblos y su libertad, hasta la muerte si es necesario. Debemos prepararnos con premura. Si nuestra diplomacia fracasa, tendremos que confiar en los brazos y las piernas de nuestros soldados, ya sean jóvenes o viejos, dispuestos a luchar con uñas y dientes por la patria y nuestro Emperador."
+ ETH_Mobilising_The_NDF_tt: "Moviliza £helmet_icon_1_20x20 §Y3 divisiones de infantería§!."
+
+ ETH_The_Second_Italo_Ethiopian_War: "La segunda guerra ítalo-etíope"
+ ETH_The_Second_Italo_Ethiopian_War_desc: "Parece que hicimos mal en confiar en la comunidad internacional. Al final, no son más que una panda de buitres, ¡chacales! Como habíamos supuesto, los italianos han demostrado una vez más que no son de fiar y han declarado la guerra a nuestra nación. Es ahora el deber de cada etíope poner de su parte y defender nuestras tierras de los de arriba y recordarles lo que pasó durante su última expedición en territorio etíope."
+ ETH_The_Second_Italo_Ethiopian_War_tt: "§Y¡Se completará cuando estalle la segunda guerra contra Italia!§!"
+
+ ETH_Mobilise_The_Zebeyna: "Movilizar a la Zebenya"
+ ETH_Mobilise_The_Zebeyna_desc: "Aunque nuestros hombres lucharán valientemente, vamos a necesitar algo más que valentía para ganar esta guerra. Es hora de llamar a lo mejor de lo mejor de nuestras filas, a la espada del Emperador, a la Guardia Imperial. Armados con lo mejor que podemos ofrecer y entrenados como la más selecta de las fuerzas europeas, van a ser sin duda el eje de nuestras operaciones bélicas."
+ ETH_Mobilise_The_Zebeyna_tt: "Moviliza £helmet_icon_1_20x20 §Y1 división de la Zebenya§!."
+
+ ETH_Digging_In: "Atrincherarse"
+ ETH_Digging_In_desc: "Para nuestra defensa, tenemos que retirarnos al útero de nuestra tierra sagrada. Nuestras cicatrices en ella serán largas y profundas, pero por cada centímetro que nuestros hombres logren cavar, salvarán a miles de inocentes y harán que los italianos lamenten aún más sus descabelladas decisiones."
+
+ ETH_Regional_Supply_Depots: "Depósitos de suministros regionales"
+ ETH_Regional_Supply_Depots_desc: ""
+
+ ETH_The_Lion_of_Africa: "El León de África"
+ ETH_The_Lion_of_Africa_desc: "¡El león se alza orgulloso ante sus enemigos! Los italianos están huyendo con el rabo entre las piernas y nuestras tropas han dado a conocer su valía no sólo a los italianos, sino a la comunidad internacional en general. Ya no somos una presa más a los ojos de los codiciosos glotones europeos, somos una nación soberana que ha demostrado que tiene capacidad para defender sus intereses y a sus pueblos. Nuestro lugar en el escenario mundial está asegurado y parece que por ahora se ha disipado cualquier amenaza a nuestra independencia."
+ ETH_Won_Second_Italio_Ethiopian_War: "Ha ganado la segunda guerra ítalo-etíope"
+
+ ETH_The_Heroes_of_Ethiopia: "Los héroes de Etiopía"
+ ETH_The_Heroes_of_Ethiopia_desc: ""
+
+ ETH_Guerrilla_Regiments: "Regimientos de guerrillas"
+ ETH_Guerrilla_Regiments_desc: "Aunque el enemigo avance, la lucha de nuestros pueblos continúa. Tenemos que asegurarnos de que cada paso que den esté lleno de incertidumbre, que haya ojos nuestros en cada rincón que no supervisen y nuestra influencia se expanda. Que los italianos no olviden que no son bienvenidos a este reino."
+ 
+ ETH_Scavenging_Tactics: "Tácticas de carroñero"
+ ETH_Scavenging_Tactics_desc: ""
+
+ ETH_Decentralized_Army: "Ejército descentralizado"
+ ETH_Decentralized_Army_desc: ""
+
+ ETH_Decentralized_Army_2: "Ejército descentralizado"
+ ETH_Decentralized_Army_2_desc: ""
+ 
+ ETH_Consolidating_Royal_Titles: "Consolidar los títulos reales"
+ ETH_Consolidating_Royal_Titles_desc: "La traición e intento de magnicidio en 1928 del ahora emperador Haile Selassie, entonces regente, por parte de la anterior emperatriz, seguido de su prematuro fallecimiento, propiciaron un rápido ascenso al trono del joven emperador, válido para la sucesión por el linaje de su abuela paterna y tras ser nombrado negus. Aunque se trata de una hazaña impresionante, esta rápida ascensión y la agitación causada por estas luchas palaciegas han dejado al monarca con poco tiempo para apaciguar y entablar amistad con la nobleza local, lo que ha provocado inestabilidad. Para solucionarlo, se ha programado una demostración de validez real y una secuencia de banquetes y visitas personales para apaciguar adecuadamente a las clases altas."
+
+ ETH_Cult_of_Personality: "Culto a la personalidad"
+ ETH_Cult_of_Personality_desc: "El [ETH.address_leader_one] Haile Selassie es un hombre cuya presencia es inspiradores. Su mirada aguileña y su postura orgullosa dan la impresión de un hombre con causa, con un propósito, y se nota. Es la encarnación misma de todo lo que representa Etiopía: un hombre de principios, honorable y abanderado de la más noble de las causas, defender a su pueblo. Es un modelo que todos deberíamos seguir. Al ser descendiente colateral de la reina de Saba, su reinado tiene la prueba de que está sancionado por el más alto de los poderes, Dios, y utilizará esta santa sanción para proteger la independencia y la seguridad de todos los etíopes frente a la amenaza colonialista. Su persona es la prueba de que con fe, coraje y una causa justa, incluso en el siglo XX, David aún puede vencer a Goliat."
+
+ ETH_Greater_Privileges_for_the_Zebeyna: "Más privilegios para la Zebenya"
+ ETH_Greater_Privileges_for_the_Zebeyna_desc: "La Guardia Imperial ha demostrado su lealtad al Emperador en muchas ocasiones. Está formada en parte por aquellos que habían servido como guardaespaldas personales del Emperador durante las tensas intrigas políticas bajo la emperatriz Zewditu, pero tampoco les falta habilidad. Tiene todo el sentido del mundo que tales hombres de valor sean debidamente recompensados por su servicio. A los miembros de la Guardia se les concederán a partir de ahora muchos beneficios para mostrar la buena fe del Emperador para con ellos. Entre estos beneficios se incluyen una desgravación fiscal bastante importante en comparación con el común de los etíopes e incluso entre los nobles. Ésto petrificará su lealtad, pero ¿qué pensarán los demás?"
+
+ ETH_Reasserting_Noble_Perogatives: "Reafirmar las prerrogativas nobiliarias"
+ ETH_Reasserting_Noble_Perogatives_desc: "Aunque pueda parecer tranquilo en estos momentos, el ambiente entre las clases altas de Etiopía es bastante tenso. El Emperador lleva relativamente pocos años en el trono y su ascenso al poder ha sido, cuando menos, polémico. Para asegurarse de que la estabilidad del reinado se consolide y de que no haya ningún pensamiento disidente o militante entre las filas nobiliarias, es necesario dejar que se sientan seguros confirmando su derecho natural y garantizar la continuación de estos privilegios en el futuro."
+
+ ETH_Military_Loyalty_Oaths: "Juramentos de lealtad militar"
+ ETH_Military_Loyalty_Oaths_desc: "Todos y cada uno de los soldados que deseen dar su vida por el bien del país y el Emperador o hayan sido reclutados deben pronunciar una serie de juramentos vinculantes de servidumbre directa no sólo a la cadena de mando y al país, sino al propio Emperador. Sólo entonces podrá un soldado servir en el Ejército. Cualquier cosa que no sea éso se podrá considerar traición."
+
+ ETH_Legacy_of_Solomon: "El legado de Salomón"
+ ETH_Legacy_of_Solomon_desc: "Nuestro emperador es la gloria de nuestro pueblo, la luz de nuestra nación. Su presencia es sobrecogedora, sus méritos son muchos, sus defectos pocos y sus temores ninguno porque sabe tan bien como nosotros que es la gloria eterna de Dios la que nos cobija de todas las adversidades, por lo que no hay que temer cuando la mano amorosa de nuestro Señor nos guía. Así que nos preguntamos: ¿quién mejor para guiar a nuestra nación que el descendiente de la estirpe más sagrada que existe? ¿Quién mejor para enseñarnos a amar a Dios que el más humilde de sus servidores? ¿Quién es más leal al país que el hombre que estuvo dispuesto a darlo todo para que estuviera a salvo? No existe sino una respuesta: Su Majestad Imperial, Haile Selassie. Gocemos de su gloria y sabiduría mientras avanzamos en estos tiempos inciertos y utilicémoslo como nuestro eterno faro guía hasta el día en que Dios lo levante de la tierra y le dé el lugar que le corresponde en la gran amalgama de los santos."
+
+ ETH_Finalise_The_Electric_Grid: "Finalizar la red eléctrica"
+ ETH_Finalise_The_Electric_Grid_desc: "La electricidad lleva demasiado tiempo siendo un concepto ajeno al campo etíope. Aunque se han realizado algunos esfuerzos para extender la red a las zonas situadas más allá de las grandes ciudades, será necesario un fuerte impulso para sacar al resto del país de la oscuridad y llevarlo hacia el futuro."
+
+ ETH_Constructing_More_Schools: "Construir más escuelas"
+ ETH_Constructing_More_Schools_desc: "La educación es el cimiento sobre el que se construyen las naciones modernas. Así pues, destinar recursos a la construcción de más escuelas será beneficioso para nuestro futuro. Permitir que las mentes más brillantes de nuestro pueblo prosperen nos ayudará directamente a desarrollarnos como nación."
+
+ ETH_Establishing_The_Ethiopia_Airways: "Fundar Ethiopia Airways"
+ ETH_Establishing_The_Ethiopia_Airways_desc: "Para conectar más a nuestra nación con la comunidad y la economía mundiales, vamos a tener que hacer el esfuerzo nacional de fundar nuestro primer aeropuerto internacional, así como las primeras rutas aéreas a ciudades importantes de todo el mundo. Aunque la mayor parte de nuestra población no lo use, es importante establecer estos lazos por el bien de nuestra economía y nuestra capacidad para llevar a cabo la diplomacia en el escenario mundial."
+
+ ETH_Rural_Education_Scheme: "Plan de educación rural"
+ ETH_Rural_Education_Scheme_desc: "¡El futuro de mañana parte de la educación de hoy! Para elevar a Etiopía no sólo como Estado, sino como pueblo, debemos hacer un esfuerzo denodado pero necesario no sólo para aumentar la alfabetización de nuestra nación, lo que pondrá a todos en igualdad de condiciones, sino también para aumentar el nivel de la enseñanza primaria y superior y fomentar una intelectualidad «casera», de modo que ya no tengamos que depender de profesores y mano de obra cualificada extranjeros."
+
+ ETH_State_Funded_Refineries: "Refinerías estatales"
+ ETH_State_Funded_Refineries_desc: "La industria moderna tiene un elemento esencial: el petróleo. Sin petróleo, nada avanza y no se puede fabricar nada. Dios nos ha dado esta tierra y los frutos que produce, pero el petróleo no es de los que más abunda. Por lo tanto, nos corresponde a nosotros construir la maquinaria y la infraestructura adecuadas para aprovechar y refinar este oro negro y convertirlo en el combustible de nuestra industria."
+
+ ETH_Ammunition_Sector_of_Addis_Adaba: "Sector de munición de Adís Abeba"
+ ETH_Ammunition_Sector_of_Addis_Adaba_desc: "Nuestro Ejército ha dependido durante mucho tiempo de armas primitivas, importadas o «donadas» de las potencias europeas a precios descabellados. Ésto ha dado lugar a un Ejército incoherente en el que algunos regimientos están armados con lanzas y otros con una mezcla de fusiles y tipos de munición. Para ser autosuficientes en nuestra defensa, debemos construir una fábrica armamentística local que pueda fabricar todas las armas que necesitamos y la munición requerida aquí mismo. Ésto no sólo facilitará el armamento y el mantenimiento de nuestros soldados de forma estandarizada, sino que será exponencialmente más barato que tener que importarlos de países extranjeros."
+
+ ETH_Enforce_Abolition_of_Slavery: "Imponer la abolición de la esclavitud"
+ ETH_Enforce_Abolition_of_Slavery_desc: "Para que se nos considere un Estado realmente civilizado, debemos abolir la esclavitud en nuestra nación. Aunque la capital sea un faro de progreso, gran parte del país sigue anclado a las costumbres de antaño y sigue practicando la esclavitud, a pesar de que está abolida desde la Convención sobre la Esclavitud de 1926. Tenemos que abordar este problema de forma sucinta y precisa para erradicar por fin esta plaga para nuestro pueblo, aunque pueda disgustar a los reaccionarios y a los terratenientes, a los que arrastraremos de los pelos a la modernidad si es necesario. "
+
+ ETH_Sidamo_Mining_Subsidies: "Subvenciones a la minería en Sidamo"
+ ETH_Sidamo_Mining_Subsidies_desc: "El sur de Etiopía es una región donde la agricultura es la forma predominante de sustento y medio de vida. Sin embargo, los prospectores han encontrado pruebas de la existencia de yacimientos de recursos estratégicos. Si bien de difícil acceso, invertir en esta zona nos reportará sin duda muchos beneficios en forma de minerales preciosos."
+
+ ETH_Connecting_The_Northern_Roads: "Conectar las carreteras del norte"
+ ETH_Connecting_The_Northern_Roads_desc: "Pese a haberlo intentado, el estado de nuestras infraestructuras sigue siendo deficiente. ¡Sólo las ciudades están conectadas por carreteras bien mantenidas! Para permitir que lleven más inversiones y comercio extranjero, debe llevarse a cabo un enorme proyecto para conectar y modernizar las carreteras que salpican la porción norte de nuestro país."
+
+ ETH_Subsiding_Coffee_Farms: "Subvencionar las plantaciones de café"
+ ETH_Subsiding_Coffee_Farms_desc: "Etiopía tiene una orgullosa historia de producción de café, e incluso hay quien afirma que la bebida tiene su origen en nuestras tierras. En cualquier caso, podría ser una buena fuente de ingresos en lo que industrializamos la nación. Las subvenciones ayudarían al café etíope a competir en los mercados internacionales. "
+
+ ETH_Imperial_Ethiopian_Air_Force: "Fuerza Aérea Imperial Etíope"
+ ETH_Imperial_Ethiopian_Air_Force_desc: "La guerra moderna depende en gran medida de la presencia de aviones en los cielos sobre el campo de batalla. Una batalla ganada en el cielo puede cambiar el curso de la batalla en tierra. Por esta misma razón, Etiopía no debería vacilar a la hora de forjar una Fuerza Aérea adecuada y competente para reforzar las capacidades ofensivas y defensivas de sus fuerzas."
+
+ ETH_Militarising_Lideta_Airport: "Militarizar el aeropuerto de Lideta"
+ ETH_Militarising_Lideta_Airport_desc: "La Real Fuerza Aérea de Etiopía (RFAE) necesitará un lugar al que llamar su hogar, pero, debido a que la mayoría de nuestro desarrollo está focalizado en la zona de la capital, construir aeropuertos militares nuevos sería un gran cometido y ralentizaría nuestro progreso económico. Sin embargo, para no quedarnos atrás respecto al resto del mundo, tendremos que restringir parte del aeropuerto de Lideta, en la capital, para uso exclusivo de nuestra Fuerza Aérea."
+
+ ETH_Flight_Schools: "Escuelas de vuelo"
+ ETH_Flight_Schools_desc: "¿De qué sirve una Fuerza Aérea que no sabe volar? Con el fin de hacer un uso adecuado de nuestros aviones recién adquiridos, es necesario un centro de educación adecuado para nuestros pilotos en todo lo que se refiere al vuelo y la guerra aérea. Con el establecimiento de la Real Academia del Aire de Etiopía, nuestros hombres serán formados en el arte del vuelo por algunos de los pilotos más consumados que el mundo puede ofrecer y aprenderán a volar como los mejores."
+
+ ETH_Import_Fighters: "Importar cazas"
+ ETH_Import_Fighters_desc: ""
+ 
+ ETH_Sticks_and_Stones_No_More: "No más palos y piedras"
+ ETH_Sticks_and_Stones_No_More_desc: "Incluso en 1896, en la guerra contra Italia, alrededor de la mitad de los soldados de infantería etíopes utilizaban lanzas, arcos y espadas para luchar en el campo de batalla. Aunque puede que ésto les sirviera por aquél entonces, la tecnología militar ha dado pasos agigantados desde entonces. Matar en esta época es más eficaz que nunca y cualquier intento de luchar contra un ejército moderno con nuestras armas actuales se traducirá en un desastre sin paliativos. Para combatirlo, hace falta un proceso de estandarización del armamento y el equipo de todos los escalafones de nuestras fuerzas terrestres; las espadas y lanzas de antaño pasarán a ser reliquias familiares y la ametralladora y la granada se convertirán en los nuevos agentes de la muerte."
+
+ ETH_British_Military_Mission: "Misión militar británica"
+ ETH_British_Military_Mission_desc: "A pesar del comportamiento militarista de los británicos hacia nosotros, sería una tontería negar el enorme poder que ostentan: su imperio se extiende por todo el mundo, su Marina gobierna todos los mares y su tecnología está a la vanguardia de todo lo bélico. Debemos tragarnos nuestro orgullo y dejar de lado nuestros agravios con ellos por ahora e intentar establecer una relación formal con ellos para adquirir algunos de los vastos conocimientos que han acumulado. Sólo así podemos asegurar un futuro para Etiopía."
+
+ ETH_Expanding_The_Holeta_Military_School: "Ampliar la Escuela Militar de Holeta"
+ ETH_Expanding_The_Holeta_Military_School_desc: "Los soldados rasos han recibido su merecida atención tras un largo periodo de desamparo. Para liderar este nuevo Ejército en el campo de batalla, habrá que reformar y educar al Estado Mayor en todo lo referente a la guerra moderna, y el cuerpo de oficiales tendrá que ampliarse y recibir el mismo tratamiento. Ésto ha motivado la ampliación y modernización de las instalaciones de la Escuela Militar de Holeta como una academia militar en toda regla. Esta academia servirá de nexo de unión en el organismo reinventado que es nuestro Ejército."
+
+ ETH_Importing_Western_Tanks: "Importar tanques occidentales"
+ ETH_Importing_Western_Tanks_desc: "La caballería ahora es cosa del pasado. Los nuevos caballos de hierro capaces de encajas innumerables balas recorren ahora los campos de batalla de todo el mundo, los tanques. Sería una idea más que acertada empezar a importar algunas de estas máquinas para nuestro Ejército, a fin de darle el empujón necesario contra cualquier enemigo que se atreva a subestimar nuestras fuerzas."
+
+ ETH_French_Artillery_Imports: "Importar artillería francesa"
+ ETH_French_Artillery_Imports_desc: "No es ningún secreto que los franceses llevan años trabajando en un importante proyecto de una fortificación en la frontera alemana. Ésto ha orientado su industria hacia los emplazamientos pesados, para los que las piezas de artillería son vitales. Esta orientación industrial también ha producido el beneficio de excedentes de obuses de artillería que pueden venderse. El Ejército etíope está lleno de hombres valientes, pero no hay nada más devastador que un obús bien colocado en las filas de un ejército, por lo que el Ministerio de Asuntos Exteriores ha entablado las conversaciones para la venta de excedentes de artillería francesa."
+
+ ETH_African_Foreign_Legions: "Legiones extranjeras africanas"
+ ETH_African_Foreign_Legions_desc: "Los colonizadores europeos no se han portado nada bien con las tribus locales y los pueblos ancestrales de África, esclavizándolos y tratándolos como animales mientras explotaban y malograban el rico suelo y la orgullosa fauna del continente. Actualmente, Etiopía es la única nación independiente y dirigida por indígenas de toda África. Ésto ha dado lugar a la proliferación de un sentimiento revanchista y nacionalista en medio de los africanos que han escapado de las cadenas y que viven en Etiopía, lo que ha llevado a la creación de las tropas extranjeras africanas dentro de las fronteras de Etiopía, todas ellas impulsadas por el deseo de venganza contra los colonizadores y, con suerte, de volver algún día a una patria liberada."
+
+ ETH_Submarine_Project: "Proyecto de submarinos"
+ ETH_Submarine_Project_desc: "Los avances tecnológicos en la guerra naval han dado lugar a nuevas formas de combatir en el mar, personificadas en el submarino. Estos submarinos, ágiles y baratos de producir, son la opción perfecta para una Armada en vías de desarrollo como la nuestra, ya que pueden funcionar como elemento disuasorio contra cualquier fuerza naval hostigadora que pretenda bloquear o dañar nuestros puertos, al tiempo que no requieren un entrenamiento prolongado."
+
+ ETH_Comission_New_Vessels: "Encargar nuevos navíos"
+ ETH_Comission_New_Vessels_desc: "Nuestra Armada recién nacida está llena de hombres capaces dispuestos a servir, pero carece gravemente de experiencia y, lo que es más importante, de buques. Para ayudarnos en este empeño, hemos solicitado la ayuda de ingenieros anglo-franceses experimentados en el desarrollo y la construcción de nuevas embarcaciones."
+
+ ETH_Asmara_Naval_Academy: "Academia Naval de Asmara"
+ ETH_Asmara_Naval_Academy_desc: "Para dirigir adecuadamente nuestros barcos, vamos a necesitar un alto mando naval apropiado compuesto por personal experimentado y bien formado. El futuro de nuestro destino en el mar depende de ello y, por ello, bajo las órdenes del propio Emperador, se creará una nueva academia naval en Asmara. Aquí se congregarán los mejores y más brillantes de Etiopía con el fin de aprehender plenamente el mando en alta mar."
+ 
+ ETH_Coastal_Batteries: "Baterías costeras"
+ ETH_Coastal_Batteries_desc: "No podemos esperar que la Armada haga todo el trabajo de defensa de nuestras costas. Para garantizar el sueño seguro de los ciudadanos de nuestra nación, vamos a tener que establecer una red de fortificaciones a lo largo de toda la costa para frenar cualquier invasión extranjera planeada por mar."
+
+ ETH_Minelayers_Development: "Desarrollo de minadores"
+ ETH_Minelayers_Development_desc: ""
+
+ ETH_Expand_The_Red_Sea_Fleet: "Ampliar la Flota del Mar Rojo"
+ ETH_Expand_The_Red_Sea_Fleet_desc: "Ahora que hemos sentado las bases industriales, logísticas y académicas necesarias para una flota autosuficiente en condiciones, es hora de planificar la expansión de nuestra Armada para enseñarles a los que nos rodean que no deberían meterse con nosotros. Será necesario un esfuerzo nacional para respaldar esta gran tarea, pero una vez cumplida, todos los etíopes tendrán motivos para sentirse orgullosos de su Armada y sabrán que deben apreciarla, mientras que nuestros enemigos y cualquier fuerza malintencionada tendrán la prueba de las capacidades de una nación decidida."
+
+ ETH_Western_Dream_Achieved: "El sueño occidental, cumplido"
+ ETH_Western_Dream_Achieved_desc: "Por fin, después de haber saltado muchos obstáculos, de haber superado muchos retos y de haberse afanado sin fin, los trabajadores y entregados etíopes, bajo la dirección de su Majestad imperial, han dado muchos pasos hacia la modernización de su país. Aunque no todo el país está desarrollado por igual, nuestro progreso es innegable. Nuestra sociedad ya no está anclada 500 años en el pasado, nuestra industria nos suministra lo que necesitamos y la comunidad internacional sabe que Etiopía es el faro de la civilización en África. Adís Abeba ahora es una ciudad bulliciosa que rebosa de actividad comercial y manufacturera. La población es ahora más sana y civilizada que nunca. Nuestra capital es verdaderamente la joya de la corona imperial y el prototipo de todas las futuras ciudades africanas."
+
+######################################################################
+#  Ethiopia Ideas
+######################################################################
+ ETH_Lion_of_Africa: "León de África"
+ ETH_Lion_of_Africa_desc: "Etiopía, una de las pocas naciones africanas que ha conseguido resistirse al colonialismo, se erige como símbolo contra el imperialismo... por ahora, al menos."
+
+ ETH_Lion_of_Africa_1: "León de África"
+ ETH_Lion_of_Africa_1_desc: "Etiopía, una de las pocas naciones africanas que ha conseguido resistirse al colonialismo, se erige como símbolo contra el imperialismo... por ahora, al menos."
+
+ ETH_Stain_of_Slavery: "La mancha de la esclavitud"
+ ETH_Stain_of_Slavery_desc: "A pesar de que la ley prohíbe la esclavitud, sigue siendo una práctica común en las zonas rurales de Etiopía, lo que impide que la nación se considere occidentalizada."
+
+ ETH_Illiteracy_Problem: "Problema de analfabetismo"
+ ETH_Illiteracy_Problem_desc: "La falta de mentes capacitadas ha dejado a los departamentos de economía y tecnología de Etiopía faltos de trabajadores cualificados, sobre todo en las zonas rurales."
+
+ ETH_Illiteracy_Problem_1: "Problema de analfabetismo"
+ ETH_Illiteracy_Problem_1_desc: "La falta de mentes capacitadas ha dejado a los departamentos de economía y tecnología de Etiopía faltos de trabajadores cualificados, sobre todo en las zonas rurales."
+
+ ETH_Illiteracy_Problem_2: "Normas modernas de educación"
+ ETH_Illiteracy_Problem_2_desc: "El analfabetismo en Etiopía ha sido resuelto por el Gobierno de Etiopía mediante la adopción del Programa de Educación Básica y la Política Nacional de Educación. En un país cuya mayoría de la población es analfabeta, el Gobierno de Etiopía cree que la aplicación de esta política resolverá el problema de la alfabetización en Etiopía, especialmente en las zonas remotas. Sin embargo, la adopción de estas políticas ha dado lugar a numerosos problemas educativos. El principal problema de estas políticas es la falta de una implementación eficaz a nivel nacional y local."
+
+ ETH_Pre_Industrial_Society: "Sociedad preindustrial"
+ ETH_Pre_Industrial_Society_desc: "Como cabe esperar de una nación no occidentalizada, Etiopía carece de industria alguna más allá de la agricultura. Debemos industrializarla si queremos estar a la altura de Occidente."
+
+ ETH_Pre_Industrial_Society_1: "Sociedad preindustrial"
+ ETH_Pre_Industrial_Society_1_desc: "Como cabe esperar de una nación no occidentalizada, Etiopía carece de industria alguna más allá de la agricultura. Debemos industrializarla si queremos estar a la altura de Occidente."
+
+ ETH_Digging_in_idea: "Atrincherarse"
+ ETH_Digging_in_idea_desc: ""
+
+ ETH_Consolidating_Royal_Legitimacy: "Legitimidad real"
+ ETH_Consolidating_Royal_Legitimacy_desc: ""
+
+ ETH_Military_Loyalty_Oaths_idea: "Espíritu militar leal"
+ ETH_Military_Loyalty_Oaths_idea_desc: ""
+
+ ETH_Reasserting_Noble_Perogatives_idea: "Reafirmar las prerrogativas nobiliarias"
+ ETH_Reasserting_Noble_Perogatives_idea_desc: ""
+
+ ETH_Solomon_Dynasty: "Dinastía salomónica"
+ ETH_Solomon_Dynasty_desc: ""
+
+ ETH_Establishing_The_Ethiopia_Airways_idea: "Ethiopia Airways"
+ ETH_Establishing_The_Ethiopia_Airways_idea_desc: ""
+
+ ETH_Western_Dream_Achieved_idea: "Etiopía occidentalizada"
+ ETH_Western_Dream_Achieved_idea_desc: ""
+ 
+ ETH_Flight_Schools_idea: "Escuelas de vuelo"
+ ETH_Flight_Schools_idea_desc: ""
+
+ ETH_Expanding_The_Holeta_Military_School_idea: "Escuela Militar de Holeta"
+ ETH_Expanding_The_Holeta_Military_School_idea_desc: ""
+
+ ETH_African_Foreign_Legions_idea: "Legiones extranjeras africanas"
+ ETH_African_Foreign_Legions_idea_desc: ""
+
+ ETH_Asmara_Naval_Academy_idea: "Academia Naval de Asmara"
+ ETH_Asmara_Naval_Academy_idea_desc: ""
+
+ ETH_British_Embargo: "Embargo británico"
+ ETH_British_Embargo_desc: ""
+
+ ETH_Christmas_Offensive: "Ofensiva de Navidad"
+ ETH_Christmas_Offensive_desc: ""
+
+ ETH_Counter_Attacking_Somaliland: "Contraatacando en Somalilandia"
+ ETH_Counter_Attacking_Somaliland_desc: ""
+
+ ETH_Access_to_World_Economy: "Acceso a la economía mundial"
+ ETH_Access_to_World_Economy_desc: ""
+
+
+######################################################################
+#  Ethiopia Decisions
+######################################################################
+ ETH_Second_Italo_Ethiopian_War: "Segunda guerra ítalo-etíope"
+ ETH_Second_Italo_Ethiopian_War_desc: ""
+ ETH_Holding_Adowa_Again: "Defender Adua"
+ ETH_Christmas_Offensive: "Ofensiva de Navidad"
+ ETH_Pushing_to_Asmara: "Presionar hacia Asmara"
+ ETH_Fortifying_Ogaden: "Fortificar Ogadén"
+ ETH_Counter_Attacking_Somaliland: "Contraataque en Somalilandia"
+

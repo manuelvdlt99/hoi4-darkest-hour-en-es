@@ -1,0 +1,144 @@
+﻿l_spanish:
+ MEN_Politics.1.t: "Japón ofrece protección"
+ MEN_Politics.1.d: "El Imperio del Japón se ofrece a ayudarnos en la creación de un nuevo Estado panmongol a cambio de nuestra sumisión a su imperio. Puede que sea una decisión beneficiosa para nosotros, ya que prometen ceder el territorio de Chahar Oriental a nuestro Gobierno y, si declinamos, entonces el Gobierno del Kuomintang podría reforzar su control sobre nosotros. ¿Qué deberíamos hacer en esta situación?"
+ MEN_Politics.1.A: "¡Los japoneses son nuestra última esperanza!"
+ MEN_Politics.1.B: "¡No venderemos a nuestros aliados!"
+ 
+ MEN_Politics.2.t: "Campaña de Suiyuan"
+ MEN_Politics.2.d: "Comenzaremos un ataque total contra Suiyan desde nuestra base en Ulanqab. En el caso de que no triunfemos en esta primera campaña, entonces tendremos que renunciar a todos los planes futuros de expansión inmediata."
+ MEN_Politics.2.A: "¡Hacia la victoria!"
+ MEN_Politics.3.t: "Los mongoles aceptan nuestra propuesta"
+ MEN_Politics.3.d: "El Consejo ha accedido a nuestra propuesta y se está preparando para su transición a un Gobierno militar temporal."
+ MEN_Politics.3.A: "¡Un paso más cerca de una Asia unida!"
+ 
+ MEN_Politics.4.t: "Los mongoles rechazan nuestra oferta."
+ MEN_Politics.4.d: "El Consejo Pailingmiao ha rechazado nuestra oferta, lamentablemente."
+ MEN_Politics.4.A: "Ellos se lo pierden."
+ 
+ MEN_Politics.5.t: "Yondonwangchug ha muerto"
+ MEN_Politics.5.d: "El líder de [MEN.GetNameDef], Yondonwangchug, ha fallecido. El príncipe Demchugdongrub, su segundo al mando, liderará este país a partir de ahora."
+ MEN_Politics.5.A: "Que en paz descanse."
+ 
+ MEN_Politics.6.t: "Se proclama el Imperio mongol"
+ MEN_Politics.6.d: "Hoy hemos recuperado con éxito nuestra patria y hemos unido a los mongoles una vez más, y con ello, ¡se ha proclamado un nuevo Imperio mongol y llegará una era próspera para nuestro pueblo!"
+ MEN_Politics.6.A: "¡Gloria a todos los mongoles!"
+ 
+ MEN_Politics.7.t: "¡Se establecerá el Gobierno Autónomo Unido de Mengkiang!"
+ MEN_Politics.7.d: "Con la ayuda del Imperio del Japón, se establecerá el gran Gobierno Autónomo Unido de Mengkiang, o Mengkukuo para resumir. [Root.GetLeader] ha sido designado presidente y Kalgan será la nueva capital. ¡Junto con Japón, los mongoles reclamaremos la gloria del imperio de Gengis Kan!"
+ MEN_Politics.7.A: "¡Pronto, toda Mongolia estará unida!"
+ 
+ #Suiyan Campaign / Mongol
+ MEN_Politics.8.t: "Victoria en Suiyuan" 
+ MEN_Politics.8.d: "Hoy es un gran día para los mongoles. Hemos triunfado en nuestra campaña y hemos conseguido tomar el territorio de Suiyuan."
+ MEN_Politics.8.A: "¡Una gran victoria!"
+ 
+ MEN_Politics.9.t: "Derrota en Suiyuan"
+ MEN_Politics.9.d: "La campaña nos ha dado resultados desastrosos, obligándonos a retirarnos de Ulanqab."
+ MEN_Politics.9.A: "¡Terrible!"
+ 
+ MEN_Politics.10.t: "La campaña de Suiyuan termina en un empate"
+ MEN_Politics.10.d: "Lamentablemente, nuestro ataque a Suiyuan no ha producido los resultados deseados, por lo que tendremos que suspender nuestra campaña."
+ MEN_Politics.10.A: "Decepcionante."
+ 
+ #Suiyan Campaign / Shanxi
+ MEN_Politics.11.t: "Victoria en Suiyuan" 
+ MEN_Politics.11.d: "¡No sólo hemos conseguido repeler el ataque mongol, sino que hemos conseguido expulsarlos de Ulanqab!"
+ MEN_Politics.11.A: "¡Una gran victoria!"
+ 
+ MEN_Politics.12.t: "Derrota en Suiyuan"
+ MEN_Politics.12.d: "Por desgracia, el ataque mongol en Suiyuan ha sido un éxito, lo que nos ha obligado a retirarnos de dicho territorio."
+ MEN_Politics.12.A: "¡Terrible!"
+ 
+ MEN_Politics.13.t: "Ataque mongol repelido"
+ MEN_Politics.13.d: "Aunque el repentino ataque mongol nos pilló desprevenidos, hemos podido repeler a sus fuerzas y forzar un estancamiento."
+ MEN_Politics.13.A: "Se nos podría haber dado mejor."
+ 
+ MEN_Politics.14.t: "Se divide el Consejo"
+ MEN_Politics.14.d: "Hace nada, Chiang Kai-shek ha decidido dividir nuestro Consejo, dando el territorio de Suiyuan a Yen Hsi-shan."
+ MEN_Politics.14.A: "¡Terrible!"
+ 
+ jap_puppet_tt: "§RTu Gobierno será absorbido por Chahar Oriental y la partida terminará.§!\n"
+ Suiyan_Campaign: "Campaña de Suiyuan emprendida"
+ Pailingmiao_Split: "Consejo Pailingmiao dividido"
+ Pailingmiao_Defects: "Pailingmiao ha desertado de China"
+ Mengkukuo_Formed: "Mengkukuo formado"
+ Mongol_Second_Assembly: "Segunda Asamblea celebrada"
+ 
+ MEN_Form_New_Governments: "Reformando nuestro Gobierno"
+ MEN_Second_Assembly_Of_The_Mongols: "Segunda Asamblea de los Mongoles"
+ MEN_Form_Mengkukuo: "Formar Mengkukuo"
+ MEN_Military_Campaign: "Expediciones militares"
+ MEN_Suiyan_campaign: "Campaña de Suiyuan"
+
+######################################################################
+#  Mengkukuo Focuses
+######################################################################
+ MEN_Inner_Mongolian_Army: "Ejército de Mongolia Interior"
+ MEN_Inner_Mongolian_Army_desc: "Al igual que el resto de ejércitos de China, el Ejército de Mongolia Interior está mal equipado, sin personal y es incapaz de expandirse. Su Ejército está principalmente compuesto por caballería, infantería y artillería limitada, y carece del armamento moderno que tienen sus adversarios. Si Mengkukuo ha tenido alguna vez miras de expansión, debe reformarse y modernizarse, o será devorado por las grandes potencias que compiten por la influencia china."
+ 
+ MEN_Cahar_Suiyan_Railroad: "Ferrocarril Chahar-Suiyuan"
+ MEN_Cahar_Suiyan_Railroad_desc: "Las dos regiones de nuestra nación, Chahar y Suiyuan, son deficientes en términos de infraestructura. Por tanto, el transporte entre las regiones es difícil y puede llevar largos periodos de tiempo. Se ha propuesto una solución: la creación de un sistema ferroviario entre estas dos provincias. Ésto facilitará el comercio entre las regiones y permitirá una movilización más rápida de nuestras tropas en caso de guerra."
+
+ MEN_Stay_with_the_Kuomintang: "Quedarnos con el Kuomintang"
+ MEN_Stay_with_the_Kuomintang_desc: "Los nacionalistas son la clave para restaurar China como una gran potencia, una que repelerá los agresivos avances japoneses y eliminará a los caudillos que gobiernan China. Mientras estamos en su punto de mira de anexión, permanecer dentro de su esfera de influencia nos permite estar protegidos de los japoneses y los comunistas."
+ 
+ MEN_On_Our_Own_Terms: "A nuestra manera"
+ MEN_On_Our_Own_Terms_desc: "Ni los nacionalistas ni los japoneses pueden influenciarnos. No seremos el perrito faldero de esas dos miserables facciones. Debemos ser independientes y forjar el destino de nuestra nación a nuestra manera. Ninguna nación tendrá derecho a ejercer influencia sobre nuestros asuntos exteriores, nuestra política, nuestra economía, nuestro pueblo y nuestra nación en su conjunto. La fuerza de nuestro país reside en nosotros, no en otros."
+ 
+ MEN_Defect_to_the_Japanese: "Desertar a Japón"
+ MEN_Defect_to_the_Japanese_desc: "Los nacionalistas son una causa perdida, asolados por la corrupción, la incompetencia y bajo la amenaza de una toma del poder por los comunistas. En vista de ello, debemos recurrir a los japoneses, cuyo Estado títere está justo en nuestra frontera. Sería una sabia decisión apoyar a la maquinaria bélica japonesa, que ha estado aplastando Asia durante la última década. Si no lo hacemos, podríamos compartir el mismo destino que el resto de Asia que los desafió."
+ 
+ MEN_Hire_Foreign_Military_Advisors: "Contratar asesores militares extranjeros"
+ MEN_Hire_Foreign_Military_Advisors_desc: "Para renovar el Ejército de nuestra nación, debemos considerar la contratación de asesores militares de varias naciones. Se les permitirá dar recomendaciones a nuestro Gobierno sobre estrategia militar, diseños de equipos, junto con la creación de una administración militar eficiente. Aunque los patriotas puedan alegar que estamos cediendo nuestro Ejército a potencias extranjeras, es necesario ampliar y modernizar nuestro ruinoso Ejército."
+ 
+ MEN_Purchase_Foreign_Equipment: "Comprar equipo extranjero"
+ MEN_Purchase_Foreign_Equipment_desc: "Para no sólo aliviar nuestro almacenamiento de suministros, sino también adquirir tecnología avanzada, deberíamos comprar equipos a varias naciones, como Japón o Alemania. Estas naciones han invertido tiempo y esfuerzo en perfeccionar su armamento y, como tales, son inversiones fiables. Una vez en nuestras manos, podemos aplicarles ingeniería inversa, emulándolas en una versión para la producción en cadena."
+ 
+ MEN_Army_Recruitment_Campaign: "Campaña de reclutamiento militar"
+ MEN_Army_Recruitment_Campaign_desc: "Para poner fin a nuestra escasez de personal, debemos embarcarnos en una ambiciosa campaña de reclutamiento. Para ello, extendremos nuestras leyes de reclutamiento a la inmensa mayoría de nuestra población. Junto con la ampliación de las leyes de reclutamiento, podemos ofrecer incentivos al personal que permanezca en las Fuerzas Armadas incluso después de haber finalizado su formación en la reserva."
+ 
+ MEN_Mongolian_General_Staff: "Estado Mayor mongol"
+ MEN_Mongolian_General_Staff_desc: "La planificación, la preparación y el liderazgo son necesarios para alcanzar la victoria en combate. Por tanto, la creación de un Estado Mayor es una necesidad. Este comité incluirá a los funcionarios militares y asesores de alto rango que esbozarán planes de batalla y órdenes para las tropas y supervisarán la logística y la producción de suministros en caso de guerra ofensiva o defensiva. Ésto es para que, cuando llegue la guerra a nuestra patria, estemos preparados para enfrentarnos al enemigo."
+ 
+ MEN_Kalgan_Central_Academy: "Academia Central de Kalgan"
+ MEN_Kalgan_Central_Academy_desc: "Nuestros soldados y nuestro núcleo de oficiales carecen de una formación adecuada en materia de táctica, gran estrategia y similares. Por ello, la creación de una academia militar en la capital es esencial para enseñar a la próxima generación de guerreros tácticas, estrategias y combate en el campo de batalla."
+ 
+ MEN_Literacy_Programs: "Programas de alfabetización"
+ MEN_Literacy_Programs_desc: "Nuestra nación, junto con los demás Estados de China, tiene una alta tasa de analfabetismo entre la población. Por tanto, la modernización y los avances en tecnología se ralentizan e incluso detienen. Si pretendemos expandirnos y modernizarnos, debemos introducir programas de alfabetización e introducir la enseñanza obligatoria entre la población."
+ 
+ MEN_Resource_Excavation: "Aumentar la producción de recursos"
+ MEN_Resource_Excavation_desc: "Bajo la tierra que pisamos hay miles de recursos naturales que necesitamos desesperadamente. Sin embargo, no hacemos nada mientras nuestro país se ve obligado a comerciar con otras naciones, lo que supone una hemorragia para nuestros ingresos públicos. Deberíamos centrar nuestros esfuerzos en la extracción de estos minerales, para que nuestro país sea menos dependiente de las naciones extranjeras que pueden tratar de socavarnos."
+ 
+ MEN_End_the_Nomadic_Lifestyle: "Poner fin al estilo de vida nómada"
+ MEN_End_the_Nomadic_Lifestyle_desc: " Durante siglos hemos conservado ciegamente nuestro estilo de vida nómada, que, aunque nos fue útil, hoy en día ha quedado obsoleto. Debemos poner fin a un estilo de vida tan bárbaro y reaccionario, ya que hemos sufrido demasiado para aferrarnos a una forma de vida antigua. Si por fin nos desprendemos de ella, podremos saludar al progreso."
+ 
+ MEN_Heavy_Industry_Revitalization: "Revitalización de la industria pesada"
+ MEN_Heavy_Industry_Revitalization_desc: "Nuestra industria militar es inexistente cuando menos. Nuestra falta de inversión en la industria militar ha dado lugar a una infraproducción de equipos muy necesarios, como armas. Debido a ello, nuestras tropas suelen ir sin nada a la batalla, lo que los convierte en blancos fáciles. A menos que pretendamos ser un territorio libre, debemos invertir cantidades significativas de nuestros recursos en la producción de armas, para que podamos invertir de una vez por todas nuestro retraso en el suministro."
+ 
+ MEN_Stick_with_Traditionalism: "Tradicionalismo revitalizado"
+ MEN_Stick_with_Traditionalism_desc: "Aunque nuestras normas y tradiciones tienen defectos, abolirlas de nuestra sociedad no es la respuesta correcta. Hay una razón por la que nos han permitido sobrevivir al paso del tiempo, independientemente de las circunstancias. Debemos promover una forma renovada de tradiciones democráticas adaptada a nuestra era actual. La reforma, no la abolición, es la respuesta a nuestra cultura."
+ 
+ MEN_Industrialization_Programs: "Programas de industrialización"
+ MEN_Industrialization_Programs_desc: "El KMT tiene varias camarillas comerciales en sus fronteras, cada una de las cuales controla enormes cantidades de recursos económicos, como industria pesada. Si conseguimos que estas poderosas camarillas empresariales inviertan en nuestra economía, podrán aumentar nuestra capacidad industrial, permitiéndonos producir más material bélico o fabricar bienes de consumo."
+ 
+ MEN_Keep_the_Council: "Mantener el Consejo"
+ MEN_Keep_the_Council_desc: "El Consejo, aunque no es democrático, sigue siendo la mejor alternativa para dirigir nuestra nación que otras alternativas. El Consejo da una sensación de estabilidad y permite la eficiencia en la creación de leyes que rigen nuestra sociedad. Aunque hay quienes dicen que nuestro sistema es arcaico y una reliquia de una época pasada, ha funcionado sin problemas."
+ 
+ MEN_Cavalry_Training_Programs: "Programas de instrucción de caballería"
+ MEN_Cavalry_Training_Programs_desc: "La geografía de nuestra nación está repleta de desiertos e infraestructuras inadecuadas. Dadas estas dos desventajas, debemos recurrir a la caballería, infantería que utiliza el caballo como medio de transporte. Barata, eficacz y muy móvil, estas unidades de caballería, si se utilizan tácticamente, pueden detener incluso a toda una división acorazada. Por ello, debemos crear un programa especializado de instrucción de caballería para entrenar y ayudar a nuestras unidades a dominar el arte de la guerra de caballería."
+ 
+ MEN_Autonomous_Federation: "Federación autónoma"
+ MEN_Autonomous_Federation_desc: "La centralización de nuestro Gobierno puede traducirse en ineficiencia y desunión entre la población. Por tanto, el Gobierno cambiará a una federación autónoma. En este sistema, las regiones o provincias se considerarán entidades políticas. Estas entidades políticas tendrán libertad para aplicar sus propias leyes relativas a la provincia, como la fiscalidad, las regulaciones, la aplicación de la ley y otros aspectos. Al descentralizar nuestro Gobierno en pequeñas entidades políticas, podemos centrar nuestros esfuerzos en asuntos más apremiantes."
+ 
+ MEN_Invest_in_Agricultural_Production: "Invertir en producción agrícola"
+ MEN_Invest_in_Agricultural_Production_desc: "La agricultura es el sustento de la economía de cualquier nación. También es sinónimo de seguridad nacional, ya que sin agricultura no nos quedará más remedio que importar los alimentos de nuestros vecinos, lo que les proporciona una excelente baza para negociar. Debemos invertir en la producción agrícola, incorporando nuevas tecnologías, aplicando la reforma agraria en todas nuestras tierras cultivables, todo lo cual garantizará la seguridad alimentaria en toda la nación."
+ 
+ MEN_State_Founding_Conference: "Conferencia fundacional del Estado"
+ MEN_State_Founding_Conference_desc: "Los japoneses han observado fallos inherentes a nuestro sistema de gobierno en los ámbitos militar, administrativo, burocrático y muchos otros. Para resolver estos problemas, los japoneses han propuesto una conferencia de mesa redonda. Esta conferencia es una reunión entre funcionarios japoneses y de Mengkukuo, tras la cual crearán un nuevo Gobierno que se ajuste a los valores y la política japoneses, pero teniendo en cuenta a los mongoles étnicos de la región. Ésto ayudará a crear un Gobierno leal a Tokio que sea aceptado por el pueblo mongol."
+ 
+ MEN_Princely_Republic: "República principesca"
+ MEN_Princely_Republic_desc: ""
+
+######################################################################
+#  Mengkukuo Ideas
+######################################################################

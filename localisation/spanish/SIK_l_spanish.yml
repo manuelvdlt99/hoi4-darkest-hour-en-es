@@ -1,0 +1,45 @@
+﻿l_spanish:
+######################################################################
+#  Sinkiang Focuses
+######################################################################
+
+######################################################################
+#  Sinkiang Events
+######################################################################
+ xinjiang.1.t: ""
+ xinjiang.1.d: ""
+ xinjiang.1.A: ""
+ xinjiang.1.B: ""
+ 
+ #yes
+ xinjiang.2.t: "Sinkiang se niega"
+ xinjiang.2.d: ""
+ xinjiang.2.A: ""
+ #no
+ xinjiang.3.t: "Sinkiang acepta"
+ xinjiang.3.d: ""
+ xinjiang.3.A: ""
+ 
+ SIK_Sino_Japanese_War_Chinese_Defeat.1.t: "¡Tropas soviéticas cruzan la frontera!"
+ SIK_Sino_Japanese_War_Chinese_Defeat.1.d: ""
+ SIK_Sino_Japanese_War_Chinese_Defeat.1.A: "A todas las unidades, alto el fuego."
+ SIK_Sino_Japanese_War_Chinese_Defeat.1.B: "¡A todas las unidades, abran fuego!"
+ 
+######################################################################
+#  Sinkiang Ideas
+######################################################################
+ SIK_Opium_Stimulated_Army: "Ejército estimulado por el opio"
+ SIK_Opium_Stimulated_Army_desc: ""
+ 
+ SIK_Collapsing_Economic_Monopoly: "Monopolio económico en declive"
+ SIK_Collapsing_Economic_Monopoly_desc: ""
+ 
+ SIK_Restless_Turkic_Population: "Población túrcica inquieta"
+ SIK_Restless_Turkic_Population_desc: ""
+ 
+ SIK_Overwhelming_Illiterracy: "Analfabetismo abrumador"
+ SIK_Overwhelming_Illiterracy_desc: ""
+ 
+ SIK_Warlord_State: "Estado caudillista"
+ SIK_Warlord_State_desc: ""
+ 

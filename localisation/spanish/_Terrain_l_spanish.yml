@@ -1,0 +1,32 @@
+﻿l_spanish:
+# §L§!
+
+# LAND
+ forest: "Bosque"
+ forest_desc: ""
+ hills: "Colinas"
+ hills_desc: ""
+ mountain: "Montaña"
+ mountain_desc: ""
+ plains: "Llanuras"
+ plains_desc: ""
+ urban: "Urbano"
+ urban_desc: ""
+ jungle: "Selva"
+ jungle_desc: ""
+ marsh: "Ciénaga"
+ marsh_desc: ""
+ desert: "Desierto"
+ desert_desc: ""
+ farmland: "Tierra de labranza"
+ farmland_desc: "§L§!"
+
+# WATER
+ water_fjords: "Fiordos y archipiélagos"
+ water_fjords_desc: ""
+ water_shallow_sea: "Mar somero"
+ water_shallow_sea_desc: ""
+ water_deep_ocean: "Océano profundo"
+ water_deep_ocean_desc: ""
+ water_arctic: "Aguas árticas"
+ water_arctic_desc: ""

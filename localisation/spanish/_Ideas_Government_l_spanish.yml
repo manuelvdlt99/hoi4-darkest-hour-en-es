@@ -1,0 +1,106 @@
+﻿l_spanish:
+#Special Idea thing for advisors
+  country_missing_advisors: "Asesores que faltan"
+###############################################
+## Laws and Policies
+##############################################
+## Foreign Policy
+ idea_group_foreign_policy: "Política exterior"
+ foreign_policy: "Política exterior"
+ isolationism: "Aislacionismo"
+ neutrality: "Neutralidad"
+ cooperation: "Cooperación"
+ interventionism: "Intervencionismo"
+ warmonger: "Belicista"
+
+## Recruitment Laws
+ idea_group_recruitment_laws: "Leyes de reclutamiento"
+ recruitment_laws: "Leyes de reclutamiento"
+ one_year_service: "Servicio obligatorio de un año"
+ two_year_service: "Servicio obligatorio de dos años"
+ three_year_service: "Servicio obligatorio de tres años"
+
+## Mobilization Laws
+ idea_group_mobilization_laws: "Leyes de movilización"
+ mobilization_laws: "Leyes de movilización"
+
+## Society Policy
+ idea_group_domestic_policies: "Política interna"
+ domestic_policies: "Política interna"
+ full_civil_liberties: "Libertades civiles plenas"
+ limited_civil_liberties: "Libertades civiles limitadas"
+ legalistic_restrictions: "Restricciones legales"
+ repressive_system: "Sistema opresor"
+ totalitarian_system: "Sistema totalitario"
+ reign_of_jim_crow: "Reinado de Jim Crow"
+
+###############################################
+## Economy Policy
+##############################################
+ economic_policy: "Política económica"
+## Economic System
+ idea_group_economic_system: "Sistema económico"
+ economic_system: "Sistema económico"
+ EFFECT_CHANGE_LAW_economic_system: "Cambia el sistema económico a $NAME|Y$, que concede ($DESC$)."
+ agrarian_economy: "Economía agraria"
+ EFFECT_CHANGE_LAW_agrarian_economy: "Cambia la ley de economía agraria a $NAME|Y$, que concede ($DESC$)."
+ industrializing_economy: "Economía en industrialización"
+ EFFECT_CHANGE_LAW_industrializing_economy: "Cambia la ley de economía en industrialización a $NAME|Y$, que concede ($DESC$)."
+ free_market_economy: "Economía de libre mercado"
+ EFFECT_CHANGE_LAW_free_market_economy: "Cambia la ley de economía de libre mercado a $NAME|Y$, que concede ($DESC$)."
+ social_market_economy: "Economía de mercado social"
+ EFFECT_CHANGE_LAW_social_market_economy: "Cambia la ley de economía de mercado social a $NAME|Y$, que concede ($DESC$)."
+ corporatism: "Corporativismo"
+ mixed_economy: "Economía mixta"
+ planned_economy: "Economía planificada"
+
+## Taxation Policy
+ EFFECT_CHANGE_LAW_taxation_slider_law: "Cambia la política fiscal a $NAME|Y$, que concede ($DESC$)."
+ taxation_slider_law: "Política fiscal"
+ taxation_level_1: "Tributación mínima"
+ taxation_level_2: "Baja tributación"
+ taxation_level_3: "Tributación aceptable"
+ taxation_level_4: "Tributación excesiva"
+ taxation_level_5: "Muerte e impuestos"
+
+## Social Spending Policy
+ EFFECT_CHANGE_LAW_social_spending_slider_law: "Cambia la política de gastos sociales a $NAME|Y$, que concede ($DESC$)."
+ social_spending_slider_law: "Política de gastos sociales"
+ social_spending_level_1: "Nada de gastos sociales"
+ social_spending_level_2: "Gastos sociales mínimos"
+ social_spending_level_3: "Gastos sociales bajos"
+ social_spending_level_4: "Bastantes gastos sociales"
+ social_spending_level_5: "Gastos sociales generosos"
+
+## Military Spending Policy
+ EFFECT_CHANGE_LAW_army_spending_slider_law: "Cambia la política de gastos militares a $NAME|Y$, que concede ($DESC$)."
+ army_spending_slider_law: "Política de gastos militares"
+ army_spending_level_1: "Nación desarmada"
+ army_spending_level_2: "Ejército basado en milicias"
+ army_spending_level_3: "Ejército regular"
+ army_spending_level_4: "Más gastos militares"
+ army_spending_level_5: "Bastantes gastos militares"
+
+## Research and Education Spending Policy
+ EFFECT_CHANGE_LAW_research_spending_slider_law: "Cambia la política de gastos en investigación y educación a $NAME|Y$, que concede ($DESC$)."
+ research_spending_slider_law: "Política de gastos en investigación y educación"
+ research_spending_level_1: "Financiación limitada"
+ research_spending_level_2: "Subsidios"
+ research_spending_level_3: "Financiación media"
+ research_spending_level_4: "Financiación amplia"
+ research_spending_level_5: "Financiación enorme"
+
+###############################################
+## Research Teams
+##############################################
+## Research Teams
+ research_teams: "Equipos de investigación"
+ Research_Team: "Equipo de investigación"
+
+###############################################
+## Tooltips
+##############################################
+ idea_header_political: "£pol_idea_texticon \n"
+ idea_header_military: "£army_experience_20x20 \n"
+ idea_header_economy: "£industry \n"
+ CANNOT_CHANGE_SLIDER_LAW_MUST_USE_SLIDER: "Aquí no puedes cambiar las §Oleyes de gastos§!, usa los controles deslizantes de la ventana de §YEconomía§!."

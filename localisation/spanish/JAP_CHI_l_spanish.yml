@@ -1,0 +1,318 @@
+﻿l_spanish:
+######################################################################
+#  Sino-Japanese Conflict
+######################################################################
+ JAP_CHI_Anti_Japanese_Army.1.t: "Formación del Ejército Antijaponés"
+ JAP_CHI_Anti_Japanese_Army.1.d: "A medida que nuestro poder e influencia en China han ido creciendo en los últimos años, también lo ha hecho la resistencia con la que hemos topado en la región. Ha surgido una de las últimas amenazas notables en la región en forma del Ejército Popular Antijaponés de Chahar.\n\nLa organización militante se ha formado a partir de los restos de varios ejércitos, formados en su mayoría por antiguas unidades del Ejército del Noroeste a las órdenes de Feng Yu-hsiang, tropas del Ejército Resistente a Japón y Salvador de China de Fang Cheng-wu, restos de las fuerzas provinciales de Rehe, voluntarios antijaponeses de Manchuria y fuerzas locales de Chahar y Suiyuan, y todos parecen estar supeditados a Fang Cheng-wu. Este nuevo ejército parece incluso haber reclamado la lealtad de nuestro propio títere en Chahar, el general Liu Kuei-tang.\n\nCon una fuerza combinada de unos 100 000 hombres a sus órdenes, las habilidades organizativas y militares de Fang Cheng-wu y Feng Yu-hsiang podrían demostrar ser una importante amenaza para nuestras operaciones en la región y podrían actuar como un importante obstáculo para futuras expansiones en el norte de China."
+ JAP_CHI_Anti_Japanese_Army.1.A: "Matas a un ejército y aparecen dos en su lugar."
+
+ JAP_CHI_Anti_Japanese_Army.2.t: "El Ejército de Chahar ataca a Japón"
+ JAP_CHI_Anti_Japanese_Army.2.d: "Parece que el ejército de Fang Cheng-wu ha movido su primera ficha en la situación en constante escalada en Chahar. Aunque nuestros puestos avanzados en la región habían informado de movimientos en la frontera de Manchuria, nunca habíamos imaginado que se comprometerían a atacar tan pronto. Porciones del ejército de 100 000 hombres de Cheng-wu han iniciado enfrentamientos de bajo nivel con nuestras fuerzas en la provincia fronteriza manchú de Rehe. Por lo pronto, los comandantes japoneses han tomado el control del Gobierno local mientras esperan refuerzos materiales de depósitos de suministros tras las líneas, en territorio más seguro.\n\nDada la naturaleza del enfrentamiento hasta ahora, no parece que Cheng-wu quiera invadir y defender los territorios ocupados por nuestro títere manchú, por ahora. Nuestra inteligencia indica más bien que este ataque está pensado para sondear nuestras defensas y debilidades en la zona para organizar ofensivas a mayor escala más adelante.\n\nSi dejamos que este Ejército Antijaponés cante victoria en la batalla inminente, no tendrá un buen desenlace para nosotros. En el mejor de los casos, se consolidaría el control de Chen-wu sobre Chahar, lo que complicaría el expulsarlos más adelante, pero en el peor, una derrota aquí podría animar a más soldados y comandantes a unirse a la causa de Cheng-wu, suponiendo una amenaza a nuestras posesiones en el norte de China."
+ JAP_CHI_Anti_Japanese_Army.2.A: "Los aplastaremos aquí y ahora."
+
+ JAP_CHI_Anti_Japanese_Army.3.t: "El Ejército de Chahar gana la escaramuza"
+ JAP_CHI_Anti_Japanese_Army.3.d: ""
+ JAP_CHI_Anti_Japanese_Army.3.A: ""
+
+ JAP_CHI_Anti_Japanese_Army.4.t: "El Ejército de Chahar pierde la escaramuza"
+ JAP_CHI_Anti_Japanese_Army.4.d: ""
+ JAP_CHI_Anti_Japanese_Army.4.A: ""
+
+ JAP_CHI_Anti_Japanese_Army.5.t: "Se anuncia la disolución del Ejército Antijaponés"
+ JAP_CHI_Anti_Japanese_Army.5.d: "[FROM.GetNewsIcon]Tras el fracaso de Fang Cheng-wu y su Ejército Antijaponés para expulsar con éxito a las unidades de guarnición japonesas de la provincia fronteriza de Rehe, en Manchuria, ha llegado el anuncio de que el Ejército Popular Antijaponés de Chahar se disolverá hoy.\n\nDebilitadas por la reacción de los soldados y civiles de la provincia de Chahar, las ya de por sí tensas relaciones entre los principales líderes del grupo, en particular Fang Cheng-wu y Feng Yu-hsiang, se han venido abajo. Fang Cheng-wu y Feng Yu-hsiang han llevado supuestamente a los regimientos leales restantes de sus ejércitos al oeste, hacia China, para reforzar las defensas tierra adentro contra tanto los japoneses como otros caudillos chinos en la región.\n\nCon el colapso de cualquier gran oposición organizada a la expansión japonesa en la región, muchos observadores internacionales han expresado su preocupación por las implicaciones de la nueva hegemonía militar de Japón en el norte de China, y una fuente anónima ha declarado que «la puerta al interior de China está ahora abierta, y ninguna fuerza parece lo bastante fuerte como para impedir que entren».\n\nLos funcionarios japoneses han permanecido relativamente callados sobre todo este asunto, sólo afirmando oficialmente que el Ejército Popular Antijaponés de Chahar era una «organización militante ilegal que operaba al margen de las leyes de la guerra establecidas en la Conferencia de La Haya de 1907»."
+ JAP_CHI_Anti_Japanese_Army.5.A: "Un fracaso catastrófico."
+ JAP_CHI_Anti_Japanese_Army.5.B: "El resultado esperado."
+
+ JAP_CHI_Anti_Japanese_Army.6.t: "El Ejército Antijaponés Castigador de Bandidos"
+ JAP_CHI_Anti_Japanese_Army.6.d: "[FROM.GetNewsIcon]Con su derrota a manos de las unidades de guarnición japonesas en las provincias occidentales de Manchuria, muchos no estaban seguros del futuro que le esperaba al Ejército Popular Antijaponés de Chahar. Pocas semanas después, la cuestión parecía resuelta: las divisiones en el seno del grupo provocaron la disolución de la organización y la dispersión de parte de la antigua fuerza militar por toda la región. Sin embargo, hoy ha surgido un nuevo paradigma en la zona.\n\nFang Cheng-wu, al que se daba por sometido por su derrota en el norte, ha reorganizado sus partes del ejército y la administración local en algo más parecido a un gobierno militar de emergencia. El ejército reorganizado ha anunciado sus planes de seguir resistiéndose a la influencia japonesa en el norte de China y combatir la delincuencia y el bandidaje desenfrenados que han surgido ante la ausencia de un gobierno significativo en la región.\n\nFuncionarios japoneses han comentado que Fang Cheng-wu y su nuevo ejército no son sino «una continuación del ilegal e ilegítimo Ejército Antijaponés original y serán tratados como tales»."
+ JAP_CHI_Anti_Japanese_Army.6.A: "No nos amedrentarán tan fácilmente."
+ JAP_CHI_Anti_Japanese_Army.6.B: "Fang Cheng-wu vuelve a cabalgar."
+
+ JAP_CHI_Anti_Japanese_Army.7.t: "Fang Cheng-wu ocupa Gaoliying"
+ JAP_CHI_Anti_Japanese_Army.7.d: "[FROM.GetNewsIcon]Nos llegan más noticias del norte de China, ya que el Ejército Antijaponés Castigador de Bandidos de Cheng-wu ha marchado sobre Gaoliying hoy. A alrededor de las 06:00 de esta mañana, miles de regimientos tomaron posiciones al norte de Pekín y comenzaron a avanzar hacia el este, hacia el territorio en poder del Gobierno manchú alineado con los japoneses.\n\nEste movimiento sin precedentes se produce sólo unos meses después de la anterior derrota de Cheng-wu en Rehe y parece estar al servicio de una estrategia a mayor escala para intentar una vez más desalojar a Japón de sus posesiones en el norte de China. Los observadores en la región han descrito el esfuerzo como «inútil» y «una pérdida de material y mano de obra».\n\nEl Gobierno japonés ha respondido agresivamente al movimiento, desplegando un contingente de varios miles de hombres a la zona, así como grandes cargamentos de armas y equipo de apoyo, supuestamente en preparación para reclamar el territorio perdido. El Gobierno japonés ha publicado una declaración acerca de la situación en escalada en Gaoliying, comunicando que el Gobierno japonés pretende apoyar manu militari la integridad territorial del Estado manchú y restaurar el orden en la región."
+ JAP_CHI_Anti_Japanese_Army.7.A: "Debemos prepararnos para las represalias."
+ JAP_CHI_Anti_Japanese_Army.7.B: "Aún más inestabilidad en China."
+
+ JAP_CHI_Anti_Japanese_Army.8.t: "Enviar un aviso a Fang Cheng-wu."
+ JAP_CHI_Anti_Japanese_Army.8.d: ""
+ JAP_CHI_Anti_Japanese_Army.8.A: ""
+
+ JAP_CHI_Anti_Japanese_Army.9.t: "Japón nos da un aviso"
+ JAP_CHI_Anti_Japanese_Army.9.d: "Acabamos de recibir un aviso del Gobierno japonés acerca de nuestra reciente expansión en Gaoliying. Nos advierten que, si no reculamos de inmediato y devolvemos el territorio que hemos reclamado de los imperialistas japoneses, ellos lo reclamarán por la fuerza. \n\nEn teoría, sería posible simplemente dar marcha atrás y devolver el territorio a Japón. Hacerlo nos ahorraría una batalla potencialmente costosa con los japoneses y nos concedería más tiempo para prepararnos para la inevitable guerra para expulsar a Japón de la Asia continental de una vez por todas.\n\nSin embargo, hacerlo también podría perjudicar nuestra reputación y legitimidad. Retirarnos después de una sola amenaza de los japoneses debilitaría nuestro estatus entre el pueblo chino y nos dejaría vulnerables a los otros caudillos chinos en nuestros flancos. Dado nuestro anterior fracaso en Rehe, dicha vulnerabilidad podría ser fatídica. Dicho lo cual, una pérdida contra las fuerzas japonesas contribuiría básicamente al mismo fin."
+ JAP_CHI_Anti_Japanese_Army.9.A: "¡Gaoliying es nuestro!"
+ JAP_CHI_Anti_Japanese_Army.9.B: "Aún no estamos preparados para un conflicto con los japoneses."
+
+ JAP_CHI_Anti_Japanese_Army.10.t: "Fang no recula"
+ JAP_CHI_Anti_Japanese_Army.10.d: "A pesar de nuestro aviso, parece que Cheng-wu y su Ejército Antijaponés Castigador de Bandidos están preparados para luchar contra nosotros por segunda vez. Los informes indican que ya ha colocado a su ejército en posiciones defensivas en toda la provincia y ha comenzado a construir barricadas improvisadas y a cavar trincheras con la ayuda de algunos lugareños.\n\nSin embargo, a pesar de sus esfuerzos, no parece que puedan resistirse a nosotros. La cuestión es que Cheng-wu está en peor situación que nunca. Ha perdido cantidades ingentes de mano de obra, material y buena fe desde nuestro primer encuentro con él. Reacio a renunciar a su poder o a su posición estratégica en Chahar tras la primera batalla en Rehe, se ha arrinconado políticamente. Ahora que ha tomado Gaoliying, podría renunciar al territorio que nos ha arrebatado y sufrir la humillación y posible derrocamiento a manos de su propio pueblo o hacer un doble o nada y comprometerse a una batalla contra nosotros que no puede ganar.\n\nHa tomado su decisión, y ahora podemos cosechar los beneficios. Una vez esté destruida su fuerza, segurar el resto de los territorios ocupados por su ejército debería ser relativamente sencillo."
+ JAP_CHI_Anti_Japanese_Army.10.A: "De mal en peor"
+
+ JAP_CHI_Anti_Japanese_Army.11.t: "Derrota del Ejército Antijaponés Castigador de Bandidos"
+ JAP_CHI_Anti_Japanese_Army.11.d: "Perdida la batalla de Gaoliying, parece que el Ejército Antijaponés de Fang Cheng-wu ha sido destruido de una vez por todas. Pese a una situación militar al principio robusta, con 100 000 hombres y varios comandantes chinos experimentados bajo su ala, el ejército sufrió una derrota catastrófica en la batalla de Rehe y ha estado perdiendo hombres y comandantes experimentados desde entonces.\n\nEl último clavo en su ataúd fue esta misma semana, cuando Japón derrotó a las unidades restantes del Ejército Antijaponés en Guiliyang. Desde entonces, Japón se ha movilizado para asegurar los últimos territorios libres bajo su mando, evidentemente habiendo consolidado su control sobre el norte de China.\n\nAl parecer, Fang Cheng-wu y los restos de su ejército que aún le eran leales se han dispersado entre las fuerzas de Chiang Kai-shek, y el propio Fang Cheng-wu ha escapado hacia el sur, con destino desconocido.\n\nDado que la esfera de control japonés se ha desplazado tanto hacia el interior, muchos chinos que viven en la nueva frontera entre los territorios chinos libres y el control japonés han decidido desplazarse aún más hacia el interior, hacia territorios más seguros, en lo que parecen ser los primeros indicios de una migración de la población hacia el sur, alejándose de las zonas en disputa."
+ JAP_CHI_Anti_Japanese_Army.11.A: "Japón es supremo."
+
+ JAP_CHI_Anti_Japanese_Army.12.t: "Nos han derrotado."
+ JAP_CHI_Anti_Japanese_Army.12.d: ""
+ JAP_CHI_Anti_Japanese_Army.12.A: ""
+
+ JAP_CHI_Mongolian_Confederation.1.t: "La Confederación de Estados de Mongolia Interior exige autonomía"
+ JAP_CHI_Mongolian_Confederation.1.d: "En un acto que sólo puede calificarse de traición, hemos recibido hoy un comunicado de Mongolia Interior en el que se nos informa de que los príncipes de Mongolia, el principal de ellos el príncipe Demchugdongrub, declaran su independencia de China y forman su propia confederación mongola.\n\nHan indicado que, si intentamos detenerlos, no tendrían ninguna reserva en alinearse con Japón. Aunque cuesta imaginarse cualquier nación o pueblo convirtiéndose voluntariamente en un esclavo de Japón, ya hemos presenciado lo lejos que están dispuestos a llegar los traidores para asegurar su propia seguridad personal y poder.\n\nSi vemos su farol y pasamos a desmantelar cualquier organización política improvisada que hayan creado ahí arriba, corremos el riesgo de terminar en guerra con Japón, para la cual no estamos preparados aún. Sin embargo, si dejamos que Mongolia Interior se marche, éso podría ser una señal de debilidad dentro de nuestra administración, algo que nuestros enemigos políticos estarían más que dispuestos a explotar."
+ JAP_CHI_Mongolian_Confederation.1.A: "No podemos jugarnos una guerra contra Japón."
+ JAP_CHI_Mongolian_Confederation.1.B: "La Mongolia Interior pertenece a China."
+
+ JAP_CHI_Mongolian_Confederation.2.t: "Jirō Minami anuncia su apoyo a Demchungdongrub"
+ JAP_CHI_Mongolian_Confederation.2.d: "Jirō Minami, nuestro líder designado del Ejército de Kwantung en Manchuria, ha estado presionando cada vez más para que nos involucremos en los asuntos de este nuevo Estado mongol en nuestra frontera. Minami ha hablado largo y tendido y con entusiasmo sobre el potencial de una asociación con la figura del príncipe Demchugdongrub, que parece liderar este estado, y este entusiasmo no carece de mérito.\n\nPor una inversión relativamente ínfima, sería trivial traer a esta pequeña nación al redil, por así decirlo, y utilizar su territorio como base para futuras operaciones en el interior de China. Asimismo, al reforzar un Estado como éste, que gira en torno a la preservación de una minoría étnica como son los mongoles, podemos sembrar la división en China y garantizar que la reintegración de esta provincia y sus pueblos les resulte más costoso y difícil.\n\nDados los numerosos beneficios que podría tener esta relación, hemos dado luz verde para que Minami anuncie públicamente su apoyo y el del Ejército de Kwantung al incipiente Estado. Con suerte, ésto dará lugar a un acuerdo de ayuda mutua y apoyo más formalizado más adelante."
+ JAP_CHI_Mongolian_Confederation.2.A: "Los rayos del sol naciente abarcan más."
+
+ JAP_CHI_Mongolian_Confederation.3.t: "Acuerdo Ho-Umezu"
+ JAP_CHI_Mongolian_Confederation.3.d: "A pesar de todo lo que les hemos dado y de todo lo que nos han quitado, el invasor japonés tiene un deseo aparentemente insaciable de expandirse por nuestra tierra. Este hecho se ha confirmado una vez más al recibir hoy un comunicado del Ejército de Kwantung, al otro lado de la frontera.\n\nActuando con el pretexto de que dos jefes projaponeses de un noticiero local han sido supuestamente asesinados, los japoneses exigen que retiremos nuestras fuerzas militares de Tungchow, que el alcalde local sea sustituido por alguien elegido por Japón, que nuestro partido político sea prohibido en la región y que todas las organizaciones antijaponesas sean ilegalizadas en todo el país. En pocas palabras, exigen que les cedamos la provincia. \n\nNuestro Gobierno está dividido. Por un lado, muchos consideran que aún no estamos preparados para hacer frente a Japón. Aceptar estos términos, por onerosos que sean, nos concederá un tiempo valioso para seguir preparándonos para la eventual guerra con Japón. Por el otro, ceder territorios a los japoneses es casi lo mismo que dar munición gratis a nuestros enemigos políticos, por no mencionar que debilitará nuestra economía y la estabilidad de nuestra nación en su totalidad. \n\n¿Cómo seguimos?"
+ JAP_CHI_Mongolian_Confederation.3.A: "No más concesiones."
+ JAP_CHI_Mongolian_Confederation.3.B: "Sólo necesitamos más tiempo."
+
+ JAP_CHI_Mongolian_Confederation.4.t: "El incidente del norte de Chahar"
+ JAP_CHI_Mongolian_Confederation.4.d: "Esta misma semana, cuatro soldados japoneses entraron en el distrito de Changpei de la provincia de Chahar, al norte de la Gran Muralla, en un viaje a Kalgán y Peiping. Los detuvieron porque no tenían los permisos requeridos del Gobierno provincial de Chahar. Los soldados fueron llevados al cuartel general del comandante divisional chino local, que pidió instrucciones al general al mando del 29.º Ejército chino. El comandante del ejército ordenó su liberación, permitiéndoles continuar su viaje, pero con la advertencia de que en el futuro debían obtener los permisos pertinentes.\n\nEl cónsul japonés en Kalgán presentó una queja al general Ching, subcomandante del 29.º Ejército chino, en el sentido de que los guardias chinos habían registrado a los soldados japoneses, les habían apuntado con fusiles y los habían retenido durante algunas horas en el cuartel general de la división, insultando así al Ejército japonés. Poco después, el cónsul trasladó el asunto al Ejército de Kwantung, diciendo que era muy grave y que estaba fuera de su alcance resolverlo. \n\nLo que empezó como un control fronterizo rutinario se ha convertido ahora en una situación diplomática que requerirá algún tipo de reconciliación."
+ JAP_CHI_Mongolian_Confederation.4.A: "Se presenta una nueva oportunidad."
+ JAP_CHI_Mongolian_Confederation.4.B: "Ésto no puede ser bueno."
+
+ JAP_CHI_Mongolian_Confederation.5.t: "Acuerdo Chin-Doihara"
+ JAP_CHI_Mongolian_Confederation.5.d: "[FROM.GetNewsIcon]China ha realizado hoy aún más concesiones a Japón, puesto que ha entrado en vigor en recién firmado acuerdo Chin-Doihara. Elaborado en respuesta a un incidente ocurrido recientemente en el norte de Chahar en el que un comandante chino detuvo a cuatro soldados japoneses que viajaban por la región sin la debida identificación, las concesiones han sido duramente criticadas como una respuesta desproporcionada a lo que muchos consideran una infracción relativamente menor.\n\nEntre las muchas concesiones que el Estado chino se ha visto obligado a aceptar se encuentran múltiples disposiciones que, entre otras cosas, establecen que «todas las instituciones y actos antijaponeses» debían ser prohibidos en la provincia de Chahar, al igual que al Kuomintang y a las unidades del Ejército chino operar en la región. Muchos han igualado la situación a una desmilitarización total de la provincia, cosa que, a todas luces, es.\n\nEl Gobierno japonés ha alabado el acuerdo como una restauración del honor y el prestigio de la provincia, llegando a afirmar que el traslado de fuerzas antijaponesas significativas en la zona permitirá a la frontera entre sus dos naciones permanecer en paz. El Gobierno chino aún no ha comentado sobre el acuerdo."
+ JAP_CHI_Mongolian_Confederation.5.A: "Se abre una nueva vía para futuros conflictos."
+
+ JAP_CHI_Mongol_Skirmish.1.t: "Reunión entre Minami y Demchungdongrub"
+ JAP_CHI_Mongol_Skirmish.1.d: "A medida que las relaciones entre China y Japón se vuelven cada vez más hostiles, la amenaza de guerra entre ambas potencias se ha convertido en una preocupación cada vez mayor para muchos de los pueblos de Asia Oriental, al parecer ninguno más que para el príncipe Demchugdongrub de Mongolia Interior. Y con razón.\n\nMongolia Interior se encuentra en una situación precaria a las afueras de China; su propia existencia es un punto de contención para Nankín, que reclama la zona. El príncipe Demchungdongrub es el principal dirigente de la provincia al ser su presidente y uno de sus fundadores, habiendo aprovechado la tensa situación entre Japón y China para amenazar a China con una posible revuelta y alianza con Japón para asegurar la independencia de Mongolia Interior.\n\nDemchungdongrub sabe que, si las dos potencias llegan a verse las caras y Japón pierde, sólo quedaría una China hostil a Mongolia Interior. Éstas son las circunstancias en las que el príncipe Demchugdongrub se reunió con el comandante del Ejército de Kwantung, Jirō Minami, la semana pasada, un intento por parte de ambas formas de gobierno de llegar potencialmente a un acuerdo que pudiera beneficiar a ambos. Se ha llegado a un acuerdo provisional en el que el príncipe Demchugdongrub promete una estrecha cooperación con Japón, y Minami promete ayuda financiera para el príncipe. Mientras las dos partes regresan a sus respectivas capitales en Kalgán y Hsinking, sólo falta que Tokio apruebe el acuerdo y formalice las relaciones."
+ JAP_CHI_Mongol_Skirmish.1.A: "Ayudar al Estado de Mongolia Interior."
+ JAP_CHI_Mongol_Skirmish.1.B: "Las oportunidades abundan."
+
+ JAP_CHI_Mongol_Skirmish.2.t: "Minami envía hombres a Demchungdongrub"
+ JAP_CHI_Mongol_Skirmish.2.d: "Nuestras plegarias han sido aparentemente escuchadas esta semana, ya que Japón ha aprobado nuestro acuerdo y ha enviado fuerzas a nuestro país para asegurar nuestras fronteras de los agresivos chinos en nuestra frontera. Además, la presencia de fuerzas japonesas en Mongolia Interior ha asegurado la posición del Gobierno sobre los pueblos mongoles y chinos de la provincia, lo que ha ayudado a mantener el orden y expulsar a los bandidos. \n\nSin embargo, a pesar de los beneficios, hay muchos en nuestro Gobierno que se han opuesto vehementemente a esta nueva cooperación entre nosotros y Japón. Ciertamente, la cooperación con Japón ha tenido sus inconvenientes. Al ser obviamente un socio menor en este acuerdo, a Japón se le permite apostar un ejército dentro de nuestras fronteras, lo que les da la posibilidad de obtener también importantes beneficios políticos y económicos. Si Japón así lo deseara, le resultaría banal obligarnos a cumplir sus órdenes. \n\nAunque ésa es una posibilidad muy real, dada la alternativa de la destrucción a manos de China, vamos a tener que aceptar el riesgo sin más. En la actualidad, sin embargo, todo ésto permanece en el terreno de las conjeturas, y tenemos un motivo muy real para celebrar ahora mismo. ¡Mongolia Interior permanecerá libre de la dominación china!"
+ JAP_CHI_Mongol_Skirmish.2.A: "¡Por la Mongolia Interior!"
+
+ JAP_CHI_Mongol_Skirmish.3.t: "Fundación del Gobierno militar de Mongolia"
+ JAP_CHI_Mongol_Skirmish.3.d: "[FROM.GetNewsIcon]La esfera de influencia de Japón sigue creciendo, con la fundación de un nuevo Gobierno militar mongol en la provincia de Chahar de la Mongolia Interior. Mongolia Interior, a la que el Gobierno de Nankín concedió la autonomía en 1933, había servido de Estado colchón entre el Imperio del Japón y China, y había sido escenario de numerosos rifirrafes entre ambas potencias. Aunque el Gobierno chino sostenía que el territorio, gobernado por un Comité de Asuntos Políticos de la Autonomía Local de Mongolia autorizado por Nankín, seguía siendo legalmente parte de China, la región era independiente de facto. \n\nApoyados por tropas japonesas apostadas en la Manchuria vecina, el príncipe mongol Demchungdongrub y un consejo de nobles locales han tomado la provincia de Chahar, fundando el Gobierno militar de Mongolia y firmando una alianza con Manchuria y Japón.\n\nLos chinos han tildado la acción de «una insurrección incitada por los japoneses sin bases legales», y los informes confirman que tropas del Ejército Nacional están avanzando a la provincia colindante de Suiyuan. Japón también ha emitido un comunicado en el que afirma su apoyo a la nueva nación mongola y detalla sus planes para combatir a las organizaciones de bandidos que operan en la zona. Los comentaristas internacionales han criticado las acciones como provocativas y peligrosas, advirtiendo que una guerra entre China y Japón «provocaría casi seguro millones de muertes para todos los implicados» y que este nuevo Gobierno mongol sólo serviría para crispar las tensiones en China."
+ JAP_CHI_Mongol_Skirmish.3.A: "Otra pieza encaja en su sitio."
+ JAP_CHI_Mongol_Skirmish.3.B: "Otra pieza encaja en su sitio."
+
+ JAP_CHI_Mongol_Skirmish.4.t: "China responde"
+ JAP_CHI_Mongol_Skirmish.4.d: "Enviar fuerzas militares a Mongolia Interior nunca iba a ser una decisión sin repercusiones, y parece que las repercusiones que temíamos están empezando a hacerse patentes. Los chinos han desplazado unidades militares a Shansi, una región adyacente a nuestros aliados del Gobierno militar de Mongolia, quienes se preparan para futuras operaciones militares contra nosotros. \n\nChina, por supuesto, lleva varios años preparándose para una guerra con nosotros, pero esperábamos evitar provocar a los chinos para que apostaran un número significativo de soldados en la región montañosa, donde desalojarlos podría resultar extremadamente difícil. Las unidades de reconocimiento destinadas cerca de la frontera han informado de que han visto al menos mil soldados chinos, y llegan más cada día.\n\nLa Oficina del Estado Mayor del Ejército ha decidido que deben expulsar a las tropas chinas de Shansi, y algunos miembros sugieren que una fuerza suficiente que participe en un conflicto fronterizo a pequeña escala podría ser suficiente para dispersar a las tropas chinas allí. Si vamos a llevar a cabo tal operación, hay una complicación: no podemos desplegar fuerzas japonesas directamente. Hacerlo atraería una atención internacional no deseada y podría desembocar en una guerra con China. Sin embargo, si el Gobierno militar de Mongolia llevara a cabo esta operación, podríamos justificarla como una operación de mantenimiento de la paz libre de cualquier implicación directa por nuestra parte."
+ JAP_CHI_Mongol_Skirmish.4.A: "Este plan podría funcionar..."
+
+ JAP_CHI_Mongol_Skirmish.5.t: "La campaña de Suiyuan"
+ JAP_CHI_Mongol_Skirmish.5.d: "Hace unas semanas, aprobamos una operación en el norte de China para expulsar a las fuerzas chinas de la provincia de Suiyuan usando a las tropas del Gobierno militar de Mongolia para negar nuestra participación en el asunto. La inteligencia militar ha estado activa en la provincia de Suiyuan durante algún tiempo, y determinó la ubicación óptima para que la batalla tuviera lugar en una brecha en las defensas fronterizas chinas que daría ventaja a los mongoles. \n\nLas fuerzas subsidiarias posicionadas en la frontera de Suiyuan constan de tropas leales al príncipe Demchugdongrub y nobles mongoles que lo apoyan, junto con otros colaboradores chinos a las órdenes del Ejército de Kwantung. Hemos proporcionado a los grupos equipo militar y hemos asignado grupos de asesores a cada unidad colaboradora, así como artillería, aviones y automóviles blindados para ayudar a nuestros aliados mongoles. \n\nLas operaciones de recolección de información han indicado que el alto mando chino es consciente de nuestras movilizaciones cerca de la frontera y ha enviado más tropas a Suiyuan en respuesta. A estas alturas, hemos hecho todo lo que hemos podido para preparar a nuestras fuerzas mongolas. Lo mejor es atacar ahora antes de que entren más unidades chinas en la zona."
+ JAP_CHI_Mongol_Skirmish.5.A: "Esperemos que salga bien."
+
+ JAP_CHI_Mongol_Skirmish.6.t: "El Estado militar mongol gana la escaramuza"
+ JAP_CHI_Mongol_Skirmish.6.d: ""
+ JAP_CHI_Mongol_Skirmish.6.A: ""
+
+ JAP_CHI_Mongol_Skirmish.7.t: "La camarilla de Shansi gana la escaramuza"
+ JAP_CHI_Mongol_Skirmish.7.d: ""
+ JAP_CHI_Mongol_Skirmish.7.A: ""
+
+ JAP_CHI_Sino_Japanese_War.1.t: "Pacto de no agresión con soviéticos"
+ JAP_CHI_Sino_Japanese_War.1.d: ""
+ JAP_CHI_Sino_Japanese_War.1.A: ""
+
+ JAP_CHI_Sino_Japanese_War.2.t: "Pacto de no agresión con China"
+ JAP_CHI_Sino_Japanese_War.2.d: "Cuando comenzó la guerra civil china en 1927, la URSS mantuvo al principio una política de no injerencia. Como mínimo, se envió alguna ayuda menor a los comunistas. Sin embargo, Stalin se conformó con dejar que nacionalistas y comunistas lo resolvieran por su cuenta. La situación ha cambiado drásticamente desde la invasión japonesa de China. Desde la fundación de la Unión Soviética, la Unión Soviética y Japón se han disputado la supremacía del Lejano Oriente. Stalin es consciente de que, si permite a Japón conquistar China, Japón se convertirá en el hegemón indiscutible de Asia, lo que supondría una amenaza para la seguridad del Lejano Oriente soviético.\n\nPor tanto, para contrarrestar el creciente poder de Japón, Stalin accedió a un pacto de no agresión con Chiang Kai-shek. Algunos consideran ésto una traición de la revolución porque Chiang es un archirreaccionario y un sátrapa militar combatiendo activamente una revolución comunista. Nos ruegan que ayudemos a Mao y a sus rebeldes en su lucha contra Chiang y Japón. Stalin, en cambio, ve clara la situación. Entiende que Mao y sus guerrillas comunistas son incapaces de repeler a Japón por su cuenta. Si apoya a Mao, Mao podría volverse contra Chiang y ambos líderes chinos caerán en garras de Japón. En su lugar, Chiang recibirá nuestra ayuda para la mejoría de la revolución."
+ JAP_CHI_Sino_Japanese_War.2.A: "¡Lo que sea para detener a Japón!"
+
+ CHI_NAP_with_Soviets_tt: "§L¡Se desbloquearán decisiones para solicitar apoyo soviético!§!"
+
+ JAP_CHI_Sino_Japanese_War.3.t: "La República de China pide dinero"
+ JAP_CHI_Sino_Japanese_War.3.d: "Hoy nos hemos reunido en el Kremlin con el embajador chino a instancias de Nankín. Querían ver si podían obtener nuestra ayuda en relación con las tensiones entre ellos y Japón. Quieren que les demos dinero, y algunas de las razones que aducen son su maltrecha economía, que quedaría devastada si estallara un conflicto entre ellos y Japón, así como que prestarles dinero les daría más posibilidades de repeler cualquier ataque que venga de Japón, diciendo que amenazan nuestros intereses y la seguridad china.\n\nAunque no es ningún secreto que no nos llevamos bien con los japoneses, ¿son los chinos el Estado al que financiar? Algunos miembros del Comité Central sostienen que nuestro dinero estaría mejor invertido en otra cosa y que debemos mantenernos al margen de los asuntos exteriores. Sea cual sea nuestra decisión, Nankín espera impaciente nuestra respuesta."
+ JAP_CHI_Sino_Japanese_War.3.A: "Ésto podría ayudar a mantener a los japoneses a raya. (500 £money_icon£)"
+ JAP_CHI_Sino_Japanese_War.3.B: "Ésto podría ayudar a mantener a los japoneses a raya. (600 £money_icon£)"
+ JAP_CHI_Sino_Japanese_War.3.C: "Ésto podría ayudar a mantener a los japoneses a raya. (700 £money_icon£)"
+ JAP_CHI_Sino_Japanese_War.3.D: "¡No hacemos tratos con naciones reaccionarias!"
+
+ JAP_CHI_Sino_Japanese_War.4.t: "El incidente del Puente de Marco Polo"
+ JAP_CHI_Sino_Japanese_War.4.d: "Increíble. ¡Los traicioneros japoneses han tenido una escaramuza con una pequeña guarnición nuestra cerca del Puente de Marco Polo, matando a 96 de nuestros soldados! Se desconocen las razones, pero se cree que fueron unas supuestas maniobras militares japonesas que los soldados confundieron con un ataque y abrieron fuego. Los japoneses devolvieron el fuego, provocando el caos y la confusión.\n\nUna vez finalizado el tiroteo, los japoneses entraron bruscamente en el pueblo cercano para buscar a un soldado que había desaparecido. Como era claramente una transgresión de nuestro territorio soberano, se intercambiaron más disparos y los expulsamos. Fue después, cuando se produjo la escaramuza principal, con tanques y artillería enemigos atacando nuestras posiciones, cuando el control del puente se nos escapó de las manos.\n\nEl alto mando se siente profundamente avergonzado de que la situación se haya descontrolado, aunque es claramente culpa de los japoneses, y no quedará impune."
+ JAP_CHI_Sino_Japanese_War.4.A: "¡Otra victoria para el Ejército japonés!"
+ JAP_CHI_Sino_Japanese_War.4.B: "¡Los japoneses deberían disculparse por este incidente!"
+
+ JAP_CHI_Sino_Japanese_War.5.t: "El Gobierno chino exige"
+ JAP_CHI_Sino_Japanese_War.5.d: "El Gobierno chino de Nankín nos ha enviado hoy un mensaje en relación con la reciente escaramuza en el Puente de Marco Polo. Después de nuestra pequeña, pero significativa victoria allí, entramos en la zona de Pekín, asegurándola en nombre del Emperador.\n\nÉsto ha dado lugar a que los funcionarios de Nankín nos envíen una pequeña, pero airada, lista de exigencias en la que se afirma lo siguiente:\n\n1. Nuestras fuerzas han de retirarse de inmediato de la zona de Pekín.\n\n2. Debe pagarse una indemnización en respuesta a los daños causados a la zona local durante los combates.\n\nLos chinos dicen que el incumplimiento de cualquiera de estas exigencias podría provocar una nueva escalada de las tensiones. Aunque las tensiones entre nuestras dos naciones están en su punto álgido, ésta podría ser una valiosa oportunidad para buscar una desescalada, aunque podría dar una imagen de debilidad en el escenario mundial. Sin embargo, muchos miembros del Gobierno y del Ejército sugieren que ignoremos esta posibilidad y respondamos con toda nuestra fuerza a esta insolencia."
+ JAP_CHI_Sino_Japanese_War.5.A: "Aceptaremos sus exigencias."
+ JAP_CHI_Sino_Japanese_War.5.B: "El Ejército Imperial Japonés no se tomará tal agravio a la ligera."
+
+ JAP_CHI_Sino_Japanese_War.6.t: "El incidente del Puente de Marco Polo"
+ JAP_CHI_Sino_Japanese_War.6.d: "Desastre. Lo que empezó como unas simples maniobras cerca del Puente de Marco Polo se convirtió en una pequeña escaramuza, ¡que inesperadamente se ha saldado con nuestra derrota! La estúpida guarnición china destinada en el pueblo cercano confundió nuestras maniobras militares con un ataque contra ellos y abrió fuego contra nuestros soldados, que devolvieron el fuego con razón.\n\nCuando el caos se calmó, uno de nuestros soldados había desaparecido, así que registramos el pueblo cercano. Los chinos abrieron fuego innecesariamente contra nosotros, así que se intercambiaron disparos una vez más. Para entonces, habíamos enviado un pequeño destacamento para reforzar la zona, pero, por desgracia, los chinos habían enviado más, y nuestro intento de tomar el puente acabó en desastre, con un número desconocido de nuestros soldados muertos.\n\nNo podemos permitir que los chinos se vayan de rositas con este comportamiento belicista, así que enviaremos un ultimátum para ver si están dispuestos a arrepentirse de su ignorancia."
+ JAP_CHI_Sino_Japanese_War.6.A: "¡China debe pagar ésto!"
+ JAP_CHI_Sino_Japanese_War.6.B: "¡Los japoneses deberían disculparse por este incidente!"
+
+ JAP_CHI_Sino_Japanese_War.7.t: "¿Un ultimátum?"
+ JAP_CHI_Sino_Japanese_War.7.d: "Hoy, hacia el mediodía, hemos recibido un mensaje del embajador japonés en Nankín, aunque no es una disculpa por el reciente incidente del Puente de Marco Polo.\nEn su lugar, es un ultimátum. \n\nEn el breve mensaje, los japoneses nos presentan dos opciones. La primera es que asumamos la responsabilidad del incidente, cedamos la zona cercana de Pekín y paguemos una indemnización por los daños causados, a pesar de que la escaramuza tuvo lugar en nuestro territorio. La segunda opción es una que llevamos años intentando evitar: una guerra con los japoneses. Afirman que, de no responder a este ultimátum de manera suficiente, se considerará una ruptura total de la diplomacia y no les quedará más remedio que hacernos pagar con nuestra sangre.\n\nSi bien es cierto que podríamos ceder a sus exigencias ya que no estamos aún listos para luchar contra ellos, las tensiones entre nuestras dos naciones llevan años gestándose, y parece que ha llegado el inevitable momento en que debemos tomar partido contra esta amenaza imperialista."
+ JAP_CHI_Sino_Japanese_War.7.A: "¡Hemos alcanzado el punto álgido, jamás!"
+ JAP_CHI_Sino_Japanese_War.7.B: "¡Aún no podemos jugarnos una guerra contra Japón!"
+
+ JAP_CHI_Sino_Japanese_War.8.t: "China sufre nuevos ataques"
+ JAP_CHI_Sino_Japanese_War.8.d: "Cual gato, Japón avanzó y tomó Corea. Trataron de humillarnos con sus 21 exigencias, ocupan Manchuria y ahora avanzan de nuevo. Se acabó. China luchará hasta el final para ser libre. En un discurso al pueblo, [Root.GetLeader] hizo un llamamiento a todos los [Root.GetAdjective] para que se mantuvieran unidos o se enfrentaran solos a una perdición segura."
+ JAP_CHI_Sino_Japanese_War.8.A: "¡Por China!"
+
+ JAP_CHI_Sino_Japanese_War.88.t: "Los japoneses ganan en el Puente de Marco Polo, los chinos huyen en desbandada"
+ JAP_CHI_Sino_Japanese_War.88.d: "[FROM.GetNewsIcon]Hoy, el ejército mecanizado de Japón, liderado por más de cincuenta tanques y apoyado por artillería pesada, ha roto la última barrera de resistencia de la tan cacareada 37.ª División del Kuomintang chino y ha marchado prácticamente sin oposición hacia la ciudad de Changsintien, un centro ferroviario estratégico a 32 km al suroeste de Peiping. Ésto se produce después de muchas horas de intensas escaramuzas tras un altercado entre fuerzas japonesas y chinas a las afueras de la ciudad.\n\nFuentes japonesas afirman que fuerzas pertenecientes al Ejército Nacional Revolucionario chino secuestraron o mataron al soldado japonés Shimura Kikujiro y procedieron a disparar a los grupos de búsqueda que intentaban localizar al soldado desaparecido. Sin embargo, muchos observadores extranjeros, así como fuentes chinas, sostienen que ésto fue un incidente orquestado, igual que el de Mukden hace unos años.\n\nAunque lo que hizo estallar tal conflicto sigue sin estar claro, las consecuencias sí lo están. El Ejército Imperial Japonés ya ha empezado a enfrentarse a unidades chinas en toda la línea, y cada vez más unidades de ambos bandos se unen a la refriega. A medida que pasan las horas, las posibilidades de una resolución pacífica se desploman y un conflicto a gran escala entre Japón y China parece inevitable."
+ JAP_CHI_Sino_Japanese_War.88.A: "¿Que el Ejército ha hecho QUÉ?"
+ JAP_CHI_Sino_Japanese_War.88.B: "¡Hemos alcanzado el punto álgido!"
+ JAP_CHI_Sino_Japanese_War.88.C: "El dragón y el samurái se ven las caras."
+
+ JAP_CHI_Sino_Japanese_War.9.t: "China es atacada"
+ JAP_CHI_Sino_Japanese_War.9.d: "Es hora de que nos mantengamos unidos contra nuestro enemigo común, los japoneses. ¡Dejemos a un lado las disputas mezquinas y luchemos como una China fuerte y unida!"
+ JAP_CHI_Sino_Japanese_War.9.A: "¡Juntos somos más fuertes!"
+
+ JAP_CHI_Sino_Japanese_War.10.t: "Caída de Nankín"
+ JAP_CHI_Sino_Japanese_War.10.d: "[FROM.GetNewsIcon]Lo que antes era una ciudad ordenada, aunque inquieta, se ha convertido ahora en un nido de soldados y civiles aterrorizados y presas del pánico. Los soldados del general chino Tang Sheng-chih han penetrado en la línea de Fukuo tras una serie de derrotas decisivas que comenzaron en Shanghái. Tang Sheng-chih, su general, había huido a través del Yangtsé apenas un día antes, y el generalísimo Chiang Kai-shek había huido una semana antes. Ambos hombres le vieron las orejas al lobo, y Nankín está ahora en manos de los japoneses que avanzan.\n\nLos japoneses han tomado la ciudad, dirigidos por el general Iwane Matsui y el príncipe heredero Yasuhiko Asaka, y han cometido lo que sólo puede describirse como un crimen de lesa humanidad. Decenas de miles de hombres, mujeres y niños fueron masacrados como bestias. Mientras tanto, el Gobierno nacionalista del generalísimo Chiang se ha establecido en Chungking y ha jurado luchar hasta que el último soldado japonés en China haya muerto."
+ JAP_CHI_Sino_Japanese_War.10.A: "¡Ni siquiera hemos empezado a luchar!"
+ JAP_CHI_Sino_Japanese_War.10.B: "¡Banzai!"
+ JAP_CHI_Sino_Japanese_War.10.C: "Un golpe a la causa nacionalista."
+
+ JAP_CHI_Sino_Japanese_War.11.t: "Caída de Wuhan"
+ JAP_CHI_Sino_Japanese_War.11.d: "[FROM.GetNewsIcon]"
+ JAP_CHI_Sino_Japanese_War.11.A: "Mierda."
+ JAP_CHI_Sino_Japanese_War.11.B: "¡Banzai!"
+ JAP_CHI_Sino_Japanese_War.11.C: "Preocupante."
+ 
+######################################################################
+#  Victory in the Second Sino-Japanese War
+######################################################################
+
+ JAP_Sino_Japanese_War_Chinese_Defeat.1.t: "Amanecer en Chungking"
+ JAP_Sino_Japanese_War_Chinese_Defeat.1.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.1.A: "No te preocupes, China, ahora estás a salvo."
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.2.t: "Amanecer en Chungking"
+ JAP_Sino_Japanese_War_Chinese_Defeat.2.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.2.A: "No te preocupes, China, ahora estás a salvo."
+ JAP_Sino_Japanese_War_China_Defeat.tt: "§RAl vencedor va el botín.§!"
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.3.t: "Un perrito faldero en Yunnan"
+ JAP_Sino_Japanese_War_Chinese_Defeat.3.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.3.A: "Era de esperar."
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.4.t: "¡Lung Yun desafiante!"
+ JAP_Sino_Japanese_War_Chinese_Defeat.4.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.4.A: "¡Este lunático no es rival para el Kwangtung!"
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.5.t: "Victoria en Yunnan"
+ JAP_Sino_Japanese_War_Chinese_Defeat.5.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.5.A: "Pasando."
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.6.t: "Un Yunnan francés"
+ JAP_Sino_Japanese_War_Chinese_Defeat.6.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.6.A: "No era de esperar..."
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.7.t: "¡El Tíbet acepta!"
+ JAP_Sino_Japanese_War_Chinese_Defeat.7.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.7.A: "¡Perfecto!"
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.8.t: "El Tíbet se niega"
+ JAP_Sino_Japanese_War_Chinese_Defeat.8.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.8.A: "Lástima."
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.9.t: "El fin de Mao"
+ JAP_Sino_Japanese_War_Chinese_Defeat.9.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.9.A: "Adiós muy buenas."
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.10.t: "Telegrama de Moscú"
+ JAP_Sino_Japanese_War_Chinese_Defeat.10.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.10.A: "¡Serán bastardos!"
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.11.t: "La muerte de la república de Chiang"
+ JAP_Sino_Japanese_War_Chinese_Defeat.11.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.11.A: "Entregarlo al Gobierno "«legítimo».
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.12.t: "¡Los japoneses entran en Chungking, el Kuomintang se derrumba!"
+ JAP_Sino_Japanese_War_Chinese_Defeat.12.d: "[FROM.GetNewsIcon]Hay noticias terribles de Chungking, la antigua capital china. En su día fue la capital de la resistencia china a la invasión japonesa, pero ahora no es más que una ruina. Tras aniquilar a los defensores chinos desmoralizados e infradotados fuera de la ciudad, las tropas japonesas se han extendido por la antigua capital en busca de objetivos de alto valor y de botín.\n\nEl generalísimo Chiang Kai-shek, líder del partido Kuomintang y jefe del Frente Unido Chino, es, por supuesto, el objetivo más valioso. A pesar de usar una violencia bárbara y la fuerza extrema, su búsqueda no ha dado resultado. Según fuentes aliadas, Chiang huyó de la ciudad a la primera señal de problemas. Dejó atrás su hogar, a su familia, su plana mayor y las ruinas del Estado chino. No se sabe dónde puede haber ido.\n\nLa pérdida de su nueva capital y su carismático líder ha asestado un golpe mortal al movimiento de resistencia nacionalista chino. Ya hay informes de que una docena de generales se han declarado los nuevos presidentes de la República y han empezado a enfrentarse. Por su parte, los japoneses han escudriñado la campiña en busca de cualquier resistencia que puedan encontrar. Aunque las valientes guerrillas comunistas y nacionalistas pueden seguir luchando durante años, la guerra en China ha terminado claramente."
+ JAP_Sino_Japanese_War_Chinese_Defeat.12.A: "Ahí va el vecindario..."
+ JAP_Sino_Japanese_War_Chinese_Defeat.12.B: "¡La unificación de Asia no ha hecho más que empezar!"
+ 
+ JAP_Sino_Japanese_War_Chinese_Defeat.13.t: "Uno que se levanta tarde"
+ JAP_Sino_Japanese_War_Chinese_Defeat.13.d: ""
+ JAP_Sino_Japanese_War_Chinese_Defeat.13.A: "No habrá paz para los malvados."
+
+ ###############################################
+ ## Ideas
+ ###############################################
+
+ AJC_Official_Disbandment: "Disolución oficial"
+ AJC_Official_Disbandment_desc: ""
+
+ AJC_A_New_Army: "Un nuevo Ejército"
+ AJC_A_New_Army_desc: ""
+
+ CHI_Overseas_Chinese_Drivers_and_Mechanics: "Conductores y mecánicos chinos en el extranjero"
+ CHI_Overseas_Chinese_Drivers_and_Mechanics_desc: ""
+
+ JAP_Buying_Automotive_Parts: "Comprar piezas de automóviles"
+ JAP_Buying_Automotive_Parts_desc: ""
+ 
+ JAP_CHINA_Communist_Guerrillas: "Guerrillas comunistas"
+
+ ###############################################
+ ## Decisions
+ ###############################################
+ 
+ # Foreign Aid
+ CHI_Sino_Japanese_War: "Ayuda exterior"
+ CHI_Sino_Japanese_War_desc: "\n\n\n£decision_header_CHI_Foreign_Aid£\n\n\n\nLa enfermedad china de la piel ha empezado a extenderse, infectar y dañar los órganos externos. Aunque nuestra voluntad es férrea, poseemos capacidades limitadas para resistir a las agresiones injustificadas de los japoneses, por lo que debemos buscar ayuda en otros lugares.\n\nLa ayuda exterior, sobre todo de Occidente, puede proporcionarnos las herramientas que nuestras fábricas no pueden producir, pero que son esenciales para concedernos la habilidad de devolver al sol naciente al mar.\n\nCuando las potencias extranjeras vean nuestra resolución y determinación para luchar, sabrán que les interesa que China sobreviva y que cese el belicismo de Japón."
+ CHI_Recruit_Overseas_Chinese_Volunteers: "Reclutar a voluntarios chinos extranjeros"
+ CHI_Centralise_the_Air_Force: "Centralizar la Fuerza Aérea"
+ CHI_Send_Pilots_for_Aerial_Gunnery_Training: "Enviar pilotos para entrenamiento de artillería aérea"
+ CHI_Sign_a_Non_Aggression_Pact_with_the_Soviets: "Firmar un pacto de no agresión con los soviéticos"
+ CHI_Build_a_Highway_Through_Xianjiang: "Construir una autopista a través de Sinkiang"
+ CHI_Build_a_Refinery_with_Soviet_Assistance: "Construir una refinería con ayuda soviética"
+ CHI_Ask_the_Soviets_for_Loans: "Pedir préstamos a los soviéticos"
+ CHI_Buy_Tanks: "Comprar tanques"
+ CHI_Buy_Infantry_Weapons: "Comprar armas de infantería"
+ CHI_Buy_Artillery_Guns: "Comprar obuses de artillería"
+ CHI_Buy_Fighters: "Comprar cazas"
+ CHI_Buy_Bombers: "Comprar bombarderos"
+ CHI_Use_the_Soviet_Air_Volunteers: "Usar a los voluntarios aéreos soviéticos"
+
+ # American-Japanese Trade
+ JAP_American_Japanese_Trade: "Comercio estadounidense-japonés"
+ JAP_American_Japanese_Trade_desc: "\n\n\n£decision_header_JAP_American_Trade£\n\n\n\nLas Nipponrettō, o Islas Principales, carecen de los recursos necesarios para impulsar nuestro esfuerzo bélico. La lucha para unir Asia y liberarla de los imperialistas occidentales ha comenzado; para mantener el esfuerzo bélico hasta nuestra victoria ante los chinos, debemos hacer lo que los estadounidenses llamarían «un trato con el demonio».\n\nEE. UU. posee una gran riqueza industrial, económica y natural; afortunadamente, los codiciosos Midas de su país están deseosos de comerciar con nosotros. A pesar de las protestas de su Gobierno, los famosos comerciantes yanquis nos proporcionarán los recursos que necesitamos."
+ JAP_Purchase_Trucks_for_the_Kwantung_Army: "Comprar camiones para el Ejército de Kwantung"
+ JAP_Buy_Machine_Tools_for_Factories: "Comprar máquinas herramientas para las fábricas"
+ JAP_Buy_Steel_and_Scrap_Iron: "Comprar acero y chatarra"
+ JAP_Buy_Petrol_and_Other_Petroleum_Products: "Comprar gasolina y otros productos petrolíferos"
+ JAP_Buy_Automotive_Parts: "Comprar piezas de automóviles"
+
+ # Japanese Operations
+ JAP_Sino_Japanese_War_category: "La guerra sino-japonesa"
+ JAP_Sino_Japanese_War_category_desc: "\n\n\n£decision_header_JAP_Sino_Japanese_War£\n\n\n\n"
+ JAP_Create_an_Incident_with_the_Chinese: "§RCrear un incidente con los chinos§!"
+ JAP_Pacify_the_Countryside: "Pacificar el campo"
+ JAP_Raise_Local_Levies: "Aumentar las tasas locales"
+ JAP_Launch_Rice_Offensives: "Iniciar «ofensivas de arroz»"
+ JAP_Sweep_the_Northern_Plains: "Peinar las llanuras del norte"
+ JAP_Launch_Canton_Operation: "Iniciar la Operación Cantón"
+ JAP_The_Great_Way_Municipal_Government_of_Shanghai: "Formar el Gobierno Municipal de la Gran Vía de Shanghái"
+ JAP_Establish_the_Provisional_Government_of_ROC: "Establecer el Gobierno provisional de la República de China"
+ JAP_Establish_the_Reformed_Government_of_ROC: "Establecer el Gobierno Reformado de la República de China"
+ JAP_Establish_the_Reorganized_Government_of_ROC: "Establecer el Gobierno Reorganizado de la República de China"
+ 
+ # Victory in China
+ JAP_Victory_In_China_category: "Victoria en China"
+ JAP_The_Yunnan_Issue: "La cuestión de Yunnan"
+ JAP_Tackle_The_Remnants: "Abordar los remanentes"
+ JAP_Tackle_The_Remnants_tt: "§RLos soviéticos podrían estar dispuestos a defender a la moribunda República, así que debemos andar con pies de plomo.§!"
+ JAP_Crush_Xinjiang: "Aplastar a Sinkiang"
+ JAP_Woo_Tibet: "Seducir al Tíbet"
+
+ JAP_victory_in_china: "Hemos logrado la victoria en China"
+ JAP_victory_in_yunnan: "Nos hemos ocupado de Yunnan"
+ JAP_death_of_the_roc: "La República de China ha sido totalmente destruida"
+
+ ###############################################
+ ## Tooltips & Other
+ ###############################################
+ 
+ CHI_Recruit_Chinese_American_Aviator_Volunteers_cost: "£command_power §Y10§!"
+ CHI_Recruit_Chinese_American_Aviator_Volunteers_cost_blocked: "£command_power §R10§!"
+ JAP_Launch_Rice_Offensives_cost: "£command_power §Y10§!"
+ JAP_Launch_Rice_Offensives_cost_blocked: "£command_power §R10§!"
+ JAP_American_Trade_cost: "£money_icon §Y300§!"
+ JAP_American_Trade_cost_blocked: "£money_icon §R300§!"
+ JAP_American_Trade_cost_2: "£money_icon §Y150§!"
+ JAP_American_Trade_cost_2_blocked: "£money_icon §R150§!"
+
+ PRC_Non_Aggression_Pact_with_China: "Pacto de no agresión con la República de China"

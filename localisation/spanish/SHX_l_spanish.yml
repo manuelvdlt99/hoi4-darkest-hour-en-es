@@ -1,0 +1,24 @@
+﻿l_spanish:
+######################################################################
+#  Shanxi Focuses
+######################################################################
+
+######################################################################
+#  Shanxi Events
+######################################################################
+ SHX_Sino_Japanese_War_Chinese_Defeat.1.t: "Por las colinas y por todas partes"
+ SHX_Sino_Japanese_War_Chinese_Defeat.1.d: ""
+ SHX_Sino_Japanese_War_Chinese_Defeat.1.A: "¡El Ejército Rojo seguirá luchando pase lo que pase!"
+ SHX_Sino_Japanese_War_Chinese_Defeat.1.B: "Debemos arrodillarnos por nuestra propia supervivencia."
+
+######################################################################
+#  Shanxi Ideas
+######################################################################
+ SHX_The_Model_Province: "La provincia modélica"
+ SHX_The_Model_Province_desc: ""
+ 
+ SHX_Taiyuan_Arsenal_Guns: "Armas del Arsenal de Taiyuan"
+ SHX_Taiyuan_Arsenal_Guns_desc: ""
+
+ SHX_Fortress_Shanxi: "Fortaleza Shansi"
+ SHX_Fortress_Shanxi_desc: ""

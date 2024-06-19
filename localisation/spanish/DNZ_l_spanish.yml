@@ -1,0 +1,27 @@
+﻿l_spanish:
+######################################################################
+#  National Spirits
+######################################################################
+ DNZ_Free_City_of_Danzig: "Ciudad Libre de Dánzig"
+ DNZ_Free_City_of_Danzig_desc: "Desde que el Tratado de Versalles entró en vigor en 1920, la Ciudad Libre de Dánzig ha gozado de semiindependencia en la costa del Báltico. Sin embargo, la ciudad-Estado está muy restringida por el tratado, que le impide emprender cualquier acción decisiva a nivel internacional y prohíbe cualquier intento de reunificación con §Y[GER.GetNameWithFlag]§!."
+
+######################################################################
+#  Events
+######################################################################
+ DNZ_Politics.1.t: "Dimisión de Hermann Rauschning"
+ DNZ_Politics.1.d: "El presidente del Senado, Hermann Rauschning, ha presentado hoy su dimisión durante una semana convulsa para Dánzig y la propia Alemania. No ha sido una noticia inesperada, tras la purga masiva de ayer de las Sturmabteilung por parte de Hitler y las autoridades alemanas. Entre las bajas de la purga se encontraban dos grandes aliados de Rauschning, el comandante de las Sturmabteilung, Ernst Röhm, y el político Gregor Strasser. Ahora que Rauschning ya no está al mando, su principal rival, Arthur Greiser, ha sido elegido nuevo presidente del Senado."
+ DNZ_Politics.1.A: "Otra baja de la purga."
+
+ DNZ_Politics.2.t: "Toma del poder del Partido Nazi en Dánzig"
+ DNZ_Politics.2.d: "[FROM.GetNewsIcon]Hoy han llegado noticias de la Ciudad Libre de Dánzig: el Partido Nazi local del gauleiter Albert Forster ha conseguido el 50 % de los votos en las elecciones al Volkstag. Por tanto, los nazis se han hecho con el dominio del Gobierno de la ciudad, que sigue bajo la supuesta supervisión del alto comisionado de la Sociedad de las Naciones...\n\nEsta victoria ha sorprendido a muchos y ha impactado a muchos más, dado que el Partido Nazi sólo parecía tener pocas probabilidades de éxito al principio, con un 0,8 % de los votos en 1927, y hasta se llegó a disolver brevemente. Sin embargo, parece que su influencia aumentó drásticamente aprovechando los sentimientos proalemanes, el inicio de difíciles relaciones económicas y la creciente popularidad del Partido Nazi en Alemania...\n\nSe espera que los nazis tomen el control del Senado en unos meses y que Hermann Rauschning sea el presidente del Senado de Dánzig."
+ DNZ_Politics.2.A: "¡Otra victoria para la causa!"
+ DNZ_Politics.2.B: "Mientras respeten el Tratado de Versalles..."
+ DNZ_Politics.2.C: "¡Dánzig es alemán!"
+
+ DNZ_LoN.1.t: "Nombrado un nuevo alto comisionado"
+ DNZ_LoN.1.d: "Hoy se ha nombrado al nuevo alto comisionado de la Sociedad de las Naciones, llamado Seán Lester, para supervisar nuestro Gobierno. Dado que el anterior alto comisionado, Helmer Rosting, sólo era alto comisionado en funciones debido a la repentina muerte de su predecesor en 1932, parece que ahora las cosas volverán de nuevo a la normalidad.\n\nSean Lester es un diplomático irlandés, conocido sobre todo por ser el delegado permanente de Irlanda ante la Sociedad de las Naciones en Ginebra. Está muy implicado en la labor de la SDN, como demuestra su intento de resolver dos guerras en Sudamérica, lo que le valió la atención de la Secretaría de la SDN, momento en el que comenzó su transformación de funcionario nacional a funcionario internacional.\n\nEn 1933, Lester fue destinado a la Secretaría de la SDN y más tarde nos fue enviado como nuevo alto comisionado."
+ DNZ_LoN.1.A: "¡Bienvenido a Dánzig, señor Lester!"
+
+ DNZ_LoN.2.t: "Nombrado un nuevo alto comisionado"
+ DNZ_LoN.2.d: "Hoy se ha nombrado a un nuevo alto comisionado de la Sociedad de las Naciones para supervisar nuestro Gobierno. Se llama Carl Jacob Burckhardt y reemplazará al antiguo alto comisionado, Seán Lester.\n\nBurckhardt es un diplomático e historiador suizo y, hasta hace poco, profesor de universidad en el recién creado Instituto Universitario de Altos Estudios Internacionales de Ginebra.\n\nAspira a mantener el estatus internacional de Dánzig garantizado por la Sociedad de las Naciones, pero, ante la tensión mundial en aumento y un conflicto en el horizonte, le resultará muy complicado cumplir esta misión."
+ DNZ_LoN.2.A: "¡Bienvenido a Dánzig, señor Burckhardt!"

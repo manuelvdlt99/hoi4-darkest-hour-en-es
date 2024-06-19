@@ -1,0 +1,1815 @@
+﻿l_spanish:
+ naval_equipment: "Barcos"
+
+ #############################################
+ #### Screens 
+ #############################################
+### Submarines SS
+ SS_equipment: "Submarino de ataque"
+ SS_equipment_1895: "Barco de buceo 1895"
+ SS_equipment_1895_desc: "Los submarinos están diseñados para viajar bajo el agua, lo que les permite operar de forma clandestina contra otras unidades navales. Su armamento principal consta de torpedos, que son letales contra todos los demás tipos de navíos, ya sean portaaviones, acorazados, transportes navales u otros submarinos. Sin embargo, los submarinos pueden verse perjudicados por su corto alcance y las nuevas tecnologías para mejorarlos pueden resultar caras."
+ SS_equipment_1912: "Submarino ‘12"
+ SS_equipment_1912_desc: "Los submarinos están diseñados para viajar bajo el agua, lo que les permite operar de forma clandestina contra otras unidades navales. Su armamento principal consta de torpedos, que son letales contra todos los demás tipos de navíos, ya sean portaaviones, acorazados, transportes navales u otros submarinos. Sin embargo, los submarinos pueden verse perjudicados por su corto alcance y las nuevas tecnologías para mejorarlos pueden resultar caras."
+ SS_equipment_1916: "Submarino ‘16"
+ SS_equipment_1916_desc: "Los submarinos están diseñados para viajar bajo el agua, lo que les permite operar de forma clandestina contra otras unidades navales. Su armamento principal consta de torpedos, que son letales contra todos los demás tipos de navíos, ya sean portaaviones, acorazados, transportes navales u otros submarinos. Sin embargo, los submarinos pueden verse perjudicados por su corto alcance y las nuevas tecnologías para mejorarlos pueden resultar caras."
+ SS_equipment_1922: "Submarino ‘22"
+ SS_equipment_1922_desc: "Los submarinos están diseñados para viajar bajo el agua, lo que les permite operar de forma clandestina contra otras unidades navales. Su armamento principal consta de torpedos, que son letales contra todos los demás tipos de navíos, ya sean portaaviones, acorazados, transportes navales u otros submarinos. Sin embargo, los submarinos pueden verse perjudicados por su corto alcance y las nuevas tecnologías para mejorarlos pueden resultar caras."
+ SS_equipment_1933: "Submarino ‘33"
+ SS_equipment_1933_desc: "Los submarinos están diseñados para viajar bajo el agua, lo que les permite operar de forma clandestina contra otras unidades navales. Su armamento principal consta de torpedos, que son letales contra todos los demás tipos de navíos, ya sean portaaviones, acorazados, transportes navales u otros submarinos. Sin embargo, los submarinos pueden verse perjudicados por su corto alcance y las nuevas tecnologías para mejorarlos pueden resultar caras."
+ SS_equipment_1936: "Submarino ‘36"
+ SS_equipment_1936_desc: "Los submarinos están diseñados para viajar bajo el agua, lo que les permite operar de forma clandestina contra otras unidades navales. Su armamento principal consta de torpedos, que son letales contra todos los demás tipos de navíos, ya sean portaaviones, acorazados, transportes navales u otros submarinos. Sin embargo, los submarinos pueden verse perjudicados por su corto alcance y las nuevas tecnologías para mejorarlos pueden resultar caras."
+ SS_equipment_1940: "Submarino ‘40"
+ SS_equipment_1940_desc: "Los submarinos están diseñados para viajar bajo el agua, lo que les permite operar de forma clandestina contra otras unidades navales. Su armamento principal consta de torpedos, que son letales contra todos los demás tipos de navíos, ya sean portaaviones, acorazados, transportes navales u otros submarinos. Sin embargo, los submarinos pueden verse perjudicados por su corto alcance y las nuevas tecnologías para mejorarlos pueden resultar caras."
+ SS_equipment_1945: "Submarino ‘45"
+ SS_equipment_1945_desc: "Los submarinos están diseñados para viajar bajo el agua, lo que les permite operar de forma clandestina contra otras unidades navales. Su armamento principal consta de torpedos, que son letales contra todos los demás tipos de navíos, ya sean portaaviones, acorazados, transportes navales u otros submarinos. Sin embargo, los submarinos pueden verse perjudicados por su corto alcance y las nuevas tecnologías para mejorarlos pueden resultar caras."
+ SS_equipment_1950: "Submarino ‘50"
+ SS_equipment_1950_desc: "Los submarinos están diseñados para viajar bajo el agua, lo que les permite operar de forma clandestina contra otras unidades navales. Su armamento principal consta de torpedos, que son letales contra todos los demás tipos de navíos, ya sean portaaviones, acorazados, transportes navales u otros submarinos. Sin embargo, los submarinos pueden verse perjudicados por su corto alcance y las nuevas tecnologías para mejorarlos pueden resultar caras."
+ SSK_equipment_1955: "SSK '55"
+ SSK_equipment_1955_long: "Submarino de ataque diésel-eléctrico ‘55"
+ SSK_equipment_1960: "SSK '60"
+ SSK_equipment_1960_long: "Submarino de ataque diésel-eléctrico ‘60"
+ SSK_equipment_1970: "SSK '70"
+ SSK_equipment_1970_long: "Submarino de ataque diésel-eléctrico ‘70"
+ SSK_equipment_1980: "SSK '80"
+ SSK_equipment_1980_long: "Submarino de ataque diésel-eléctrico ‘80"
+ SSK_equipment_1990: "SSK '90"
+ SSK_equipment_1990_long: "Submarino de ataque diésel-eléctrico ‘90"
+
+ SSN_equipment: "Submarino de ataque nuclear"
+ SSN_equipment_1955: "SSN '55"
+ SSN_equipment_1955_long: "Submarino de ataque nuclear ‘55"
+ SSN_equipment_1960: "SSN '60"
+ SSN_equipment_1960_long: "Submarino de ataque nuclear ‘60"
+ SSN_equipment_1970: "SSN '70"
+ SSN_equipment_1970_long: "Submarino de ataque nuclear ‘70"
+ SSN_equipment_1980: "SSN '80"
+ SSN_equipment_1980_long: "Submarino de ataque nuclear ‘80"
+ SSN_equipment_1990: "SSN '90"
+ SSN_equipment_1990_long: "Submarino de ataque nuclear ‘90"
+ 
+### Heavy Submarines HSS
+ heavy_submarine: "Submarino pesado"
+ HSS_equipment: "Submarino pesado"
+ HSS_equipment_1933: "Submarino pesado ‘33"
+ HSS_equipment_1933_desc: "Los submarinos pesados con mucho alcance y equipados con hidroaviones son aptos para el reconocimiento."
+ HSS_equipment_1940: "Submarino pesado ‘40"
+ HSS_equipment_1940_desc: "Los submarinos pesados con mucho alcance y equipados con hidroaviones son aptos para el reconocimiento."
+ SHSS_equipment_1945: "Submarino superpesado ‘45"
+ SHSS_equipment_1945_short: "Submarino superp. ‘45"
+ SHSS_equipment_1945_desc: "Los submarinos pesados con mucho alcance y equipados con hidroaviones son aptos para el reconocimiento."
+
+### Destroyers DD
+ DD_equipment: "Destructor"
+ DD_equipment_1885: "Cañonera torpedera 1885"
+ DD_equipment_1885_desc: "Los destructores son el buque superficial más pequeño y rápido. Van ligeramente armados en comparación con los acorazados, pero su velocidad y maniobrabilidad les permiten proporcionar una buena primera línea de defensa lejos de los principales buques capitales de una flota, y sus cañones ligeros son útiles para atacar a los aviones. Los destructores suelen combinarse en grupos y usarse para escolta de convoyes y funciones antisubmarinas."
+ DD_equipment_1900: "Destructor de flota ‘00"
+ DD_equipment_1900_desc: "Los destructores son el buque superficial más pequeño y rápido. Van ligeramente armados en comparación con los acorazados, pero su velocidad y maniobrabilidad les permiten proporcionar una buena primera línea de defensa lejos de los principales buques capitales de una flota, y sus cañones ligeros son útiles para atacar a los aviones. Los destructores suelen combinarse en grupos y usarse para escolta de convoyes y funciones antisubmarinas."
+ DD_equipment_1912: "Destructor de turbina ‘12"
+ DD_equipment_1912_desc: "Los destructores son el buque superficial más pequeño y rápido. Van ligeramente armados en comparación con los acorazados, pero su velocidad y maniobrabilidad les permiten proporcionar una buena primera línea de defensa lejos de los principales buques capitales de una flota, y sus cañones ligeros son útiles para atacar a los aviones. Los destructores suelen combinarse en grupos y usarse para escolta de convoyes y funciones antisubmarinas."
+ DD_equipment_1916: "Destructor ‘16"
+ DD_equipment_1916_desc: "Los destructores son el buque superficial más pequeño y rápido. Van ligeramente armados en comparación con los acorazados, pero su velocidad y maniobrabilidad les permiten proporcionar una buena primera línea de defensa lejos de los principales buques capitales de una flota, y sus cañones ligeros son útiles para atacar a los aviones. Los destructores suelen combinarse en grupos y usarse para escolta de convoyes y funciones antisubmarinas."
+ DD_equipment_1922: "Destructor ‘22"
+ DD_equipment_1922_desc: "Los destructores son el buque superficial más pequeño y rápido. Van ligeramente armados en comparación con los acorazados, pero su velocidad y maniobrabilidad les permiten proporcionar una buena primera línea de defensa lejos de los principales buques capitales de una flota, y sus cañones ligeros son útiles para atacar a los aviones. Los destructores suelen combinarse en grupos y usarse para escolta de convoyes y funciones antisubmarinas."
+ DD_equipment_1933: "Destructor ‘33"
+ DD_equipment_1933_desc: "Los destructores son el buque superficial más pequeño y rápido. Van ligeramente armados en comparación con los acorazados, pero su velocidad y maniobrabilidad les permiten proporcionar una buena primera línea de defensa lejos de los principales buques capitales de una flota, y sus cañones ligeros son útiles para atacar a los aviones. Los destructores suelen combinarse en grupos y usarse para escolta de convoyes y funciones antisubmarinas."
+ DD_equipment_1936: "Destructor ‘36"
+ DD_equipment_1936_desc: "Los destructores son el buque superficial más pequeño y rápido. Van ligeramente armados en comparación con los acorazados, pero su velocidad y maniobrabilidad les permiten proporcionar una buena primera línea de defensa lejos de los principales buques capitales de una flota, y sus cañones ligeros son útiles para atacar a los aviones. Los destructores suelen combinarse en grupos y usarse para escolta de convoyes y funciones antisubmarinas."
+ DD_equipment_1940: "Destructor ‘40"
+ DD_equipment_1940_desc: "Los destructores son el buque superficial más pequeño y rápido. Van ligeramente armados en comparación con los acorazados, pero su velocidad y maniobrabilidad les permiten proporcionar una buena primera línea de defensa lejos de los principales buques capitales de una flota, y sus cañones ligeros son útiles para atacar a los aviones. Los destructores suelen combinarse en grupos y usarse para escolta de convoyes y funciones antisubmarinas."
+ DD_equipment_1945: "Destructor ‘45"
+ DD_equipment_1945_desc: "Los destructores son el buque superficial más pequeño y rápido. Van ligeramente armados en comparación con los acorazados, pero su velocidad y maniobrabilidad les permiten proporcionar una buena primera línea de defensa lejos de los principales buques capitales de una flota, y sus cañones ligeros son útiles para atacar a los aviones. Los destructores suelen combinarse en grupos y usarse para escolta de convoyes y funciones antisubmarinas."
+ DD_equipment_1950: "Destructor ‘50"
+ DD_equipment_1950_desc: "Un destructor de misiles guiados es un destructor diseñado para lanzar misiles guiados. Muchos también van equipados para llevar a cabo operaciones antisubmarinas, antiaéreas y antisuperficie. La designación estándar de la OTAN para estos navíos es DDG. Las naciones varían en el uso de la designación del destructor D en la numeración del gallardete del casco, ya sea anteponiéndole un prefijo o suprimiéndolo por completo."
+ DDG_equipment_1955: "DDG '55"
+ DDG_equipment_1955_long: "Destructor lanzamisiles ‘55"
+ DDG_equipment_1960: "DDG '60"
+ DDG_equipment_1960_long: "Destructor lanzamisiles ‘60"
+ DDG_equipment_1970: "DDG '70"
+ DDG_equipment_1970_long: "Destructor lanzamisiles ‘70"
+ DDG_equipment_1980: "DDG '80"
+ DDG_equipment_1980_long: "Destructor lanzamisiles ‘80"
+ DDG_equipment_1990: "DDG '90"
+ DDG_equipment_1990_long: "Destructor lanzamisiles ‘90"
+
+ FFG_equipment_1970: "FFG '70"
+ FFG_equipment_1970_long: "Fragata lanzamisiles ‘70"
+ FFG_equipment_1980: "FFG '80"
+ FFG_equipment_1980_long: "Fragata lanzamisiles ‘80"
+ FFG_equipment_1990: "FFG '90"
+ FFG_equipment_1990_long: "Fragata lanzamisiles ‘90"
+
+### Light Cruisers CL
+ CL_equipment: "Crucero ligero"
+
+ CL_equipment_1885: "Crucero protegido 1885"
+ CL_equipment_1885_desc: "Los cruceros ligeros no son mucho más que destructores grandes. Suelen ir ligeramente armados para darles una buena velocidad y buen alcance. Se suelen usar como escoltas para buques capitales, como acorazados o portaaviones, principalmente brindándoles protección ante ataques aéreos enemigos, pero también ante submarinos enemigos."
+ CL_equipment_1900: "Crucero de exploración ‘00"
+ CL_equipment_1900_desc: "Los cruceros ligeros no son mucho más que destructores grandes. Suelen ir ligeramente armados para darles una buena velocidad y buen alcance. Se suelen usar como escoltas para buques capitales, como acorazados o portaaviones, principalmente brindándoles protección ante ataques aéreos enemigos, pero también ante submarinos enemigos."
+ CL_equipment_1912: "Crucero ligero ‘12"
+ CL_equipment_1912_desc: "Los cruceros ligeros no son mucho más que destructores grandes. Suelen ir ligeramente armados para darles una buena velocidad y buen alcance. Se suelen usar como escoltas para buques capitales, como acorazados o portaaviones, principalmente brindándoles protección ante ataques aéreos enemigos, pero también ante submarinos enemigos."
+ CL_equipment_1922: "Crucero ligero ‘22"
+ CL_equipment_1922_desc: "Los cruceros ligeros no son mucho más que destructores grandes. Suelen ir ligeramente armados para darles una buena velocidad y buen alcance. Se suelen usar como escoltas para buques capitales, como acorazados o portaaviones, principalmente brindándoles protección ante ataques aéreos enemigos, pero también ante submarinos enemigos."
+ CL_equipment_1933: "Crucero ligero ‘33"
+ CL_equipment_1933_desc: "Los cruceros ligeros no son mucho más que destructores grandes. Suelen ir ligeramente armados para darles una buena velocidad y buen alcance. Se suelen usar como escoltas para buques capitales, como acorazados o portaaviones, principalmente brindándoles protección ante ataques aéreos enemigos, pero también ante submarinos enemigos."
+ CL_equipment_1936: "Crucero ligero ‘36"
+ CL_equipment_1936_desc: "Los cruceros ligeros no son mucho más que destructores grandes. Suelen ir ligeramente armados para darles una buena velocidad y buen alcance. Se suelen usar como escoltas para buques capitales, como acorazados o portaaviones, principalmente brindándoles protección ante ataques aéreos enemigos, pero también ante submarinos enemigos."
+ CL_equipment_1940: "Crucero ligero ‘40"
+ CL_equipment_1940_desc: "Los cruceros ligeros no son mucho más que destructores grandes. Suelen ir ligeramente armados para darles una buena velocidad y buen alcance. Se suelen usar como escoltas para buques capitales, como acorazados o portaaviones, principalmente brindándoles protección ante ataques aéreos enemigos, pero también ante submarinos enemigos."
+ CL_equipment_1945: "Crucero ligero ‘43"
+ CL_equipment_1945_desc: "Los cruceros ligeros no son mucho más que destructores grandes. Suelen ir ligeramente armados para darles una buena velocidad y buen alcance. Se suelen usar como escoltas para buques capitales, como acorazados o portaaviones, principalmente brindándoles protección ante ataques aéreos enemigos, pero también ante submarinos enemigos."
+ CLG_equipment_1955: "CLG '55" 
+ CLG_equipment_1955_long: "Crucero ligero lanzamisiles ‘55" 
+ CLG_equipment_1955_desc: "Los cruceros ligeros no son mucho más que destructores grandes. Suelen ir ligeramente armados para darles una buena velocidad y buen alcance. Se suelen usar como escoltas para buques capitales, como acorazados o portaaviones, principalmente brindándoles protección ante ataques aéreos enemigos, pero también ante submarinos enemigos."
+ 
+### Heavy Cruisers CA
+ CA_equipment: "Crucero pesado"
+
+ CA_equipment_1885: "Fragata blindada 1885"
+ CA_equipment_1885_desc: "Los cruceros pesados son mayores y están más blindados que sus homólogos ligeros. Tienen cañones principales más grandes, lo que les permite bombardear unidades enemigas en tierra. Son efectivos contra buques superficiales enemigos, sobre todo destructores y cruceros ligeros, pero son susceptibles a ataques aéreos y submarinos."
+ CA_equipment_1895: "Crucero acorazado 1895"
+ CA_equipment_1895_desc: "Los cruceros pesados son mayores y están más blindados que sus homólogos ligeros. Tienen cañones principales más grandes, lo que les permite bombardear unidades enemigas en tierra. Son efectivos contra buques superficiales enemigos, sobre todo destructores y cruceros ligeros, pero son susceptibles a ataques aéreos y submarinos."
+ CA_equipment_1906: "Crucero acorazado ‘06"
+ CA_equipment_1906_desc: "Los cruceros pesados son mayores y están más blindados que sus homólogos ligeros. Tienen cañones principales más grandes, lo que les permite bombardear unidades enemigas en tierra. Son efectivos contra buques superficiales enemigos, sobre todo destructores y cruceros ligeros, pero son susceptibles a ataques aéreos y submarinos."
+ CA_equipment_1922: "Crucero pesado ‘22"
+ CA_equipment_1922_desc: "Los cruceros pesados son mayores y están más blindados que sus homólogos ligeros. Tienen cañones principales más grandes, lo que les permite bombardear unidades enemigas en tierra. Son efectivos contra buques superficiales enemigos, sobre todo destructores y cruceros ligeros, pero son susceptibles a ataques aéreos y submarinos."
+ CA_equipment_1933: "Crucero pesado ‘33"
+ CA_equipment_1933_desc: "Los cruceros pesados son mayores y están más blindados que sus homólogos ligeros. Tienen cañones principales más grandes, lo que les permite bombardear unidades enemigas en tierra. Son efectivos contra buques superficiales enemigos, sobre todo destructores y cruceros ligeros, pero son susceptibles a ataques aéreos y submarinos."
+ CA_equipment_1936: "Crucero pesado ‘36"
+ CA_equipment_1936_desc: "Los cruceros pesados son mayores y están más blindados que sus homólogos ligeros. Tienen cañones principales más grandes, lo que les permite bombardear unidades enemigas en tierra. Son efectivos contra buques superficiales enemigos, sobre todo destructores y cruceros ligeros, pero son susceptibles a ataques aéreos y submarinos."
+ CA_equipment_1940: "Crucero pesado ‘40"
+ CA_equipment_1940_desc: "Los cruceros pesados son mayores y están más blindados que sus homólogos ligeros. Tienen cañones principales más grandes, lo que les permite bombardear unidades enemigas en tierra. Son efectivos contra buques superficiales enemigos, sobre todo destructores y cruceros ligeros, pero son susceptibles a ataques aéreos y submarinos."
+ CA_equipment_1945: "Crucero pesado ‘45"
+ CA_equipment_1945_desc: "Los cruceros pesados son mayores y están más blindados que sus homólogos ligeros. Tienen cañones principales más grandes, lo que les permite bombardear unidades enemigas en tierra. Son efectivos contra buques superficiales enemigos, sobre todo destructores y cruceros ligeros, pero son susceptibles a ataques aéreos y submarinos."
+ CAG_equipment_1955: "CAG '55" 
+ CAG_equipment_1955_long: "Crucero pesado lanzamisiles ‘55" 
+ CAG_equipment_1955_desc: "Los cruceros pesados son mayores y están más blindados que sus homólogos ligeros. Tienen cañones principales más grandes, lo que les permite bombardear unidades enemigas en tierra. Son efectivos contra buques superficiales enemigos, sobre todo destructores y cruceros ligeros, pero son susceptibles a ataques aéreos y submarinos."
+
+### Missile Cruisers CG
+ CG_equipment_1960: "CG '60"
+ CG_equipment_1960_long: "Crucero lanzamisiles ‘60"
+ CG_equipment_1970: "CG '70"
+ CG_equipment_1970_long: "Crucero lanzamisiles ‘70"
+ CG_equipment_1980: "CG '80"
+ CG_equipment_1980_long: "Crucero lanzamisiles ‘80"
+
+##############################################
+#### Capitals 
+#############################################
+
+ ### Battlecruisers BC
+ BC_equipment: "Crucero de batalla"
+
+ BC_equipment_1906: "Crucero de batalla ‘06"
+ BC_equipment_1906_desc: "Los cruceros de batalla son cruceros muy pesados que combinan cañones principales grandes y un buen blindaje con una velocidad razonable y gran alcance. Se utilizan principalmente contra las rutas marítimas enemigas; son capaces de dejar atrás a los acorazados enemigos y de superar en velocidad a los escoltas de los convoyes."
+ BC_equipment_1912: "Crucero de batalla ‘12"
+ BC_equipment_1912_desc: "Los cruceros de batalla son cruceros muy pesados que combinan cañones principales grandes y un buen blindaje con una velocidad razonable y gran alcance. Se utilizan principalmente contra las rutas marítimas enemigas; son capaces de dejar atrás a los acorazados enemigos y de superar en velocidad a los escoltas de los convoyes."
+ BC_equipment_1916: "Crucero de batalla ‘16"
+ BC_equipment_1916_desc: "Los cruceros de batalla son cruceros muy pesados que combinan cañones principales grandes y un buen blindaje con una velocidad razonable y gran alcance. Se utilizan principalmente contra las rutas marítimas enemigas; son capaces de dejar atrás a los acorazados enemigos y de superar en velocidad a los escoltas de los convoyes."
+ BC_equipment_1933: "Crucero de batalla ‘33"
+ BC_equipment_1933_desc: "Los cruceros de batalla son cruceros muy pesados que combinan cañones principales grandes y un buen blindaje con una velocidad razonable y gran alcance. Se utilizan principalmente contra las rutas marítimas enemigas; son capaces de dejar atrás a los acorazados enemigos y de superar en velocidad a los escoltas de los convoyes."
+ BC_equipment_1940: "Crucero de batalla ‘40"
+ BC_equipment_1940_desc: "Los cruceros de batalla son cruceros muy pesados que combinan cañones principales grandes y un buen blindaje con una velocidad razonable y gran alcance. Se utilizan principalmente contra las rutas marítimas enemigas; son capaces de dejar atrás a los acorazados enemigos y de superar en velocidad a los escoltas de los convoyes."
+ BC_equipment_1950: "Crucero de batalla ‘50"
+ BC_equipment_1950_desc: "Los cruceros de batalla son cruceros muy pesados que combinan cañones principales grandes y un buen blindaje con una velocidad razonable y gran alcance. Se utilizan principalmente contra las rutas marítimas enemigas; son capaces de dejar atrás a los acorazados enemigos y de superar en velocidad a los escoltas de los convoyes."
+ 
+### Battleships BB
+ BB_equipment: "Acorazado"
+
+ BB_equipment_1885: "Acorazado torreta 1885"
+ BB_equipment_1885_desc: "El acorazado es el rey de los mares. Se trata de una descomunal plataforma de cañones flotante, diseñado principalmente para atacar desde lejos a los buques capitales enemigos y enviarlos al fondo del océano. Sin embargo, ahora son vulnerables a los ataques aéreos o de torpedos submarinos, y con la llegada de los portaaviones sus días empiezan a estar contados."
+ BB_equipment_1895: "Pre-dreadnought 1895"
+ BB_equipment_1895_desc: "El acorazado es el rey de los mares. Se trata de una descomunal plataforma de cañones flotante, diseñado principalmente para atacar desde lejos a los buques capitales enemigos y enviarlos al fondo del océano. Sin embargo, ahora son vulnerables a los ataques aéreos o de torpedos submarinos, y con la llegada de los portaaviones sus días empiezan a estar contados."
+ BB_equipment_1900: "Dreadnought '00"
+ BB_equipment_1900_desc: "El acorazado es el rey de los mares. Se trata de una descomunal plataforma de cañones flotante, diseñado principalmente para atacar desde lejos a los buques capitales enemigos y enviarlos al fondo del océano. Sin embargo, ahora son vulnerables a los ataques aéreos o de torpedos submarinos, y con la llegada de los portaaviones sus días empiezan a estar contados."
+ BB_equipment_1906: "Super-dreadnought '06"
+ BB_equipment_1906_desc: "El acorazado es el rey de los mares. Se trata de una descomunal plataforma de cañones flotante, diseñado principalmente para atacar desde lejos a los buques capitales enemigos y enviarlos al fondo del océano. Sin embargo, ahora son vulnerables a los ataques aéreos o de torpedos submarinos, y con la llegada de los portaaviones sus días empiezan a estar contados."
+ BB_equipment_1912: "Acorazado rápido ‘12"
+ BB_equipment_1912_desc: "El acorazado es el rey de los mares. Se trata de una descomunal plataforma de cañones flotante, diseñado principalmente para atacar desde lejos a los buques capitales enemigos y enviarlos al fondo del océano. Sin embargo, ahora son vulnerables a los ataques aéreos o de torpedos submarinos, y con la llegada de los portaaviones sus días empiezan a estar contados."
+ BB_equipment_1916: "Acorazado rápido ‘16"
+ BB_equipment_1916_desc: "El acorazado es el rey de los mares. Se trata de una descomunal plataforma de cañones flotante, diseñado principalmente para atacar desde lejos a los buques capitales enemigos y enviarlos al fondo del océano. Sin embargo, ahora son vulnerables a los ataques aéreos o de torpedos submarinos, y con la llegada de los portaaviones sus días empiezan a estar contados."
+ BB_equipment_1922: "Acorazado ‘22"
+ BB_equipment_1922_desc: "El acorazado es el rey de los mares. Se trata de una descomunal plataforma de cañones flotante, diseñado principalmente para atacar desde lejos a los buques capitales enemigos y enviarlos al fondo del océano. Sin embargo, ahora son vulnerables a los ataques aéreos o de torpedos submarinos, y con la llegada de los portaaviones sus días empiezan a estar contados."
+ BB_equipment_1933: "Acorazado ‘33"
+ BB_equipment_1933_desc: "El acorazado es el rey de los mares. Se trata de una descomunal plataforma de cañones flotante, diseñado principalmente para atacar desde lejos a los buques capitales enemigos y enviarlos al fondo del océano. Sin embargo, ahora son vulnerables a los ataques aéreos o de torpedos submarinos, y con la llegada de los portaaviones sus días empiezan a estar contados."
+ BB_equipment_1940: "Acorazado ‘40"
+ BB_equipment_1940_desc: "El acorazado es el rey de los mares. Se trata de una descomunal plataforma de cañones flotante, diseñado principalmente para atacar desde lejos a los buques capitales enemigos y enviarlos al fondo del océano. Sin embargo, ahora son vulnerables a los ataques aéreos o de torpedos submarinos, y con la llegada de los portaaviones sus días empiezan a estar contados."
+ BB_equipment_1950: "Acorazado ‘48"
+ BB_equipment_1950_desc: "El acorazado es el rey de los mares. Se trata de una descomunal plataforma de cañones flotante, diseñado principalmente para atacar desde lejos a los buques capitales enemigos y enviarlos al fondo del océano. Sin embargo, ahora son vulnerables a los ataques aéreos o de torpedos submarinos, y con la llegada de los portaaviones sus días empiezan a estar contados."
+ 
+# -- Super Heavy Battleships SHBB
+ SHBB_equipment_1936: "Acorazado superpesado ‘36"
+ SHBB_equipment_1945: "Acorazado superpesado ‘43"
+ 
+ SHBB_equipment_1936_desc: "El estado actual del mundo ya no permite respetar los tratados navales. Sin estas limitaciones, podemos centrarnos en cuerpo y alma a crear los acorazados más pesados y mejor armados de la historia, capaces de atacar a muchos navíos menores."
+ SHBB_equipment_1945_desc: "Una mejora de nuestro anterior diseño superpesado con armas más potentes y sistemas de control de tiro mejorados."
+
+# -- Aircraft Carriers CV
+ CV_equipment: "Portaaviones"
+
+ CV_equipment_1922: "Portaaviones convertido ‘22"
+ CV_equipment_1922_desc: "El portaaviones se está convirtiendo rápidamente en el buque más importante. Su capacidad de proyectar poder mediante los aviones que transporta lo hace peligroso para otros buques capitales y fuerzas terrestres. Sin embargo, el buque como tal va poco armado y su protección depende de otras unidades navales, así como de sus propios aviones."
+ CV_equipment_1930: "Portaaviones ‘30"
+ CV_equipment_1930_desc: "El portaaviones se está convirtiendo rápidamente en el buque más importante. Su capacidad de proyectar poder mediante los aviones que transporta lo hace peligroso para otros buques capitales y fuerzas terrestres. Sin embargo, el buque como tal va poco armado y su protección depende de otras unidades navales, así como de sus propios aviones."
+ CV_equipment_1933: "Portaaviones ‘33"
+ CV_equipment_1933_desc: "El portaaviones se está convirtiendo rápidamente en el buque más importante. Su capacidad de proyectar poder mediante los aviones que transporta lo hace peligroso para otros buques capitales y fuerzas terrestres. Sin embargo, el buque como tal va poco armado y su protección depende de otras unidades navales, así como de sus propios aviones."
+ CV_equipment_1936: "Portaaviones ‘36"
+ CV_equipment_1936_desc: "El portaaviones se está convirtiendo rápidamente en el buque más importante. Su capacidad de proyectar poder mediante los aviones que transporta lo hace peligroso para otros buques capitales y fuerzas terrestres. Sin embargo, el buque como tal va poco armado y su protección depende de otras unidades navales, así como de sus propios aviones."
+ CV_equipment_1940: "Portaaviones ‘40"
+ CV_equipment_1940_desc: "El portaaviones se está convirtiendo rápidamente en el buque más importante. Su capacidad de proyectar poder mediante los aviones que transporta lo hace peligroso para otros buques capitales y fuerzas terrestres. Sin embargo, el buque como tal va poco armado y su protección depende de otras unidades navales, así como de sus propios aviones."
+ CV_equipment_1945: "Portaaviones ‘45"
+ CV_equipment_1945_desc: "El portaaviones se está convirtiendo rápidamente en el buque más importante. Su capacidad de proyectar poder mediante los aviones que transporta lo hace peligroso para otros buques capitales y fuerzas terrestres. Sin embargo, el buque como tal va poco armado y su protección depende de otras unidades navales, así como de sus propios aviones."
+ CV_equipment_1950: "Portaaviones ‘50"
+ CV_equipment_1950_desc: "El portaaviones se está convirtiendo rápidamente en el buque más importante. Su capacidad de proyectar poder mediante los aviones que transporta lo hace peligroso para otros buques capitales y fuerzas terrestres. Sin embargo, el buque como tal va poco armado y su protección depende de otras unidades navales, así como de sus propios aviones."
+ CV_equipment_1960: "Portaaviones ‘60"
+ CV_equipment_1960_desc: "El portaaviones se está convirtiendo rápidamente en el buque más importante. Su capacidad de proyectar poder mediante los aviones que transporta lo hace peligroso para otros buques capitales y fuerzas terrestres. Sin embargo, el buque como tal va poco armado y su protección depende de otras unidades navales, así como de sus propios aviones."
+
+ CVN_equipment_1960: "CVN '60"
+ CVN_equipment_1960_long: "Superportaaviones nuclear ‘60"
+ CVN_equipment_1970: "CVN '70"
+ CVN_equipment_1970_long: "Superportaaviones nuclear ‘70"
+ CVN_equipment_1980: "CVN '80"
+ CVN_equipment_1980_long: "Superportaaviones nuclear ‘80"
+
+# -- Escort Aircraft Carriers CVE
+ escort_carrier: "Portaaviones de escolta"
+ CVE_equipment: "Portaaviones de escolta"
+
+ CV_equipment_1912: "Portahidroaviones ‘12"
+ CV_equipment_1912_desc: "El portaaviones de escolta se convirtió en un importante buque naval avanzada la guerra. Su capacidad para proteger convoyes, cazar submarinos activamente y apoyar operaciones anfibias gracias a los aviones que transporta lo hace muy útil y rentable, dejando libres los portaaviones de flota, más caros, para otras tareas. Sin embargo, los barcos como tales sólo están ligeramente armados, ligeramente acorazados y su desplazamiento es mucho menor que el de los portaaviones ligeros o de flota."
+ CV_equipment_1916: "Portaaviones experimental convertido ‘16"
+ CV_equipment_1916_desc: "El portaaviones de escolta se convirtió en un importante buque naval avanzada la guerra. Su capacidad para proteger convoyes, cazar submarinos activamente y apoyar operaciones anfibias gracias a los aviones que transporta lo hace muy útil y rentable, dejando libres los portaaviones de flota, más caros, para otras tareas. Sin embargo, los barcos como tales sólo están ligeramente armados, ligeramente acorazados y su desplazamiento es mucho menor que el de los portaaviones ligeros o de flota."
+ CVE_equipment_1940: "Portaaviones de escolta ‘40"
+ CVE_equipment_1940_desc: "El portaaviones de escolta se convirtió en un importante buque naval avanzada la guerra. Su capacidad para proteger convoyes, cazar submarinos activamente y apoyar operaciones anfibias gracias a los aviones que transporta lo hace muy útil y rentable, dejando libres los portaaviones de flota, más caros, para otras tareas. Sin embargo, los barcos como tales sólo están ligeramente armados, ligeramente acorazados y su desplazamiento es mucho menor que el de los portaaviones ligeros o de flota."
+ CVE_equipment_1945: "Portaaviones de escolta ‘43"
+ CVE_equipment_1945_desc: "El portaaviones de escolta se convirtió en un importante buque naval avanzada la guerra. Su capacidad para proteger convoyes, cazar submarinos activamente y apoyar operaciones anfibias gracias a los aviones que transporta lo hace muy útil y rentable, dejando libres los portaaviones de flota, más caros, para otras tareas. Sin embargo, los barcos como tales sólo están ligeramente armados, ligeramente acorazados y su desplazamiento es mucho menor que el de los portaaviones ligeros o de flota."
+
+ 
+# -- Light Aircraft Carriers CVL
+ CVL_equipment: "Crucero ligero"
+
+ CVL_equipment_1930: "Crucero ligero ‘30"
+ CVL_equipment_1930_desc: "El crucero ligero es un importante suplemento de las flotas de portaaviones. Su capacidad para proteger convoyes, cazar submarinos activamente y apoyar operaciones anfibias gracias a los aviones que transporta lo hace muy útil y rentable, dejando libres los portaaviones de flota, más caros, para otras tareas. Sin embargo, los barcos como tales sólo están ligeramente armados, ligeramente acorazados y su desplazamiento es mucho menor que el de los portaaviones de flota."
+ CVL_equipment_1940: "Crucero ligero ‘40"
+ CVL_equipment_1940_desc: "El crucero ligero es un importante suplemento de las flotas de portaaviones. Su capacidad para proteger convoyes, cazar submarinos activamente y apoyar operaciones anfibias gracias a los aviones que transporta lo hace muy útil y rentable, dejando libres los portaaviones de flota, más caros, para otras tareas. Sin embargo, los barcos como tales sólo están ligeramente armados, ligeramente acorazados y su desplazamiento es mucho menor que el de los portaaviones de flota."
+ CVL_equipment_1945: "Crucero ligero ‘45"
+ CVL_equipment_1945_desc: "El crucero ligero es un importante suplemento de las flotas de portaaviones. Su capacidad para proteger convoyes, cazar submarinos activamente y apoyar operaciones anfibias gracias a los aviones que transporta lo hace muy útil y rentable, dejando libres los portaaviones de flota, más caros, para otras tareas. Sin embargo, los barcos como tales sólo están ligeramente armados, ligeramente acorazados y su desplazamiento es mucho menor que el de los portaaviones de flota."
+ CVL_equipment_1950: "Crucero ligero ‘50"
+ CVL_equipment_1950_desc: "El crucero ligero es un importante suplemento de las flotas de portaaviones. Su capacidad para proteger convoyes, cazar submarinos activamente y apoyar operaciones anfibias gracias a los aviones que transporta lo hace muy útil y rentable, dejando libres los portaaviones de flota, más caros, para otras tareas. Sin embargo, los barcos como tales sólo están ligeramente armados, ligeramente acorazados y su desplazamiento es mucho menor que el de los portaaviones de flota."
+
+######################################################################
+ ### ENG - ENGLAND 
+######################################################################
+ 
+ ENG_SS_equipment_1895: "Clase Holland"
+ ENG_SS_equipment_1912: "Clase C-boat"
+ ENG_SS_equipment_1916: "Clase H-boat"
+ ENG_SS_equipment_1922: "Clase Odin"
+ ENG_SS_equipment_1933: "Clase S-boat"
+ ENG_SS_equipment_1936: "Clase T-boat" # Group II
+ ENG_SS_equipment_1940: "Clase U-boat"
+ ENG_SS_equipment_1945: "Clase Explorer"
+ ENG_SS_equipment_1950: "Clase Amphion mejorado"
+ ENG_SSK_equipment_1955: "Clase Oberon"
+ 
+ ENG_HSS_equipment_1933: "Clase X-1"
+ ENG_HSS_equipment_1940: "Clase X-2"
+ ENG_SHSS_equipment_1945: "Clase X-3"
+
+ ENG_DD_equipment_1885: "Clase C"
+ ENG_DD_equipment_1900: "Clase E"
+ ENG_DD_equipment_1912: "Clase G" #Beagle Class
+ ENG_DD_equipment_1916: "Clase V"
+ ENG_DD_equipment_1922: "Clase A"
+ ENG_DD_equipment_1933: "Clase F"
+ ENG_DD_equipment_1936: "Clase Tribal"
+ ENG_DD_equipment_1940: "Clase L"
+ ENG_DD_equipment_1945: "Clase Weapon"
+ ENG_DD_equipment_1950: "Clase Daring convertido"
+ 
+ ENG_CL_equipment_1885: "Clase Leander"
+ ENG_CL_equipment_1900: "Clase Sentinel"
+ ENG_CL_equipment_1912: "Clase C"
+ ENG_CL_equipment_1922: "Clase Emerald"
+ ENG_CL_equipment_1933: "Clase Leander"
+ ENG_CL_equipment_1936: "Clase Arethusa"
+ ENG_CL_equipment_1940: "Clase Dido"
+ ENG_CL_equipment_1945: "Clase Minotaur"
+ ENG_CLG_equipment_1955: "Clase Tiger" 
+ 
+ ENG_CA_equipment_1885: "Clase Shannon"
+ ENG_CA_equipment_1895: "Clase Drake"
+ ENG_CA_equipment_1906: "Clase Duke of Edinburg"
+ ENG_CA_equipment_1922: "Clase County"
+ ENG_CA_equipment_1933: "Clase York"
+ ENG_CA_equipment_1936: "Clase Surrey"
+ ENG_CA_equipment_1940: "Clase Cumbria"
+ ENG_CA_equipment_1945: "Clase Victoria" #*
+ ENG_CAG_equipment_1955: "Clase St. Vincent" 
+ 
+ ENG_BC_equipment_1906: "Clase Invincible"
+ ENG_BC_equipment_1912: "Clase Renown"
+ ENG_BC_equipment_1916: "Clase Admiral"
+ ENG_BC_equipment_1933: "Clase G3"
+ ENG_BC_equipment_1940: "Clase G4" #*
+ ENG_BC_equipment_1950: "Clase G5" #*
+ 
+ ENG_BB_equipment_1885: "Clase Monarch"
+ ENG_BB_equipment_1895: "Clase Canopus"
+ ENG_BB_equipment_1900: "Clase Dreadnought"
+ ENG_BB_equipment_1906: "Clase Orion"
+ ENG_BB_equipment_1912: "Clase Queen Elizabeth"
+ ENG_BB_equipment_1916: "Clase N3"
+ ENG_BB_equipment_1922: "Clase Nelson"
+ ENG_BB_equipment_1933: "Clase King George V"
+ ENG_BB_equipment_1940: "Clase Vanguard"
+ ENG_BB_equipment_1950: "Clase BB X"
+ 
+ ENG_SHBB_equipment_1936: "Clase Superb"
+ ENG_SHBB_equipment_1945: "Clase Elisabeth"
+
+ ENG_equipment_CV_1912: "Clase Empress"
+ ENG_equipment_CV_1916: "Clase Argus"
+ ENG_CV_equipment_1922: "Clase Courageous"
+ ENG_CV_equipment_1930: "Clase Furious"
+ ENG_CV_equipment_1933: "Clase Ark Royal"
+ ENG_CV_equipment_1936: "Clase Illustrious"
+ ENG_CV_equipment_1940: "Clase Implacable"
+ ENG_CV_equipment_1945: "Clase Audacious"
+ ENG_CV_equipment_1950: "Clase Malta"
+ ENG_CV_equipment_1960: "Clase CVA-01"
+ ENG_CVN_equipment_1960: "Clase Victorious"
+ 
+
+ ENG_CVE_equipment_1933: "Clase Archer"
+ ENG_CVE_equipment_1940: "Clase Avenger"
+ ENG_CVE_equipment_1945: "Clase Ruler"
+
+ ENG_CVL_equipment_1940: "Clase Colossus"
+ ENG_CVL_equipment_1945: "Clase Centaur"
+ ENG_CVL_equipment_1950: "Clase Hermes"
+ 
+######################################################################
+ ### FRA - FRANCE 
+######################################################################
+ 
+ FRA_SS_equipment_1895: "Clase Gustave Zédé"
+ FRA_SS_equipment_1912: "Clase Brumaire"
+ FRA_SS_equipment_1916: "Clase Depuy de Lome"
+ FRA_SS_equipment_1922: "Clase Requin"
+ FRA_SS_equipment_1933: "Clase Redoutable 3.ª serie"
+ FRA_SS_equipment_1936: "Clase Minerve"
+ FRA_SS_equipment_1940: "Clase Roland Morillot (1.º)"
+ FRA_SS_equipment_1945: "Clase Roland Morillot (2.º)"
+ FRA_SS_equipment_1950: "Clase Aurore modernizado"
+ FRA_SSK_equipment_1955: "Clase Narval"
+ 
+ FRA_HSS_equipment_1933: "Clase Surcouf"
+ FRA_HSS_equipment_1940: "Clase Surcouf 2"
+ FRA_SHSS_equipment_1945: "Clase Surcouf 3"
+ 
+ FRA_DD_equipment_1885: "Clase Mistral"
+ FRA_DD_equipment_1900: "Clase Spahi"
+ FRA_DD_equipment_1912: "Clase Bouclier"
+ FRA_DD_equipment_1916: "Clase Arabe"
+ FRA_DD_equipment_1922: "Clase Bourrasque"
+ FRA_DD_equipment_1933: "Clase Malin"
+ FRA_DD_equipment_1936: "Clase Hardi"
+ FRA_DD_equipment_1940: "Clase Hardi mejorado"
+ FRA_DD_equipment_1945: "Clase Surcouf"
+ FRA_DD_equipment_1950: "Clase T-47"
+ 
+ FRA_CL_equipment_1885: "Clase Descartes"
+ FRA_CL_equipment_1900: "Clase Jurien de la Gravière"
+ FRA_CL_equipment_1912: "Clase Lamotte-Picquet"
+ FRA_CL_equipment_1922: "Clase Duguay-Trouin"
+ FRA_CL_equipment_1933: "Clase La Galissonnière"
+ FRA_CL_equipment_1936: "Clase De Grasse"
+ FRA_CL_equipment_1940: "Clase Foch"
+ FRA_CL_equipment_1945: "Clase Georges Leygues"
+ FRA_CLG_equipment_1955: "Clase Colbert" 
+ 
+ FRA_CA_equipment_1885: "Clase La Gloire"
+ FRA_CA_equipment_1895: "Clase Amiral Charner"
+ FRA_CA_equipment_1906: "Clase Edgar Quinet"
+ FRA_CA_equipment_1922: "Clase Duquesne"
+ FRA_CA_equipment_1933: "Clase Algérie"
+ FRA_CA_equipment_1936: "Clase St Louis"
+ FRA_CA_equipment_1940: "Clase Montcalm"
+ FRA_CA_equipment_1945: "Clase Gloire"
+
+ FRA_BC_equipment_1906: "Clase Normandie"
+ FRA_BC_equipment_1912: "Clase A de Durand Viel"
+ FRA_BC_equipment_1916: "Clase Brest"
+ FRA_BC_equipment_1933: "Clase B de Durand Viel"
+ FRA_BC_equipment_1940: "Clase Dunkerque"
+ FRA_BC_equipment_1950: "Clase De Gaulle"
+ 
+ FRA_BB_equipment_1885: "Clase Henri IV"
+ FRA_BB_equipment_1895: "Clase Charlemagne"
+ FRA_BB_equipment_1900: "Clase Courbet"
+ FRA_BB_equipment_1906: "Clase Bretagne"
+ FRA_BB_equipment_1912: "Clase Normandie"
+ FRA_BB_equipment_1916: "Clase Lyon"
+ FRA_BB_equipment_1922: "Clase Danton"
+ FRA_BB_equipment_1933: "Clase Richelieu"
+ FRA_BB_equipment_1940: "Clase Alsace" 
+ FRA_BB_equipment_1950: "Clase Strasburg"
+
+ FRA_SHBB_equipment_1936: "Clase Superbe"
+ FRA_SHBB_equipment_1945: "Clase Jean Bart"
+
+ FRA_CV_equipment_1912: "Clase Foudre"
+ FRA_CV_equipment_1916: "Clase Béarn"
+ FRA_CV_equipment_1922: "Clase Guynemer"
+ FRA_CV_equipment_1930: "Clase Neptune"
+ FRA_CV_equipment_1933: "Clase Joffre"
+ FRA_CV_equipment_1936: "Clase Normandie"
+ FRA_CV_equipment_1940: "Clase Painlevé"
+ FRA_CV_equipment_1945: "Clase Belleau"
+ FRA_CV_equipment_1950: "Clase La Fayette"
+ FRA_CV_equipment_1960: "Clase Clemenceau"
+
+ FRA_CVN_equipment_1960: "Clase Verdun" 
+ 
+
+ FRA_CVE_equipment_1940: "Clase Béarn"
+ FRA_CVE_equipment_1945: "Clase Dixmude"
+
+ 
+ FRA_CVL_equipment_1940: "Clase Clemenceau"
+ FRA_CVL_equipment_1945: "Clase Arromanches"
+ FRA_CVL_equipment_1950: "Clase Majesté"
+
+ ######################################################################
+ ### GER - GERMANY 
+######################################################################
+
+ GER_SS_equipment_1895: "Clase Tipo U-1"
+ GER_SS_equipment_1912: "Clase Tipo U-27"
+ GER_SS_equipment_1916: "Clase Tipo U-43"
+ GER_SS_equipment_1922: "Clase Tipo I"
+ GER_SS_equipment_1933: "Clase Tipo II"
+ GER_SS_equipment_1936: "Clase Tipo VII"
+ GER_SS_equipment_1940: "Clase Tipo IX"
+ GER_SS_equipment_1945: "Clase Tipo XXI"
+ GER_SS_equipment_1950: "Clase Tipo XXVIII"
+ GER_SSK_equipment_1955: "Clase Tipo CCI"
+ 
+ GER_HSS_equipment_1933: "Clase Tipo XIB"
+ GER_HSS_equipment_1940: "Clase Tipo XID"
+ 
+ GER_DD_equipment_1885: "Clase S7"
+ GER_DD_equipment_1900: "Clase S117"
+ GER_DD_equipment_1912: "Clase V1"
+ GER_DD_equipment_1916: "Clase S113"
+ GER_DD_equipment_1922: "Zerstörer 1922"
+ GER_DD_equipment_1933: "Zerstörer 1934"
+ GER_DD_equipment_1936: "Zerstörer 1934A"
+ GER_DD_equipment_1940: "Zerstörer 1936A"
+ GER_DD_equipment_1945: "Zerstörer 1945"
+ GER_DD_equipment_1950: "Clase Hamburg"
+ 
+ GER_CL_equipment_1885: "Clase Gazelle"
+ GER_CL_equipment_1900: "Clase Königsberg"
+ GER_CL_equipment_1912: "Clase Karlsruhe"
+ GER_CL_equipment_1922: "Clase K"
+ GER_CL_equipment_1933: "Clase Leipzig"
+ GER_CL_equipment_1936: "Clase M"
+ GER_CL_equipment_1940: "Clase Stettin"
+ GER_CL_equipment_1945: "Spähkreuzer 1938"
+ GER_CLG_equipment_1955: "Clase Passau" 
+ 
+ GER_CA_equipment_1885: "Clase König Wilhelm"
+ GER_CA_equipment_1895: "Clase Fürst Bismarck"
+ GER_CA_equipment_1906: "Clase Blücher"
+ GER_CA_equipment_1922: "Clase Emden"
+ GER_CA_equipment_1933: "Clase Deutschland"
+ GER_CA_equipment_1936: "Clase Hipper"
+ GER_CA_equipment_1940: "Clase P"
+ GER_CA_equipment_1945: "Clase Admiral Brommy"
+ GER_CAG_equipment_1955: "Clase V" 
+ 
+ GER_BC_equipment_1906: "Clase Moltke"
+ GER_BC_equipment_1912: "Clase Derflinger"
+ GER_BC_equipment_1916: "Clase Ersatz Yorck"
+ GER_BC_equipment_1933: "Clase Scharnhorst"
+ GER_BC_equipment_1940: "Clase O"
+ GER_BC_equipment_1950: "Clase Q"
+ 
+ GER_BB_equipment_1885: "Clase Siegfried"
+ GER_BB_equipment_1895: "Clase Kaiser"
+ GER_BB_equipment_1900: "Clase Nassau"
+ GER_BB_equipment_1906: "Clase König"
+ GER_BB_equipment_1912: "Clase Bayern"
+ GER_BB_equipment_1916: "Clase L 20e α"
+ GER_BB_equipment_1922: "Clase Württemberg"
+ GER_BB_equipment_1933: "Clase Bismarck"
+ GER_BB_equipment_1940: "Clase Von Hutten" # H-39
+ GER_BB_equipment_1950: "Clase Von Berlichingen" # fictional
+
+ GER_SHBB_equipment_1936: "Clase Friedrich der Große" #H 41
+ GER_SHBB_equipment_1945: "Clase Großer Kurfürst" #H 44 
+
+ GER_CV_equipment_1916: "Clase Ausonia"
+ GER_CV_equipment_1922: "Clase Roon"
+ GER_CV_equipment_1930: "Clase Rhein" #fictional
+ GER_CV_equipment_1933: "Clase Loewenhardt" #fictional Erich Loewenhardt
+ GER_CV_equipment_1936: "Clase Graf Zeppelin"
+ GER_CV_equipment_1940: "Clase Hindenburg" #Based on the Europa conversion
+ GER_CV_equipment_1945: "Clase Richtofen" #fictional
+ GER_CV_equipment_1950: "Clase Immelman" #fictional
+ GER_CV_equipment_1960: "Clase Von Parseval" #fictional
+ GER_CV_equipment_1970: "Clase Hartmann" #fictional
+ GER_CV_equipment_1980: "Clase Vaterland" #fictional
+
+ GER_CVN_equipment_1960: "Clase Admiral Raeder" #fictional
+ GER_CVN_equipment_1970: "Clase Admiral Holtzendorff" #fictional
+ GER_CVN_equipment_1980: "Clase Admiral Dönitz" #fictional
+ 
+ GER_CVE_equipment_1940: "Clase Moser"
+ GER_CVE_equipment_1945: "Clase Potsdam"
+ 
+ GER_CVL_equipment_1940: "Clase Jade"
+ GER_CVL_equipment_1945: "Clase Weser"
+ GER_CVL_equipment_1950: "Clase Rheinland" #fictional
+ 
+ 
+######################################################################
+ ### ITA - ITALY 
+######################################################################
+
+ ITA_SS_equipment_1895: "Clase Glauco"
+ ITA_SS_equipment_1912: "Clase Nautilus"
+ ITA_SS_equipment_1916: "Clase N"
+ ITA_SS_equipment_1922: "Clase Mameli"
+ ITA_SS_equipment_1933: "Clase Sirena"
+ ITA_SS_equipment_1936: "Clase Adua"
+ ITA_SS_equipment_1940: "Clase Marconi"
+ ITA_SS_equipment_1945: "Clase Tritone"
+ ITA_SS_equipment_1950: "Clase Tazzoli"
+ ITA_SSK_equipment_1955: "Clase Toti"
+
+ 
+ ITA_HSS_equipment_1933: "Clase Galeazzi"
+ ITA_HSS_equipment_1940: "Clase Ammiraglio Cagni"
+ ITA_SHSS_equipment_1945: "Clase Ammiraglio Cagni B"
+ 
+ ITA_DD_equipment_1885: "Clase Lampo"
+ ITA_DD_equipment_1900: "Clase Soldato"
+ ITA_DD_equipment_1912: "Clase Indomito"
+ ITA_DD_equipment_1916: "Clase La Masa"
+ ITA_DD_equipment_1922: "Clase Generali"
+ ITA_DD_equipment_1933: "Clase Dardo"
+ ITA_DD_equipment_1936: "Clase Poeti"
+ ITA_DD_equipment_1940: "Clase Comandanti Medaglie d’Oro"
+ ITA_DD_equipment_1945: "Clase Impetuoso"
+ ITA_DD_equipment_1950: "Clase Impavido"
+
+ ITA_CL_equipment_1885: "Clase Giovanni Bausan"
+ ITA_CL_equipment_1900: "Clase Regioni"
+ ITA_CL_equipment_1912: "Clase Nino Bixio"
+ ITA_CL_equipment_1922: "Clase Di Giussano"
+ ITA_CL_equipment_1933: "Clase Montecuccoli"
+ ITA_CL_equipment_1936: "Clase Capitani Romani"
+ ITA_CL_equipment_1940: "Clase Etna"
+ ITA_CL_equipment_1945: "Clase Vesuvio"
+ ITA_CLG_equipment_1955: "Clase Duca degli Abruzzi" #rebuilt
+  
+ ITA_CA_equipment_1885: "Clase Belgrano"
+ ITA_CA_equipment_1895: "Clase Garibaldi"
+ ITA_CA_equipment_1906: "Clase Pisa"
+ ITA_CA_equipment_1922: "Clase Trento"
+ ITA_CA_equipment_1933: "Clase Zara"
+ ITA_CA_equipment_1936: "Clase Ansaldo"
+ ITA_CA_equipment_1940: "Clase Bolzano"
+ ITA_CA_equipment_1945: "Clase Gorizia"
+ ITA_CAG_equipment_1955: "Clase Andrea Doria" 
+
+ ITA_BC_equipment_1916: "Clase Livorno"
+ ITA_BC_equipment_1933: "Clase OTO"
+
+ ITA_SHBB_equipment_1936: "Clase Francesco Caracciolo"
+ ITA_SHBB_equipment_1945: "Clase Regia"
+
+ ITA_BB_equipment_1885: "Clase Caio Dulio"
+ ITA_BB_equipment_1895: "Clase Re Umberto"
+ ITA_BB_equipment_1900: "Clase Dante Alighieri"
+ ITA_BB_equipment_1906: "Clase Conte di Cavour"
+ ITA_BB_equipment_1912: "Clase Caracciolo"
+ ITA_BB_equipment_1916: "Clase Dante Alighieri reacondicionado"
+ ITA_BB_equipment_1922: "Clase Andrea Doria reacondicionado"
+ ITA_BB_equipment_1933: "Clase Littorio"
+ ITA_BB_equipment_1940: "Clase Impero"
+ ITA_BB_equipment_1950: "Clase Il Duce"
+
+ ITA_CV_equipment_1922: "Clase Giuseppe Garibaldi"
+ ITA_CV_equipment_1930: "Clase Torino"
+ ITA_CV_equipment_1933: "Clase Aquila"
+ ITA_CV_equipment_1936: "Clase Andrea Doria"
+ ITA_CV_equipment_1940: "Clase Garibaldi"
+ ITA_CV_equipment_1945: "Clase Roma"
+ ITA_CV_equipment_1950: "Clase Caesar"
+
+ ITA_CV_equipment_1912: "Clase Giuseppe Miraglia"
+ ITA_CV_equipment_1916: "Clase Caracciolo"
+
+ ITA_CVE_equipment_1940: "Clase Giovanni Caboto"
+ ITA_CVE_equipment_1945: "Clase Pisa"
+
+ ITA_CVL_equipment_1940: "Clase Vittorio Emanuele III"
+ ITA_CVL_equipment_1945: "Clase Mussolini"
+ ITA_CVL_equipment_1950: "Clase Inigo Campioni"
+######################################################################
+ ### JAP - JAPAN 
+######################################################################
+ JAP_SS_equipment_1895: "Tipo 1"
+ JAP_SS_equipment_1912: "Clase Kawasaki"
+ JAP_SS_equipment_1916: "Clase Ha-7"
+ JAP_SS_equipment_1922: "Kaichū V"
+ JAP_SS_equipment_1933: "Kaichū VI"
+ JAP_SS_equipment_1936: "Tipo D"
+ JAP_SS_equipment_1940: "Kaidai VII"
+ JAP_SS_equipment_1945: "Clase Senkou"
+ JAP_SS_equipment_1950: "Clase Oyashio"
+ JAP_SSK_equipment_1955: "Clase Hayashio"
+ 
+ JAP_HSS_equipment_1933: "Junsen III"
+ JAP_HSS_equipment_1940: "Tipo AM"
+ JAP_SHSS_equipment_1945: "Tipo Sen-toku"
+ 
+ JAP_DD_equipment_1885: "Clase Ikazuchi"
+ JAP_DD_equipment_1900: "Clase Kamikaze"
+ JAP_DD_equipment_1912: "Clase Sakura"
+ JAP_DD_equipment_1916: "Clase Kaba"
+ JAP_DD_equipment_1922: "Clase Kamikaze"
+ JAP_DD_equipment_1933: "Clase Fubuki"
+ JAP_DD_equipment_1936: "Clase Shiratsuyu"
+ JAP_DD_equipment_1940: "Clase Kagerō"
+ JAP_DD_equipment_1945: "Clase Tachibana"
+ JAP_DD_equipment_1950: "Clase Akizuki"
+ 
+ JAP_CL_equipment_1885: "Clase Naniwa"
+ JAP_CL_equipment_1900: "Clase Chitose"
+ JAP_CL_equipment_1912: "Clase Tenryu"
+ JAP_CL_equipment_1922: "Clase Sendai"
+ JAP_CL_equipment_1933: "Clase Mogami"
+ JAP_CL_equipment_1936: "Clase Agano"
+ JAP_CL_equipment_1940: "Clase Ōyodo"
+ JAP_CL_equipment_1945: "Clase Oyabe"
+ 
+ JAP_CA_equipment_1885: "Clase Hiei"
+ JAP_CA_equipment_1895: "Clase Azuma"
+ JAP_CA_equipment_1906: "Clase Kasuga"
+ JAP_CA_equipment_1922: "Clase Furutaka"
+ JAP_CA_equipment_1933: "Clase Takao"
+ JAP_CA_equipment_1936: "Clase Tone"
+ JAP_CA_equipment_1940: "Clase Ibuki"
+ JAP_CA_equipment_1945: "Clase Nantai"
+
+ JAP_BC_equipment_1906: "Clase Tsukuba"
+ JAP_BC_equipment_1912: "Clase Kongō"
+ JAP_BC_equipment_1916: "Clase Amagi"
+ JAP_BC_equipment_1933: "Clase Tanigawa"
+ JAP_BC_equipment_1940: "Clase Tanzawa"
+ JAP_BC_equipment_1950: "Clase Fuji"
+
+ JAP_BB_equipment_1885: "Clase Fuji"
+ JAP_BB_equipment_1895: "Clase Mikasa"
+ JAP_BB_equipment_1900: "Clase Kawachi"
+ JAP_BB_equipment_1906: "Clase Fusō"
+ JAP_BB_equipment_1912: "Clase Ise"
+ JAP_BB_equipment_1916: "Clase Nagato"
+ JAP_BB_equipment_1922: "Clase Tosa"
+ JAP_BB_equipment_1933: "Clase Iga" #No. 13
+ JAP_BB_equipment_1940: "Clase Kitami" #Fujimoto
+ JAP_BB_equipment_1950: "Clase Tsushima"
+ 
+ JAP_SHBB_equipment_1936: "Clase Yamato"
+ JAP_SHBB_equipment_1945: "Clase Hitachi" #A-150
+ 
+ JAP_CV_equipment_1912: "Clase Wakamiya"
+ JAP_CV_equipment_1916: "Clase Hōshō"
+ JAP_CV_equipment_1922: "Clase Akagi"
+ JAP_CV_equipment_1930: "Clase Ryūjō"
+ JAP_CV_equipment_1933: "Clase Sōryū"
+ JAP_CV_equipment_1936: "Clase Shōkaku"
+ JAP_CV_equipment_1940: "Clase Taihō"
+ JAP_CV_equipment_1945: "Clase Unryū"
+ JAP_CV_equipment_1950: "Clase Kenkaku" #Fictional 剣鶴 = Sword Crane
+ JAP_CV_equipment_1960: "Clase Hizuru" #Fictional 飛鶴 = Flying Crane
+ JAP_CV_equipment_1970: "Clase Zuiryū" #Fictional 瑞龍 = Lucky Dragon
+ JAP_CV_equipment_1980: "Clase Dairyū" #Fictional 大瀧 = Great Dragon
+
+ JAP_CVN_equipment_1960: "Clase Raikaku" #Fictional 雷鶴 = Thunder Crane 
+ JAP_CVN_equipment_1970: "Clase Rairyū" #Fictional 雷龍 = Thunder Dragon
+ JAP_CVN_equipment_1980: "Clase Raihou" #Fictional 雷鳳 = Thunder Phoenix
+
+ JAP_CVE_equipment_1940: "Clase Akitsu Maru"
+ JAP_CVE_equipment_1945: "Clase Shimane Maru"
+
+ JAP_CVL_equipment_1940: "Clase Zuihō"
+ JAP_CVL_equipment_1945: "Clase Chitose"
+ JAP_CVL_equipment_1950: "Clase Hijo"
+ 
+######################################################################
+ ### SOV - Soviet Union
+######################################################################
+
+ SOV_SS_equipment_1895: "Clase Kasatka"
+ SOV_SS_equipment_1912: "Clase Narval"
+ SOV_SS_equipment_1916: "Clase AG"
+ SOV_SS_equipment_1922: "Clase Dekabrist" # Dekabrist
+ SOV_SS_equipment_1922_short: "Clase Dekabrist"
+ SOV_SS_equipment_1933: "Clase Maliutka" # Malyutka
+ SOV_SS_equipment_1933_short: "Clase Maliutka"
+ SOV_SS_equipment_1936: "Clase Schuka" # (1934)
+ SOV_SS_equipment_1936_short: "Clase Schuka"
+ SOV_SS_equipment_1940: "Clase Srédniaya" 
+ SOV_SS_equipment_1940_short: "Clase S"
+ SOV_SS_equipment_1945: "Serie XVI"  # (Fictional)
+ SOV_SS_equipment_1950: "Proyecto 613" # Whiskey
+ SOV_SSK_equipment_1955: "Proyecto 633" # Romeo
+ SOV_SSK_equipment_1960: "Proyecto 641" # Foxtrot
+ SOV_SSK_equipment_1970: "Proyecto 641B" # Tango
+ SOV_SSK_equipment_1980: "Proyecto 877" # Kilo
+ SOV_SSK_equipment_1990: "Proyecto 677" # Lada
+
+ SOV_SSN_equipment_1955: "Proyecto 627"
+ SOV_SSN_equipment_1960: "Proyecto 645"
+ SOV_SSN_equipment_1970: "Proyecto 671" # Victor
+ SOV_SSN_equipment_1980: "Proyecto 971" # Akula
+ SOV_SSN_equipment_1990: "Proyecto 885" # Yasen
+ 
+ SOV_HSS_equipment_1933: "Clase Léninets" # Leninets
+ SOV_HSS_equipment_1933_short: "Clase L"
+ SOV_HSS_equipment_1940: "Clase K" # K-Class
+ SOV_HSS_equipment_1940_short: "Clase K"
+ SOV_SHSS_equipment_1945: "Serie XX" # Fictional
+ 
+ SOV_DD_equipment_1885: "Clase Pruitki"
+ SOV_DD_equipment_1900: "Clase Finn"
+ SOV_DD_equipment_1912: "Clase Vsádnik"
+ SOV_DD_equipment_1916: "Clase Orféi"
+ SOV_DD_equipment_1922: "Clase O"
+ SOV_DD_equipment_1933: "Clase Léningrad"
+ SOV_DD_equipment_1936: "Clase Gnevni" #Italian Assistance
+ SOV_DD_equipment_1940: "Clase Ópytni"
+ SOV_DD_equipment_1945: "Clase Skori"
+ SOV_DD_equipment_1950: "Proyecto 56M"
+ SOV_DDG_equipment_1955: "Clase Kanin"
+ SOV_DDG_equipment_1960: "Clase Kashin"
+ SOV_DDG_equipment_1970: "Proyecto 956 «Sarych»"
+ SOV_DDG_equipment_1980: "Proyecto 956-EM «Sarych»"
+ SOV_DDG_equipment_1990: "Proyecto 1155 «Fregat»"
+
+ SOV_FFG_equipment_1970: "Proyecto 1135 «Burevéstnik»"
+ SOV_FFG_equipment_1980: "Proyecto 11540 «Yástreb»"
+ SOV_FFG_equipment_1990: "Proyecto 11356R"
+
+ SOV_CL_equipment_1885: "Clase Vladímir Monomaj"
+ SOV_CL_equipment_1900: "Clase Komintern"
+ SOV_CL_equipment_1912: "Clase Svetlana"
+ SOV_CL_equipment_1922: "Clase Profintern"
+ SOV_CL_equipment_1933: "Clase Proletari"
+ SOV_CL_equipment_1936: "Clase Zariá Svobodi"
+ SOV_CL_equipment_1940: "Clase Politruk"
+ SOV_CL_equipment_1945: "Clase Krasni Krim"
+ SOV_CLG_equipment_1955: "Proyecto 58" 
+ 
+ SOV_CA_equipment_1885: "Clase Kniaz Pozharski"
+ SOV_CA_equipment_1895: "Clase Krasni Kavkaz"
+ SOV_CA_equipment_1906: "Clase Konstrúktor"
+ SOV_CA_equipment_1922: "Clase Karl Liebknecht"
+ SOV_CA_equipment_1933: "Clase Krazni Kazak"
+ SOV_CA_equipment_1936: "Proyecto 1114 «Orlán»"
+ SOV_CA_equipment_1940: "Proyecto 68 «Chapáyev»"
+ SOV_CA_equipment_1945: "Proyecto 68bis"
+ SOV_CAG_equipment_1955: "Proyecto 1164 «Atlant»" # Fictional
+ 
+ SOV_CG_equipment_1960: "Proyecto 1134 «Bérkut»"
+ SOV_CG_equipment_1970: "Proyecto 1134B «Bérkut-B»"
+ SOV_CG_equipment_1980: "Proyecto 1164 «Atlant»"
+
+ SOV_BC_equipment_1906: "Clase Nikolái"
+ SOV_BC_equipment_1912: "Clase Borodino"
+ SOV_BC_equipment_1916: "Proyecto 1114 «Orlán»"
+ SOV_BC_equipment_1933: "Clase Krónshtadt"
+ SOV_BC_equipment_1940: "Clase Sóviet"
+ SOV_BC_equipment_1950: "Clase Stálingrad"
+ 
+ SOV_BB_equipment_1885: "Clase Rusalka"
+ SOV_BB_equipment_1895: "Clase Petropávlovsk"
+ SOV_BB_equipment_1900: "Clase Gangut"
+ SOV_BB_equipment_1906: "Clase Arjánguelsk"
+ SOV_BB_equipment_1912: "Clase Karl Marx"
+ SOV_BB_equipment_1916: "Clase V. I. Lenin"
+ SOV_BB_equipment_1922: "Clase Diktatura Proletariata"
+ SOV_BB_equipment_1933: "Proyecto 183 «Bólshevik»"
+ SOV_BB_equipment_1940: "Clase Karl Marx" # Project 25, fictional name
+ SOV_BB_equipment_1950: "Clase Novorosíisk" #Italian BB they got as War Reparations
+
+ SOV_SHBB_equipment_1936: "Clase Sovietski Soyuz"
+ SOV_SHBB_equipment_1945: "Clase Sovétskaya Konstitutsiya" #K-1000
+
+ SOV_CV_equipment_1912: "Clase Almaz" #*
+ SOV_CV_equipment_1916: "Clase Alexandra" #*
+ SOV_CV_equipment_1922: "Clase Revolutsiya" #*
+ SOV_CV_equipment_1930: "Clase Ioann Zlatoust" #*
+ SOV_CV_equipment_1933: "Clase Krásnaya Plóshchad" #*
+ SOV_CV_equipment_1936: "Clase Krásnoye Znamia" #*
+ SOV_CV_equipment_1940: "Clase Komintern"
+ SOV_CV_equipment_1945: "Clase Kostromítinov"
+ SOV_CV_equipment_1950: "Clase Vladivostok" #*
+ SOV_CV_equipment_1960: "Clase Maxim Gorki"
+ SOV_CV_equipment_1970: "Proyecto 1143 «Kréchiet»"
+ SOV_CV_equipment_1980: "Proyecto 1143.5"
+
+ SOV_CVL_equipment_1940: "Clase Bakú" #*
+ SOV_CVL_equipment_1945: "Clase Tbilisi"
+ SOV_CVL_equipment_1950: "Clase Communa"
+
+ SOV_CVE_equipment_1940: "Clase Admiral Isákov"
+ SOV_CVE_equipment_1945: "Clase Moskvá"
+
+ SOV_CVN_equipment_1960: "Proyecto 1123 «Kóndor»"
+ SOV_CVN_equipment_1970: "Proyecto 1153 «Oriol»"
+ SOV_CVN_equipment_1980: "Proyecto 1143.7"
+######################################################################
+### USA - United States
+######################################################################
+ USA_DD_equipment_1885: "Clase Bainbridge"
+ USA_DD_equipment_1900: "Clase Truxtun"
+ USA_DD_equipment_1912: "Clase Smith"
+ USA_DD_equipment_1916: "Clase Wickes"
+ USA_DD_equipment_1922: "Clase Clemson"
+ USA_DD_equipment_1933: "Clase Porter"
+ USA_DD_equipment_1936: "Clase Sims"
+ USA_DD_equipment_1940: "Clase Fletcher"
+ USA_DD_equipment_1945: "Clase Gearing"
+ USA_DD_equipment_1950: "Clase Forrest Sherman"
+ USA_DDG_equipment_1955: "Clase Farragut"
+ USA_DDG_equipment_1960: "Clase Charles F. Adams"
+ USA_DDG_equipment_1970: "Clase Spruance"
+ USA_DDG_equipment_1980: "Clase Kidd"
+ USA_DDG_equipment_1990: "Clase Arleigh Burke"
+ USA_DDG_equipment_2010: "Clase Zumwalt"
+
+ USA_FFG_equipment_1970: "Clase Brooke"
+ USA_FFG_equipment_1980: "Clase Oliver Hazard Perry"
+ USA_FFG_equipment_1990: "Clase Oliver Hazard Perry (Flight II)" # To Remove
+ USA_FFG_equipment_2005: "Clase Independence"
+
+ USA_CL_equipment_1885: "Clase Atlanta"
+ USA_CL_equipment_1900: "Clase Chester"
+ USA_CL_equipment_1912: "Clase Providence"
+ USA_CL_equipment_1922: "Clase Omaha"
+ USA_CL_equipment_1933: "Clase Detroir"
+ USA_CL_equipment_1936: "Clase Brooklyn"
+ USA_CL_equipment_1940: "Clase Cleveland"
+ USA_CL_equipment_1945: "Clase Worcester"
+ USA_CLG_equipment_1955: "Clase Galveston" 
+ 
+ USA_CA_equipment_1885: "Clase Onondaga"
+ USA_CA_equipment_1895: "Clase New York"
+ USA_CA_equipment_1906: "Clase Tennessee"
+ USA_CA_equipment_1922: "Clase Northampton"
+ USA_CA_equipment_1933: "Clase New Orleans"
+ USA_CA_equipment_1936: "Clase Wichita"
+ USA_CA_equipment_1940: "Clase Baltimore"
+ USA_CA_equipment_1945: "Clase Des Moines"
+ USA_CAG_equipment_1955: "Clase Boston" 
+ 
+ USA_CG_equipment_1960: "Clase Leahy"
+ USA_CG_equipment_1970: "Clase Belknap"
+ USA_CG_equipment_1980: "Clase Ticonderoga"
+ USA_CG_equipment_2010: "Clase Ticonderoga"
+
+ USA_SS_equipment_1895: "Clase Holland"
+ USA_SS_equipment_1912: "K-boat"
+ USA_SS_equipment_1916: "S-boat"
+ USA_SS_equipment_1922: "Clase Barracuda" #V-boat
+ USA_SS_equipment_1933: "Clase Porpoise"
+ USA_SS_equipment_1936: "Clase Sargo"
+ USA_SS_equipment_1940: "Clase Gato"
+ USA_SS_equipment_1945: "Clase Tench"
+ USA_SS_equipment_1950: "Clase Tang"
+ USA_SSK_equipment_1955: "Clase Sailfish"
+
+ USA_SSN_equipment_1955: "Clase Skate"
+ USA_SSN_equipment_1960: "Clase Sturgeon"
+ USA_SSN_equipment_1970: "Clase Los Angeles"
+ USA_SSN_equipment_1980: "Clase Los Angeles (Flight II)"
+ USA_SSN_equipment_1990: "Clase Seawolf"
+
+ USA_BC_equipment_1906: "Clase American"
+ USA_BC_equipment_1912: "Clase Bunker Hill"
+ USA_BC_equipment_1916: "Clase Lexington"
+ USA_BC_equipment_1933: "Clase Constellation reacondicionado"
+ USA_BC_equipment_1940: "Clase Alaska"
+ USA_BC_equipment_1950: "Clase Samoa"
+ 
+ USA_BB_equipment_1885: "Clase Puritan"
+ USA_BB_equipment_1895: "Clase Illinois"
+ USA_BB_equipment_1900: "Clase South Carolina"
+ USA_BB_equipment_1906: "Clase New York"
+ USA_BB_equipment_1912: "Clase Nevada"
+ USA_BB_equipment_1916: "Clase Tennessee"
+ USA_BB_equipment_1922: "Clase Colorado"
+ USA_BB_equipment_1933: "Clase North Carolina"
+ USA_BB_equipment_1940: "Clase Iowa"
+ USA_BB_equipment_1950: "Clase Montana"
+ 
+ USA_SHBB_equipment_1936: "Clase Rhode Island"
+ USA_SHBB_equipment_1945: "Clase Maine"
+ 
+ USA_CV_equipment_1912: "Clase Wright"
+ USA_CV_equipment_1916: "Clase Langley"
+ USA_CV_equipment_1922: "Clase Lexington"
+ USA_CV_equipment_1930: "Clase Ranger"
+ USA_CV_equipment_1933: "Clase Yorktown"
+ USA_CV_equipment_1936: "Clase Wasp"
+ USA_CV_equipment_1940: "Clase Essex"
+ USA_CV_equipment_1945: "Clase Midway"
+ USA_CV_equipment_1950: "Clase Forrestal"
+ USA_CV_equipment_1960: "Clase Kitty Hawk"
+ USA_CV_equipment_1970: "Clase John F. Kennedy"
+
+ USA_CVN_equipment_1960: "Clase Enterprise"
+ USA_CVN_equipment_1970: "Clase Nimitz"
+ USA_CVN_equipment_1980: "Clase Theodore Roosevelt"
+
+ USA_CVE_equipment_1940: "Clase Long Island"
+ USA_CVE_equipment_1945: "Clase Casablanca"
+
+ USA_CVL_equipment_1940: "Clase Independence"
+ USA_CVL_equipment_1945: "Clase Saipan"
+ USA_CVL_equipment_1950: "Clase Saipan mejorado"
+ 
+######################################################################
+ ### ARG - Argentina
+######################################################################
+ ARG_SS_equipment_1922: "Clase Tarantino"
+ ARG_SS_equipment_1945: "Clase Santa Fe (S-11)"
+ ARG_SS_equipment_1950: "Clase Santa Fe (S-21)"
+ 
+ ARG_DD_equipment_1885: "Clase Corrientes"
+ ARG_DD_equipment_1900: "Clase Espora"
+ ARG_DD_equipment_1912: "Clase Catamarca" 
+ ARG_DD_equipment_1922: "Clase Mendoza"
+ ARG_DD_equipment_1933: "Clase Halcón"
+ ARG_DD_equipment_1936: "Clase Buenos Aires"
+ ARG_DD_equipment_1940: "Clase Brown"
+ ARG_DD_equipment_1945: "Clase Py"
+ 
+ ARG_CL_equipment_1885: "Clase Patagonia"
+ ARG_CL_equipment_1900: "Clase 25 de Mayo"
+ ARG_CL_equipment_1912: "Clase Independencia"
+ ARG_CL_equipment_1922: "Clase Ushuaia"
+ ARG_CL_equipment_1933: "Clase Almirante Brown"
+ ARG_CL_equipment_1936: "Clase General Belgrano"
+ ARG_CL_equipment_1940: "Clase Neuquén"
+ ARG_CL_equipment_1945: "Clase Santísima Trinidad"
+ 
+ ARG_CA_equipment_1895: "Clase Garibaldi"
+ ARG_CA_equipment_1922: "Clase Veinticinco de Mayo"
+ ARG_CA_equipment_1933: "Clase Tierra del Fuego"
+ ARG_CA_equipment_1936: "Clase Nueve de Julio"
+ 
+ ARG_BC_equipment_1906: "Clase Mendoza"
+ ARG_BC_equipment_1912: "Clase Tucumán"
+ ARG_BC_equipment_1933: "Clase San Juan"
+ ARG_BC_equipment_1940: "Clase Rosas"
+
+ 
+ ARG_BB_equipment_1885: "Clase Almirante Brown"
+ ARG_BB_equipment_1906: "Clase Rivadavia"
+ ARG_BB_equipment_1912: "Clase Córdoba"
+ ARG_BB_equipment_1933: "Clase Santa Cruz"
+ ARG_BB_equipment_1940: "Clase La Plata"
+
+ ARG_CV_equipment_1930: "Clase 25 de Mayo"
+
+ ARG_CV_1912: "Portahidroaviones ‘12"
+ ARG_CV_1916: "Portaaviones experimental convertido ‘16"
+ ARG_CVE_equipment_1933: "Portaaviones de escolta ‘22"
+ ARG_CVE_equipment_1945: "Portaaviones de escolta ‘40"
+ ARG_CVE_equipment_1945: "Portaaviones de escolta ‘43"
+
+ ARG_CVL_equipment_1940: "Clase Independencia"
+ ARG_CVL_equipment_1945: "Clase 9 de Julio"
+ 
+######################################################################
+ ###  AST - AUSTRALIA
+######################################################################
+ 
+ AST_SS_equipment_1912: "E-boat"
+ AST_SS_equipment_1916: "J-boat"
+ AST_SS_equipment_1922: "O-boat"
+ AST_SS_equipment_1936: "Clase LPAS"
+ AST_SSK_equipment_1955: "Clase Oberon"
+ 
+ AST_DD_equipment_1885: "Clase Childers"
+ AST_DD_equipment_1900: "Clase River"
+ AST_DD_equipment_1916: "Clase S"
+ AST_DD_equipment_1922: "Clase Voyager"
+ AST_DD_equipment_1933: "Clase Bathurst"
+ AST_DD_equipment_1936: "Clase Tribal"
+ AST_DD_equipment_1940: "Clase Battle"
+ AST_DD_equipment_1945: "Clase Daring"
+ 
+ AST_CL_equipment_1900: "Clase Pelorus"
+ AST_CL_equipment_1912: "Clase Birmingham"
+ AST_CL_equipment_1922: "Clase Fremantle"
+ AST_CL_equipment_1933: "Clase Leander"
+ AST_CL_equipment_1936: "Clase Perth"
+ AST_CL_equipment_1940: "Clase Melbourne"
+
+ AST_CA_equipment_1922: "Clase Kent"
+ AST_CA_equipment_1933: "Clase London"
+ AST_CA_equipment_1936: "Clase Queensland"
+
+ AST_BC_equipment_1906: "Clase Indefatigable"
+ AST_BC_equipment_1912: "Clase Tasmania"
+ AST_BC_equipment_1916: "Clase Australis"
+
+ AST_BB_equipment_1885: "Clase Cerberus"
+ AST_BB_equipment_1895: "Clase Cape Leeuwin"
+ AST_BB_equipment_1912: "Clase Queen Victoria"
+ AST_BB_equipment_1940: "Clase Westralia"
+ AST_BB_equipment_1950: "Clase Oceania"
+
+ AST_CV_equipment_1930: "Clase Van Diemen"
+ AST_CV_equipment_1940: "Clase Endeavour"
+
+ AST_CV_1912: "Clase Albatross"
+ AST_CV_1916: "Clase Ballarat"
+ AST_CVE_equipment_1933: "Clase Albatross"
+ AST_CVE_equipment_1945: "Clase Ballarat"
+
+ AST_CVL_equipment_1930: "Clase Carpentaria"
+ AST_CVL_equipment_1940: "Clase Colossus"
+ AST_CVL_equipment_1945: "Clase Majestic"
+
+ ######################################################################
+ ###  BEL - BELGIUM
+######################################################################
+ BEL_DD_equipment_1916: "Clase Zinnia"
+ BEL_DD_equipment_1933: "Clase Artevelde"
+ BEL_DD_equipment_1936: "Clase Les Quatre Journées"
+
+ BEL_CL_equipment_1936: "Clase Wandelaar"
+ BEL_CL_equipment_1940: "Clase Wielingen"
+
+ BEL_CA_equipment_1936: "Clase Roi Albert"
+
+
+ ######################################################################
+ ###   BRA - BRAZIL
+######################################################################
+ BRA_SS_equipment_1922: "Clase Balilla"
+ BRA_SS_equipment_1933: "Clase Tubarão"
+ BRA_SS_equipment_1936: "Clase A"
+ BRA_SS_equipment_1940: "Clase Gato"
+ BRA_SS_equipment_1945: "Clase Amazonas"
+ BRA_SSK_equipment_1955: "Clase Oberon"
+ 
+ BRA_DD_equipment_1912: "Clase Para"
+ BRA_DD_equipment_1916: "Clase Salvador"
+ BRA_DD_equipment_1933: "Clase Estilete"
+ BRA_DD_equipment_1936: "Clase Marcilio Dias"
+ BRA_DD_equipment_1940: "Clase Acre"
+ BRA_DD_equipment_1945: "Clase Marcilio Dias"
+ 
+ BRA_CL_equipment_1885: "Clase Republica"
+ BRA_CL_equipment_1900: "Clase Bahia"
+ BRA_CL_equipment_1912: "Clase Amazonas"
+ BRA_CL_equipment_1922: "Clase Bahia"
+ BRA_CL_equipment_1933: "Clase Sagitário"
+ BRA_CL_equipment_1936: "Clase Almirante"
+ BRA_CL_equipment_1940: "Clase Almirante Saldanha"
+
+ BRA_BC_equipment_1933: "Clase São Paulo"
+ 
+ BRA_BB_equipment_1885: "Clase Riachuelo"
+ BRA_BB_equipment_1906: "Clase Minas Gerais"
+ BRA_BB_equipment_1912: "Clase Rio de Janeiro"
+ BRA_BB_equipment_1916: "Clase Minas Gerais"
+ 
+ BRA_CV_equipment_1922: "Clase Belo Horizonte"
+ BRA_CV_equipment_1930: "Clase Riachuelo"
+ BRA_CV_equipment_1936: "Clase Brasil"
+ 
+ BRA_CVL_equipment_1940: "Clase Colossus"
+
+ ######################################################################
+ ###   BUL Bulgaria
+######################################################################
+
+ BUL_SS_equipment_1933: "Clase Uzhilvane"
+ BUL_SS_equipment_1936: "Clase Delfi"
+ BUL_SS_equipment_1940: "Clase Akula"
+ 
+ BUL_DD_equipment_1922: "Clase Gordi"
+ BUL_DD_equipment_1933: "Clase Drazki"
+ BUL_DD_equipment_1936: "Clase Kyustendil"
+
+ BUL_CL_equipment_1885: "Clase Montana"
+ BUL_CL_equipment_1900: "Clase Stara Zagora"
+ BUL_CL_equipment_1936: "Clase Danube"
+ 
+ BUL_BB_equipment_1895: "Clase Sofia"
+ BUL_BB_equipment_1900: "Clase Varna"
+ BUL_BB_equipment_1906: "Clase Sofia II"
+ 
+ 
+ ######################################################################
+ ###  CAN Canada
+######################################################################
+ CAN_SS_equipment_1912: "Clase CC"
+ CAN_SS_equipment_1916: "Clase H-boat"
+ CAN_SS_equipment_1945: "Clase Balao"
+ CAN_SSK_equipment_1955: "Clase Oberon"
+ 
+ CAN_DD_equipment_1885: "Clase D"
+ CAN_DD_equipment_1900: "Clase E"
+ CAN_DD_equipment_1912: "Clase M"
+ CAN_DD_equipment_1916: "Clase S"
+ CAN_DD_equipment_1922: "Clase River"
+ CAN_DD_equipment_1933: "Clase G"
+ CAN_DD_equipment_1936: "Clase Tribal"
+ CAN_DD_equipment_1940: "Clase V"
+ CAN_DD_equipment_1945: "Clase C"
+ 
+ CAN_CL_equipment_1885: "Clase Apollo"
+ CAN_CL_equipment_1900: "Clase Sentinel"
+ CAN_CL_equipment_1912: "Clase Arethusa"
+ CAN_CL_equipment_1922: "Clase Emerald"
+ CAN_CL_equipment_1933: "Clase Leander"
+ CAN_CL_equipment_1936: "Clase Crown Colony"
+ CAN_CL_equipment_1940: "Clase Dido"
+ CAN_CL_equipment_1945: "Clase Minotaur"
+ CAN_CLG_equipment_1955: "Clase Tiger" 
+ 
+ CAN_CA_equipment_1885: "Clase Shannon"
+ CAN_CA_equipment_1895: "Clase Diadem"
+ CAN_CA_equipment_1906: "Clase Minotaur"
+ CAN_CA_equipment_1922: "Clase County"
+ CAN_CA_equipment_1933: "Clase York"
+ CAN_CA_equipment_1936: "Clase Surrey"
+ 
+ CAN_BC_equipment_1906: "Clase Invincible"
+ CAN_BC_equipment_1912: "Clase Renown"
+ CAN_BC_equipment_1916: "Clase Admiral"
+ CAN_BC_equipment_1933: "Clase G3"
+ CAN_BC_equipment_1940: "Clase Incomparable"
+ 
+ CAN_BB_equipment_1885: "Clase Ajax"
+ CAN_BB_equipment_1895: "Clase Majestic"
+ CAN_BB_equipment_1900: "Clase Dreadnought"
+ CAN_BB_equipment_1906: "Clase Dominion"
+ CAN_BB_equipment_1912: "Clase Queen Elizabeth"
+ CAN_BB_equipment_1916: "Clase N3"
+ CAN_BB_equipment_1922: "Clase Nelson"
+ CAN_BB_equipment_1933: "Clase King George V"
+ CAN_BB_equipment_1940: "Clase Lion"
+ 
+ CAN_SHBB_equipment_1936: "Clase Superb"
+
+ CAN_CV_equipment_1922: "Clase Courageous"
+ CAN_CV_equipment_1933: "Clase Ark Royal"
+ CAN_CV_equipment_1936: "Clase Illustrious"
+ CAN_CV_equipment_1940: "Clase Implacable"
+ CAN_CV_equipment_1945: "Clase Audacious"
+ CAN_CV_equipment_1950: "Clase Malta"
+ CAN_CV_equipment_1960: "Clase CVA-01"
+ 
+ CAN_CV_1912: "Clase Empress"
+ CAN_CV_1916: "Clase Argus"
+ CAN_CVE_equipment_1933: "Clase Avenger"
+ CAN_CVE_equipment_1945: "Clase Hermes"
+
+ CAN_CVL_equipment_1930: "Clase Unicorn"
+ CAN_CVL_equipment_1940: "Clase Colossus"
+ CAN_CVL_equipment_1945: "Clase Majestic"
+
+ ######################################################################
+ ###   CHI - Nationalist China
+######################################################################
+
+ CHI_SS_equipment_1933: "Clase Jin"
+ CHI_SS_equipment_1936: "Clase Kuei-yu"
+ CHI_SS_equipment_1940: "Clase Yao-mu"
+ CHI_SS_equipment_1945: "Clase Hai-shih"
+ 
+ CHI_DD_equipment_1916: "Clase Wang"
+ CHI_DD_equipment_1922: "Clase Kee Lung"
+ CHI_DD_equipment_1933: "Clase Bajoi"
+ CHI_DD_equipment_1936: "Clase Han Yang"
+ CHI_DD_equipment_1940: "Clase Heng Yang"
+ CHI_DD_equipment_1945: "Clase Chao Yang"
+ 
+ CHI_CL_equipment_1885: "Clase Chaoyung"
+ CHI_CL_equipment_1900: "Clase Tsugaru"
+ CHI_CL_equipment_1912: "Clase Chao Ho"
+ CHI_CL_equipment_1922: "Clase Wenshan"
+ CHI_CL_equipment_1933: "Clase Ning Hai"
+ CHI_CL_equipment_1936: "Clase Hong Ming"
+ CHI_CL_equipment_1940: "Clase Maoming"
+ 
+ CHI_CA_equipment_1895: "Clase Pingyuan"
+ CHI_CA_equipment_1906: "Clase Kasuga"
+ CHI_CA_equipment_1922: "Clase Hong Lung"
+ CHI_CA_equipment_1933: "Clase Tsun-i"
+ CHI_CA_equipment_1936: "Clase Pu-chieh"
+ 
+ CHI_BC_equipment_1916: "Clase Tai-pei"
+ 
+ CHI_CV_equipment_1922: "Clase Formosa"
+ CHI_CV_equipment_1933: "Clase Fu-chou"
+ 
+ CHI_CVE_equipment_1933: "Clase Zhangyhum"
+ CHI_CVE_equipment_1945: "Clase Zhangyhum"
+
+ ######################################################################
+ ###  CHL - Chile
+######################################################################
+ CHL_SS_equipment_1895: "Clase Holland"
+ CHL_SS_equipment_1912: "E-boat"
+ CHL_SS_equipment_1916: "Clase H"
+ CHL_SS_equipment_1922: "Clase Capitán O’Brien"
+ CHL_SS_equipment_1933: "Clase Lautaro"
+ CHL_SS_equipment_1936: "Clase Union"
+ CHL_SS_equipment_1940: "Clase Gualcolda"
+ CHL_SS_equipment_1945: "Clase Silverstein"
+ CHL_SSK_equipment_1955: "Clase O’Brien"
+ 
+ CHL_HSS_equipment_1933: "Clase O’Higgins"
+ 
+ CHL_DD_equipment_1885: "Clase Parinacota"
+ CHL_DD_equipment_1900: "Clase Capitán Frey"
+ CHL_DD_equipment_1912: "Clase Almirante Lynch"
+ CHL_DD_equipment_1916: "Clase Temerario"
+ CHL_DD_equipment_1922: "Clase Serrano"
+ CHL_DD_equipment_1933: "Clase Capitán Thompson"
+ CHL_DD_equipment_1936: "Clase Capitán Eyzaguirre"
+ CHL_DD_equipment_1940: "Clase Blanco Encalada"
+ CHL_DD_equipment_1945: "Clase Bolados"
+ 
+ CHL_CL_equipment_1885: "Clase Esmeralda"
+ CHL_CL_equipment_1900: "Clase Valparaíso"
+ CHL_CL_equipment_1912: "Clase Tierra del Fuego"
+ CHL_CL_equipment_1922: "Clase Concepción"
+ CHL_CL_equipment_1933: "Clase Atacama"
+ CHL_CL_equipment_1936: "Clase Los Lagos"
+ CHL_CL_equipment_1940: "Clase Magallanes"
+ CHL_CL_equipment_1945: "Clase Los Ríos"
+ CHL_CLG_equipment_1955: "Clase Arica" 
+ 
+ CHL_CA_equipment_1885: "Clase Biobío"
+ CHL_CA_equipment_1895: "Clase Blanco Encalada"
+ CHL_CA_equipment_1906: "Clase Tarapacá"
+ CHL_CA_equipment_1922: "Clase Coquimbo"
+ CHL_CA_equipment_1933: "Clase Maule"
+ CHL_CA_equipment_1936: "Clase Constitución"
+ CHL_CA_equipment_1940: "Clase Cerro Fitz Roy"
+ CHL_CA_equipment_1945: "Clase Rondeau"
+ 
+ CHL_BC_equipment_1906: "Clase Punta Gruesa"
+ CHL_BC_equipment_1912: "Clase Angamos"
+ CHL_BC_equipment_1916: "Clase Pilcomayo"
+ CHL_BC_equipment_1933: "Clase Bloqueo del Callao"
+ CHL_BC_equipment_1940: "Clase Abtao"
+ CHL_BC_equipment_1950: "Clase Papudo"
+ 
+ CHL_BB_equipment_1885: "Clase Huáscar"
+ CHL_BB_equipment_1895: "Clase Almirante Cochrane"
+ CHL_BB_equipment_1900: "Clase Almirante Williams"
+ CHL_BB_equipment_1906: "Clase Almirante Latorre"
+ CHL_BB_equipment_1912: "Clase Almirante Winthrop Simpson"
+ CHL_BB_equipment_1916: "Clase Cruz Prieto"
+ CHL_BB_equipment_1922: "Clase Goñi Prieto"
+ CHL_BB_equipment_1933: "Clase Rebolledo"
+ CHL_BB_equipment_1940: "Clase Vanguardia"
+ CHL_BB_equipment_1950: "Clase Almirante Monti"
+ 
+ CHL_CVE_equipment_1933: "Clase Mapuche"
+ CHL_CVE_equipment_1945: "Clase Mapuche"
+ CHL_CVE_equipment_1945: "Clase Chiloe"
+
+ 
+ ######################################################################
+ ###   COL - Columbia
+######################################################################
+
+ COL_DD_equipment_1916: "Clase Caldas"
+ COL_DD_equipment_1933: "Clase San Jacinto"
+ COL_DD_equipment_1940: "Clase Antioquía"
+ COL_DD_equipment_1945: "Clase Caldas"
+ 
+ COL_CL_equipment_1922: "Clase Activo"
+ COL_CL_equipment_1933: "Clase Impertérrito"
+ COL_CL_equipment_1936: "Clase Buenaventura"
+
+ COL_CA_equipment_1922: "Clase Capitán Tylor"
+ COL_CA_equipment_1933: "Clase Capitán Oyama"
+ 
+ COL_BC_equipment_1933: "Clase Simón Bolívar"
+ 
+ COL_BB_equipment_1895: "Clase Constitución"
+ COL_BB_equipment_1912: "Clase Independiente"
+ 
+ ######################################################################
+ ###   DEN - Denmark
+######################################################################
+
+ DEN_SS_equipment_1912: "Clase Havmanden"
+ DEN_SS_equipment_1916: "Clase B"
+ DEN_SS_equipment_1922: "Clase Daphne"
+ DEN_SS_equipment_1936: "Clase H"
+ DEN_SSK_equipment_1955: "Clase Delfinen"
+ 
+ DEN_DD_equipment_1885: "Clase D01"
+ DEN_DD_equipment_1900: "Clase D05"
+ DEN_DD_equipment_1912: "Clase D09"
+ DEN_DD_equipment_1916: "Clase D13"
+ DEN_DD_equipment_1922: "Clase Loven"
+ DEN_DD_equipment_1933: "Clase Ull"
+ DEN_DD_equipment_1936: "Clase Øredaggert"
+ 
+ DEN_CL_equipment_1885: "Clase Valkyrien"
+ DEN_CL_equipment_1900: "Clase Hejmdal"
+ DEN_CL_equipment_1912: "Clase Vaerge"
+ DEN_CL_equipment_1922: "Clase Bornholm"
+ DEN_CL_equipment_1933: "Clase Valkyrie"
+ DEN_CL_equipment_1936: "Clase Hoenir"
+ DEN_CL_equipment_1940: "Clase Valkyrie II"
+ 
+ DEN_CA_equipment_1906: "Clase Odin"
+ DEN_CA_equipment_1922: "Clase Niels Iuel"
+ DEN_CA_equipment_1933: "Clase Einmyria"
+
+ DEN_BB_equipment_1922: "Clase Tyr"
+ DEN_BB_equipment_1933: "Clase Thor"
+ 
+ DEN_CV_equipment_1922: "Clase Jutland"
+ DEN_CV_equipment_1930: "Clase Espingol"
+
+ ######################################################################
+ ###  ECU - Ecuador
+######################################################################
+ ECU_DD_equipment_1945: "Clase Presidente Eloy Alfaro"
+ 
+ ######################################################################
+ ###   FIN - Finland
+######################################################################
+ FIN_SS_equipment_1916: "Clase AG"
+ FIN_SS_equipment_1922: "Clase Vetehinen"
+ 
+ FIN_CA_equipment_1933: "Clase Väinämöinen"
+
+ ######################################################################
+ ###   GRE - Greece
+###################################################################### GRE_SS_equipment_1912: "Katsonis Class"
+ GRE_SS_equipment_1895: "Clase Nordenfelt I"
+ GRE_SS_equipment_1912: "Clase Delfin"
+ GRE_SS_equipment_1916: "Clase Hermes"
+ GRE_SS_equipment_1922: "Clase Katsonis"
+ GRE_SS_equipment_1933: "Clase Némesis"
+ GRE_SS_equipment_1936: "Clase Delphinos"
+ GRE_SS_equipment_1940: "Clase Gato"
+ GRE_SS_equipment_1945: "Clase Papanikolís"
+ 
+ GRE_DD_equipment_1900: "Clase Kiklades"
+ GRE_DD_equipment_1912: "Clase Thyella"
+ GRE_DD_equipment_1916: "Clase Aetos"
+ GRE_DD_equipment_1922: "Clase Doxa"
+ GRE_DD_equipment_1933: "Clase Dardo"
+ GRE_DD_equipment_1936: "Clase Eptanisa"
+ GRE_DD_equipment_1940: "Clase Aspís"
+ GRE_DD_equipment_1945: "Clase Apostolis"
+ 
+ GRE_CL_equipment_1885: "Clase Navarchos Miaoulis"
+ GRE_CL_equipment_1900: "Clase Athinai"
+ GRE_CL_equipment_1912: "Clase Elli"
+ GRE_CL_equipment_1922: "Clase Kriti"
+ GRE_CL_equipment_1933: "Clase Eurybiades"
+ GRE_CL_equipment_1936: "Clase Psará"
+ GRE_CL_equipment_1940: "Clase Ares"
+ 
+ GRE_CA_equipment_1895: "Clase Helle"
+ GRE_CA_equipment_1922: "Clase Makedonia"
+ GRE_CA_equipment_1933: "Clase Thessalonike"
+ GRE_CA_equipment_1936: "Clase Thevai"
+ GRE_CA_equipment_1940: "Clase Hydra"
+ 
+ GRE_BC_equipment_1906: "Clase Kyprís"
+ GRE_BC_equipment_1933: "Clase Konstantinoúpolis"
+ 
+ GRE_BB_equipment_1885: "Clase Hydra"
+ GRE_BB_equipment_1895: "Clase Kilkis"
+ GRE_BB_equipment_1900: "Clase Averoff"
+ GRE_BB_equipment_1912: "Clase Salamis"
+ GRE_BB_equipment_1916: "Clase Thermopylae"
+ GRE_BB_equipment_1922: "Clase Megas Aléxandros"
+ GRE_BB_equipment_1933: "Clase Lysandros"
+
+ GRE_CV_equipment_1922: "Clase Ouranos"
+ GRE_CV_equipment_1933: "Clase Thermopylae"
+ 
+ GRE_CV_1916: "Clase Astraios"
+ GRE_CVE_equipment_1933: "Clase Arkadia"
+ GRE_CVE_equipment_1945: "Clase Anatolia"
+ 
+######################################################################
+ ###   HOL - Holland
+######################################################################
+ HOL_SS_equipment_1895: "Clase O-1"
+ HOL_SS_equipment_1912: "Clase O-2"
+ HOL_SS_equipment_1916: "Clase O-6"
+ HOL_SS_equipment_1922: "Clase O-9"
+ HOL_SS_equipment_1933: "Clase O-16"
+ HOL_SS_equipment_1936: "Clase O-12"
+ HOL_SS_equipment_1945: "Clase Walrus"
+ HOL_SSK_equipment_1955: "Clase Dolfijn"
+ 
+ HOL_DD_equipment_1912: "Clase Roofdier"
+ HOL_DD_equipment_1922: "Clase Admiralen"
+ HOL_DD_equipment_1936: "Clase Gerard Callenburgh"
+ 
+ HOL_CL_equipment_1885: "Clase Holland"
+ HOL_CL_equipment_1912: "Clase Java"
+ HOL_CL_equipment_1936: "Clase Tromp"
+ HOL_CL_equipment_1945: "Clase Eendracht"
+ 
+ HOL_BC_equipment_1940: "Proyecto 1047"
+ 
+ HOL_BB_equipment_1885: "Clase Koning der Nederlanden"
+ HOL_BB_equipment_1895: "Clase Evertsen"
+  
+ HOL_CVE_equipment_1933: "Clase Gadila"
+ HOL_CVE_equipment_1945: "Clase Gadila"
+
+ HOL_CVL_equipment_1940: "Clase Karel Doorman"
+ 
+ ######################################################################
+ ###  IRE - IRELAND
+######################################################################
+
+ IRE_SS_equipment_1936: "Clase Bradán Feasa"
+ IRE_SS_equipment_1940: "Clase Pooka"
+
+ IRE_DD_equipment_1933: "Clase Cúige"
+ IRE_DD_equipment_1936: "Clase Connacht"
+ IRE_DD_equipment_1940: "Clase Contae Mhuineacháin"
+
+ IRE_CA_equipment_1922: "Clase Granuaile"
+ 
+ ######################################################################
+ ###  LAT - LATVIA
+######################################################################
+ LAT_SS_equipment_1933: "Clase Krovona"
+ 
+ LAT_DD_equipment_1933: "Clase Varonis"
+ LAT_DD_equipment_1936: "Clase Pieplitisa"
+ LAT_DD_equipment_1940: "Clase Ronis"
+ 
+ LAT_CA_equipment_1895: "Clase Riga"
+ ######################################################################
+ ###  LIT - LITHUANIA
+######################################################################
+
+ ######################################################################
+ ###  MEX - MEXICO
+######################################################################
+
+
+ ######################################################################
+ ###  NOR - NORWAY
+######################################################################
+ NOR_SS_equipment_1950: "Clase Kobben"
+ 
+ NOR_BB_equipment_1900: "Clase Tor"
+
+ ### POR - PORTUGAL ###
+ POR_SS_equipment_1912: "Clase Foca"
+ POR_SS_equipment_1912_desc: "La clase Foca portuguesa representaba tres submarinos pequeños construidos en Italia para la Marina portuguesa poco después de la Gran Guerra. Eran versiones agrandadas de la clase italiana Espadarte y buques gemelos de la clase A española. Sólo desplazaban 260 toneladas y estaban armados con dos tubos lanzatorpedos de 450 mm. Los tres buques fueron retirados del servicio a mediados de los años treinta."
+ POR_SS_equipment_1916: "Clase Delfim"
+ POR_SS_equipment_1916_desc: "La clase Delfim estaba formada por un par de submarinos encargados y construidos originalmente en Italia para la Marina portuguesa a principios de los años treinta. El pedido se canceló y los buques se completaron para la Marina italiana. Estaban basados en la gran clase italiana Squalo, que desplazaba 980 toneladas y estaba armada con ocho tubos lanzatorpedos de 533 mm."
+ POR_SS_equipment_1933: "Clase Narval"
+ POR_SS_equipment_1933_desc: "La clase Narval estaba formada por tres submarinos británicos de la clase Subtle que fueron encargados en 1945 y vendidos a Portugal tras la Segunda Guerra Mundial. Desplazaban 840 toneladas y estaban armados con siete tubos lanzatorpedos de 533 mm."
+ POR_DD_equipment_1900: "Clase Douro"
+ POR_DD_equipment_1900_desc: "La clase Douro era una clase de siete destructores botados a principios de los años treinta. Se construyeron tanto en Portugal como en el Reino Unido. Se vendieron dos de los buques a Colombia en 1934. Los buques desplazaban más de 1200 toneladas y estaban armados con cuatro cañones BL de 4,7 pulgadas y ocho tubos lanzatorpedos de 533 mm."
+ ### PRU - PERU ###
+ PRU_SS_equipment_1912: "Clase R"
+ PRU_SS_equipment_1912_desc: "Los submarinos peruanos de la clase R eran cuatro submarinos encargados y construidos por EE. UU. a mediados de los años veinte. Eran básicamente idénticos a los submarinos de la clase R estadounidenses, desplazando más de 570 toneladas y armados con cuatro tubos lanzatorpedos de 533 mm."
+ PRU_DD_equipment_1900: "Clase Almirante Villar"
+ PRU_DD_equipment_1900_desc: "El Almirante Villar y el Amirante Guise eran dos antiguos destructores rusos de la clase Novik. Dieron la vuelta al mundo hasta llegar a la Armada peruana, navegando bajo las banderas del Reino Unido y Estonia antes de ser finalmente entregados a Perú en 1934. Estaban armados con cuatro cañones de 102 mm y nueve tubos lanzatorpedos de 533 mm. Desplazaban más de 1200 toneladas y tenían una velocidad decente para su tamaño y antigüedad."
+ PRU_CL_equipment_1900: "Clase Almirante Grau"
+ PRU_CL_equipment_1900_desc: "La clase Almirante Grau estaba formada por dos cruceros ligeros construidos en el Reino Unido antes de la Primera Guerra Mundial para la Armada peruana y puestos en servicio en 1907. Aun para ser cruceros ligeros, los buques eran bastante pequeños, ya que sólo desplazaban 3100 toneladas y tenían una velocidad por debajo de la media. Estaban ligeramente blindados y tenían cañones Vickers duales de 152 mm como su armamento principal."
+ ### RAJ - BRITISH RAJ ###
+ RAJ_SS_equipment_1912: "Clase L"
+ RAJ_SS_equipment_1912_desc: "La clase L eran barcos de tamaño medio planeados originalmente bajo el Programa de Guerra de Emergencia como una versión mejorada de las anteriores clases de submarinos. Se construyeron en las últimas etapas de la Gran Guerra y se equiparon con nuevos torpedos más grandes, de 21 pulgadas. Sirvieron hasta el principio de la Segunda Guerra Mundial, cuando se usaron más para tareas secundarias y de entrenamiento."
+ RAJ_SS_equipment_1916: "Clase T"
+ RAJ_SS_equipment_1916_desc: "Los barcos de la clase T, o clase Tritone, se diseñaron para reemplazar a los grandes submarinos de las clases O, P y R. Eran submarinos de tamaño moderado y gran alcance, idóneos para los océanos Atlántico y Pacífico. Estos barcos estaban bien armados, eran plataformas estables y se usaron bastante durante el conflicto, ya que el 25 % de los barcos construidos se perdió en la guerra."
+ RAJ_SS_equipment_1922: "Clase U"
+ RAJ_SS_equipment_1922_desc: "La clase U eran submarinos de pequeño tamaño construidos en el marco de los Programas de Guerra de Emergencia de 1940 y 1941. Originalmente concebidos como submarinos de entrenamiento al estallar la guerra, su diseño cambió, lo que permitió a estos submarinos demostrar su valor en las confinadas aguas del mar del Norte y el Mediterráneo. Debido a su menor tamaño, su alcance y armamento se vieron limitados. Tres subclases conformaban la clase: Undine, Umpire y Uproar."
+ RAJ_SS_equipment_1933: "Clase V"
+ RAJ_SS_equipment_1933_desc: "Los submarinos de la clase V, o clase Vampire, estaban basados en los anteriores barcos más pequeños de la clase U. Eran mayores sin dejar de ser relativamente pequeños, con mejor capacidad de navegación marítima pero con un alcance operativo y un armamento limitados."
+ RAJ_DD_equipment_1900: "Clase V/W"
+ RAJ_DD_equipment_1900_desc: "Estos destructores incluían las clases Admirality y Thornycroft V y W. Se construyeron en el marco del Programa de Guerra de Emergencia. Eran la evolución definitiva del diseño de los destructores británicos durante la Gran Guerra, incorporando las mejoras de sus predecesores, así como nuevos avances tecnológicos. Se construyeron grandes cantidades de estos buques durante las últimas etapas de la Gran Guerra y se convirtieron más tarde en la espina dorsal de las flotillas de destructores de la Marina Real. A partir de la década de 1930, pasaron a formar parte de flotas de reserva, relegadas finalmente a tareas de escolta de convoyes. Eran navíos adecuadamente armados y rápidos con buen alcance."
+ RAJ_DD_equipment_1912: "Clase G/H/I"
+ RAJ_DD_equipment_1912_desc: "Los destructores de las clases G, H e I se encargaron como parte de los Programas de Construcción Naval de 1933 y 1934. Eran por lo general repeticiones de la clase F precedente, con una ligera reducción de tamaño. El armamento de las clases G y H era el mismo que el de la clase F: cañones de 4,7 pulgadas. Estos buques tenían un gran alcance, estaban adecuadamente armados y contaban con una fuerte dotación de torpedos. Se usaron bastante durante la guerra y sufrieron numerosas pérdidas."
+ RAJ_DD_equipment_1916: "Clase J/K/N"
+ RAJ_DD_equipment_1916_desc: "Las clases J, K y N eran similares a la anterior clase Tribal, pero, en lugar de hacer hincapié en el armamento de cañones, los diseñadores volvieron a una configuración más estándar de torpedos pesados y cañones ligeros. Estos barcos se modificaron durante su servicio militar. Las mejoras incluían cañones antiaéreos y radares mejorados. Eran buques rápidos, de largo alcance y bien armados, ideales para escoltar flotas."
+ RAJ_DD_equipment_1922: "Clase Battle"
+ RAJ_DD_equipment_1922_desc: "Los destructores de la clase Battle se basaron en la evolución de los destructores británicos utilizados durante toda la guerra. Estos barcos se encargaron como parte de los programas navales de 1942 y 1943. Iban bien armados en lo que a armas y torpedos se refiere. Su armamento antiaéreo, sus capacidades antisubmarinas, su velocidad y su alcance los convertían en buques versátiles. Su introducción tardía en la guerra se tradujo en una contribución mínima."
+ RAJ_CL_equipment_1900: "Clase C"
+ RAJ_CL_equipment_1900_desc: "Los cruceros ligeros de la clase C eran un grupo de veintiocho cruceros ligeros de la Marina Real. Se construyeron antes y durante la Gran Guerra para las condiciones adversas del mar del Norte. Demostraron ser navíos robustos y capaces, si bien un tanto pequeños y estrechos. Su armamento era más que satisfactorio, ya que llevaban suficientes cañones de 6 pulgadas para luchar contra blancos superficiales enemigos y una pesada carga de torpedos. Fueron muy utilizados durante la Gran Guerra y participaron en muchas acciones superficiales. Sólo las subclases Caledon, Ceres y Carlisle estaban en servicio a mediados de los años treinta."
+ RAJ_basic_light_cruiser: "Clase Southampton"
+ RAJ_CL_equipment_1912: "Clase Southampton"
+ RAJ_CL_equipment_1912_desc: "Los cruceros ligeros de la clase Southampton eran una subclase de los cruceros de la clase Town y se diseñaron para contrarrestar a los cruceros japoneses de la clase Mogami. Estos navíos estaban bien armados, tenían buena velocidad y alcance y portaban un armamento formidable de doce cañones de 6 pulgadas en cuatro torretas triples. Fueron la base de muchos de los posteriores diseños de cruceros ligeros de guerra de la RN."
+ RAJ_CL_equipment_1922: "Clase Crown Colony"
+ RAJ_CL_equipment_1922_desc: "Los cruceros ligeros de la clase Crown Colony eran versiones mejoradas de la clase Town, pero con un diseño simplificado para acelerar la construcción y reducir los costes. Los buques portaban las mismas armas que sus predecesores: cuatro torretas triples con cañones de 6 pulgadas. Tenían un blindaje similar, pero, debido a sus motores más pequeños, se redujo en cierta medida su alcance. El tipo incluía dos subclases: Fiji y Ceylon."
+ RAJ_CL_equipment_1933: "Clase Minotaur"
+ RAJ_CL_equipment_1933_desc: "También conocidos como clase Swiftsure, estos cruceros fueron diseñados como una versión modificada de la clase Crown Colony, incorporando modificaciones de guerra que fueron autorizadas en 1941. Tenían un mayor alcance operativo y un armamento antiaéreo más numeroso que los de la clase Crown Colony, mientras que el armamento principal se redujo a tres torretas triples. Construidos demasiado tarde para influir en el resultado de la guerra, la mayoría de los buques encargados fueron cancelados posteriormente. "
+ RAJ_CA_equipment_1895: "Clase Hawkins"
+ RAJ_CA_equipment_1895_desc: "Los cruceros de la clase Hawkins fueron los primeros cruceros pesados del mundo. Estaban basados en los cruceros ligeros de la clase Town, sobre todo en la subclase Birmingham, sólo que dotados de cañones de 7,5 pulgadas y un cinturón acorazado más grueso. Se diseñaron para enfrentarse a los grandes asaltantes mercantes de Alemania. Estaban bien armados, tenían una velocidad y un alcance razonables, y buena protección. Se pusieron en servicio cinco barcos en total, pero sólo cuatro estaban en activo al comenzar la Segunda Guerra Mundial."
+ RAJ_CA_equipment_1906: "Clase Surrey"
+ RAJ_CA_equipment_1906_desc: "Los cruceros pesados de la clase Surrey se propusieron bajo el programa naval de 1928. Eran versiones mejoradas de los anteriores cruceros pesados de la clase York. De haberse terminado, habrían estado dotados de cuatro cañones dobles de 8 pulgadas, un mayor blindaje y motores más potentes. Se encargaron dos buques, pero no se entregó ninguno."
+ RAJ_CA_equipment_1922: "Clase Admiral"
+ RAJ_CA_equipment_1922_desc: "Los cruceros pesados de la clase Admiral (no confundir con los cruceros de batalla de la clase Admiral) fueron el último intento de la Marina Real de diseñar y construir cruceros armados con cañones de 8 pulgadas. La fase de diseño empezó en 1938 y concluyó en 1941, dando lugar a varias propuestas. Las propuestas finales contaban con nuevas torretas triples con cañones de 8 pulgadas, armamento antiaéreo pesado, blindaje grueso y buena velocidad. La escasez de cruceros enemigos y la rentabilidad de estos buques hicieron que se centrara la atención en la construcción de más cruceros ligeros."
+ RAJ_CA_equipment_1933: "Diseño Churchill"
+ RAJ_CA_equipment_1933_desc: "Estos buques fueron propuestos por sir Winston Churchill, lord del Almirantazgo, en las primeras fases de la Segunda Guerra Mundial para hacer frente a los cruceros alemanes de grandes cañones de la clase Deutschland. Estos navíos habrían tenido cañones de 9,2 pulgadas, antiaéreos pesados y un fuerte blindaje. Se diseñaron para luchar eficientemente contra los buques capitales enemigos. Los buques se terminaron cancelando debido al elevado coste y la falta de demanda de un nuevo crucero pesado. "
+ RAJ_BC_equipment_1912: "Clase Renown"
+ RAJ_BC_equipment_1912_desc: "Los cruceros de batalla de la clase Renown se diseñaron originalmente como versiones mejoradas de los acorazados de la clase Revenge. Su construcción se suspendió cuando estalló la Gran Guerra. El almirante lord Fisher logró reiniciar su construcción como cruceros de batalla. Estos buques eran los cruceros de batalla por antonomasia. Iban bien armados, eran rápidos y maniobrables, pero tenían un blindaje más fino y menor alcance operativo. Sólo se terminaron dos de los tres barcos originales, Repulse y Renown."
+ RAJ_BC_equipment_1916: "Clase Princess Royal"
+ RAJ_BC_equipment_1916_desc: "El Princess Royal era una clase de cruceros de batalla hipotéticos que eran una versión más rápida y barata de los cruceros de batalla de la clase King George V. Estos navíos llevaban un armamento similar pero reducido para el combate superficial y antiaéreo: dos cañones triples de 14 pulgadas y seis cañones duales antiaéreos de 5,25 pulgadas. Su gran velocidad y largo alcance habrían propocionado a la Marina Real capacidades de ataque rápido y protección de convoyes, pero su blindaje limitado habría resultado problemático si hubieran tenido que enfrentarse a acorazados modernos."
+ RAJ_BB_equipment_1895: "Clase Revenge"
+ RAJ_BB_equipment_1895_desc: "Los cruceros de batalla de la clase Revenge se encargaron en 1913 como versiones baratas de los dreadnoughts de la clase Queen Elizabeth. Aunque contaban con armamento y blindaje similares, su velocidad considerablemente inferior los relegó a tareas secundarias durante la Segunda Guerra Mundial. De los 8 buques previstos de la clase, sólo se terminaron 5."
+ RAJ_BB_equipment_1900: "Clase King George V"
+ RAJ_BB_equipment_1900_desc: "Los acorazados de la clase King George V fueron el resultado del Tratado Naval de Washington de 1922 y del Primer Tratado de Londres de 1930, que limitaban el desplazamiento máximo y la artillería de los buques capitales. Por tanto, estos buques estaban equipados con cañones de menor calibre que los acorazados anteriores e incluso coetáneos. A pesar del menor calibre, los buques iban bien armados, portaban fuerte armamento antiaéreo y tenían una protección adecuada. Cinco buques fueron encargados y botados para reemplazar a los viejos acorazados de la clase Queen Elizabeth."
+ RAJ_BB_equipment_1906: "Clase Lion"
+ RAJ_BB_equipment_1906_desc: "Los acorazados de la clase Lion fueron la continuación de los acorazados King George V, incorporando muchas de sus características. Se encargaron seis buques en el programa naval de 1938 para reemplazar a los anticuados acorazados de la clase Revenge, pero ninguno llegó a terminarse debido al aumento de las hostilidades. Los navíos habrían sido parecidos en general a la clase King George V, pero el armamento principal habría sido más pesado, introduciendo un nuevo cañón de 16 pulgadas. También habrían tenido un blindaje más grueso y motores más potentes."
+ RAJ_BB_equipment_1912: "Clase Vanguard"
+ RAJ_BB_equipment_1912_desc: "El acorazado de la clase Vanguard fue el último acorazado construido para la Marina Real. Se encargó un solo buque, pero se sopesaron cuatro más para el Pacífico. Encargado en el marco del Emergency Shipbuilding Program de 1940, su construcción no tuvo una gran prioridad y se terminó después de la guerra. La clase Vanguard tenía un casco liso, lo que le confería una estabilidad y navegabilidad excelentes. El armamento era el mismo que el de los acorazados de las clases Queen Elizabeth y Revenge, por lo que podía ofrecer una potencia de fuego considerable. Sus potentes motores y su buen blindaje hacían que el buque fuera rápido y estuviera bien protegido."
+ RAJ_SHBB_equipment_1936: "Clase Centurion"
+ RAJ_SHBB_equipment_1936_desc: "El Centurion era una clase de hipotéticos acorazados pesados de la Marina Real construidos para hacer frente a los grandes buques de las Armadas alemana y japonesa. Los grandes cañones de 18 pulgadas y el grueso blindaje proporcionan al buque la potencia de fuego y la protección necesarias para combatir a estos navíos. Un fuerte armamento antiaéreo, largo alcance y buena velocidad eran necesarios para cubrir los vastos mares del Imperio británico."
+ RAJ_SHBB_equipment_1945: "Clase Lion II"
+ RAJ_SHBB_equipment_1945_desc: "Los acorazados de la clase Lion II se diseñaron en 1944 como versión mejorada del anterior acorazado de la clase Lion. Incorporando las lecciones de la guerra, este diseño era más grande y más pesado, y si se terminaba, llevaría tres o cuatro cañones triples de 16 pulgadas del último tipo. Unas gruesas placas de blindaje protegían la nave de cualquier enemigo aéreo o superficial. El coste de construcción de estos buques, la derrota de las armadas enemigas y la necesidad de portaaviones propiciaron el abandono del proyecto."
+ RAJ_CV_equipment_1930: "Clase Courageous"
+ RAJ_CV_equipment_1930_desc: "Estos tres portaaviones eran cruceros de batalla reconvertidos y fueron los primeros portaaviones de flota de la Marina Real. Su conversión fue consecuencia del Tratado Naval de Washington de 1922 y se terminó en 1925. Eran buques moderadamente blindados mas bien armados, con gran alcance y buena velocidad, pero, debido a la naturaleza de la conversión, su dotación de aviones era limitada. No obstante, aportaron a la Marina Real una importante experiencia en la construcción de portaaviones y la proyección aérea de flotas."
+ RAJ_CV_equipment_1933: "Clase Ark Royal"
+ RAJ_CV_equipment_1933_desc: "El portaaviones Ark Royal fue el primer navío de su clase construido según las restricciones del Tratado Naval de Washington. Fue el primer buque en el que los hangares y la cubierta formaban parte integral del casco. Diseñado en 1934, el buque estaba bien blindado y armado. Transportaba una gran dotación de aviones y disponía del alcance operativo y la velocidad adecuados para seguir el ritmo de las principales fuerzas de la Marina Real."
+ RAJ_CV_equipment_1936: "Clase Illustrious"
+ RAJ_CV_equipment_1936_desc: "La clase Illustrious se diseñó dentro de las restricciones del Segundo Tratado Naval de Londres de 1936, que limitaba el tamaño de los portaaviones a un límite máximo de 23 000 toneladas. Fue el primer portaaviones británico en tener una cubierta acorazada, lo que redujo el tamaño de su grupo aéreo. El blindaje pesado y el armamento antiaéreo proporcionaban una fuerte defensa a los buques, mientras que los potentes motores y un gran depósito de combustible les daban un gran alcance operativo. "
+ RAJ_CV_equipment_1940: "Clase Implacable"
+ RAJ_CV_equipment_1940_desc: "Los portaaviones de la clase Implacable se encargaron en el marco del programa naval de 1938 y eran básicamente versiones mejoradas de los anteriores de la clase Illustrious. La guerra y el cambio de prioridad a buques más pequeños para cometidos de protección de convoyes en las fases inicial y media de la guerra ralentizaron la constricción de estos buques. Eran navíos más grandes capaces de transportar más aviones, con un grueso blindaje tanto en el casco como en la cubierta. Sus motores más potentes le proporcionaban mayor velocidad y autonomía en comparación con la clase Illustrious."
+ ### ROM - ROMANIA ###
+ ROM_SS_equipment_1912: "Clase Delfinul"
+ ROM_SS_equipment_1912_desc: "El Delfinul era un submarino rumano construido en Italia para la Armada rumana. Botado en 1930, el buque desplazaba 650 toneladas y estaba armado con seis tubos lanzatorpedos de 533 mm."
+ ROM_SS_equipment_1922: "Clase Requinul"
+ ROM_SS_equipment_1922_desc: "Los submarinos Requinul y Marsuinul fueron construidos por los alemanes para sus aliados rumanos. Se pusieron en servicio en 1943. Los barcos estaban basados en los submarinos Tipo VII alemanes. Los barcos eran submarinos de tamaño medio que desplazaban 600 toneladas y estaban armados con seis tubos lanzatorpedos de 533 mm."
+ ROM_DD_equipment_1900: "Clase Marasti"
+ ROM_DD_equipment_1900_desc: "La clase Marasti era una clase de destructores construidos para Rumanía durante la Gran Guerra. Los cuatro buques de esta clase fueron requisados por la Marina italiana durante la guerra, y dos de ellos fueron vendidos a Rumanía a principios de los años veinte. Eran destructores más grandes que desplazaban más de 1400 toneladas. Estaban armados con cuatro cañones Schneider-Canet-Armstrong 120 mm/45 y cuatro tubos lanzatorpedos de 450 mm. Tenían una velocidad y fiabilidad medias para su época."
+ #ROM_DD_equipment_1900b: "Regele Ferdinand Class"
+ ### SAF - SOUTH AFRICA ###
+ SAF_SS_equipment_1912: "Clase L"
+ SAF_SS_equipment_1912_desc: "La clase L eran barcos de tamaño medio planeados originalmente bajo el Programa de Guerra de Emergencia como una versión mejorada de las anteriores clases de submarinos. Se construyeron en las últimas etapas de la Gran Guerra y se equiparon con nuevos torpedos más grandes, de 21 pulgadas. Sirvieron hasta el principio de la Segunda Guerra Mundial, cuando se usaron más para tareas secundarias y de entrenamiento."
+ SAF_SS_equipment_1916: "Clase T"
+ SAF_SS_equipment_1916_desc: "Los barcos de la clase T, o clase Tritone, se diseñaron para reemplazar a los grandes submarinos de las clases O, P y R. Eran submarinos de tamaño moderado y gran alcance, idóneos para los océanos Atlántico y Pacífico. Estos barcos estaban bien armados, eran plataformas estables y se usaron bastante durante el conflicto, ya que el 25 % de los barcos construidos se perdió en la guerra."
+ SAF_SS_equipment_1922: "Clase U"
+ SAF_SS_equipment_1922_desc: "La clase U eran submarinos de pequeño tamaño construidos en el marco de los Programas de Guerra de Emergencia de 1940 y 1941. Originalmente concebidos como submarinos de entrenamiento al estallar la guerra, su diseño cambió, lo que permitió a estos submarinos demostrar su valor en las confinadas aguas del mar del Norte y el Mediterráneo. Debido a su menor tamaño, su alcance y armamento se vieron limitados. Tres subclases conformaban la clase: Undine, Umpire y Uproar."
+ SAF_SS_equipment_1933: "Clase V"
+ SAF_SS_equipment_1933_desc: "Los submarinos de la clase V, o clase Vampire, estaban basados en los anteriores barcos más pequeños de la clase U. Eran mayores sin dejar de ser relativamente pequeños, con mejor capacidad de navegación marítima pero con un alcance operativo y un armamento limitados."
+ SAF_DD_equipment_1900: "Clase V/W"
+ SAF_DD_equipment_1900_desc: "Estos destructores incluían las clases Admirality y Thornycroft V y W. Se construyeron en el marco del Programa de Guerra de Emergencia. Eran la evolución definitiva del diseño de los destructores británicos durante la Gran Guerra, incorporando las mejoras de sus predecesores, así como nuevos avances tecnológicos. Se construyeron grandes cantidades de estos buques durante las últimas etapas de la Gran Guerra y se convirtieron más tarde en la espina dorsal de las flotillas de destructores de la Marina Real. A partir de la década de 1930, pasaron a formar parte de flotas de reserva, relegadas finalmente a tareas de escolta de convoyes. Eran navíos adecuadamente armados y rápidos con buen alcance."
+ SAF_DD_equipment_1912: "Clase G/H/I"
+ SAF_DD_equipment_1912_desc: "Los destructores de las clases G, H e I se encargaron como parte de los Programas de Construcción Naval de 1933 y 1934. Eran por lo general repeticiones de la clase F precedente, con una ligera reducción de tamaño. El armamento de las clases G y H era el mismo que el de la clase F: cañones de 4,7 pulgadas. Estos buques tenían un gran alcance, estaban adecuadamente armados y contaban con una fuerte dotación de torpedos. Se usaron bastante durante la guerra y sufrieron numerosas pérdidas."
+ SAF_DD_equipment_1916: "Clase J/K/N"
+ SAF_DD_equipment_1916_desc: "Las clases J, K y N eran similares a la anterior clase Tribal, pero, en lugar de hacer hincapié en el armamento de cañones, los diseñadores volvieron a una configuración más estándar de torpedos pesados y cañones ligeros. Estos barcos se modificaron durante su servicio militar. Las mejoras incluían cañones antiaéreos y radares mejorados. Eran buques rápidos, de largo alcance y bien armados, ideales para escoltar flotas."
+ SAF_DD_equipment_1922: "Clase Battle"
+ SAF_DD_equipment_1922_desc: "Los destructores de la clase Battle se basaron en la evolución de los destructores británicos utilizados durante toda la guerra. Estos barcos se encargaron como parte de los programas navales de 1942 y 1943. Iban bien armados en lo que a armas y torpedos se refiere. Su armamento antiaéreo, sus capacidades antisubmarinas, su velocidad y su alcance los convertían en buques versátiles. Su introducción tardía en la guerra se tradujo en una contribución mínima."
+ SAF_CL_equipment_1900: "Clase C"
+ SAF_CL_equipment_1900_desc: "Los cruceros ligeros de la clase C eran un grupo de veintiocho cruceros ligeros de la Marina Real. Se construyeron antes y durante la Gran Guerra para las condiciones adversas del mar del Norte. Demostraron ser navíos robustos y capaces, si bien un tanto pequeños y estrechos. Su armamento era más que satisfactorio, ya que llevaban suficientes cañones de 6 pulgadas para luchar contra blancos superficiales enemigos y una pesada carga de torpedos. Fueron muy utilizados durante la Gran Guerra y participaron en muchas acciones superficiales. Sólo las subclases Caledon, Ceres y Carlisle estaban en servicio a mediados de los años treinta."
+ SAF_CL_equipment_1912: "Clase Southampton"
+ SAF_CL_equipment_1912_desc: "Los cruceros ligeros de la clase Southampton eran una subclase de los cruceros de la clase Town y se diseñaron para contrarrestar a los cruceros japoneses de la clase Mogami. Estos navíos estaban bien armados, tenían buena velocidad y alcance y portaban un armamento formidable de doce cañones de 6 pulgadas en cuatro torretas triples. Fueron la base de muchos de los posteriores diseños de cruceros ligeros de guerra de la RN."
+ SAF_CL_equipment_1922: "Clase Crown Colony"
+ SAF_CL_equipment_1922_desc: "Los cruceros ligeros de la clase Crown Colony eran versiones mejoradas de la clase Town, pero con un diseño simplificado para acelerar la construcción y reducir los costes. Los buques portaban las mismas armas que sus predecesores: cuatro torretas triples con cañones de 6 pulgadas. Tenían un blindaje similar, pero, debido a sus motores más pequeños, se redujo en cierta medida su alcance. El tipo incluía dos subclases: Fiji y Ceylon."
+ SAF_CL_equipment_1933: "Clase Minotaur"
+ SAF_CL_equipment_1933_desc: "También conocidos como clase Swiftsure, estos cruceros fueron diseñados como una versión modificada de la clase Crown Colony, incorporando modificaciones de guerra que fueron autorizadas en 1941. Tenían un mayor alcance operativo y un armamento antiaéreo más numeroso que los de la clase Crown Colony, mientras que el armamento principal se redujo a tres torretas triples. Construidos demasiado tarde para influir en el resultado de la guerra, la mayoría de los buques encargados fueron cancelados posteriormente. "
+ SAF_CA_equipment_1895: "Clase Hawkins"
+ SAF_CA_equipment_1895_desc: "Los cruceros de la clase Hawkins fueron los primeros cruceros pesados del mundo. Estaban basados en los cruceros ligeros de la clase Town, sobre todo en la subclase Birmingham, sólo que dotados de cañones de 7,5 pulgadas y un cinturón acorazado más grueso. Se diseñaron para enfrentarse a los grandes asaltantes mercantes de Alemania. Estaban bien armados, tenían una velocidad y un alcance razonables, y buena protección. Se pusieron en servicio cinco barcos en total, pero sólo cuatro estaban en activo al comenzar la Segunda Guerra Mundial."
+ SAF_CA_equipment_1906: "Clase Surrey"
+ SAF_CA_equipment_1906_desc: "Los cruceros pesados de la clase Surrey se propusieron bajo el programa naval de 1928. Eran versiones mejoradas de los anteriores cruceros pesados de la clase York. De haberse terminado, habrían estado dotados de cuatro cañones dobles de 8 pulgadas, un mayor blindaje y motores más potentes. Se encargaron dos buques, pero no se entregó ninguno."
+ SAF_CA_equipment_1922: "Clase Admiral"
+ SAF_CA_equipment_1922_desc: "Los cruceros pesados de la clase Admiral (no confundir con los cruceros de batalla de la clase Admiral) fueron el último intento de la Marina Real de diseñar y construir cruceros armados con cañones de 8 pulgadas. La fase de diseño empezó en 1938 y concluyó en 1941, dando lugar a varias propuestas. Las propuestas finales contaban con nuevas torretas triples con cañones de 8 pulgadas, armamento antiaéreo pesado, blindaje grueso y buena velocidad. La escasez de cruceros enemigos y la rentabilidad de estos buques hicieron que se centrara la atención en la construcción de más cruceros ligeros."
+ SAF_CA_equipment_1933: "Diseño Churchill"
+ SAF_CA_equipment_1933_desc: "Estos buques fueron propuestos por sir Winston Churchill, lord del Almirantazgo, en las primeras fases de la Segunda Guerra Mundial para hacer frente a los cruceros alemanes de grandes cañones de la clase Deutschland. Estos navíos habrían tenido cañones de 9,2 pulgadas, antiaéreos pesados y un fuerte blindaje. Se diseñaron para luchar eficientemente contra los buques capitales enemigos. Los buques se terminaron cancelando debido al elevado coste y la falta de demanda de un nuevo crucero pesado. "
+ SAF_BC_equipment_1912: "Clase Renown"
+ SAF_BC_equipment_1912_desc: "Los cruceros de batalla de la clase Renown se diseñaron originalmente como versiones mejoradas de los acorazados de la clase Revenge. Su construcción se suspendió cuando estalló la Gran Guerra. El almirante lord Fisher logró reiniciar su construcción como cruceros de batalla. Estos buques eran los cruceros de batalla por antonomasia. Iban bien armados, eran rápidos y maniobrables, pero tenían un blindaje más fino y menor alcance operativo. Sólo se terminaron dos de los tres barcos originales, Repulse y Renown."
+ SAF_BC_equipment_1916: "Clase Princess Royal"
+ SAF_BC_equipment_1916_desc: "El Princess Royal era una clase de cruceros de batalla hipotéticos que eran una versión más rápida y barata de los cruceros de batalla de la clase King George V. Estos navíos llevaban un armamento similar pero reducido para el combate superficial y antiaéreo: dos cañones triples de 14 pulgadas y seis cañones duales antiaéreos de 5,25 pulgadas. Su gran velocidad y largo alcance habrían propocionado a la Marina Real capacidades de ataque rápido y protección de convoyes, pero su blindaje limitado habría resultado problemático si hubieran tenido que enfrentarse a acorazados modernos."
+ SAF_BB_equipment_1895: "Clase Revenge"
+ SAF_BB_equipment_1895_desc: "Los cruceros de batalla de la clase Revenge se encargaron en 1913 como versiones baratas de los dreadnoughts de la clase Queen Elizabeth. Aunque contaban con armamento y blindaje similares, su velocidad considerablemente inferior los relegó a tareas secundarias durante la Segunda Guerra Mundial. De los 8 buques previstos de la clase, sólo se terminaron 5."
+ SAF_BB_equipment_1900: "Clase King George V"
+ SAF_BB_equipment_1900_desc: "Los acorazados de la clase King George V fueron el resultado del Tratado Naval de Washington de 1922 y del Primer Tratado de Londres de 1930, que limitaban el desplazamiento máximo y la artillería de los buques capitales. Por tanto, estos buques estaban equipados con cañones de menor calibre que los acorazados anteriores e incluso coetáneos. A pesar del menor calibre, los buques iban bien armados, portaban fuerte armamento antiaéreo y tenían una protección adecuada. Cinco buques fueron encargados y botados para reemplazar a los viejos acorazados de la clase Queen Elizabeth."
+ SAF_BB_equipment_1906: "Clase Lion"
+ SAF_BB_equipment_1906_desc: "Los acorazados de la clase Lion fueron la continuación de los acorazados King George V, incorporando muchas de sus características. Se encargaron seis buques en el programa naval de 1938 para reemplazar a los anticuados acorazados de la clase Revenge, pero ninguno llegó a terminarse debido al aumento de las hostilidades. Los navíos habrían sido parecidos en general a la clase King George V, pero el armamento principal habría sido más pesado, introduciendo un nuevo cañón de 16 pulgadas. También habrían tenido un blindaje más grueso y motores más potentes."
+ SAF_BB_equipment_1912: "Clase Vanguard"
+ SAF_BB_equipment_1912_desc: "El acorazado de la clase Vanguard fue el último acorazado construido para la Marina Real. Se encargó un solo buque, pero se sopesaron cuatro más para el Pacífico. Encargado en el marco del Emergency Shipbuilding Program de 1940, su construcción no tuvo una gran prioridad y se terminó después de la guerra. La clase Vanguard tenía un casco liso, lo que le confería una estabilidad y navegabilidad excelentes. El armamento era el mismo que el de los acorazados de las clases Queen Elizabeth y Revenge, por lo que podía ofrecer una potencia de fuego considerable. Sus potentes motores y su buen blindaje hacían que el buque fuera rápido y estuviera bien protegido."
+ SAF_SHBB_equipment_1936: "Clase Centurion"
+ SAF_SHBB_equipment_1936_desc: "El Centurion era una clase de hipotéticos acorazados pesados de la Marina Real construidos para hacer frente a los grandes buques de las Armadas alemana y japonesa. Los grandes cañones de 18 pulgadas y el grueso blindaje proporcionan al buque la potencia de fuego y la protección necesarias para combatir a estos navíos. Un fuerte armamento antiaéreo, largo alcance y buena velocidad eran necesarios para cubrir los vastos mares del Imperio británico."
+ SAF_SHBB_equipment_1945: "Clase Lion II"
+ SAF_SHBB_equipment_1945_desc: "Los acorazados de la clase Lion II se diseñaron en 1944 como versión mejorada del anterior acorazado de la clase Lion. Incorporando las lecciones de la guerra, este diseño era más grande y más pesado, y si se terminaba, llevaría tres o cuatro cañones triples de 16 pulgadas del último tipo. Unas gruesas placas de blindaje protegían la nave de cualquier enemigo aéreo o superficial. El coste de construcción de estos buques, la derrota de las armadas enemigas y la necesidad de portaaviones propiciaron el abandono del proyecto."
+ SAF_CV_equipment_1930: "Clase Courageous"
+ SAF_CV_equipment_1930_desc: "Estos tres portaaviones eran cruceros de batalla reconvertidos y fueron los primeros portaaviones de flota de la Marina Real. Su conversión fue consecuencia del Tratado Naval de Washington de 1922 y se terminó en 1925. Eran buques moderadamente blindados mas bien armados, con gran alcance y buena velocidad, pero, debido a la naturaleza de la conversión, su dotación de aviones era limitada. No obstante, aportaron a la Marina Real una importante experiencia en la construcción de portaaviones y la proyección aérea de flotas."
+ SAF_CV_equipment_1933: "Clase Ark Royal"
+ SAF_CV_equipment_1933_desc: "El portaaviones Ark Royal fue el primer navío de su clase construido según las restricciones del Tratado Naval de Washington. Fue el primer buque en el que los hangares y la cubierta formaban parte integral del casco. Diseñado en 1934, el buque estaba bien blindado y armado. Transportaba una gran dotación de aviones y disponía del alcance operativo y la velocidad adecuados para seguir el ritmo de las principales fuerzas de la Marina Real."
+ SAF_CV_equipment_1936: "Clase Illustrious"
+ SAF_CV_equipment_1936_desc: "La clase Illustrious se diseñó dentro de las restricciones del Segundo Tratado Naval de Londres de 1936, que limitaba el tamaño de los portaaviones a un límite máximo de 23 000 toneladas. Fue el primer portaaviones británico en tener una cubierta acorazada, lo que redujo el tamaño de su grupo aéreo. El blindaje pesado y el armamento antiaéreo proporcionaban una fuerte defensa a los buques, mientras que los potentes motores y un gran depósito de combustible les daban un gran alcance operativo. "
+ SAF_CV_equipment_1940: "Clase Implacable"
+ SAF_CV_equipment_1940_desc: "Los portaaviones de la clase Implacable se encargaron en el marco del programa naval de 1938 y eran básicamente versiones mejoradas de los anteriores de la clase Illustrious. La guerra y el cambio de prioridad a buques más pequeños para cometidos de protección de convoyes en las fases inicial y media de la guerra ralentizaron la constricción de estos buques. Eran navíos más grandes capaces de transportar más aviones, con un grueso blindaje tanto en el casco como en la cubierta. Sus motores más potentes le proporcionaban mayor velocidad y autonomía en comparación con la clase Illustrious."
+ ### SIA - SIAM ###
+ SIA_SS_equipment_1916: "Clase Vilun"
+ SIA_SS_equipment_1916_desc: "Los submarinos de la clase Vilun eran cuatro pequeños submarinos costeros construidos en Japón para la Real Armada Tailandesa entre 1936 y 1938. Desplazaban 370 toneladas y estaban armados con cinco tubos lanzatorpedos de 533 mm."
+ SIA_DD_equipment_1900: "Clase Phra Ruang"
+ SIA_DD_equipment_1900_desc: "El Phra Ruang era un antiguo destructor británico de la clase R que fue vendido a la Real Armada Tailandesa en 1920. El buque desplazaba más de 1000 toneladas y estaba armado tres cuatro cañones QF Mk. IV 120 mm/45 y cuatro tubos lanzatorpedos de 533 mm. Tenían una velocidad, alcance y fiabilidad buenos para su época."
+ SIA_CL_equipment_1922: "Clase Taskin"
+ SIA_CL_equipment_1922_desc: "La clase Taskin consistía en un par de cruceros ligeros construidos en Italia. Se botaron en 1941, pero fueron requisados por la Armada siamesa en 1942. Iban a convertirse en los cruceros antiaéreos italianos de la clase Etna de la Regia Marina, pero nunca se terminaron antes del armisticio italiano. Habrían desplazado 5900 toneladas y habrían estado armados con seis cañones OTO 1929 152 mm/53 como armamento principal. Habrían tenido un blindaje decente, pero habrían sido bastante lentos para ser cruceros."
+ SIA_CA_equipment_1895: "Clase Sri Ayuthia"
+ SIA_CA_equipment_1895_desc: "Los buques de defensa costera de la clase Sri Ayuthia fueron quizás los últimos buques de este tipo construidos en el mundo, ya que los dos buques de la clase se construyeron en Japón y se pusieron en servicio para la Real Armada Tailandesa en 1938. El diseño era comparable al de un crucero pequeño (o un destructor grande) en tamaño, al de un acorazado en velocidad y al de un crucero pesado en armamento. Sus cañones principales eran cuatro cañones Shiki 203 mm/53,3. Estaban ligeramente blindados en comparación con cruceros pesados coetáneos."
+ 
+ ### SPA - NATIONALIST SPAIN ###
+ SPA_SS_equipment_1912: "Clase B"
+ SPA_SS_equipment_1912_desc: "La clase B fueron los primeros submarinos construidos en España para la Armada española. Los seis buques de la clase entraron en servicio entre 1922 y 1925. Se diseñaron como buques monocasco, por lo que su fiabilidad dejaba que desear. Eran submarinos de tamaño medio que desplazaban más de 550 toneladas. Estaban armados con cuatro tubos lanzatorpedos de 450 mm."
+ #SPA_SS_equipment_1912b: "C Class"
+ SPA_SS_equipment_1916: "Clase General Mola"
+ SPA_SS_equipment_1916_desc: "La clase General Mola era una clase de cuatro submarinos italianos de la clase Archimedes puestos en servicio en 1934 y traspasados a los nacionales en 1937. Eran bastante grandes, desplazando 880 toneladas, pero aun así más rápidos que la mayoría de submarinos. Estaban armados con ocho tubos lanzatorpedos de 533 mm y tenían una profundidad de 90 m."
+ SPA_SS_equipment_1922: "Clase G"
+ SPA_SS_equipment_1922_desc: "Los submarinos de la clase G española eran un par de submarinos alemanes de la clase VIIC construidos bajo licencia por la España nacional. Sin embargo, sólo se terminó uno, y no se traspasó a la Armada española hasta 1947. Los submarinos desplazaban 770 toneladas y estaban armados con cinco tubos lanzatorpedos de 533 mm. Tenían una velocidad y alcance excelentes, pues los Tipo VIIC eran el caballo de batalla de la flota submarina alemana."
+ SPA_SS_equipment_1933: "Clase D"
+ SPA_SS_equipment_1933_desc: "Los tres submarinos de la clase D española se botaron en 1944 y entraron en servicio en diversos puntos de la guerra. Los tres se diseñaron y construyeron en España. Eran grandes submarinos transatlánticos que desplazaban más de 1.050 toneladas. Estaban armados con seis tubos lanzatorpedos de 533 mm y tenían una velocidad y alcance xcelentes."
+ SPA_DD_equipment_1900: "Clase Alsedo"
+ SPA_DD_equipment_1900_desc: "Los tres destructores de la clase Alsedo se construyeron para la Armada española. Estaban basados en la clase L británica, y se pusieron en servicio entre 1924 y 1925. Desplazaban más de 1040 toneladas y tenían tres cañones Vickers Mk. LA 102 mm/45 como armamento principal, así como cuatro tubos lanzatorpedos de 450 mm. También tenían una velocidad y alcance decentes para su época."
+ SPA_DD_equipment_1912: "Clase Churruca"
+ SPA_DD_equipment_1912_desc: "La clase Churruca española incluía dieciséis destructores botados entre 1925 y 1933, dos de los cuales se vendieron después a Argentina. Los buques se diseñaron a partir de los destructores británicos de la clase S y conformaron la columna vertebral de la Armada española durante la guerra civil. Desplazaban más de 1500 toneladas y estaban armados con tres cañones Vickers-Armstrong 120 mm/45 como armamento principal, así como seis tubos lanzatorpedos de 533 mm. Tenían una buena velocidad y un alcance excelente. "
+ SPA_DD_equipment_1922: "Clase Álava"
+ SPA_DD_equipment_1922_desc: "Los destructores de la clase Álava se botaron en la posguerra como mejoras de la anterior clase Almirante Antequera —que era una subclase de la anterior clase Churruca—. Desplazaban 1710 toneladas y tenían cuatro cañones Vickers-Armstrong Mk. F 120 mm/45 como cañones principales. Su velocidad y alcance eran comparables a los de los diseños anteriores en los que se basó la clase."
+ SPA_CL_equipment_1900: "Clase Méndez Núñez"
+ SPA_CL_equipment_1900_desc: "Los cruceros ligeros de la clase Méndez Núñez eran un par de cruceros construidos en España para la Armada española a principios de los años veinte. Los buques se encargaron en 1915, pero la escasez de materiales de la Gran Guerra retrasó la consrucción. El diseño estuvo muy influenciado por los cruceros británicos de la clase C. Los cruceros desplazaban casi 4800 toneladas, pero eran relativamente lentos. Su armamento principal constaba de seis cañones Vickers Mk. V 152 mm/50. También tenía buen blindaje y una docena de tubos lanzatorpedos de 533 mm."
+ #SPA_CL_equipment_1900b: "Príncipe Alfonso Class"
+ SPA_CA_equipment_1895: "Clase Princesa de Asturias"
+ SPA_CA_equipment_1895_desc: "La clase Princesa de Asturias consistía en tres cruceros blindados construidos para la Armada española a principios de siglo. Los tres habían sido desguazados o hundidos a mediados de los años treinta. Estaban armados con cañones dobles Guillén M1896 de 240 mm y ocho cañones Schneider-Canet 140 mm/33. Estaban muy blindados, pero también eran algo lentos en comparación con un crucero pesado estándar."
+ SPA_CA_equipment_1906: "Clase Canarias"
+ SPA_CA_equipment_1906_desc: "Los dos cruceros pesados de la clase Canarias se construyeron de acuerdo con las especificaciones del Tratado Naval de Washington. Se botaron a principios de los años treinta, pero no se terminaron hasta 1936. Desplazaban casi 10 700 toneladas y tenían buena velocidad. Estaban relativamente ligeramente blindados, pero contaban con ocho cañones Vickers-Armstrong Mk. D 203 mm/50 como armamento principal."
+ SPA_BB_equipment_1895: "Clase España"
+ SPA_BB_equipment_1895_desc: "La clase España era originalmente una clase de tres acorazados dreadnought puestos en servicio en la época de la Gran Guerra, aunque uno había naufragado para cuando empezó la guerra civil española. Los otros dos se perdieron durante la guerra. Eran bastante pequeños para ser acorazados, desplazando poco más de 15 400 toneladas. Sin embargo, tenían un blindaje y una velocidad decentes y una batería principal de ocho cañones Vickers H 305 mm/50. "
+ ### SPR - REPUBLICAN SPAIN ###
+ SPR_SS_equipment_1912: "Clase B"
+ SPR_SS_equipment_1912_desc: "La clase B fueron los primeros submarinos construidos en España para la Armada española. Los seis buques de la clase entraron en servicio entre 1922 y 1925. Se diseñaron como buques monocasco, por lo que su fiabilidad dejaba que desear. Eran submarinos de tamaño medio que desplazaban más de 550 toneladas. Estaban armados con cuatro tubos lanzatorpedos de 450 mm."
+ #SPR_SS_equipment_1912b: "C Class"
+ SPR_SS_equipment_1916: "Clase General Mola"
+ SPR_SS_equipment_1916_desc: "La clase General Mola era una clase de cuatro submarinos italianos de la clase Archimedes puestos en servicio en 1934 y traspasados a los nacionales en 1937. Eran bastante grandes, desplazando 880 toneladas, pero aun así más rápidos que la mayoría de submarinos. Estaban armados con ocho tubos lanzatorpedos de 533 mm y tenían una profundidad de 90 m."
+ SPR_SS_equipment_1922: "Clase G"
+ SPR_SS_equipment_1922_desc: "Los submarinos de la clase G española eran un par de submarinos alemanes de la clase VIIC construidos bajo licencia por la España nacional. Sin embargo, sólo se terminó uno, y no se traspasó a la Armada española hasta 1947. Los submarinos desplazaban 770 toneladas y estaban armados con cinco tubos lanzatorpedos de 533 mm. Tenían una velocidad y alcance excelentes, pues los Tipo VIIC eran el caballo de batalla de la flota submarina alemana."
+ SPR_SS_equipment_1933: "Clase D"
+ SPR_SS_equipment_1933_desc: "Los tres submarinos de la clase D española se botaron en 1944 y entraron en servicio en diversos puntos de la guerra. Los tres se diseñaron y construyeron en España. Eran grandes submarinos transatlánticos que desplazaban más de 1.050 toneladas. Estaban armados con seis tubos lanzatorpedos de 533 mm y tenían una velocidad y alcance xcelentes."
+ SPR_DD_equipment_1900: "Clase Alsedo"
+ SPR_DD_equipment_1900_desc: "Los tres destructores de la clase Alsedo se construyeron para la Armada española. Estaban basados en la clase L británica, y se pusieron en servicio entre 1924 y 1925. Desplazaban más de 1040 toneladas y tenían tres cañones Vickers Mk. LA 102 mm/45 como armamento principal, así como cuatro tubos lanzatorpedos de 450 mm. También tenían una velocidad y alcance decentes para su época."
+ SPR_DD_equipment_1912: "Clase Churruca"
+ SPR_DD_equipment_1912_desc: "La clase Churruca española incluía dieciséis destructores botados entre 1925 y 1933, dos de los cuales se vendieron después a Argentina. Los buques se diseñaron a partir de los destructores británicos de la clase S y conformaron la columna vertebral de la Armada española durante la guerra civil. Desplazaban más de 1500 toneladas y estaban armados con tres cañones Vickers-Armstrong 120 mm/45 como armamento principal, así como seis tubos lanzatorpedos de 533 mm. Tenían una buena velocidad y un alcance excelente. "
+ SPR_DD_equipment_1922: "Clase Álava"
+ SPR_DD_equipment_1922_desc: "Los destructores de la clase Álava se botaron en la posguerra como mejoras de la anterior clase Almirante Antequera —que era una subclase de la anterior clase Churruca—. Desplazaban 1710 toneladas y tenían cuatro cañones Vickers-Armstrong Mk. F 120 mm/45 como cañones principales. Su velocidad y alcance eran comparables a los de los diseños anteriores en los que se basó la clase."
+ SPR_CL_equipment_1900: "Clase Méndez Núñez"
+ SPR_CL_equipment_1900_desc: "Los cruceros ligeros de la clase Méndez Núñez eran un par de cruceros construidos en España para la Armada española a principios de los años veinte. Los buques se encargaron en 1915, pero la escasez de materiales de la Gran Guerra retrasó la consrucción. El diseño estuvo muy influenciado por los cruceros británicos de la clase C. Los cruceros desplazaban casi 4800 toneladas, pero eran relativamente lentos. Su armamento principal constaba de seis cañones Vickers Mk. V 152 mm/50. También tenía buen blindaje y una docena de tubos lanzatorpedos de 533 mm."
+ #SPR_CL_equipment_1900b: "Príncipe Alfonso Class"
+ SPR_CA_equipment_1895: "Clase Princesa de Asturias"
+ SPR_CA_equipment_1895_desc: "La clase Princesa de Asturias consistía en tres cruceros blindados construidos para la Armada española a principios de siglo. Los tres habían sido desguazados o hundidos a mediados de los años treinta. Estaban armados con cañones dobles Guillén M1896 de 240 mm y ocho cañones Schneider-Canet 140 mm/33. Estaban muy blindados, pero también eran algo lentos en comparación con un crucero pesado estándar."
+ SPR_CA_equipment_1906: "Clase Canarias"
+ SPR_CA_equipment_1906_desc: "Los dos cruceros pesados de la clase Canarias se construyeron de acuerdo con las especificaciones del Tratado Naval de Washington. Se botaron a principios de los años treinta, pero no se terminaron hasta 1936. Desplazaban casi 10 700 toneladas y tenían buena velocidad. Estaban relativamente ligeramente blindados, pero contaban con ocho cañones Vickers-Armstrong Mk. D 203 mm/50 como armamento principal."
+ SPR_BB_equipment_1895: "Clase España"
+ SPR_BB_equipment_1895_desc: "La clase España era originalmente una clase de tres acorazados dreadnought puestos en servicio en la época de la Gran Guerra, aunque uno había naufragado para cuando empezó la guerra civil española. Los otros dos se perdieron durante la guerra. Eran bastante pequeños para ser acorazados, desplazando poco más de 15 400 toneladas. Sin embargo, tenían un blindaje y una velocidad decentes y una batería principal de ocho cañones Vickers H 305 mm/50. "
+ ### SWE - SWEEDEN ###
+ SWE_SS_equipment_1912: "Clase Hajen"
+ SWE_SS_equipment_1912_desc: "Las clases Hajen, Bävern y Valen eran una serie de submarinos de tamaño pequeño a medio construidos para la Armada sucea durante los años veinte. La clase Hajen, puesta en servicio en 1920, tenía submarinos que desplazaban casi 400 toneladas y estaban armados con cuatro tubos lanzatorpedos de 450 mm. Tenían una profundidad de tan sólo 30 m."
+ #SWE_SS_equipment_1912b: "Draken Class"
+ SWE_SS_equipment_1916: "Clase Sjölejonet"
+ SWE_SS_equipment_1916_desc: "La clase Sjölejonet constaba de nueve submarinos construidos entre 1936 y 1942. Eran submarinos de tamaño medio que desplazaban 580 toneladas, y su diseño se vio muy influenciado por los submarinos neerlandeses de la clase O. Estaban armados con seis tubos lanzatorpedos de 533 mm y tenían una profundidad de 60 m. "
+ SWE_SS_equipment_1922: "Clase U"
+ SWE_SS_equipment_1922_desc: "Los submarinos de la clase U sueca eran una clase de nueve submarinos puestos en servicio entre 1942 y 1944. Eran bastante pequeños y relativamente lentos, desplazando sólo 370 toneladas. Estaban armados con cuatro tubos lanzatorpedos de 533 mm."
+ SWE_SS_equipment_1933: "Clase Neptun"
+ SWE_SS_equipment_1933_desc: "La clase Neptun consistía en tres submarinos de tamaño medio puestos en servicio en 1943. Se utilizaban principalmente para tareas de minado. Desplazaban 550 toneladas y estaban armados con cinco tubos lanzatorpedos de 533 mm."
+ SWE_DD_equipment_1900: "Clase Ehrensköld"
+ SWE_DD_equipment_1900_desc: "Los dos destructores de la clase Ehrensköld se terminaron en 1927 y fueron los primeros destructores modernos de Suecia tras la Gran Guerra. Desplazaban poco más de 970 toneladas y estaban armados con tres cañones 120 mm/44 K/45 y seis tubos lanzatorpedos de 533 mm. Tenían poco alcance, pero buena velocidad."
+ SWE_DD_equipment_1912: "Clase Göteborg"
+ SWE_DD_equipment_1912_desc: "La clase Göteborg constaba de seis destructores construidos entre 1935 y 1942. Tenían un casco más largo y maquinaria mejorada en comparación con sus predecesores. Desplazaban poco más de 1020 toneladas y tenían un armamento principal de cañones 120 mm/44 K/45, y también seis tubos lanzatorpedos de 533 mm. Tenían un alcance limitado, pero una velocidad excelente."
+ SWE_DD_equipment_1916: "Clase Visby"
+ SWE_DD_equipment_1916_desc: "Los cuatro destructores de la clase Visby entraron en servicio entre 1942 y 1944. Eran parecidos a la anterior clase Göteborg, sólo que más grandes, desplazando más de 1130 toneladas. También tenían motores mejorados, un alcance algo mayor y una fuerte dotación de equipo antisubmarino."
+ SWE_DD_equipment_1922: "Clase Öland"
+ SWE_DD_equipment_1922_desc: "Los dos destructores de la clase Öland supusieron un cambio radical con respecto a diseños anteriores. Se botaron y terminaron poco después de la Segunda Guerra Mundial. Eran grandes, desplazando 1880 toneladas. Estaban armados con cuatro cañones M44 120 mm/45 como armamento principal y tenían una fuerte dotación antiaérea, antisubmarina y de torpedos. Eran algo más lentos que los destructores anteriores, pero tenían un alcance considerablemente mayor."
+ SWE_CL_equipment_1900: "Clase Fylgia"
+ SWE_CL_equipment_1900_desc: "El Fylgia fue un crucero blindado relativamente pequeño puesto en servicio para la Armada sueca en 1905. Durante la guerra se dedicó principalmente a tareas de entrenamiento y fue sometido a un exhaustivo reacondicionamiento en 1939-41. Antes del reacondicionamiento, desplazaba más de 4300 toneladas y estaba armado con seis cañones M1903 152 mm/45 K/50 como armamento principal. Tenía buen blindaje, pero era relativamente lento para ser un crucero."
+ SWE_CL_equipment_1933: "Clase Tre Kronor"
+ SWE_CL_equipment_1933_desc: "La clase Tre Kronor consistía en un par de cruceros ligeros terminados para la Armada sueca justo después del final de la Segunda Guerra Mundial. Desplazaban poco menos de 7700 toneladas y tenían una velocidad y alcance decentes. Su armamento principal constaba de siete cañones M42 152/53. También contaban con una fuerte dotación de cañones antiaéreos, torpedos y equipo antisubmarino."
+ SWE_CA_equipment_1895: "Clase Sverige"
+ SWE_CA_equipment_1895_desc: "La clase Sverige estaba formada por tres acorazados costeros construidos para la Armada sueca antes de la Gran Guerra. Los buques se asemejaban más a los cruceros pesados tanto por su tamaño (desplazamiento de más de 6800 toneladas) como por su armamento (cuatro cañones M12 283 mm/44 K/45). Los buques eran relativamente lentos para ser cruceros, pero estaban muy bien blindados. Los tres buques sirvieron durante la Segunda Guerra Mundial."
+ ### TUR - TURKEY ###
+ TUR_SS_equipment_1912: "Clase Birinci İnönü"
+ TUR_SS_equipment_1912_desc: "La clase Birinci İnönü estaba formada por dos submarinos costeros construidos en los Países Bajos para Turquía a mediados de los años veinte. Fueron los primeros buques construidos para la Armada turca después de la Gran Guerra. Desplazaban 520 toneladas y estaban armados con seis tubos lanzatorpedos de 450 mm. Eran algo lentos, pero tenían buen alcance."
+ #TUR_SS_equipment_1912b: "Dumlupınar Class"
+ TUR_SS_equipment_1916: "Clase Saldıray"
+ TUR_SS_equipment_1916_desc: "Los tres submarinos de la clase Saldıray se botaron a finales de los años treinta. Su diseño estuvo muy influenciado por Alemania; de hecho, el primer buque de la clase se construyó en Alemania, mientras que los otros dos se construyeron bajo licencia en Estambul. Eran grandes submarinos transatlánticos que desplazaban más de 930 toneladas y tenían un alcance excelente. Estaban armados con seis tubos lanzatorpedos de 533 mm."
+ TUR_SS_equipment_1922: "Clase Oruç Reis"
+ TUR_SS_equipment_1922_desc: "Los submarinos de la clase Oruç Reis se construyeron en el Reino Unido como un diseño modificado de la clase S británica. Los buques se botaron en 1940, y varios de ellos fueron internados temporalmente por la Marina Real. Todos menos uno fueron devueltos a TUR_Politics. Los buques desplazaban 625 toneladas y estaban armados con cinco tubos lanzatorpedos de 533 mm. Su velocidad y alcance eran algo limitados."
+ TUR_SS_equipment_1933: "Clase Sakayra"
+ TUR_SS_equipment_1933_desc: "Los submarinos de la clase Sakayra eran una serie de submarinos estadounidenses de la clase Balao vendidos a Turquía después de la guerra. Eran submarinos muy grandes para la época, desplazando más de 1520 toneladas. Tenían un alcance y velocidad excelentes y estaban armados con diez tubos lanzatorpedos de 533 mm."
+ TUR_DD_equipment_1900: "Clase Peyk"
+ TUR_DD_equipment_1900_desc: "La clase Peyk consistía en un par de buques torpederos grandes y rápidos encargados para la Armada otomana en 1907. Los buques se construyeron en Alemania y sobrevivieron a la Gran Guerra, pero quedaron obsoletos para la Segunda Guerra Mundial. Los buques desplazaban 775 toneladas y estaban armados con cañones dobles SK 105 mm/37 L/40, así como tres tubos lanzatorpedos de 450 mm. Tenían un alcance decente, pero eran bastante lentos para ser destructores."
+ TUR_DD_equipment_1912: "Clase Kocatepe"
+ TUR_DD_equipment_1912_desc: "Los dos destructores de la clase Kocatepe se construyeron en Italia para la Armada turca en 1931. Estaban basados en el diseño Folgore italiano. Los buques desplazaban 1250 toneladas y estaban armados con cuatro cañones Ansaldo 1926 120 mm/50 y seis tubos lanzatorpedos de 533 mm. También tenían buena velocidad y alcance."
+ TUR_DD_equipment_1916: "Clase Demirhisar"
+ TUR_DD_equipment_1916_desc: "Los cuatro destructores de la clase Demirhisar se construyeron en el Reino Unido y se terminaron en 1942. Dos de los barcos estaban pensados para la Marina Real, uno de los cuales se devolvió después de la guerra. Los buques estaban basados en la clase I británica. Desplazaban 1370 toneladas y tenían cuatro cañones QF Mk. IX 120 mm/45 como armamento principal. Tenían una velocidad decente y buen alcance, así como una fuerte dotación de cañones antiaéreos y equipo antisubmarino."
+ TUR_CL_equipment_1900: "Clase Mecidiye"
+ TUR_CL_equipment_1900_desc: "El buque turco Mecidiye fue un crucero protegido construido en EE. UU. para la Armada otomana a comienzos de siglo. En verdad, fue hundido en aguas poco profundas durante la Segunda Guerra Mundial, pero fue izado y, tras un breve periodo como parte de la Armada Imperial Rusa, fue devuelto a TUR_Politics. Desplazaba poco menos de 3500 toneladas y estaba armado con dos cañones Bethlehem n.º 2 152 mm/44 y ocho cañones Armstrong Y 120 mm/45. Tenían un alcance decente, pero eran relativamente lentos y estaban ligeramente blindados."
+ TUR_BC_equipment_1912: "Clase Yavuz"
+ TUR_BC_equipment_1912_desc: "El Yavuz fue puesto en servicio originalmente como el crucero de batalla alemán Goeben, pero fue vendido a los otomanos y vuelto a poner en servicio en 1914 para evitar su internamiento. Desplazaba poco menos de 23 000 toneladas y tenía una velocidad y alcance decentes. Estaba bien blindado y estaba armado con diez cañones SK 283 mm/47 L/50, además de contar con un potente armamento secundario."
+ TUR_BB_equipment_1895: "Clase Reşadiye"
+ TUR_BB_equipment_1895_desc: "La clase Reşadiye representa tres acorazados dreadnought encargados al Reino Unido para la Armada turca justo antes de la Gran Guerra. Sin embargo, sólo se terminó uno de los buques, que fue internado por los británicos al comenzar la Gran Guerra. Los buques habrían desplazado 23 000 toneladas y habrían tenido buen blindaje, velocidad y alcance. Su armamento principal habrían sido diez cañones Vickers 343 mm/45."
+ ### URU - URUGUAY ###
+ URU_DD_equipment_1900: "Clase Uruguay"
+ URU_DD_equipment_1900_desc: "El Uruguay fue un torpedero pesado construido en Alemania para la Armada uruguaya antes de la Gran Guerra. Desplazaba más de 1400 toneladas y estaba armado con cuatro cañones Krupp QF 120 mm/45. Tenía una fuerte dotación antiaérea y cuatro tubos lanzatorpedos de 450 mm. Dados su antigüedad y gran tamaño, eran bastante lentos en comparación con otros destructores."
+ ### VEN - VENEZUELA -- generic only ###
+ ### VIC - VICHY FRANCE ###
+ VIC_SS_equipment_1912: "Serie 600"
+ VIC_SS_equipment_1912_desc: "Los submarinos de la serie de 600 toneladas fueron los primeros submarinos modernos de Francia después de la Gran Guerra. Eran de tamaño medio y desplazaban unas 600 toneladas; aunque eran de navegación marítima, se designaban como submarinos costeros y se utilizaban sobre todo en las aguas cálidas del Mediterráneo. Se construyeron tres clases de cuatro buques cada una de este tipo: las clases Sirène, Ariane y Circé. Fueron la base de la mayor serie de 630 toneladas de las clases Argonaute, Diane y Orion."
+ #VIC_SS_equipment_1912b: "630 Series"
+ #VIC_SS_equipment_1912c: "Redoutable Class"
+ VIC_SS_equipment_1916: "Clase Minerve"
+ VIC_SS_equipment_1916_desc: "Los submarinos de la clase Minerve (nombre del proyecto T2) estaban basados en la serie de 630 toneladas, aunque tenían mejores motores y una disposición de torpedos diferente. Estos submarinos fueron la primera parte del programa de estandarización resultante de un diseño centralizado de la Dirección de Construcción y Armas Navales (DCAN), un diseño de astillero bastante específico de las clases anteriores."
+ #VIC_SS_equipment_1916b: "Aurore Class"
+ VIC_SS_equipment_1922: "Clase Roland Morillot"
+ VIC_SS_equipment_1922_desc: "Los submarinos de la clase Roland Morillot (nombre del proyecto Z2) eran grandes submarinos transatlánticos basados en los anteriores submarinos de la clase Redoutable. Eran submarinos grandes que desplazaban 1800-2400 toneladas y llevaban un formidable armamento de 10 tubos lanzatorpedos. La caída de Francia tuvo lugar antes de que se acabara ninguno."
+ VIC_SS_equipment_1933: "Clase Phénix"
+ VIC_SS_equipment_1933_desc: "Los submarinos de la clase Phénix eran barcos transatlánticos de tamaño medio y largo alcance autorizados en los programas navales de 1939-40, pero el inicio de la guerra y la caída de Francia provocaron la cancelación de estos barcos. Eran parecidos a la clase Redoutable, sólo que eran más pequeños y desplazaban 1200 toneladas. Portaban un armamento de torpedos similarmente pesado."
+ VIC_DD_equipment_1900: "Clase Bourrasque"
+ VIC_DD_equipment_1900_desc: "Los destructores de la clase Bourrasque formaban parte de la serie de 1500 toneladas, y se botaron a mediados de los años veinte. Junto con las clases Chacal y L'Adroit, constituyeron la columna vertebral de la nueva y moderna flota francesa de la posguerra. Eran rápidos y estaban bien armados para su época, pero su armamento de torpedos era menor en comparación con buques similares de otras armadas."
+ #VIC_DD_equipment_1900b: "Chacal Class"
+ #VIC_DD_equipment_1900c: "Aigle & Vauquelin Class"
+ VIC_DD_equipment_1912: "Clase Le Fantasque"
+ VIC_DD_equipment_1912_desc: "Los destructores de la clase Le Fantasque eran básicamente versiones mejoradas de los anteriores superdestructores de la serie de 2400 toneladas (Guépard, Aigle, Vauquelin) construidos en el marco del programa naval de 1930. Eran destructores grandes, armados hasta los dientes y muy rápidos, perfectos para escoltar a las nuevas unidades de alta velocidad de la flota francesa. Su armamento consistía en cañones recién desarrollados, antiaéreos adecuados y armamento de torpedos."
+ #VIC_DD_equipment_1912b: "Le Hardi Class"
+ #VIC_DD_equipment_1912c: "Mogador Class"
+ VIC_DD_equipment_1916: "Clase L’Intrépide"
+ VIC_DD_equipment_1916_desc: "Los destructores de la clase L'Intrépide eran una versión modificada de los anteriores destructores de la clase Le Hardi. Se autorizaron en los programas navales de 1938 y 1939, pero la guerra y la caída de Francia provocaron la cancelación de estos navíos. Se habrían centrado más en una función antiaérea, con un aumento del desplazamiento a 2800-2900 toneladas y motores más grandes."
+ VIC_DD_equipment_1922: "Clase Hoche"
+ VIC_DD_equipment_1922_desc: "Las clases Hoche y Bayard fueron el último diseño de superdestructor de la Marina francesa. Ambas clases estaban basadas en la clase Mogador, con un desplazamiento de 4200 toneladas y un armamento principal similar, pero con cañones antiaéreos mejorados y motores más potentes. Se autorizaron en los programas navales de 1939-40, pero el comienzo de la guerra y la caída de Francia provocaron la cancelación de estos buques."
+ VIC_CL_equipment_1900: "Clase Duguay-Trouin"
+ VIC_CL_equipment_1900_desc: "Los cruceros ligeros Duguay-Trouin fueron los primeros grandes buques de guerra franceses construidos tras la Gran Guerra en el marco del programa naval de 1922. Fueron los primeros cruceros ligeros con torretas principales cerradas superpuestas. Entre los cruceros ligeros, tenían un potente armamento de torpedos pero un blindaje prácticamente inexistente."
+ VIC_CL_equipment_1912: "Clase La Galissonnière"
+ VIC_CL_equipment_1912_desc: "Los cruceros ligeros de la clase La Galissonnière eran la respuesta a los cruceros ligeros italianos del tipo Condottieri y estaban basados en los anteriores de la clase Émile Bertin. Se construyeron en los programas navales de 1931 y 1932, con el armamento principal típico y antiaéreo de la época. Desplazaban 10 850 toneladas y tenían una mayor cantidad de aviones de reconocimiento y buena velocidad."
+ VIC_CL_equipment_1922: "Clase De Grasse"
+ VIC_CL_equipment_1922_desc: "Los cruceros de la clase De Grasse se autorizaron en los programas navales de 1938 y 1939 y eran básicamente La Galissonnières mejorados. Tenían un armamento antiaéreo más potente y motores más grandes. La caída de Francia hizo que se cancelasen los dos últimos buques y que el buque principal se terminara después de la guerra con un diseño diferente. Los alemanes pretendían terminarlo como un portaaviones ligero, pero este proyecto tampoco se llevó a cabo."
+ VIC_CL_equipment_1933: "Clase Colbert"
+ VIC_CL_equipment_1933_desc: "El Colbert era un crucero ligero antiaéreo botado en 1956. Este crucero de la clase Colbert se construyó de forma muy similar al De Grasse de la posguerra, con armamento pesado antiaéreo tanto para largo como para corto alcance. La diferencia entre el Colbert y el De Grasse era que el Colbert tenía motores más pequeños, un blindaje más fino y era ligeramente más pequeño."
+ VIC_CA_equipment_1895: "Clase Suffren"
+ VIC_CA_equipment_1895_desc: "Los cruceros pesados de la clase Suffren eran básicamente una repetición de los anteriores de la clase Duquesne con pequeñas mejoras en cuanto a sus capacidades marítimas. Ambas clases se asemejaban a la filosofía de los cruceros contemporáneos de la Marina francesa: blindaje muy fino pero buena velocidad y alcance. Su desplazamiento estándar era de 10 000 toneladas y estaban equipados con armamento estándar para un crucero pesado."
+ VIC_CA_equipment_1906: "Clase Algérie"
+ VIC_CA_equipment_1906_desc: "Los cruceros pesados de la clase Algérie eran una mejora de las clases anteriores Suffren y Duquesne, pero diseñados para ser el adversario de los nuevos cruceros pesados italianos de la clase Zara. Tanto el cinturón acorazado principal como la protección submarina aumentaron considerablemente. Su armamento antiaéreo era adecuado para la época, pero, debido a estos cambios, el desplazamiento estándar superaba las 10 000 toneladas."
+ VIC_CA_equipment_1922: "Clase Saint Louis"
+ VIC_CA_equipment_1922_desc: "Los cruceros pesados de la clase Saint Louis estaban basados en la clase Algérie, pero su aspecto general era más parecido al de los buques capitales de las clases Dunkerque y Richelieu. Se encargaron tres buques en el programa naval de 1940, pero, debido a la caída de Francia, no se llegó a construir ninguno. Habrían contado con nuevos cañones y armamento antiaéreo mejorado, pero el blindaje sería el mismo que el de la clase Algérie. Fue el último diseño de crucero pesado de la Marina francesa."
+ VIC_CA_equipment_1933: "Clase Forbin"
+ VIC_CA_equipment_1933_desc: "Los cruceros pesados de la clase Forbin eran un diseño hipotético como continuación de la clase Saint Louis. Diseñados para defender las rutas comerciales entre la Francia continental y las colonias, tenían gran alcance y buena velocidad, junto con un armamento pesado de cañones en cuatro torretas triples y una cantidad adecuada de armamento antiaéreo. El diseño y el aspecto general del buque se asemejaban a los de la anterior clase Saint Louis y a los de la clase Crown Colony británica."
+ VIC_BC_equipment_1912: "Diseño Durand-Viel"
+ VIC_BC_equipment_1912_desc: "El diseño Durand-Viel de crucero de batalla era una propuesta entre una serie de estudios que se remontan a la Gran Guerra. Eran, en esencia, las versiones de crucero de batalla de las clases de acorazados Normandie y Lyon, con las mismas torretas cuádruples y cañones, aunque en número reducido. Al igual que los cruceros de batalla contemporáneos de otras armadas, serían más rápidos, pero estarían menos blindados que un acorazado. Se cancelaron antes de que estallase la Gran Guerra."
+ VIC_BC_equipment_1916: "Clase Dunkerque"
+ VIC_BC_equipment_1916_desc: "Los Dunkerques se diseñaron para hacer frente a los acorazados de bolsillo alemanes de la clase Deutschland. Fueron el culmen de una serie de estudios de diseño realizados entre mediados de los años veinte y principios de los treinta. Autorizados en los programas navales de 1931 y 1934, eran similares a los acorazados de la clase Nelson británica, con todas las torretas principales concentradas en la parte delantera. Ésto se traducía en un cinturón acorazado más corto y, por tanto, un buque más pequeño para ajustarse a las limitaciones de los tratados navales."
+ VIC_BB_equipment_1895: "Clase Courbet"
+ VIC_BB_equipment_1895_desc: "Los acorazados de la clase Courbet fueron los primeros superacorazados construidos para la Marina francesa antes y durante la Gran Guerra. Autorizados en los programas navales de 1910 y 1911, vieron servicio limitado durante la Gran Guerra, pero estuvieron activos durante la Segunda Guerra Mundial. Aunque tenían un blindaje más grueso y cañones más potentes que los acorazados anteriores de la clase Dante, seguían siendo inferiores a los acorazados contemporáneos de la Armada de EE. UU. y la Marina Real británica. Desplazaban poco más de 22 000 toneladas y sus únicas modernizaciones antes de la Segunda Guerra Mundial fueron un armamento antiaéreo mejorado y calderas mejoradas."
+ #VIC_BB_equipment_1895b: "Bretagne Class" 
+ VIC_BB_equipment_1900: "Clase Richelieu"
+ VIC_BB_equipment_1900_desc: "Los acorazados de la clase Richelieu fueron los últimos acorazados puestos en servicio en la Marina francesa. Eran un diseño mejorado del Dunkerque y se autorizaron en el marco de los programas navales de 1935 y 1938. Disponían de un armamento antiaéreo, velocidad y alcance excelentes, lo que los convertía en excelentes buques capitales. De los cuatro que se encargaron, sólo se botaron dos y se terminó uno antes de la caída de Francia. Hubo numerosos intentos de terminar los buques restantes utilizando diferentes diseños, propuestos para su uso como acorazados antiaéreos, híbridos acorazados-portaaviones o portaaviones a escala completa."
+ VIC_BB_equipment_1906: "Clase Gascogne"
+ VIC_BB_equipment_1906_desc: "La clase Gascogne de acorazados era una subclase de la clase Richelieu. Se encargaron tres buques en el programa naval de 1940, pero no se empezó ninguno. El diseño habría sido una repetición del Richelieu, pero con el armamento principal distribuido uniformemente en proa y popa, armamento antiaéreo mejorado y motores mejorados, lo que se habría traducido en un buque mejor en general."
+ VIC_BB_equipment_1912: "Clase Alsace"
+ VIC_BB_equipment_1912_desc: "Los acorazados de la clase Alsace estaban destinados a suceder a los de la clase Richelieu. Se encargaron cuatro buques, cuyos estudios de diseño finalizaron en 1939, se autorizaron en 1940 y se esperaba que estuvieran construidos en 1941, aunque la caída de Francia lo impidió. Mejoró el diseño del Richelieu con cañones principales más pesados y numerosos, armamento antiaéreo más potente, placas de blindaje más gruesas y motores más grandes."
+ VIC_SHBB_equipment_1936: "Clase Charlemagne"
+ VIC_SHBB_equipment_1936_desc: "La clase Charlemagne de superacorazados era un diseño hipotético para equipararse a los grandes acorazados de otras armadas. Disponían de un armamento pesado en posiciones superpuestas, armamento antiaéreo pesado y un blindaje grueso. Todo el diseño tomaba elementos de la clase Richelieu y la británica Nelson."
+ VIC_SHBB_equipment_1945: "Clase Napoléon Bonaparte"
+ VIC_SHBB_equipment_1945_desc: "Los acorazados de la clase Napoléon Bonaparte eran un diseño hipotético basado en las clases Alsace y Gascogne. Su armamento pesado estaba distribuido uniformemente en proa y popa en torretas triples, con secundarias superpuestas y armamento antiaéreo pesado. Su grueso blindaje y sus potentes motores le proporcionaban la velocidad y la defensa necesarias para seguir el ritmo de las demás naves de la flota y hacer frente eficientemente a sus adversarios."
+ VIC_CV_equipment_1930: "Clase Béarn"
+ VIC_CV_equipment_1930_desc: "El Béarn se construyó originalmente como acorazado de la clase Normandie, pero más tarde se terminó como portaaviones, con un desplazamiento de 22 100 toneladas, y prestó servicio durante los años de entreguerras y la Segunda Guerra Mundial. Como portaaviones convertido, su velocidad era lenta y tenía un espacio limitado para aviones, pero el cinturón acorazado medio y su largo alcance compensaban estas carencias. Su construcción proporcionó una importante experiencia a los diseñadores franceses de la Dirección de Construcción y Armas Navales (DCAN) y dio lugar a una serie de estudios de diseño posteriores."
+ VIC_CV_equipment_1933: "Clase Joffre"
+ VIC_CV_equipment_1933_desc: "Los portaaviones de la clase Joffre (nombre del proyecto PA-16) eran la siguiente generación de portaaviones de la Marina francesa. Fue el último de los estudios de diseño que comenzaron en 1929 y terminaron en 1937. Se autorizaron dos buques en el programa naval de 1938, pero la escalada de los conflictos ralentizó el proceso de construcción y, al final, la caída de Francia impidió la finalización de estos buques. El desplazamiento habría sido de unas 20 000 toneladas. Habrían tenido buen armamento antiaéreo, blindaje y velocidad, pero una dotación de aviones por debajo de la media. En conjunto, habría sido un portaaviones completo y versátil para la Marina francesa."
+ VIC_CV_equipment_1936: "Clase Jean Bart"
+ VIC_CV_equipment_1936_desc: "El portaaviones Jean Bart fue una propuesta de mediados de la guerra para convertir el acorazado inacabado Jean Bart de la clase Richelieu en un portaaviones a escala real de forma similar al Shinano japonés. El gran tamaño del casco se habría traducido en una gran dotación de aviones y, junto con los grandes motores, en un portaaviones rápido y de largo alcance. El armamento antiaéreo pesado de origen estadounidense habría proporcionado una buena defensa contra aviones y combatientes superficiales menores."
+ VIC_CV_equipment_1940: "Clase Clemenceau"
+ VIC_CV_equipment_1940_desc: "Los portaaviones de la clase Clemenceau (nombre del proyecto PA-28) fueron el primer diseño de portaaviones de la posguerra de la Marina francesa. El diseño habría sido similar al de los portaaviones inacabados de la clase Joffre, aunque el equipo instalado y el armamento habrían sido de productos franceses modernos. La adquisición de los portaaviones de escolta de la Armada de EE. UU. y la Marina Real y el estado económico de la Francia de la posguerra impidieron la construcción de estos buques. No debe confundirse con los últimos portaaviones de la clase Clemenceau (nombre del proyecto PA-54), que se construyeron en 1955 y 1957."
+ ### YUG - YUGOSLAVIA ###
+ YUG_SS_equipment_1912: "Clase Hrabri"
+ YUG_SS_equipment_1912_desc: "Los dos submarinos de la clase Hrabri se construyeron originalmente como submarinos británicos de la clase L para la Marina Real, pero se vendieron y terminaron para Yugoslavia utilizando un diseño modificado en 1928. Eran submarinos grandes que desplazaban 975 toneladas y estaban armados con seis tubos lanzatorpedos de 533 mm."
+ YUG_DD_equipment_1900: "Clase Dubrovnik"
+ YUG_DD_equipment_1900_desc: "El destructor Dubrovnik era el buque más grande de la flota yugoslava cuando se compró. El buque fue construido en el Reino Unido y entregado a Yugoslavia en 1932. Era un gran destructor que desplazaba 1880 toneladas. Iba armado con cuatro cañones Škoda de 140/53, una potente dotación antiaérea, seis tubos lanzatorpedos de 533 mm y buen equipo antisubmarinos."
+ YUG_DD_equipment_1912: "Clase Beograd"
+ YUG_DD_equipment_1912_desc: "La clase Beograd estaba formada por tres destructores construidos con ayuda francesa. Dos de los barcos se construyeron en Split, mientras que el tercero se construyó en Francia. Los tres estaban basados en los destructores franceses de la clase L’Adroit y se pusieron en servicio en 1939. Desplazaban 1210 toneladas y estaban armados con cuatro cañones Škoda 120/43 y seis tubos lanzatorpedos de 533 mm. Tenían una velocidad excelente, pero un alcance por debajo de la media."
+ YUG_DD_equipment_1922: "Clase Split"
+ YUG_DD_equipment_1922_desc: "El Split era un destructor pesado botado y terminado en Yugoslavia. Se botó en 1943, pero no se terminó hasta 1958, con un diseño modificado. El diseño original desplazaba 2400 toneladas y estaba armado con cinco cañones Škoda 140/56 como armamento principal. A pesar de su tamaño, tenía una velocidad excelente."

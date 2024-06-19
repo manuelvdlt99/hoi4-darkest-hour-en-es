@@ -1,0 +1,344 @@
+﻿l_spanish:
+ Allows_Democratic_Ministers: "Permite ministros §Ydemocráticos§!"
+###########################################
+## Cabinet 
+###########################################
+ cabinet: "Gabinete"
+ Head_of_Government: "Adjunto"
+ Foreign_Minister: "Ministro de Exteriores"
+ Minister_of_Security: "Ministro de Seguridad"
+ Armaments_Minister: "Ministro de Economía"
+ Minister: "Ministro"
+ Chief_of_Staff: "Jefe de Estado Mayor"
+ Chief_of_Army: "Jefe del Ejército"
+ Chief_of_Navy: "Jefe de la Armada"
+ Chief_of_Airforce: "Jefe de la Fuerza Aérea"
+ Head_of_Intelligence: "Jefe de Inteligencia"
+ 
+ available_chief_of_staff: "§GDisponibles§! Como §Ljefe de Estado Mayor:§!\n"
+
+###########################################
+## Subideologies for Leaders 
+###########################################
+ SUBIDEOLOGY_Fascism: "§gFascismo§!\n"
+ SUBIDEOLOGY_Integralism: "§gIntegralismo§!\n"
+ SUBIDEOLOGY_Clerical_Fascism: "§gFascismo clerical§!\n"
+ SUBIDEOLOGY_Salafism: "§gSalafismo§!\n"
+ SUBIDEOLOGY_Falangism: "§gFalangismo§!\n"
+ SUBIDEOLOGY_Rexism: "§gRexismo§!\n"
+ SUBIDEOLOGY_Ultranationalism: "§gUltranacionalismo§!\n"
+ SUBIDEOLOGY_Revisionist_Maximalism: "§gMaximalismo revisionista§!\n"
+ SUBIDEOLOGY_National_Socialism: "§gNacionalsocialismo§!\n"
+ SUBIDEOLOGY_Legionarism: "§gLegionarismo§!\n"
+ SUBIDEOLOGY_Esoteric_National_Socialism: "§gNacionalsocialismo esotérico§!\n"
+ SUBIDEOLOGY_Strasserism: "§gEstraserismo§!\n"
+ SUBIDEOLOGY_Military_Dictatorship: "§gDictadura militar§!\n"
+ SUBIDEOLOGY_Authoritarian_Democracy: "§gDemocracia autoritaria§!\n"
+ SUBIDEOLOGY_Conservative_Autocracy: "§gAutocracia conservadora§!\n"
+ SUBIDEOLOGY_Despotism: "§gDespotismo§!\n"
+ SUBIDEOLOGY_Theocracy: "§gTeocracia§!\n"
+ SUBIDEOLOGY_Metaxism: "§gMetaxismo§!\n"
+ SUBIDEOLOGY_Monarchism: "§gMonarquismo§!\n"
+ SUBIDEOLOGY_National_Conservatism: "§BNacionalconservadurismo§!\n"
+ SUBIDEOLOGY_Social_Conservatism: "§BSocialconservadurismo§!\n"
+ SUBIDEOLOGY_Social_Democracy: "§BSocialdemocracia§!\n"
+ SUBIDEOLOGY_Social_Liberalism: "§BSocioliberalismo§!\n"
+ SUBIDEOLOGY_Classical_Liberalism: "§BLiberalismo clásico§!\n"
+ SUBIDEOLOGY_League_of_Nations_Administration: "§BAdministración de la Sociedad de las Naciones§!\n"
+ SUBIDEOLOGY_Syndicalism: "§RSindicalismo§!\n"
+ SUBIDEOLOGY_Anarcho_Communism: "§RAnarcocomunismo§!\n"
+ SUBIDEOLOGY_Arab_Socialism: "§RSocialismo árabe§!\n"
+ SUBIDEOLOGY_Labor_Zionism: "§RSionismo socialista§!\n"
+ SUBIDEOLOGY_Marhaenism: "§RMarhaenismo§!\n"
+ SUBIDEOLOGY_Luxemburgism: "§RLuxemburguismo§!\n"
+ SUBIDEOLOGY_Socialism: "§RSocialismo§!\n"
+ SUBIDEOLOGY_Democratic_Socialism: "§RSocialismo democrático§!\n"
+ SUBIDEOLOGY_Marxism_Leninism: "§RMarxismo-leninismo§!\n"
+ SUBIDEOLOGY_Stalinism: "§REstalinismo§!\n"
+ SUBIDEOLOGY_Maoism: "§RMaoísmo§!\n"
+ SUBIDEOLOGY_Juche: "§RJuche§!\n"
+ SUBIDEOLOGY_Leninism: "§RLeninismo§!\n"
+ SUBIDEOLOGY_National_Communism: "§RNacionalcomunismo§!\n"
+ SUBIDEOLOGY_Trotskyism: "§RTrotskismo§!\n"
+###########################################
+## Traits 
+###########################################
+# Ideologies
+ ideology_F: "§gFascista§!"
+ ideology_A: "§gAutoritario§!"
+ ideology_D: "§BDemocrático§!"
+ ideology_S: "§RSocialista§!"
+ ideology_C: "§RComunista§!"
+# Leader traits
+ L_Barking_Buffoon: "Bufón ladrador"
+ L_Stern_Imperialist: "Imperialista severo"
+ L_Autocratic_Charmer: "Encanto autocrático"
+ L_Benevolent_Gentleman: "Caballero benévolo"
+ L_Insignificant_Layman: "Lego insignificante"
+ L_Popular_Figurehead: "Figura insigne popular"
+ L_Resigned_Generalissimo: "Generalísimo resignado"
+ L_PowerHungry_Demagogue: "Demagogo sediento de poder"
+ L_Die_Hard_Reformer: "Reformista empedernido"
+ L_Weary_Stiff_Neck: "Terco agotado"
+ L_Ruthless_Powermonger: "Empoderado despiadado"
+ L_Pig_Headed_Isolationist: "Aislacionista cabezota"
+ L_Der_Alte: "Der Alte"
+ L_The_Kingfish: "El Kingfish"
+ L_Paranoid_Megalomaniac: "Megalómano paranoico"
+ L_Carols_Extravagance: "La extravagancia de Carlos"
+ L_Carols_Extravagance_1: "La extravagancia de Carlos"
+ L_The_Old_Marshal: "Le vieux Maréchal"
+ L_The_Showa: "El emperador Shōwa"
+ L_Democratic_Idealist: "Idealista democrático"
+ L_Model_Governor: "Gobernador modélico"
+ L_Le_Taureau_de_Vaucluse: "Le taureau de Vaucluse"
+ L_Le_Mirabolant: "Le Mirabolant"
+ L_Inexperienced_Revolutionary: "Revolucionario inexperto"
+ L_The_Young_Marshal: "El joven mariscal"
+ L_Patron_of_the_South: "Patrón del sur"
+ L_King_of_Yunnan: "Rey de Yunnan"
+ L_Veteran_of_the_Central_Plains_War: "Veterano de la guerra de las Planicies Centrales"
+ L_Pious_Generalissimo: "Generalísimo piadoso"
+ L_Edens_Forbidden_Fruit: "El fruto prohibido del Edén"
+ L_Butcher_of_Shanghai: "Carnicero de Shanghái"
+ L_The_Christian_General: "El general cristiano"
+ L_The_Betrayer_General: "El general traidor"
+ L_Little_Commander: "Pequeño comandante"
+ L_Sword_of_Islam: "Espada del Islam"
+ L_Emperor_of_Ethiopia: "Emperador de Etiopía"
+ L_Father_of_Turks: "Padre de los turcos"
+ L_Hero_of_the_Resistance: "Héroe de la resistencia"
+ L_Political_Demoralised: "Desmoralizado"
+ L_Political_Demoralised_desc: "Este líder ha perdido toda la esperanza. Ya no tiene motivación para solventar el problema o para trabajar siquiera."
+ L_Legacy_of_Solomon: "El legado de Salomón"
+ L_Father_of_the_Red_Cavalry: "Padre de la caballería roja"
+ L_Silent_Workhorse: "Caballo de batalla silencioso"
+ L_Experienced_Diplomat: "Diplomático experimentado"
+ L_Naive_Optimist: "Optimista ingenuo"
+ L_Flamboyant_Tough_Guy: "Tipo duro extravagante"
+ L_Happy_Amateur: "Aficionado feliz"
+ L_Backroom_Backstabber: "Traidor de trastienda"
+ L_Smiling_Oilman: "Petrolero sonriente"
+ L_Old_General: "Viejo general"
+ L_Old_Admiral: "Viejo almirante"
+ L_Old_Airmarshal: "Viejo mariscal del aire"
+ L_Political_Protege: "Protegido político"
+ L_Ambitious_Union_Boss: "Jefe sindicalista ambicioso"
+ L_Corporate_Suit: "Jefecillo corporativo"
+ L_Local_Tyrant: "Tirano local"
+ L_Old_Lawyer: "Viejo abogado"
+ L_Red_Napoleon: "Napoléon rojo" # Mikhail Tukhachevsky
+ L_Zhdanov_Doctrine: "Doctrina Zhdánov" # Andrei Zhdanov
+ L_Cactus_Jack: "Cactus Jack" # John Nance Garner
+ L_Progressive_Agriculturalist: "Agrónomo progresista" # Henry A. Wallace
+ L_The_Kansas_Comic_Character: "El personaje de cómic de Kansas" # Charles Curtis
+ L_Bulldog: "El bulldog" # Churchill
+ L_Imperialist_Buffoon: "Bufón imperialista" #Benito Mussolini
+ L_The_Tiger: "El tigre" #Clemenceau
+ L_Revolutionary_Leader: "Líder revolucionario" #Zapata
+ L_Father_of_Guerrilla_Warfare: "Padre de la guerra de guerrillas" #Abd el-Krim el-Khattabi
+ L_The_Brown_Eminence: "La eminencia parda"
+ L_Guilty_Man: "Culpable" # Baldwin
+ L_The_Pacifier: "El pacificador" # Chamberlain
+ L_Collectivizer: "Presidente del Sovnarkom" # Molotov
+ L_Razor: "Cuchilla" # Tojo
+ L_Zhou_enlai: "Chou En-lai"
+ L_Participiste: "Participiste"
+ L_The_Mirobolant: "El mirobolant" # André Tardieu
+ L_Anti_Nazi: "Antinazi" 
+ L_Die_Hard_Reformer: "Reformista empedernido"
+ L_Loyal_Crony: "Leal compinche"
+ L_Military_Man: "Militar"
+ L_Gentleman_Politician: "Político caballeroso"
+ L_Pragmatic_Statesman: "Estadista pragmático"
+ L_Scheming_General: "General maquinador"
+ L_Great_Orator: "Gran orador"
+ L_Good_Orator: "Buen orador"
+ L_Republican_Dictator: "Dictador republicano"
+ L_Socialist_Reformer: "Reformista socialista"
+ L_Gastounet: "Gastounet" #Gaston Doumergue
+ L_Bad_Health: "Mala salud"
+ L_Former_Colonial_Governor: "Antiguo gobernador colonial"
+ L_Le_President_Technicien: "Le president technicien" #Fernand Buisson
+ L_Command_Structure_without_Commander: "Estructura de mando sin comandante"
+ L_Uncle_Stan: "Uncle Stan" #Baldwin
+ L_The_Conservative_Grandee: "El grande conservador" #Baldwin
+ L_Reformist: "Reformista"
+ L_Marshal_of_Korea: "El mariscal de Corea" # Hayashi
+ L_Judge: "El juez" # Hiranuma
+ L_Destined_Prince: "El príncipe destinado" # Konoe
+ L_Desperate_Prince: "Príncipe desesperado" # Konoe
+ L_Pacifist: "Pacifista"
+ L_Napoleon_of_Arabia: "El Napoleón de Arabia"
+ L_Servant_of_Lenin: "Sirviente de Lenin"
+ L_Inheritor_of_Lenin: "Heredero de Lenin"
+ L_King_of_Kings: "Rey de reyes"
+# Foreign Minister traits
+ FM_Biased_Intellectual: "Intelectual sesgado"
+ FM_Ideological_Crusader: "Cruzado ideológico"
+ FM_Apologetic_Clerk: "Empleado pesaroso"
+ FM_Iron_Fisted_Brute: "Bruto con puño de hierro"
+ FM_Great_Compromiser: "Gran transigente"
+ FM_General_Staffer: "Funcionario de Estado Mayor"
+ FM_The_Cloak_N_Dagger_Schemer: "El confabulador de capa y espada"
+ FM_Respectable_Compromiser: "Transigente respetable" # von Neurath
+ FM_Salesman_Of_Deception: "El vendedor de la decepción" #von Ribbentrop
+ FM_The_Appeaser: "El apaciguador" #Halifax
+ FM_Fascist_Crusader: "Cruzado fascista" #Galeazzo Ciano
+ FM_Aggressive_Nationalist: "Nacionalista agresivo" #Mussolini
+ FM_Ambassador_To_UN: "Embajador de la ONU" #Edward Stettinius
+ FM_Messianic_Zealot: "Fanático mesiánico"
+ FM_Traveling_Salesman: "Vendedor ambulante"
+ FM_Appeaser: "Apaciguador"
+ FM_Adequate_Diplomat: "Diplomático adecuado"
+ FM_Trader: "Comerciante"
+ FM_Inexperienced_Optimist: "Optimista inexperto"
+ FM_Pacifist: "Pacifista"
+ FM_Defaitiste: "Défaitiste"
+ FM_Bellicistes: "Bellicistes"
+ FM_Fascist_Sympathiser: "Simpatizante fascista"
+ FM_Collective_Security_Proponent: "Defensor de la seguridad colectiva" #Litvinov
+ FM_Liberal_Internationalist: "Internacionalista liberal" # Cordell Hull
+ FM_Japanizer: "Japonizador" # Heruy Wolde Selassie
+ FM_The_Hammer: "El martillo" # Molotov
+#Minister of Security traits
+ MoS_Silent_Lawyer: "Abogado silencioso"
+ MoS_Compassionate_Gentleman: "Caballero compasivo"
+ MoS_Crime_Fighter: "Luchador contra el crimen"
+ MoS_Prince_Of_Terror: "Príncipe del terror"
+ MoS_Back_Stabber: "Traidor"
+ MoS_Man_Of_The_People: "Hombre del pueblo"
+ MoS_Efficient_Sociopath: "Sociópata eficiente"
+ MoS_Crooked_Kleptocrat: "Cleptócrata corrupto"
+ MoS_Media_Magnate: "Magnate mediático"
+ MoS_Health_And_Safety: "Salud y seguridad"
+ MoS_Secret_Police_Chief: "Jefe de la policía secreta"
+ MoS_SS_Reichsfuhrer: "Reichsführer-SS" # Himmler
+ MoS_Ruthless_Organizer: "El organizador despiadado" # Frick
+ MoS_Master_Of_Propaganda: "Maestro de la propaganda" # Goebbles
+ MoS_Loner: "Solitario" # Genrikh Yagoda
+ MoS_Director_Of_FBI: "Director del FBI" # Hoover
+ MoS_Opposer_Of_The_Far_Right: "Opositor a la extrema derecha" # Marx Dormoy
+ MoS_Culture_Warrior: "Guerrero cultural"
+ MoS_Bad_Reputation: "Mala reputación" # Eugene Frot
+ MoS_Defaitiste: "Défaitiste" # George Bonnet
+ MoS_Reformer: "Reformista" # Albert Sarraut
+ MoS_Security_Paranoia: "Paranoia de la seguridad" # Albert Sarraut
+ MoS_Turncoat: "Chaquetero" # Vlada Zečević
+ MoS_Brutal_Maniac: "Maniaco brutal"
+ MoS_Propagandist: "Propagandista"
+ MoS_Secretary_Of_The_Interior: "Secretario del Interior" # Harold Ickes
+ MoS_Bloody_Dwarf: "El Enano Sangriento"
+ #Armaments Minister traits
+ AM_Administrative_Genius: "Genio administrativo"
+ AM_Resource_Industrialist: "Magnate industrial de recursos"
+ AM_Laissez-faire_Capitalist: "Capitalista laissez faire"
+ AM_Theoretical_Scientist: "Científico teórico"
+ AM_Military_Entrepreneur: "Emprendedor militar"
+ AM_Corrupt_Kleptocrat: "Cleptócrata corrupto"
+ AM_Oil_Baron: "Barón del petróleo"
+ AM_Steel_Magnate: "Magnate del acero"
+ AM_Industrial_Chemist: "Químico industrial"
+ AM_War_Industrialist: "Magnate industrial bélico"
+ AM_Planned_Economy_Proponent: "Defensor de la economía planificada"
+ AM_Keynesian_Economy: "Economía keynesiana"
+ AM_Reformer: "Reformista"
+ AM_Construction_Magnate: "Magnate de la construcción"
+ AM_Balanced_Budget_Economy: "Defensor del presupuesto equilibrado"
+ AM_Mixed_Economy: "Defensor de la economía mixta"
+ AM_Battle_Fleet_Proponent: "Defensor de la flota de batalla"
+ AM_Submarine_Proponent: "Defensor de los submarinos"
+ AM_Tank_Proponent: "Defensor de los tanques"
+ AM_Infantry_Proponent: "Defensor de la infantería"
+ AM_Air_To_Ground_Proponent: "Defensor aire-tierra"
+ AM_Air_To_Sea_Proponent: "Defensor aire-tierra"
+ AM_Strategic_Air_Proponent: "Defensor de la destrucción estratégica"
+ AM_Air_Superiority_Proponent: "Defensor de la superioridad aérea"
+ AM_Genius_Organizer: "Genio organizador" # Speer
+ AM_Trusted_Economic_Advisor: "Asesor económico de fiar" # Ogden Mills
+ AM_Organization_todt: "Organización Todt" #Todt
+ AM_Autarkic_Fascist: "Fascista autárquico" # Mussolini
+ AM_Iron_Lazar: "Lázar de Hierro" # Lazar M. Kaganovich
+ AM_Orthodox_Economist: "Economista ortodoxo" # Henry Morgenthau
+ AM_Secretary_Of_War: "Secretario de Guerra" # Henry L. Stimson
+ AM_Supporter_Of_Devaluation: "Partidario de la devaluación" # Auriol
+ AM_Opposer_To_Military_Spending: "Opositor a los gastos militares" # Georges Bonnet
+ AM_Mad_Man: "Lunático"
+ AM_Space_Enthusiast: "Entusiasta del espacio" #Korolev
+ AM_Gosplan_Boss: "Jefe del Gosplán"
+ AM_Collectivizer: "Colectivizador"
+ AM_Agriculturalist: "Agrónomo"
+ AM_Industrialiser: "Industrializador"
+ AM_Bank_President: "Presidente del banco"
+ AM_President_of_the_Reichsbank: "Presidente del Reichsbank" # Hjalmar Schacht
+ AM_Plenipotentiary_of_the_Four_Year_Plan: "Plenipotenciario del Plan Cuatrienal" # Hermann Göring
+ AM_Commissar_for_Communications: "Comisario de Comunicaciones" # Alexey Rykov
+ #Ministers
+ M_Political_Kingmaker: "Político en la sombra"
+ M_Political_Natural: "Político nato"
+ M_Inexperienced_Agriculturalist: "Agrónomo inexperto"
+ M_Respected_Revolutionary: "Revolucionario respetado"
+ M_Poet: "Poeta"
+ M_Head_of_the_Information_Center: "Jefe del Centro de Información"
+ M_Colonizer: "Colonizador"
+ # Head of Intelligence traits
+ HoI_Technical_Specialist: "Especialista técnico"
+ HoI_Logistics_Specialist: "Especialista en logística"
+ HoI_Political_Specialist: "Especialista político"
+ HoI_Dismal_Enigma: "Enigma funesto"
+ HoI_Industrial_Specialist: "Especialista industrial"
+ HoI_Naval_Intelligence_Specialist: "Especialista en inteligencia naval"
+ HoI_Brilliant_Spymaster: "Maestro espía brillante" #Canaris
+ HoI_The_Hangman: "El ahorcado" # Heydrich
+ HoI_Quex: "Quex" # Hugh Sinclair
+ HoI_Cryptographer: "Criptógrafo" # William F. Friedman
+ HoI_Double_Agent: "Agente doble"
+ HoI_Dai_li_2: "Tai Li"
+ HoI_Organizer_of_Terror: "Organizador del terror"
+# Chief of Staff traits 
+ CoStaff_School_Of_Manoeuvre: "Escuela de maniobra" 
+ CoStaff_School_Of_Fire_Support: "Escuela de apoyo de fuego" 
+ CoStaff_School_Of_Mass_Combat: "Escuela de combate en masa"
+ CoStaff_School_Of_Psychology: "Escuela de psicología"
+ CoStaff_School_Of_Defence: "Escuela de defensa"
+ CoStaff_Commando_Doctrine_Staff: "Escuela de fuerzas especiales"
+ CoStaff_Counterattack_Genius: "Genio del contraataque" #Foch
+ CoStaff_Popular_Military_Leader: "Líder militar popular" #Hindenburg
+ CoStaff_Stubborn_Disciplinarian: "Disciplinario obstinado" #Cadorna
+ CoStaff_Deep_Battle_Proponent: "Defensor de la batalla profunda" #Tukhachevsky
+ CoStaff_Fortifications_Supporter: "Partidario de las fortificaciones" #Maurice Gamelin
+ CoStaff_Hedgehoge_Defender: "Defensor de los erizos" #Maxime Weygand
+ CoStaff_Lakeitel: "Lakeitel"
+# Chief of Army traits 
+ CoArmy_Elastic_Defence_Doctrine: "Doctrina de defensa elástica" 
+ CoArmy_Static_Defence_Doctrine: "Doctrina de defensa estática" 
+ CoArmy_Decisive_Battle_Doctrine: "Doctrina de batalla decisiva" 
+ CoArmy_Armoured_Spearhead_Doctrine: "Doctrina de punta de lanza blindada" 
+ CoArmy_Guns_And_Butter_Doctrine: "Doctrina de armas y mantequilla" 
+ CoArmy_Commando_Doctrine_Army: "Doctrina de fuerzas especiales" 
+ CoArmy_Doctrine_Of_Autonomy: "Doctrina de autonomía"
+ CoArmy_Innovative_Offensive_General: "General ofensivo innovador" #Brusilov
+ CoArmy_Guerilla_Warfare_Doctrine: "Doctrina de guerra de guerrillas" # Zapata, Mao ...
+ CoArmy_Undersecretary_Of_War: "Subsecretario de Guerra" # Alberto Pariani
+ CoArmy_Static_Defense_Supporter: "Partidario de la defensa estática" # Maurice Gamelin
+ CoArmy_Political_Appointee: "Electo político"
+ CoArmy_Military_Genius: "Genio militar" #Mordacq
+# Chief of Navy traits 
+ CoNavy_Open_Seas_Doctrine: "Doctrina de alta mar" 
+ CoNavy_Decisive_Naval_Battle_Doctrine: "Doctrina de batalla naval decisiva" 
+ CoNavy_Power_Projection_Doctrine: "Doctrina de proyección de poder" 
+ CoNavy_Indirect_Approach_Doctrine: "Doctrina de enfoque indirecto" 
+ CoNavy_Base_Control_Doctrine: "Doctrina de control de base"
+ CoNavy_Naval_Reformer: "Reformista naval"
+ CoNavy_Old_School_Admiral: "Almirante de la vieja escuela" # Cavagnari
+ CoNavy_Political_Appointee: "Electo político" # Smirnov
+# Chief of Airforce traits
+ CoAir_Air_Superiority_Doctrine: "Doctrina de superioridad aérea" 
+ CoAir_Naval_Aviation_Doctrine: "Doctrina de aviación naval" 
+ CoAir_Army_Aviation_Doctrine: "Doctrina de aviación militar" 
+ CoAir_Carpet_Bombing_Doctrine: "Doctrina de bombardeo de área" 
+ CoAir_Vertical_Envelopment_Doctrine: "Doctrina de envolvimiento vertical"
+ CoAir_Airforce_Reformer: "Reformista de la Fuerza Aérea"
+ CoAir_The_Iron_Knight: "El caballero de hierro" # Goering
+ CoAir_Political_Appointee: "Electo político" # Loktionov
+ CoAir_Night_Witch: "Bruja de la noche" # Raskova

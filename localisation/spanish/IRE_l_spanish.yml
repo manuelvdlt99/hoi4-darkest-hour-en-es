@@ -1,0 +1,17 @@
+﻿l_spanish:
+######################################################################
+#  Ireland Events
+######################################################################
+ ireland.1.t: "Adhesión de Irlanda al Eje"
+ ireland.1.d: "Esta mañana ha llegado una propuesta interesante del Eje. Si Irlanda está dispuesta a unirse al Eje como miembro activo, será la secesionada Irlanda del Norte. Ésta podría ser nuestra única oportunidad de unir Irlanda, pero también podría significar vernos arrastrados al meollo de un conflicto mundial..."
+ ireland.1.A: "Gracias, pero no."
+ ireland.1.B: "Unirnos al Eje."
+ 
+ ireland.2.t: "Irlanda se une a nosotros"
+ ireland.2.d: "Irlanda ha aceptado nuestra generosa oferta y se ha unido al Eje."
+ ireland.2.A: "Muy bien."
+
+######################################################################
+#  Ireland Ideas
+######################################################################
+ IRE_Anglo_Irish_Trade_War: "La guerra económica"

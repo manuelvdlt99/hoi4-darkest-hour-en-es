@@ -1,0 +1,472 @@
+﻿l_spanish:
+######################################################################
+#  German Strasserist Events
+######################################################################
+GER_SA.1.t: "La caza de Göring, Bormann, Hess, Himmler y Heydrich"
+GER_SA.1.d: "El nuevo Reich es más inestable que nunca, y nuestro nuevo sueño de un verdadero nacionalsocialismo no puede alcanzarse si los traidores paralizan nuestro progreso constantemente. Tenemos que ocuparnos de todos los enemigos de la revolución nacionalsocialista. Los que en algún momento gritaron patrióticamente «Heil Hitler!» ya son hombres muertos. Las SA recibieron instrucciones de ir a por tres rivales especiales: Hermann Göring, querido amigo de Hitler, veterano de la Gran Guerra y jefe de la Luftwaffe. Martin Bormann, funcionario líder del Partido Nazi y, anteriormente, el secretario privado de Hitler. Y Rudolf Hess, otro veterano y el hombre nombrado «lugarteniente del Führer» por Hitler. \n\nEn un rápido asalto de fuerzas paramilitares de las SA, conseguimos irrumpir en todas sus casas. Su resistencia fue tenaz, pero no mucho para la lealtad de nuestros hombres. Mientras atacaban a Göring, el viejo soldado se negó a rendirse sin pelear. Con unos cuantos guardaespaldas escogidos a dedo, pudo contener temporalmente nuestros esfuerzos con fuego de ametralladora. La munición no le permitió seguir. Mientras tanto, Bormann fue sorprendido con la guardia baja ocupado en su dormitorio y, tras un rápido forcejeo, el hombre desnudo murió asfixiado. Hess también dio guerra porque un amigo suyo en las SA se lo había chivado. Intentó entrar en un caza robado en su patio trasero, pero el piloto de Hess lo detuvo a punta de pistola para salvarse el pellejo. \n\nLa amenaza de Göring y Hess, que fueron detenidos vivos pero apaleados, ha sido neutralizada. Permanentemente. Y todos los diez asociados de Hess en las SA han sido ejecutados para que algo así no vuelva a suceder. Aunque puede que necesitemos proceder con algunos ataques más, el rápido silenciamiento de Göring, Borman y Hess ha demostrado el poder y la voluntad de las SA. ¡No habrá piedad con los traidores!"
+GER_SA.1.A: "¡Cinco traidores muertos, cinco pasos más cerca de un Reich puro!"
+
+GER_SA.2.t: "La muerte de Hjalmar Schacht"
+GER_SA.2.d: "[FROM.GetNewsIcon]Apenas podía percibir nada, mientras los hombres volvían a subirlo al árbol, con la soga al cuello apretándose a cada tirón, hasta que sus piernas cedieron o quedó inconsciente, sólo para que lo despertaran las patadas o los violentos tirones de los hombres de las SA, que intentaban ponerlo en pie para poder leerle su sentencia simulada. Varias veces intentaron que se levantara con sus propias fuerzas, pero quedó evidente que la primera paliza ya había sido suficiente para marcar al exministro para el más bien corto resto de su vida. Al final tuvieron que contentarse con empujarlo para que cayera de rodillas y tirar vagamente de su cabeza hacia el hombre que tenía delante.\n\n—Por orden del jefe de Estado Mayor de las SA, Ernst Röhm, yo, Lennart Lummer, Rottenführer de las SA, lo condeno a muerte por sus crímenes contra el pueblo alemán, las SA y la nación de Alemania en su conjunto. La sentencia se ejecutará en la horca. O mediante tortura.\n\nDesesperado, esperaba que eligieran la primera opción y acabaran por fin con él, pero, por desgracia, el duro puñetazo en su hígado demostró que habían elegido el camino de las SA. Aún tambaleándose en el suelo, jadeando, no le dieron tiempo para recuperarse y siguieron sometiéndolo a patadas, puñetazos y cortes, hasta que ya no fue capaz de sentir las heridas individuales, sólo una ola de dolor que envolvía todo su cuerpo. Intentó defenderse, pero nada de lo que pudiera hacer ahora le salvaría la vida, siendo su motivación la escasa posibilidad de que el dolor cesara pronto.\n\nY, en el último movimiento calculado de su vida, Hjalmar Schacht, exministro de Economía de Alemania, un hombre civilizado a todas luces, dio un mordisco a la mano que estaba cerca de su cara.\n\n—¡Ahh, el mamón me ha mordido!\n\n—¿Estás bien, Johann?\n\n—¡No! Joder, creo que necesito puntos. La virgen, cómo duele.\n\n—Tranquilo, ahora vamos al hospital, primero tenemos que encargarnos de este traidor. Vale, Gerd, ponlo de rodillas. Lo haremos a mi manera."
+GER_SA.2.A: "Ve a por el martillo."
+
+GER_SA.3.t: "Reunión de Röhm y Gregor Strasser"
+GER_SA.3.d: "Hace no mucho tiempo, Ernst Röhm y la «segunda revolución» de sus Sturmabteilung triunfaron sobre sus enemigos y pusieron al jefe de las SA en una posición de poder en Alemania y, casi de inmediato, comenzó una búsqueda para encontrar un nuevo secretario del NSDAP. Röhm quería que su scretario compensara sus propias carencias, por lo que deseaba que su candidato tuviera olfato político, buenos contactos y la capacidad de imponer un nivel de respeto entre el ala izquierda del NSDAP, la camarilla del partido que proporcionó gran parte del apoyo que permitió destituir a los traidores hitlerianos.\n\nRöhm encontró rápidamente al candidato perfecto: Gregor Strasser, antiguo gauleiter de Baja Baviera. Strasser, que posee todas las cualidades necesarias para llevar el partido a la izquierda y darle un significado al «socialismo» del «nacionalsocialismo», era una elección perfecta.\n\nEl jefe de las SA no perdió el tiempo y planificó una reunión con Strasser, que evidentemente fue bastante bien, ya que Gregor Strasser acaba de ser anunciado como el nuevo secretario del NSDAP. Esta decisión del jefe ha tenido sentido, tanto desde el punto de vista político como práctico, pero debe seguir vigilando que Strasser no empiece a restarle autoridad, pues, de lo contrario, todo aquéllo por lo que tanto ha trabajado se vendrá abajo a su alrededor."
+GER_SA.3.A: "Un buen nombramiento, pero no le quitaremos el ojo de encima."
+
+GER_SA.4.t: "La noche de la horca"
+GER_SA.4.d: "[FROM.GetNewsIcon]El caos sigue cerniéndose sobre el fragmentado Reich alemán.\nLas SA, antaño un aliado de Hitler y sus socios, se han vuelto contra su antiguo Führer.\nCada mañana, el sol revela pálidos cadáveres colgados junto a una farola. De sus cuellos cuelga un cartel con la palabra «Schmutz». Inmundicia.\n\nAnoche, la noche de la horca, paramilitares enloquecidos de las SA empezaron a irrumpir en mansiones.\nEl fervor creció hasta que los grupos empezaron a arrastrar a la calle a ricos, reaccionarios y demás escoria, golpeándolos hasta la muerte.\nLas SA se aseguraron de perseguir brutalmente a los miembros de las SS, masacrando incluso a sus familias en el proceso.\nFue un espectáculo repugnante para los trabajadores matutinos: cuerpos congelados pudriéndose a la intemperie. Las calles no se despejaron hasta finales de la tarde. \n\nHeinrich Himmler y Reinhard Heydrich, antaño miembros destacados del Partido Nazi, también fueron eliminados.\nAlgunos testigos afirmaron haber visto desfiles de radicales de las SA saliendo de las casas de Himmler y Heydrich, portando antorchas brillantes en la oscura noche.\nHuelga decir que no volverá a haber noticias de ellos.\n\nEsperemos que les dispararan y que no tuvieran un final espantoso a manos de esas antorchas..."
+GER_SA.4.A: "Esta sangre es una mancha en el orgullo alemán que será difícil de limpiar."
+
+GER_SA.5.t: "La diarquía"
+GER_SA.5.d: "[FROM.GetNewsIcon]Poco a poco, como el polvo tras una gran tormenta de arena, la gran agitación provocada por la revolución de las SA se va calmando. Pero, en su lugar, hay algo mucho más aterrador.\nHa estallado una rivalidad tácita entre los dos políticos restantes más destacados.\nRöhm y Strasser emergieron con nuevos poderes tras la revolución, arrebatando la influencia del antiguo Führer, Adolf Hitler.\nEn un instante, una de sus acciones podría desencadenar una devastadora guerra civil que sumiría de nuevo a Alemania en el caos.\n\nMientras la estabilidad de Alemania pende de un hilo, Röhm y Strasser se examinan mutuamente en secreto en busca de puntos débiles. Röhm es un hombre violento y desorganizado, conocido más por su ira de borracho que por sus tácticas ladinas. De hecho, el propio Röhm había invitado a su nuevo enemigo al Gobierno.\nCuenta con fieles seguidores de las clases bajas que, a pesar de carecer de educación, son mejores guerreros.\nStrasser es más conocido por su política. Actualmente, Strasser tiene menos poder, pero sus hombres están mucho más organizados, con algunos de ellos en el propio partido.\nPero, en estos tiempos peligrosos, la lealtad es algo impredecible.\nRöhm y Strasser deben tener cuidado de no repetir el error de Hitler..."
+GER_SA.5.A: "¿Cuántos alemanes quedarán si esta guerra civil desemboca en otra purga?"
+
+
+GER_SA.6.t: "¿Reichstag? Más bien Nadie-stag"
+GER_SA.6.d: "La inestabilidad era un mero eufemismo de la anarquía de la República de Weimar. La paz y el orden eran lujos que ni siquiera el todopoderoso dólar puede comprar, y mucho menos el mísero reichsmark. No más que en el Reichstag este hecho tiene mérito, porque ya no era un santuario del debate y el proceso parlamentario, sino sólo una arena para los muchos paramilitares y matones que estaban dispuestos a propinar un puñetazo o dos, tal vez incluso llenar de plomo a un legislador con mala suerte. Debate sano como siempre en la República.\n\nHasta que los matones de Röhm empezaron a pintar de rojo las paredes.\n\nLo que antes era el símbolo del caos se convirtió en el paraíso de la tranquilidad. El silencio prevaleció por fin en el Reichstag, pero las manchas siguen ahí. Las paredes, las puertas, las sillas y los estrados están empapados de la sangre de los legisladores y quienes no siguieran la línea del partido. Algunos incinerados, otros arrojados al río Spree, mientras que los más notables recibieron «sepultura» en la Plaza de la República.\n\nA medida que la vieja guardia caía en desgracia, nuevas caras ocupaban rápidamente sus puestos. Desde funcionarios veteranos del partido hasta representantes de Röhm, sólo tienen un cometido: poner su sello. Ni falta hace plantear objeciones o cuestionar la política del partido, basta con aprobar y recibir el pago. El Reichstag ahora no es más que un altavoz lleno de cascarones que vendieron su alma al partido. La Parca no necesita esperar por sus almas, pues ya ha llegado a sus dominios."
+GER_SA.6.A: "El Reichstag está gobernado por fantasmas..."
+
+GER_SA.7.t: "Volver a los 25 puntos"
+GER_SA.7.d: ""
+GER_SA.7.A: ""
+
+GER_SA.8.t: "Doctrina Strasser-Goebbels"
+GER_SA.8.d: "Hoy era un día ajetreado para el movimiento nacionalsocialista. El querido líder del NSDAP, Gregor Strasser, acompañado por su leal socio, Joseph Goebbels, se ha dirigido a la población por la radio para hablar sobre nuevos sucesos relacionados con nuestra doctrina. En primer lugar, Goebbels agradeció a Strasser su lucha contra «la corrupta judería capitalista que se aprovecha de la nación» y anunció grandes cambios relacionados con nuestro actual rumbo ideológico. Tras despotricar durante unos minutos sobre los peligros de la traición dentro del movimiento, dio la palabra a Strasser.\n\nStrasser coincidió con las anteriores declaraciones de Goebbels, afirmando que había muchos agentes maliciosos intentando minar la causa nacionalsocialista. Si la economía está en manos de «personas corruptas y sin escrúpulos» en lugar de los capitalistas, entonces la revolución no serviría de nada, ya que están básicamente sustituyendo la tiranía de la República con otro tipo de tiranía. Por eso compartía la idea de que una economía central dictada por el partido era lo mejor para servir a los intereses de la clase obrera alemana. Revitalizar la economía era necesario no sólo para garantizar el bienestar el pueblo, sino para pagar las injusticias de Versalles en la inevitable confrontación contra las «potencias reaccionarias occidentales».\n\nEl discurso fue todo un éxito. Las promesas de nuevas reformas económicas eficaces fueron suficientes para garantizar un gran apoyo. Extraoficialmente, algunos expertos políticos extranjeros e incluso gente de dentro del partido llaman a este nuevo reajuste ideológico la «doctrina Strasser-Goebbels». Algunos de nuestros leales camaradas que espiaban dentro de las SA informaron de que Röhm estaba furioso por la buena acogida del discurso de Strasser, llegando incluso a romper su propia radio por su furia. Röhm y sus lacayos pueden quejarse todo lo que quieran, pero nada detendrá a Alemania en su camino hacia el verdadero nacionalsocialismo."
+GER_SA.8.A: "¡Por una Alemania socialista y fuerte!"
+
+GER_SA.9.t: "El poder de Röhm se desvanece"
+GER_SA.9.d: "[FROM.GetNewsIcon]—¡No aceptaré este ataque contra mi autoridad! —gritó el soldado, estampando el puño en la mesa.\n\n—Herr Röhm, cálmese, por favor. Quiero debatir sobre nuestra política con usted y no le veo sentido cuando se muestra poco receptivo a mis ideas —contraatacó el secretario, intentando mantener la calma y que no lo afectara el gorila que se golpeaba el pecho delante de él—. Ahora, si me permite, quería explicarle cómo restaurar la supervisión del partido sobre sus hombres podría...\n\n—¡Jefe de Estado Mayor Röhm, chupatintas insolente! ¡No aceptaré este intento patético de toma del poder! ¡Es incluso peor que Hitler, maldita escoria! ¡Debería haberlo fusilado con los demás!\n\n—¡Pero estoy aquí porque sabe que es demasiado imcompetente para organizar algo que no sea esta horda patética que usted llama un ejército! —El secretario se había levantado de su asiento y estaba listo para contraatacar—. Sabe de sobra que me necesita y yo estaré encantado de ayudarlo, pero ¡lo que no voy a hacer es permitir que lleve este país a la anarquía!\n\n—Ah, ¿de verdad cree que necesito su ayuda? ¡Se equivoca, patán! ¡Fuera, váyase al infierno, o a donde sea! ¡LARGO!\n\n—Herr Stabschef, me temo que no es posible. —Hasta entonces, el propagandista había permanecido callado y ahora se trasladó al extremo de la mesa donde se encontraba el secretario—. Verá, herr Strasser es un administrador muy competente y un querido amigo mío. Su marcha pondría en grave peligro el futuro de Alemania, al tiempo que pondría en la guillotina a un alemán leal. Le garantizo que, si despide a herr Strasser, informaré al resto de alemanes de sus varios fracasos.\n\nEl contenido de estas palabras golpeó al soldado como un mazazo. Si hace unos segundos era un hombre furibundo y seguro de sí mismo, ahora era una ruina llena de cicatrices que tartamudeaba para encontrar una respuesta. Pero no la encontró, optando en su lugar por salir de la habitación, no sin antes tirar un vaso al suelo, esperando al menos salvar algo de su reputación."
+GER_SA.9.A: "Este momento de debilidad ha sido observado y anotado."
+
+GER_SA.10.t: "El retorno de Otto Strasser"
+GER_SA.10.d: "Tras ser expulsado del NSDAP por la traicionera facción hitleriana, Otto Strasser formó la Liga Combativa de Nacionalsocialistas Revolucionarios (más conocida como el Frente Negro) a partir de otros nazis de izquierdas que creían que la cúpula del partido en ese momento se había desviado de los ideales anticapitalistas originales de la visión nacionalsocialista.\n\nAhora que el traidor de Hitler ha sido eliminado, Otto ha hecho un regreso triunfal y, al hacerlo, ha fusionado su banda de nacionalsocialistas radicales con el resto del NSDAP. \n\nNaturalmente, el secretario del partido, Gregor Strasser, tiene la intención de darle a su hermano un puesto importante y ha encontrado dos que encajarían perfectamente con Otto. La primera opción es gauleiter del NSDAP/AO, la sección exterior del partido, y la segunda es el cargo de ministro de Economía. Son los dos cargos importantes que satisfarán las ambiciones de Otto y contribuirán a la consecución de un futuro próspero para la patria."
+GER_SA.10.A: "El cargo de gauleiter sacará a relucir los talentos de Otto."
+GER_SA.10.B: "¡Como ministro de Economía, Otto Strasser traerá una gran prosperidad a Alemania!"
+
+GER_SA.11.t: "Tormenta en el Rin"
+GER_SA.11.d: "[FROM.GetNewsIcon]Ayer, fuerzas paramilitares de las SA entraron en Renania en tropel, violando el Tratado de Versalles. Renania se estableció como zona desmilitarizada para que Alemania no volviese a situar a sus hombres en la frontera con Francia. Los soldados de las SA, vestidos con orgullo con sus elegantes uniformes grises, irrumpieron en Renania en columnas, cantando el himno nacional alemán. Los diplomáticos franceses y británicos protestaron enérgicamente por esta violación flagrante del Tratado de Versalles. Sin embargo, sus furiosos gritos acabaron convirtiéndose en débiles quejas ante el hecho de que las SA no están afiliadas con el Ejército alemán... aún. Ésto muestra la intención alemana de rearmarse, precisamente lo que Versalles quería prevenir. No sólo éso, sino que ha desvelado el débil temple de los políticos franceses y británicos. Aunque Francia al menos movió algunas divisiones a la frontera, el Reino Unido se abstuvo de toda acción militar. Parece que los dos países están dispuestos a hacer todo lo posible para evitar otra guerra mundial. Todos estos acontecimientos favorecen a los alemanes, que ganan confianza ante la indecisión de los dos aliados. No está claro cuáles son las intenciones alemanas, pero se espera que Röhm intente restaurar las antiguas fronteras de Alemania."
+GER_SA.11.A: "Alemania ya no será doblegada por tratados inútiles."
+
+GER_SA.12.t: "El ejército de Röhm"
+GER_SA.12.d: "Las carcajadas de los hombres retumbaban en la pequeña taberna, en un día de ajetreo habitual en Berlín. Los clientes, molestos, no podían soportar el insufrible ruido que hacía el pequeño grupo, pero nadie estaba dispuesto a molestar a los matones de la SA en su hora del almuerzo. Hans dio otro sorbo a su cerveza para refrescarse la garganta y continuó con su historia.\n\n—Pues tiramos la puerta abajo y el tío se empezó a cabrear con nosotros. Nos soltó alguna mierda sobre que no se lo merecía porque era un veterano y no un judío o un comunista y toda esa mierda.\n\nEl camarero se aseguraba de que sus jarras siguieran llenas, aún no había cambiado las ventanas desde la última vez.\n\n—Entonces cogí al cabrón del cuello y le dije en la cara: «¿Quién te ha dicho que no tienes que ser judío o comunista para que no te peguen, basura burguesa?» —exclamó Hans.\n\nAterrado, el empresario de la otra mesa intentó terminarse su copa de vino nervioso. ¿Qué impedía a esos hombres hacer lo mismo con él y su familia?\n\nHans empezó entonces a señalar con orgullo la Cruz de Hierro de su uniforme.\n\n—¡Y así fue como conseguí ésto!\n\nEl grupo empezó a reírse aún más fuerte ante el horror de las demás personas de la taberna. Nadie estaba a salvo en la nueva Alemania.\n\n—Para ser justos, su casa estaba llena de joyas y cuadros franceses de lujo. Así que probablemente fuese de alto rango. También debería haberle cortado la lengua —dijo uno de los hombres de las SA con la boca llena de salchicha.\n\nTras beber y reír durante veinte minutos, el grupo se levantó de sus sillas.\n\n—Bueno, parece que el deber nos llama. Anótamela, Max. Luego te pagamos —le dijo Hans al camarero.\n\nMientras las SA abandonaban la taberna, el camarero maldijo en privado a aquellos hombres que ahora dirigen el destino de toda la nación alemana:\n\n—¡Al menos las SS siempre pagaban la cuenta!"
+GER_SA.12.A: "¡Ahora nosotros manejamos el cotarro!"
+
+GER_SA.13.t: "La segunda oleada"
+GER_SA.13.d: "[FROM.GetNewsIcon]La noche de la horca. Una noche que todos en el Reich alemán recuerdan con un miedo paralizador. Esa noche, los matones de las SA se centraron en eliminar a rivales políticos como Heinrich Himmler. Desde sus camas, los niños podían oír los innumerables gritos, los chasquidos de las balas y, a continuación, un silencio desgarrador mientras todos rezaban para oír a las SA marchar a lo lejos, y no el espantoso crescendo de las botas ante sus puertas. Pero poco a poco, la sangre derramada se dejó secar.\n\nHasta que las calles volvieron a estar cubiertas de rojo por la muerte.\n\nLas SA estaban inquietas debido a la reciente falta de actividad y, a medianoche, esbirros borrachos merodeaban por las calles vacías en busca de civiles sospechosos a los que atacar. No había nadie fuera debido a los recientes ahorcamientos. Privados de una reyerta, los sanguinarios brutos de las SA irrumpieron en las mansiones de industriales y banqueros. Muchos empresarios prominentes fueron sacados a rastras de sus casas y conducidos en manada a las gélidas calles. Los rezagados o los que se resistiesen eran apaleados o fusilados. Otros simplemente murieron de hipotermia.\n\nAl amanecer, el caos se había calmado. Entre las víctimas estaban Fritz Thyssen, Alfried Krupp, Max Warburg y Kurt Baron von Schröder. Röhm encubrió el suceso, pero los rumores de una segunda oleada de ahorcamientos infundieron temor en todos."
+GER_SA.13.A: "¿Cuánto tiempo permanecerán impunes los brutos?"
+
+GER_SA.14.t: "El título de Röhm"
+GER_SA.14.d: "Ernst Röhm actualmente ostenta el título de jefe de las Sturmabteilung y, gracias al control de la organización sobre la nación, es también el líder de Alemania. Sin embargo, estos títulos no son especialmente formales y no se prestan muy bien al poder y la autoridad que ejerce el Bruto. Para rectificar ésto, tendremos que elegir entre dos títulos distintos: canciller o Führer.\n\nEl título de canciller posee un sentido de seriedad y podría transmitir bien la autoridad de Röhm. Sería una buena elección si no estuviera manchada por el hecho de que Adolf Hitler, un traidor a Alemania y a la visión nacionalsocialista, ocupó en su día este cargo. Ésto podría pasarse por alto, pero cualquier asociación con el traidor de cualquier manera podría ser un problema para el gobierno del jefe de las SA.\n\nLo mismo ocurre con el título de Führer, lo que es una pena, pues es un título poderosísimo y absolutamente digno de un hombre con el poder que ostenta Röhm.\n\nSin embargo, existe una tercera opción, y es que el título de Röhm siga siendo el de jefe de las Sturmabteilung. Es ciertamente la opción menos prestigiosa, pero es la opción segura, ya que elimina la posibilidad de cualquier paralelismo entre Röhm y Hitler.\n\nAsí que ¿cuál será el título del Bruto?"
+GER_SA.14.A: "Seriedad, autoridad, poder: el cargo de canciller lo tiene todo."
+GER_SA.14.B: "Röhm guiará a Alemania hacia un futuro próspero; es lógico que se haga llamar el Führer."
+GER_SA.14.C: "Cualquier asociación con Hitler podría ser perjudicial para el futuro de Alemania; Röhm seguirá siendo el jefe de las SA."
+
+######################################################################
+#  German Strasserist Focuses
+######################################################################
+ GER_The_Brown_Tide: "La marea parda"
+ GER_The_Brown_Tide_desc: "¡El intento de purga de Hitler ha fracasado! En pleno arresto de nuestro líder, una valiente patrulla de las SA consiguió detenerlo antes de que pudiera llevárselo, apaleando al traidor hasta hacerlo papilla antes de apresarlo del todo. En todo el país se ha desatado el caos cuando nuestros hombres han sido llamados a las armas, enfrentándose a los pequeños destacamentos del Reichswehr que pretendían destruir la segunda revolución y Alemania junto con ella. \n La clase obrera ha sido traicionada durante demasiado tiempo con el glorificado cabo Hitler al timón, ¡y su traición a nuestro gran líder, herr Röhm, es la gota que ha colmado el vaso! Su gabinete de sátrapas corruptos ha sido reemplazado por un gabinete reunido apresuradamente a las órdenes de Röhm, formado en su totalidad por miembros de las SA leales a la revolución ante todo. ¡Aunque la anarquía se apodere de las calles por ahora, la revolución triunfará!"
+
+ GER_Dealing_with_the_inner_circle: "Lidiar con el círculo íntimo"
+ GER_Dealing_with_the_inner_circle_desc: "Debemos encargarnos de los hombres más cercanos al traidor de Hitler inmediatamente si se quiere acabar con la anarquía. Enviaremos a nuestros mejores hombres a la caza de su círculo íntimo, a saber, el ministro presidente de Prusia, Hermann Göring, que gasta más dinero en lujos para sí mismo que en alimentos para el pueblo, el exdiputado del Partido Nazi y reichsleiter Martin Bormann, que pasa más tiempo adulando al traidor de herr Hitler que en cualquier otra cosa, y el lugarteniente del Führer, Rudolf Hess. Capturados estos elementos del círculo íntimo de Hitler, su facción del Partido Nacionalsocialista debería derrumbarse como un castillo de naipes, dando a las SA un dominio completo sobre la política del partido y del país, como debería ser. ¡Apresémolos con premura!"
+
+ GER_Reward_von_Schleicher: "Recompensar a Von Schleicher"
+ GER_Reward_von_Schleicher_desc: "Von Schleicher nos ha prestado un gran servicio, ayudando al NSDAP a llegar al poder y calmando a las fuerzas restantes del Reichswehr tras la revolución parda. Por ende, nos parece oportuno recompensarlo por sus servicios, igual que recompensaríamos a cualquier persona. Dado que posee una experiencia militar que muy pocos miembros de la élite de las SA poseen y dado que no podemos confiar en ningún general del Reichswehr como jefe del Ejército, consideramos adecuado nombrar a Kurt von Schleicher jefe del Ejército. Lo único que queda es hacer su ascenso oficial, y entonces podremos centrarnos en los problemas de verdad ¡y en establecer una nación alemana fuerte bajo los artífices de la segunda revolución!"
+
+ GER_Talks_with_Strasser: "Charlas con Strasser"
+ GER_Talks_with_Strasser_desc: "Con la facción hitleriana prácticamente destruida, quedan dos hombres poderosos e influyentes: Ernst Röhm y Gregor Strasser, y cada uno promueve un Reich más a la izquierda económicamente hablando que el que habría proporcionado Hitler.  Con intenciones similares de llevar a cabo la segunda revolución con toda su fuerza, es lógico que trabajen juntos: la cooperación entre ambos podría devolver el orden a Alemania, poniendo fin al actual estado de anarquía vigente desde la fallida detención de Röhm por Hitler."
+
+ GER_Nights_of_the_Rope: "La noche de la horca"
+ GER_Nights_of_the_Rope_desc: "El futuro de Alemania se asegurará en una sola noche. Hasta ahora hemos sido demasiado misericordiosos con los enemigos de la revolución, ¡hasta ahora! Hitler, Hess, Bormann y Göring: todos ellos serán ahorcados esta noche en un acto de rápida justicia. Hay que acabar también con todos los demás enemigos del actual gabinete: la escoria reaccionaria del DNVP, los financieros antirrevolucionarios como Hugenberg, los demócratas y comunistas que quedan... ¡Todos ellos deben morir, no debemos correr ningún riesgo! Cualquiera que pueda poner en peligro el futuro de la revolución debe estar muerto antes del amanecer, no sea que el futuro de Alemania se ponga en peligro una vez más. La noche de la horca será uno de los últimos pasos para unir al pueblo alemán en nuestras fronteras. ¡Vivan Röhm y Strasser!"
+
+ GER_Destroy_the_SS: "Destruir a las SS"
+ GER_Destroy_the_SS_desc: "Tenemos que encargarnos de la última amenaza directa a la revolución en nuestras fronteras. Las SS, la guardia personal de Hitler, siguen controlando partes de Alemania en la anarquía que aún impera. Debemos iniciar una operación para apresar a sus líderes, cortar la cabeza de la serpiente y poner por fin de rodillas a la escoria pagana antivölkisch. El legado de Eichemann y Himmler no volverá a atormentar al pueblo alemán: ¡esta noche se les pondrá fin!"
+
+ GER_Zweite_Revolution: "Zweite Revolution!"
+ GER_Zweite_Revolution_desc: "Los hermanos estraseristas han demostrado una y otra vez que son los verdaderos portadores de la antorcha de la revolución. Fueron los primeros en idear una política de nacionalsocialismo, una ideología que fusionaba el nacionalismo y el socialismo en una ideología coherente. Fueron los primeros en oponerse a Hitler y sus interpretaciones erróneas de la ideología nacionalsocialista, y fueron los verdaderos revolucionarios, dispuestos a derrocar a Hitler en el momento oportuno. Aunque Röhm sea el candidato estable y popular para la patria, todos sabemos que los hermanos estraseristas y su Frente Negro son los verdaderos revolucionarios, y deberían ser recompensados como tales concediéndoles el gobierno de toda la revolución."
+
+ GER_New_Party_Secretary: "Nuevo secretario del partido"
+ GER_New_Party_Secretary_desc: "En la actualidad, el régimen de Ernst Röhm se considera ilegítimo a los ojos de la opinión pública alemana, debido a la naturaleza con la que se convirtió en líder. Naturalmente, se trata de un problema urgente que requiere atención inmediata para rectificarlo porque, sin el apoyo de la población, nuestra revolución nacionalsocialista «en condiciones» nunca cobrará suficiente ímpetu y nuestras ideas nunca llegarán a aplicarse. \n \n Por suerte, tenemos al hombre adecuado para dar la legitimidad que necesita el Gobierno: un hombre llamado Gregor Strasser. Una figura popular e importante entre el enclave norte del NSDAP, de donde procede el grueso de nuestro apoyo político, posee excelentes dotes de liderazgo y organización. Ésto convierte a Strasser en una buena elección para secretario del partido, tanto práctica como simbólicamente. Sin embargo, a pesar de todas sus virtudes, debemos tener cuidado de no darle demasiado poder, no sea que se vuelva contra nosotros y nos quite todo por lo que hemos trabajado tan duro..."
+
+ GER_Socialization_of_the_Economy: "Socialización de la economía"
+ GER_Socialization_of_the_Economy_desc: "Durante décadas, nuestra nación ha estado a la vanguardia de la revolución industrial, inaugurando una nueva era de prosperidad para la inmensa mayoría del pueblo alemán. Sin embargo, enfaticemos en «mayoría», ya que los obreros que trabajan en nuestras fábricas, que construyen nuestras casas, que cultivan nuestras tierras, son todos desechados por nuestro Gobierno y el resto de la sociedad, con la burguesía dominando todas las facetas de la vida, mientras que el proletariado no son más que parias prescindibles, esclavos voluntarios de los monarcas y la burguesía. El Führer compartía el mismo punto de vista, pero estaba corrompido por el poder absoluto y se limitaba a reforzar los cárteles de la industria, asegurando su control sobre Alemania. Es hora de revertir este statu quo y provocar un cambio de paradigma que el mundo nunca ha visto: ¡un verdadero paraíso socialista!"
+
+ GER_The_Brute: "El Bruto"
+ GER_The_Brute_desc: "Ernst Röhm, el jefe de las Sturmabteilung, siempre ha sido un hombre cruel, y éso nunca ha estado más claro. Los métodos violentos y burdos que permitió utilizar a su panda de bandidos en su «segunda revolución» contra la facción hitleriana del NSDAP y sus partidarios así lo demuestran. Como rostro de las Sturmabteilung, la gran cantidad de sangre derramada y la brutalidad causada por la revolución no han sentado nada bien al ahora líder de facto del país, que ha recibido el apodo de «el Bruto». Pese a este humillante apodo, Röhm debe trabajar para consolidar su control sobre el país y sin duda empleará las mismas burdas estrategias que le valieron su apodo en primer lugar."
+
+ GER_Pack_the_Reichstag: "Atestar el Reichstag"
+ GER_Pack_the_Reichstag_desc: "Tras nuestra purga de los traidores hitlerianos de nuestro gran partido, el Reichstag se ha quedado vacío y desolado. Ahora podemos llenar el Reichstag de miembros del partido que sobrevivieron a nuestra purga y que hayan mostrado lealtad al partido y denunciado a Hitler, así como antiguos miembros de las Sturmabteilung de Ernst Röhm. Ésto nos brindará la capacidad de impulsar eficazmente cualquier ley y medida sin ningún tipo de resistencia, lo que nos permitirá aplicar plenamente nuestra visión de Alemania y de nuestro pueblo, sin concesiones. "
+
+ GER_Total_Purge_of_Hitlerism: "Purga total del hitlerismo"
+ GER_Total_Purge_of_Hitlerism_desc: "Después de tomar el control del país en nuestra gran revolución, debemos purgar toda la influencia de Hitler y su contaminada corriente de nacionalsocialismo del partido, eliminando a las personas que estuvieron cerca de él y a cualquiera que muestre siquiera una pizca de lealtad hacia él. Ésto nos brindará la oportunidad de reconstruir el NSDAP y asegurarnos de que sea leal al secretario y sus creencias políticas. Esta lealtad nos permitirá impulsar nuestra propia agenda, la que creemos que es la correcta para el pueblo alemán."
+
+ GER_Forgive_the_Alter_Kampfer: "Perdonar a los Alter Kämpfer"
+ GER_Forgive_the_Alter_Kampfer_desc: "Si bien es cierto que la facción hitleriana del NSDAP intentó traicionar a la revolución nacionalsocialista, sería una insensatez purgar el partido entero de todos los antes asociados a Hitler, ya que eliminaríamos a miembros perfectamente leales y valiosos que han portado la antorcha del nacionalsocialismo desde los primeros días del partido. Perdonaremos a los Alter Kämpfer en lugar de detenernos en sus pequeños defectos para que vuelvan a unirse a nuestras filas y, juntos, ¡marchemos hacia una verdadera Alemania nacionalsocialista!"
+
+ GER_Return_to_the_25_points: "Volver a los 25 puntos"
+ GER_Return_to_the_25_points_desc: "Antes de que el NSDAP se desviase de su camino debido a la ambición personal y el oportunismo de Hitler, propugnó el llamado programa de 25 puntos, que capturó la esencia de nuestro movimiento para los años venideros y estaba destinado a ser nuestra base ideológica cuando tomamos el poder. Sin embargo, ésto no sucedió y los 25 puntos pronto se convirtieron en una reliquia del pasado, olvidada a propósito para abrir el camino a la cooperación con los capitalistas y demás reaccionarios. Pero ahora que la revolución nacionalsocialista ha triunfado, volveremos a nuestras raíces y lucharemos por cada punto con una voluntad de hierro y sin transigir."
+
+ GER_Strasser_Goebbels_Doctrine: "Doctrina Strasser-Goebbels"
+ GER_Strasser_Goebbels_Doctrine_desc: ""
+
+ GER_Expand_the_Propaganda_Ministerium: "Ampliar el Ministerio de Propaganda"
+ GER_Expand_the_Propaganda_Ministerium_desc: "Aunque Joseph Goebbels trabajó al principio para Hitler y fue uno de sus hombres de confianza, ha reconocido sus errores y ahora trabaja sin descanso para la verdadera revolución nacionalsocialista, igual que hizo para Hitler. Con el fin de utilizar el enorme potencial de Goebbels como propagandista, el secretario del partido, Strasser, ha decidido que Goebbels reciba una vez más el cargo de ministro de Propaganda, mientras que su ministerio se ampliará a un tamaño aún mayor, lo que le permitirá difundir el mensaje nacionalsocialista a todos los miembros de la sociedad alemana."
+
+ GER_Chip_Away_at_the_Power_of_Rohm: "Socavar el poder de Röhm"
+ GER_Chip_Away_at_the_Power_of_Rohm_desc: "Aunque Ernst Röhm se ha erigido en el actual dictador de Alemania y actualmente está al mando de todo el Gobierno, debemos asegurarnos de que su cargo no adquiera demasiado poder, no vayamos a crear otro Hitler. Por ello, hemos decidido redactar varias reformas y cambios en la actual legislación alemana que devolverían al partido la mayoría de los actuales privilegios de Röhm, mientras que su libertad administrativa se vería contenida por varias restricciones burocráticas, lo que permitiría al partido ejercer más poder en los asuntos cotidianos del Gobierno.\nEs muy probable que Röhm proteste contra esta decisión, pero es necesaria para salvar a Alemania."
+
+ GER_Position_of_Otto: "¿El cargo de Otto?"
+ GER_Position_of_Otto_desc: "Otto Strasser y su grupo de nacionalsocialistas revolucionarios, que abandonaron el NSDAP en protesta por las decisiones de Hitler, han sido durante mucho tiempo verdaderos nacionalsocialistas y confidentes del secretario del partido, Gregor Strasser. Ahora que por fin se ha acabado con Hitler, la KGRNS y Otto han vuelto a solicitar su ingreso en el NSDAP. Y aunque su reingreso está casi garantizado, ha habido mucha polémica entre Gregor Strasser y Ernst Röhm respecto al cargo de Otto Strasser en la nueva burocracia del partido."
+
+ GER_Strengthen_the_DAF: "Reforzar el DAF"
+ GER_Strengthen_the_DAF_desc: "Para incluir a los trabajadores alemanes en nuestros esfuerzos colectivos, es necesario establecer una nueva forma de representación obrera en la nueva Alemania nacionalsocialista. Esta representación se alcanzará mediante la reorganización del Frente Alemán del Trabajo (DAF), que antes sólo era una organización títere para apaciguar a los trabajadores con promesas vacías, en un sindicato nacionalsocialista propiamente dicho con un consejo obrero elegido y varios derechos —así como deberes— nuevos en el nuevo Estado. Aunque algunos miembros del partido y de las SA han expresado su preocupación por que este nuevo sindicato pueda convertirse en un foco de agitación antigubernamental, tanto Röhm como Strasser les han asegurado que los representantes de los trabajadores aumentarán tanto la eficacia como la confianza en el Gobierno."
+
+ GER_Bureaucratic_Overtake_of_the_Economy: "Control burocrático de la economía"
+ GER_Bureaucratic_Overtake_of_the_Economy_desc: "Aunque las actuales élites de Alemania han demostrado que no son de fiar, no hay que subestimar su control de la economía, lo que significa que cualquier intento violento de apoderarse de sus bienes podría saldarse con la destrucción o desaparición de los mismos.\nPara eludir este problema, se ha considerado necesario integrar estos latifundios de los junkers de forma pacífica. Ésto se logrará a través de una lenta pero firme toma burocrática de la economía aplicada por varias leyes y reformas, que gradualmente reducirán el poder de los junkers y fortalecerán el control estatal sobre la economía.\nEste proceso continuará hasta que el control estatal se considere suficiente, lo que se completará con la disolución de los latifundios de los junkers y la integración de las ahora antiguas élites en la sociedad alemana corriente."
+
+ GER_Bury_the_German_Elite: "Enterrar a las élites alemanas"
+ GER_Bury_the_German_Elite_desc: "Aunque en el partido hay quienes abogan por un enfoque «pacífico y comedido» para con la clase alta alemana con la esperanza de «integrar» sus bienes económicos y a ellos en la nueva economía alemana, nosotros no nos dejamos engañar.\nLa clase alta ha sido durante décadas un parásito que se aprovecha del duro trabajo de los obreros y campesinos, sin dar nada a cambio, condenando al alemán de a pie al desempleo, la pobreza y la desesperación.\nPor fin recuperaremos lo que nos pertenece y devolveremos las propiedades y las riquezas de los junkers a los trabajadores."
+
+ GER_State_Run_Corporations: "Corporaciones estatales"
+ GER_State_Run_Corporations_desc: "A la luz de nuestros actuales esfuerzos de colectivización, se ha hecho evidente que, además de la nacionalización de las empresas existentes, la creación generalizada de nuevas empresas gestionadas directamente por el Estado ayudará a nuestra economía en la transición a un sistema socialista. Estas empresas se crearán mediante la fundación de nuevas empresas con activos de otras empresas anteriormente privadas desaparecidas o mediante la separación de grandes empresas, monopolios y cárteles en una multitud de empresas más pequeñas, cada una de ellas bajo el control de burócratas del partido leales que dirigirán sus empresas pensando en el bienestar de Alemania en lugar de en los beneficios."
+
+ GER_Promote_Reichgenossenschafts: "Promover las Reichgenossenschafts"
+ GER_Promote_Reichgenossenschafts_desc: "Dado que los trabajadores son el alma de nuestro movimiento, es inaceptable que, a pesar del progreso realizado en los últimos meses, muchos trabajadores sigan sin estar bien organizados e integrados en sus respectivas ramas. Para ocuparnos rápidamente de ésto, iniciaremos un programa nacional de promoción de la afiliación a las Reichsgenossenschaften, organizaciones voluntarias de trabajadores bajo la supervisión general de las SA, que hacen de representantes y hacedores de la voluntad obrera.\nEstas medidas vincularán a las SA más estrechamente con la economía general y la comunidad obrera, a la par que aumentará las capacidades de nuestra economía mediante la mejor organización de nuestra población activa."
+
+ GER_Death_of_Capitalist_Organizations: "La muerte de las organizaciones capitalistas"
+ GER_Death_of_Capitalist_Organizations_desc: "¿Sabes cuál es el mayor miedo de los capitalistas? Una población obrera unida, empeñada en destruir todo aquéllo en lo que han trabajado: su explotación de las masas y sus inimaginables riquezas forjadas mediante sangre y balas, y que ello vuelva a los bolsillos de la gente que trabajaba día y noche en sus fábricas. Por esta razón misma los capitalistas predican el individualismo y la autoidentidad, porque temen que, si nos unimos como una mente colectiva, se acabe su poder autocrático. Por esta razón misma debemos unir a todos los trabajadores de nuestro Estado en un único organismo. Este nuevo organismo derribará los cimientos del sistema capitalista y dará paso a una nueva era, una era de revolución y un paraíso para el trabajador."
+
+ GER_Reichswerke_Otto_Strasser: "Reichswerke Otto Strasser"
+ GER_Reichswerke_Otto_Strasser_desc: "A pesar de nuestras recientes reformas económicas, nuestra nación aún depende de varios materiales que, hasta ahora, se han tenido que importar de multitud de naciones. Aunque actualmente nos vale, existe la posibilidad de que estas naciones detengan sus exportaciones a Alemania por razones no especificadas.\nPara asegurar nuestra independencia económica, fundaremos la Reichswerke Otto Strasser, un enorme conglomerado de compañías estatales que nos ayudarán a acceder a los recursos de Alemania que, hasta ahora, no se han explotado debido a su inaccesibilidad general y la poca disposición de los capitalistas a utilizar estos recursos «poco rentables», creando al mismo tiempo un montón de trabajos estables para la población alemana."
+
+ GER_Stadt_des_KdfWagens: "Stadt des Kdf-Wagens"
+ GER_Stadt_des_KdfWagens_desc: "Aunque las SA fueron la fuerza motriz de la segunda revolución, no deberíamos olvidar a los trabajadores, que son el sustento de tanto Alemania como las SA. Para recompensar a los trabajadores, Ernst Röhm ha ideado un programa que pondría un coche personal al alcance del grueso de la población alemana.\nBautizado «KdF-Wagen» en alusión a la suborganización del DAF, el plan de Röhm prevé el establecimiento de una fábrica de automóviles gigantesca en la pintoresca ciudad de Fallersleben, que producirá un mayor número de automóviles para la población en general, al tiempo que reducirá el desempleo en la zona a casi cero, convirtiéndose Fallersleben en la ciudad oficial del Kdf-Wagen."
+
+ GER_Increase_in_Social_Welfare: "Aumentar el bienestar social"
+ GER_Increase_in_Social_Welfare_desc: "Puesto que nuestra mayor motivación es el bienestar de la población alemana, es un paso lógico mejorar el bienestar a menudo insuficiente aumentando sobremanera los fondos para una variedad de programas gubernamentales, somo un fondo de desempleo, prestaciones por maternidad, sanidad accesible y más.\nEstos programas serán muy valorados por los trabajadores que antes tenían que sufrir el miedo al desempleo y a los accidentes laborales, que podían arruinar a familias enteras, mientras que la economía se verá sin duda impulsada por la nueva afluencia de trabajadores motivados y contentos."
+
+ GER_Turn_the_SA_into_the_Police: "Convertir las SA en la Policía"
+ GER_Turn_the_SA_into_the_Police_desc: "La Hilfspolizei fue una fuerza policial auxiliar que contenía ramas de las Sturmabteilung y las Schutzstaffel creada por Hermann Göring en 1933 para ayudar a la Policía normal a destruir a los simpatizantes comunistas y otros enemigos tras el incendio del Reichstag. Sin embargo, sólo estuvo activa un mes, dado que Hitler perdió la fe en las SA y le pareció que ya no existían amenazas para su régimen. Pero él ya no está al mando, lo estamos nosotros.\n\nDebido a la forma en que nos hicimos con el poder, no cabe duda de que existen algunas influencias disidentes similares a las que tuvo que afrontar Hitler y que suponen una amenaza para nuestra agenda y nuestros planes. Para solucionar estos problemas, debemos seguir el enfoque que llevó al éxito a Hitler y revivir la Hilfspolizei. Esta vez, seguirá siendo una parte permanente de nuestra rama policial y seguirá protegiendo a la administración de herr Röhm después de que nuestros enemigos iniciales hayan sido derrotados."
+
+ GER_Smash_Loot_Burn: "¡Aplastar, saquear, quemar!"
+ GER_Smash_Loot_Burn_desc: "¡Aplastar, saquear, quemar! Con Alemania en nuestras manos y nuestros muchachos listos para una escabechina en toda regla, ¡ha llegado el momento de mostrar a todos los traidores, judíos y capitalistas que Hitler había ignorado cómo será para ellos vivir en la nueva Alemania! Por todo el país daremos a nuestros hombres vía libre para «confiscar» todas las propiedades que deseen mientras cualquiera que no encaje en nuestra nueva Alemania será apaleado y arrestado.\nSe partirán huesos, se romperán ventanas, se asaltarán sinagogas y se les prenderá fuego mientras nosotros, los valientes hombres de Alemania, respiraremos en las cenizas y brindaremos por nuestros camaradas caídos y por el despertar de Alemania. Y si alguien es tan imbécil como para interponerse en nuestro camino, le daremos una buena soga, ¡hecha por los valientes hombres de las SA!"
+
+ GER_Storm_in_the_Rhineland: "Tormenta en Renania"
+ GER_Storm_in_the_Rhineland_desc: "Renania es una parte crucial de la patria, y no poder mover a nuestro propio Ejército por ahí es un grave insulto. Sin embargo, el Tratado de Versalles es claro y no podemos permitirnos desafiar a las democracias occidentales directamente por ahora. Sin embargo, hay un vacío legal: las Sturmabteilung no se consideran un Ejército oficial, así que técnicamente podríamos enviar a las SA a Renania para «restaurar el orden», pese a que ya haya algunas unidades de las Sturmabteilung allí apostadas. Ésto supondrá la remilitarización de Renania y las democracias occidentales no podrán hacer nada al respecto."
+
+ GER_Rohms_Private_Army: "El ejército privado de Röhm"
+ GER_Rohms_Private_Army_desc: "Ernst Röhm ha sido el jefe de las Sturmabteilung durante mucho tiempo, y sus reformas radicales han multiplicado por diez la eficacia de la fuerza. Ahora que el jefe es el líder de Alemania, con el objetivo de llevar la prosperidad a la clase obrera y poner fin al capitalismo, las Sturmabteilung también han aumentado en importancia y estatus con él, convirtiéndose efectivamente en el ejército privado del Bruto, mostrando nada más que absoluta lealtad y gratitud hacia él por llevarlos a ellos, matones de clase obrera con escasa educación, a una posición destacada en esta nueva era para Alemania."
+
+ GER_Hangings_in_the_Street: "Ahorcamientos en las calles"
+ GER_Hangings_in_the_Street_desc: "Aunque gran parte de la antigua élite de Alemania ya ha huido del país, aún quedan miles de cerdos ricos. Conspirando junto con judíos y potencias extranjeras, pretenden acabar con la revolución y destruir todo lo que hemos conseguido hasta ahora. ¡Como los orgullosos hijos de Alemania, no dejaremos que lo consigan! Deben tomarse medidas preventivas contra estos enemigos de clase, y no serán bonitas. Los sacaremos a rastras de sus lujosas casas, les robaremos a ciegas todas sus posesiones y, si tienen suerte, se irán rápidamente cuando les metamos una bala entre ceja y ceja, los ahorquemos o los estampemos contra la acera. Los que no tengan suerte serán abandonados a su suerte en las calles, malnutridos y rotos, para que puedan comprender la difícil situación de los alemanes, a quienes robaron y con cuyo duro trabajo se enriquecieron. No se harán excepciones, no se cederá un palmo y, cuando terminemos, Alemania estará un paso más cerca de una sociedad mejor."
+
+ GER_Reorganize_the_Camps: "Reorganizar los campos"
+ GER_Reorganize_the_Camps_desc: "Cuando estábamos bajo el régimen de Hitler, colaboramos en la construcción de decenas de campos de trabajo para enemigos políticos. Estos campos deben reorganizarse ahora contra los enemigos políticos de la revolución, no contra los enemigos políticos de Hitler. El trabajo forzoso es productivo e incluso puede beneficiarnos al producir materiales necesarios para la revolución, pero como sistema de castigo para los subversivos es defectuoso. Los enemigos de la revolución aún pueden escapar, aún pueden tramar la muerte de la revolución y del proletariado. Ésto no puede ser. Debemos consolidar los campos bajo una nueva organización. Estos campos deben matar a los enemigos del pueblo y la revolución. Ponerlos a trabajar y esclavizarlos nos cuesta dinero y podría suponer el fin de la revolución si los presos se descontrolan. Un preso muerto no puede iniciar una revolución, así que ¿por qué mantenerlos vivos?"
+
+ GER_Rohms_title: "¿El título de Röhm?"
+ GER_Rohms_title_desc: "La revolución ha avanzado lo suficiente; nos hemos encargado de muchos enemigos de clase y muchos problemas por el camino. Sin embargo, ahora una seria pregunta ocupa la mente de muchos políticos. ¿Cuál es el título oficial de herr Röhm? Es el líder de las SA, pero ¿ya está? Seguro que querría ser algo importante, como el líder del partido... quizá incluso el Führer.\n\nEl título de Führer resume a la perfección el papel de Röhm en Alemania: es el líder de la revolución y el artífice del futuro de Alemania. Todos los trabajadores oprimidos y el proletariado lo admiran. Sin embargo, Hitler asumió el título de Führer y ese título está ahora manchado con su mera presencia. Ningún ciudadano alemán puede ver el título de Führer y no pensar en él.\n\nHay otro título que Röhm podría adoptar: canciller. El título se remonta al Sacro Imperio Germánico y lo han utilizado héroes alemanes como Otto von Bismarck. Por desgracia, Hitler también fue canciller antes de tomar el poder como Führer. Así pues, el título está manchado con su presencia. Röhm podría no asumir ningún título y mantener el statu quo actual. Así se garantiza que la mancha que el nombre de Hitler ha dejado en la revolución ya no permanezca.\n\nTodo depende del abanderado... ¿cómo será conocido?"
+
+ GER_Undermine_the_legal_institutions: "Socavar las instituciones «legales»"
+ GER_Undermine_the_legal_institutions_desc: "Debemos cambiar Alemania a mejor, y como la revolución ha sido un éxito masivo en el frente militar, ahora podemos centrarnos en más problemas en casa. Los bancos, las escuelas y los mercados no están actualmente como a Röhm le gustaría. Las escuelas aún no enseñan a los jóvenes, que son el futuro de Alemania, a Röhm y los ideales nacionalsocialistas. Los bancos siguen respaldando las prácticas regulares y los mercados no siguen la economía centralizada que quiere Röhm.\n\nPara arreglar ésto, vamos a socavar estas instituciones. Ahora las escuelas harán que los niños juren lealtad a Röhm y a Alemania, y enseñarán a nuestros hijos los horrores que los enemigos de clase han arrojado sobre el proletariado. Se cerrarán los bancos y se distribuirán sus riquezas entre el pueblo. Se nacionalizarán y cambiarán los mercados para seguir los planes de Röhm. Alemania se transformará en la Alemania de Röhm, un país nacionalsocialista que durará cientos de años, y se empieza por socavar las instituciones «legales»."
+
+ GER_Only_One_can_Reign_Supreme: "Solo uno puede ser supremo"
+ GER_Only_One_can_Reign_Supreme_desc: ""
+
+ GER_The_Party_is_Always_Right: "El partido siempre tiene razón"
+ GER_The_Party_is_Always_Right_desc: ""
+
+ GER_The_Future_of_SA: "¿El futuro de las SA?"
+ GER_The_Future_of_SA_desc: ""
+
+ GER_Gregors_Cabinet: "El gabinete de Gregor"
+ GER_Gregors_Cabinet_desc: ""
+
+ GER_The_Social_Revolution: "La revolución social"
+ GER_The_Social_Revolution_desc: ""
+
+ GER_Overtake_the_Universities: "Superar a las universidades"
+ GER_Overtake_the_Universities_desc: ""
+
+ GER_Embrace_Ultranationalism: "Abrazar el ultranacionalismo"
+ GER_Embrace_Ultranationalism_desc: ""
+
+ GER_Propagate_Volksgemeinschaft: "Propagar la Volksgemeinschaft"
+ GER_Propagate_Volksgemeinschaft_desc: ""
+
+ GER_Start_the_Book_Burnings: "Comenzar las quemas de libros"
+ GER_Start_the_Book_Burnings_desc: ""
+
+ GER_Politicize_the_Army: "Politizar el Ejército"
+ GER_Politicize_the_Army_desc: ""
+
+ GER_Create_the_OKW: "Crear el OKW"
+ GER_Create_the_OKW_desc: ""
+
+ GER_Introduce_the_Volkskommissars: "Introducir los volkskommissars"
+ GER_Introduce_the_Volkskommissars_desc: ""
+
+ GER_Direct_Control_by_the_Party: "Control directo del partido"
+ GER_Direct_Control_by_the_Party_desc: ""
+
+ GER_The_National_Revolution: "La revolución nacional"
+ GER_The_National_Revolution_desc: ""
+
+ GER_Support_the_Party_in_Austria: "Apoyar al partido en Austria"
+ GER_Support_the_Party_in_Austria_desc: ""
+
+ GER_Build_the_Westwall: "Construir la Westwall"
+ GER_Build_the_Westwall_desc: ""
+
+ GER_Strassers_National_Education_Program: "El programa de educación nacional de Strasser"
+ GER_Strassers_National_Education_Program_desc: ""
+
+ GER_March_on_the_Saar: "Marchar sobre el Sarre"
+ GER_March_on_the_Saar_desc: ""
+
+ GER_The_Pan_German_Dream: "El sueño pangermánico"
+ GER_The_Pan_German_Dream_desc: ""
+
+ GER_Talks_with_Italy: "Conversaciones con Italia"
+ GER_Talks_with_Italy_desc: ""
+
+ GER_Unite_the_Germanic_Brothers: "Unir a los hermanos germánicos"
+ GER_Unite_the_Germanic_Brothers_desc: ""
+
+ GER_The_Ugly_Creation_of_Versailles: "La fea creación de Versalles"
+ GER_The_Ugly_Creation_of_Versailles_desc: ""
+
+ GER_Takeover_the_Danube: "Tomar el Danubio"
+ GER_Takeover_the_Danube_desc: ""
+
+ GER_Socialist_Economy: "Economía socialista"
+ GER_Socialist_Economy_desc: ""
+
+ GER_Invest_in_Heavy_Industry: "Invertir en la industria pesada"
+ GER_Invest_in_Heavy_Industry_desc: ""
+
+ GER_NSBO_Factory_Management: "Dirección de fábricas de la NSBO"
+ GER_NSBO_Factory_Management_desc: ""
+
+ GER_Open_Saizgitter_Mines: "Abrir las minas de Salzgitter"
+ GER_Open_Saizgitter_Mines_desc: ""
+
+ GER_Modernize_Silesian_Coal_Mines: "Modernizar las minas de carbón de Silesia"
+ GER_Modernize_Silesian_Coal_Mines_desc: ""
+
+ GER_Large_Investments_in_Synthetic_Fuel: "Grandes inversiones en combustible sintético"
+ GER_Large_Investments_in_Synthetic_Fuel_desc: ""
+
+ GER_Bavarian_Wolfram: "Wolframio bávaro"
+ GER_Bavarian_Wolfram_desc: ""
+
+ GER_Rhenish_Steel: "Acero renano"
+ GER_Rhenish_Steel_desc: ""
+
+ GER_Expand_Ruhr_Mining_Operations: "Expandir las operaciones de minería del Ruhr"
+ GER_Expand_Ruhr_Mining_Operations_desc: ""
+
+ GER_Saxon_Synthetic_Fuel_Plants: "Plantas de combustible sintético sajonas"
+ GER_Saxon_Synthetic_Fuel_Plants_desc: ""
+
+ GER_Land_Reform: "Reforma agraria"
+ GER_Land_Reform_desc: ""
+
+ GER_Break_up_the_Large_Estates: "Dividir los latifundios"
+ GER_Break_up_the_Large_Estates_desc: ""
+
+ GER_Expropriate_the_Princely_Estates: "Expropiar las propiedades principescas"
+ GER_Expropriate_the_Princely_Estates_desc: ""
+
+ GER_Peasants_Tied_to_their_Land: "Campesinos ligados a su tierra"
+ GER_Peasants_Tied_to_their_Land_desc: ""
+
+ GER_Workers_and_Peasants_revolution: "Revolución campesina y obrera"
+ GER_Workers_and_Peasants_revolution_desc: ""
+
+ GER_The_SA_is_and_Remains_Germanys_Destiny: "Las SA son y serán el destino de Alemania"
+ GER_The_SA_is_and_Remains_Germanys_Destiny_desc: ""
+
+ GER_Sideline_the_Party: "Marginar al partido"
+ GER_Sideline_the_Party_desc: ""
+
+ GER_The_SA_Staat: "El Estado SA"
+ GER_The_SA_Staat_desc: ""
+
+ GER_The_SA_Charges_you: "Las SA te imputan, te «juzgan» y te dan una paliza"
+ GER_The_SA_Charges_you_desc: ""
+
+ GER_Institutionalize_the_SA_as_the_Real_Army: "Institucionalizar a las SA como el verdadero Ejército"
+ GER_Institutionalize_the_SA_as_the_Real_Army_desc: ""
+
+ GER_Fate_of_the_Reichswehr: "¿Destino del Reichswehr?"
+ GER_Fate_of_the_Reichswehr_desc: ""
+
+ GER_Arouse_the_Working_Masses: "Despertar a las masas obreras"
+ GER_Arouse_the_Working_Masses_desc: ""
+
+ GER_Being_in_the_SA_its_a_good_life: "¡La vida en las SA es la vida mejor!"
+ GER_Being_in_the_SA_its_a_good_life_desc: ""
+
+ GER_Form_the_SA_Judgend: "Formar las Juventudes de las SA"
+ GER_Form_the_SA_Judgend_desc: ""
+
+ GER_Cult_of_Mannerbund: "Culto del Männerbund"
+ GER_Cult_of_Mannerbund_desc: ""
+
+ GER_SA_Cooperatives: "Cooperativas de las SA"
+ GER_SA_Cooperatives_desc: ""
+
+ GER_Decisive_and_Quick_Action_is_Needed: "Se necesitan medidas decisivas y rápidas"
+ GER_Decisive_and_Quick_Action_is_Needed_desc: ""
+
+ GER_March_on_the_Saar1: "Marchar sobre el Sarre"
+ GER_March_on_the_Saar1_desc: ""
+
+ GER_German_Question: "¿Cuestión alemana?"
+ GER_German_Question_desc: ""
+
+ GER_Central_Europe_must_Bend_Over_or_Die: "¡Centroeuropa debe doblegarse o morir!"
+ GER_Central_Europe_must_Bend_Over_or_Die_desc: ""
+
+ GER_Brothers_Against_Capitalism: "¿Hermanos contra el capitalismo?"
+ GER_Brothers_Against_Capitalism_desc: ""
+
+ GER_Push_to_the_West: "Empujar hacia el oeste"
+ GER_Push_to_the_West_desc: ""
+
+ GER_Peace_in_Greater_Germany: "Paz en la Gran Alemania"
+ GER_Peace_in_Greater_Germany_desc: ""
+ 
+ GER_The_Final_Struggle_2: "La lucha final"
+ GER_The_Final_Struggle_2_desc: "Götterdämmerung: el ocaso de los dioses y la muerte del mundo antiguo.\n\nNo hay paz, no hay honor, no hay piedad.\n\nVolaremos como las valquirias y lucharemos como el trueno, el relámpago y la muerte. El choque de nuestras armas sacudirá el suelo y hendirá el cielo. Lucharemos en los pantanos, en el barro y en las montañas, y cuando nuestras bayonetas ensangrentadas y nuestras balas estridentes hayan reducido al enemigo a la nada, el viejo mundo lo seguirá al frío vacío más allá de la memoria.\n\nY nacerá un nuevo mundo.\n\nLos caídos nutrirán a la hambrienta Tierra. El trigo crecerá desde el Rin hasta el Volga, y del cielo azul se elevarán columnas de humo blanco desde millones de hogares. Nacerán niños que darán sus primeros pasos en las herbáceas llanuras y en los verdes bosques.\n\nEl viejo mundo debe morir para que el nuevo mundo pueda surgir. La lucha final ha comenzado."
+ 
+#  GER_Advocate_for_Paligenesis: "Advocate for Paligenesis"
+#  GER_Advocate_for_Paligenesis_desc: "For decades, we were the strongest nation that the world has ever seen, with our economy growing to unimaginable levels, and with a military that can stand the test of time. However, this nation that we see ourselves is nothing more than a backwatered, failed state. Poverty runs rampant amongst our citizens, devouring them of their right to live. Corporate cartels abuse our workers, both foreign and local. They disregard human lives and let them work the harshest conditions, all the while profiting from their labor. No longer, shall this be the identity and destiny of the German people. We shall go on a Palingenesis, a rebirth, of the German nation. This rebirth shall be significant, as it will play a direct role in how the revolution should be done, so tread carefully."
+
+#  GER_Embrace_Ultranationalism: "Embrace Ultranationalism"
+#  GER_Embrace_Ultranationalism_desc: "At the heart of our struggle for a revitalized German nation is our population. They have suffered too much from the horrors of the Weltkrieg, and are now subservient and incapable of rising once more, as they have been indoctrinated by the West to hate their own birthplace, portraying us as monsters who disregard human lives for our own ambitions. No longer, shall the German people be seen as slaves, as we shall liberate them from their indoctrination and decadent propaganda. A new Germany shall arise from the ashes, one that is deeply nationalistic and a people who are willing to do whatever it takes to achieve global dominance for the Fatherland. Led by Gregor Strasser, he shall enlighten the German people and bring them to the destiny that they deserve."
+
+#  GER_Consolidate_Irrendentism: "Consolidate Irrendentism"
+#  GER_Consolidate_Irrendentism_desc: "The World War has brought nothing but defeat and suffering for the German people, especially as our prized territories are now in the hands of foreign imperialists, and our own region demilitarized due to their own influence. From the Rhineland to Danzig, it is clear we’re surrounded by our adversaries, who are in a perfect position to further inflict pain and suffering against our own people, in a world dominated by themselves. We may have tolerated them before, but no longer shall we allow them to continue. It is time we feed our people our Irredentist sentiment, fuel it to create a highly patriotic population who wants nothing more than revenge by the creators of the decadent Treaty of Versailles and their allies."
+
+#  GER_Radical_Pan_Germanism: "Radical Pan-Germanism"
+#  GER_Radical_Pan_Germanism_desc: "The Aryan Race is seen far and wide, not just in Europe, but everywhere in the world. From the urbanized cities of America to the rural states of Romania, Germans are seen everywhere, working hard and bringing prosperity to the country they reside in. That is the main problem. They are bringing prosperity to the country that THEY RESIDE, not the Fatherland. No wonder why our nation is a pariah of Europe, it is because our own citizens flee our nation, willingly used as slave labor to their host nations, from Britain and France to even North America, the land where they call, “The Home of the Free”. It is time we bring home all our German brothers and sisters, uniting them as one, collective nation, whose vision is to unite all Germans into one state, whether it be conquest or migration."
+
+#  GER_A_Socialist_Outlook: "A Socialist Outlook"
+#  GER_A_Socialist_Outlook_desc: "For decades, our nation has been at the forefront of the industrial revolution, ushering a new age of prosperity for the vast majority of the German people. However, emphasize on “majority”, as the laborers who work on our factories, who build our houses, who farm our lands, are all cast aside by our government and the rest of the society, with the bourgeoisie dominating all facets of life, while the proletariat is nothing more than expendable outcasts, willing slaves to the monarchs and the bourgeoisie. The Führer shared the same outlook, but was corrupted by absolute power, and was merely strengthening the cartels of industry, ensuring their grip on Germany. It is time that we revert this status-quo, and bring about a paradigm shift that the world has never seen: A true Socialist Paradise!"
+
+#  GER_A_Workers_Revolution: "A Worker's Revolution"
+#  GER_A_Workers_Revolution_desc: "Our nation has been a land ruled by feudal lords and monarchs, men and women who disregard the common man, the worker, for their own benefits. They exploit the common man, utilizing an ingrained cultural mechanism that merely enslaves and exploits us, while they leech off our labor and enjoy parties in their palaces. That was before, but today, we have are now at the forefront of a worker’s revolution, a revolution that will empower and enfranchise every single member of the proletariat, and become a prosperous Germany for all individuals, regardless of class."
+
+#  GER_Socialist_Culture: "Socialist Culture"
+#  GER_Socialist_Culture_desc: "Everywhere in our nation, you can see thousands of structures and architecture that bring envy and awe to the world. In fact, it has helped in giving economic prosperity to the masses, as these structures are heavily profitable, bringing tourists from around the world, amazed and inspired by the architecture located here. However, the structures, architectures, and even our society itself is built out of the capitalist system, more so a monarchic system. The structures in awe are merely remnants, relics of an old timeline that has brought misery and economic downturn to the masses. We must destroy these structures that merely stands as a symbol of the decadent society built on Capitalist and Monarchist beliefs, and build anew, one that will ensure that no one, no single individual, will be left out in our quest for prosperity. Along with this, we shall promote a new culture, one that will decry the Capitalists but will be lauded by Socialists of the world."
+
+#  GER_Collectivist_Policies: "Collectivist Policies"
+#  GER_Collectivist_Policies_desc: "Do you know the greatest fear of Capitalists? It is a united, worker’s population, that is hell bent on destroying everything they have worked upon, their exploitation of the masses, and their unimaginable wealth built by blood and bullets swept away, back into the pockets of the people who worked day and night in their factories. It is this very reason that the Capitalists preach individualism and self-identity, because they fear that if we unite as a collective mind, it will spell the end of their autocratic power. It is this very reason, that we must unite all the workers in our state as a one, single organism. This new organism, will tear down the foundations of the Capitalist system, and shall bring about a new age, an age of revolution and a paradise for the worker."
+
+#  GER_Workers_Solidarity: "Worker's Solidarity"
+#  GER_Workers_Solidarity_desc: "The ultimate enemies that we Socialists face as a nation are the Fascists and the Capitalists, all who dominate European affairs and are at every corner that we expand. To fight these decadent ideologies, we must be united as one, but that simply isn’t enough. We should unite with a foreign power, one who shares our values and are willing to cooperate with us, exporting revolution against Capitalism and Fascism throughout the world. No nation shares the same beliefs as our Eastern comrades, the Soviet Union. They too have long yearned for glory and world revolution, but have faced difficulty in doing so. If we were to invest in this relationship, we wouldn’t just gain a loyal ally, but a powerful one, an ally who can help us redraw the European landscape, and the world, forever."
+######################################################################
+## German Strasserist Decisions
+######################################################################
+ GER_Strasserist_foreign_policy_category: "Política exterior estraserista"
+ GER_Strasserist_support_volkisch_ideology: "Respaldar la ideología völkisch"
+ GER_Strasserist_support_volkisch_ideology_desc: ""
+ GER_Strasserist_support_holstein_germans: "Azuzar a los alemanes de Holstein"
+ GER_Strasserist_support_holstein_germans_desc: ""
+ GER_Strasserist_restore_order_to_denmark: "Restaurar el orden en Dinamarca"
+ GER_Strasserist_restore_order_to_denmark_desc: ""
+ GER_Strasserist_instigate_nordism_in_denmark: "Instigar el escandinavismo en Dinamarca"
+ GER_Strasserist_instigate_nordism_in_denmark_desc: ""
+ GER_Strasserist_support_sudeten_germans: "Apoyar a los alemanes de los Sudetes"
+ GER_Strasserist_support_sudeten_germans_desc: ""
+ GER_Strasserist_advocate_sudeten_independence: "Abogar por la independencia de los Sudetes"
+ GER_Strasserist_advocate_sudeten_independence_desc: ""
+ GER_Strasserist_cooperate_with_slovaks: "Cooperar con los eslovacos"
+ GER_Strasserist_cooperate_with_slovaks_desc: ""
+ GER_Strasserist_abolish_czechoslovakia: "¡Abolir Checoslovaquia!"
+ GER_Strasserist_abolish_czechoslovakia_desc: ""
+ GER_Strasserist_threaten_artificial_states: "Amenazar a los Estados artificiales"
+ GER_Strasserist_threaten_artificial_states_desc: ""
+ GER_Strasserist_denounce_silesian_referendum: "Denunciar el referéndum de Silesia"
+ GER_Strasserist_denounce_silesian_referendum_desc: ""
+ GER_Strasserist_silesia_or_war: "Silesia o guerra"
+ GER_Strasserist_silesia_or_war_desc: ""
+ GER_Strasserist_anti_soviet_rhetoric: "Retórica antisoviética"
+ GER_Strasserist_anti_soviet_rhetoric_desc: ""
+ GER_Strasserist_incite_ukrainian_nationalists: "Incitar a los nacionalistas ucranianos"
+ GER_Strasserist_incite_ukrainian_nationalists_desc: ""
+ GER_Strasserist_fall_dorpat: "Fall Dorpat"
+ GER_Strasserist_fall_dorpat_desc: ""
+ GER_Strasserist_promote_leftist_unity: "Fomentar la unidad izquierdista"
+ GER_Strasserist_promote_leftist_unity_desc: ""
+ GER_Strasserist_meet_with_molotov: "Reunirse con Mólotov"
+ GER_Strasserist_meet_with_molotov_desc: ""
+ GER_Strasserist_isolate_anti_communists: "Aislar a los anticomunistas"
+ GER_Strasserist_isolate_anti_communists_desc: ""
+ GER_Strasserist_formalize_non_aggression: "Formalizar la no agresión"
+ GER_Strasserist_formalize_non_aggression_desc: ""
+ GER_Strasserist_defensive_agreements: "Acuerdos defensivos"
+ GER_Strasserist_defensive_agreements_desc: ""
+ GER_Strasserist_military_cooperation: "Cooperación militar"
+ GER_Strasserist_military_cooperation_desc: ""
+######################################################################
+## German Strasserist Ideas
+######################################################################
+ GER_Radical_Pan_Germanism_idea: "Pangermanismo"
+ GER_Radical_Pan_Germanism_idea_desc: ""
+ GER_Ethnic_Nationalism_idea: "Identidad alemana"
+ GER_Ethnic_Nationalism_idea_desc: ""
+ GER_Collective_Values_idea: "Identidad alemana"
+ GER_Collective_Values_idea_desc: ""
+ GER_A_Workers_Revolution_idea: "Una verdadera revolución"
+ GER_A_Workers_Revolution_idea_desc: ""
+ GER_Socialist_Culture_idea: "Una verdadera revolución"
+ GER_Socialist_Culture_idea_desc: ""
+ GER_Abrupt_Nationalization_1: "Nacionalización abrupta"
+ GER_Abrupt_Nationalization_1_desc: ""
+ GER_Abrupt_Nationalization_2: "Nacionalización abrupta"
+ GER_Abrupt_Nationalization_2_desc: ""
+ GER_Abrupt_Nationalization_3: "Nacionalización abrupta"
+ GER_Abrupt_Nationalization_3_desc: ""
+ GER_Abrupt_Nationalization_4: "Nacionalización abrupta"
+ GER_Abrupt_Nationalization_4_desc: ""
+ GER_Dethrone_German_Elites_Mass_unemploymnet_idea: "Desempleo masivo"
+ GER_Dethrone_German_Elites_Mass_unemploymnet_idea_desc: ""
+ GER_Create_the_Gilde_System_idea: "Desempleo masivo"
+ GER_Create_the_Gilde_System_idea_desc: ""
+ GER_Convert_the_Arbeitsfront_idea: "Crisis laboral"
+ GER_Convert_the_Arbeitsfront_idea_desc: ""
+ GER_Construct_the_Reichgenossenschaft_idea: "Reichgenossenschaft"
+ GER_Construct_the_Reichgenossenschaft_idea_desc: ""
+ GER_Eliminate_Capitalist_Organizations_idea: "La Gran Depresión"
+ GER_Eliminate_Capitalist_Organizations_idea_desc: ""
+ GER_A_Social_Revolution_idea: "Economía estraserista"
+ GER_A_Social_Revolution_idea_desc: ""
+ GER_Kreigwohlfahrt_idea: "Kreigwohlfahrt"
+ GER_Kreigwohlfahrt_idea_desc: ""
+ GER_Formalize_Combat_Leagues_idea: "Ligas de combate locales"
+ GER_Formalize_Combat_Leagues_idea_desc: ""
+ GER_Institue_Energy_Austerity_idea: "Austeridad energética"
+ GER_Institue_Energy_Austerity_idea_desc: ""
+ GER_Strasserist_anti_soviet_policy: "Política antisoviética"
+ GER_Strasserist_anti_soviet_policy_desc: ""
+ GER_brown_tide_anarchy: "Marea parda: anarquía"
+ GER_brown_tide_controlled: "Marea parda: anarquía controlada"
+ GER_brown_tide_controlled2: "Marea parda: anarquía controlada"
+ GER_brown_tide_controlled22: "Marea parda: anarquía controlada"
+ GER_brown_tide_controlled31: "Marea parda: anarquía controlada"
+ GER_brown_tide_controlled32: "Marea parda: anarquía controlada"
+ GER_lousy_collectivization1: "Colectivización pésima"
+ GER_lousy_collectivization2: "Colectivización pésima"
+ GER_lousy_collectivization31: "Colectivización pésima"
+ GER_lousy_collectivization32: "Colectivización pésima"
+
+
+######################################################################
+## German Strasserist custom tooltip
+######################################################################
+
+
+ dire_consequences_economy: "§RLos rápidos cambios en nuestra economía podrían acarrear consecuencias nefastas.§!"

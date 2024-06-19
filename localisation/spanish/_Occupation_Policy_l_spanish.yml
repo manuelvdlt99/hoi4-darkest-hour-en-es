@@ -1,0 +1,62 @@
+﻿l_spanish:
+ Occupation_Full: "Ocupación total"
+
+
+ ### German Occupations
+ Occupation_GER_CZE: "Ocupación alemana de Bohemia"
+ Occupation_GER_CZE_desc: ""
+ Occupation_GER_CZE.1.t: "Ocupación alemana de Bohemia"
+ Occupation_GER_CZE.1.d: ""
+ Occupation_GER_CZE.1.A: "Protectorado de Bohemia y Moravia"
+
+ Occupation_GER_SLO: "Ocupación alemana de Eslovaquia"
+ Occupation_GER_SLO_desc: ""
+ Occupation_GER_SLO.1.t: "Ocupación alemana de Eslovaquia"
+ Occupation_GER_SLO.1.d: ""
+ Occupation_GER_SLO.1.A: "República Eslovaca"
+ Occupation_GER_SLO.1.B: "Protectorado de Eslovaquia" 
+ 
+ Occupation_GER_DEN: "Ocupación alemana de Dinamarca"
+ Occupation_GER_DEN_desc: ""
+ Occupation_GER_DEN.1.t: "Ocupación alemana de Dinamarca"
+ Occupation_GER_DEN.1.d: "El Ejército alemán llegó a Copenhague hace unos días. La invasión, que tuvo lugar al final de la noche, fue una de las más rápidas jamás realizadas. Los batallones de tanques alemanes, conocidos por sus sorprendentes tácticas, cruzaron el país a un ritmo vertiginoso, entrando en la capital tan sólo dos horas después del inicio de la invasión.\n\nTemiendo por sus vidas, el rey Cristián X y su familia huyeron al Reino Unido, seguidos de algunos ministros fieles, uniéndose a la cada vez más numerosa colección de familias reales en el exilio de Churchill.\n\nA pesar del fracaso en la captura del Rey, las tropas alemanas controlan ahora la totalidad de Dinamarca y, como el Führer aún no se ha pronunciado a favor de instituir un ""«Comisariado Imperial de Dinamarca», la emergencia de muchos colaboradores en la capital debería ayudar a las fuerzas de ocupación.\n\nEn particular, el político Erik Scavenius se ha ofrecido a trabajar con una delegación alemana para resolver los términos de la capitulación de Dinamarca. Reconociendo esta pronta oferta, el ministro de Asuntos Exteriores alemán ha enviado al joven Werner Best para que asuma la dirección política de la crisis en nombre del Reichstag."
+ Occupation_GER_DEN.1.A: "Ésto debería bastar... por ahora."
+
+ Occupation_GER_NOR: "Ocupación alemana de Noruega"
+ Occupation_GER_NOR_desc: ""
+ Occupation_GER_NOR.1.t: "Ocupación alemana de Noruega"
+ Occupation_GER_NOR.1.d: "Tras la reciente invasión de Noruega y la rendición de sus ciudades clave, sobre todo Oslo y Bergen, el rey Haakon VII se marchó de la nación, acompañado de su familia y una porción de su Gobierno, en un intento por unirse a los otros soberanos exiliados en Londres.\n\nEl Ejército noruego está completamente desorganizado desde que invadimos el país por sus riquezas y su valor estratégico. Aunque ésto es excelente, aún quedan algunas unidades noruegas que deben ser eliminadas.\n\nA pesar de que el país no está completamente bajo control alemán, el Führer ordenó a las fuerzas de ocupación que establecieran aquí un nuevo «dominio»: el Comisariado Imperial de Noruega. La administración, encabezada por el colaboracionista Vidkun Quisling, no tardó en cooperar con nosotros, proporcionando armas y cautivos a los soldados de la Wehrmacht.\n\nPor lo pronto, los Aliados no han respondido aún al golpe de Quisling o al anuncio del comisariado imperial, pero es casi inevitable que le declaren la guerra a la nueva administración lo antes posible para defender al Gobierno noruego exiliado y a sus partidarios."
+ Occupation_GER_NOR.1.A: "¿Quién ganará al final: el Rey o el ministro presidente?"
+ Occupation_GER_NOR.1.B: "¡Todas las tierras noruegas pertenecerán al Reich!"
+
+ Occupation_GER_SWE: "Ocupación alemana de Suecia"
+ Occupation_GER_SWE_desc: ""
+ Occupation_GER_SWE.1.t: "Ocupación alemana de Suecia"
+ Occupation_GER_SWE.1.d: "Tras la próspera invasión de Suecia, ha llegado el momento de establecer un gobierno militar para controlar adecuadamente a la población local y mantener la región bajo el control del Reich. Suecia es uno de los pocos países que ha mantenido una política estricta de neutralidad armada. Sin embargo, siempre han sabido cuál era su lugar y, en su mayor parte, han cooperado con nosotros en el pasado. Comprendieron que la neutralidad y la cooperación con nosotros eran esenciales para sobrevivir porque éramos mucho más poderosos. Ya habíamos doblegado su neutralidad, y ahora por fin la hemos roto.\n\nAhora tenemos acceso directo a todos sus recursos vitales, sobre todo el hierro sueco. Por consiguiente, se ha decidido que sería factible administrar estas regiones a través de un único gobierno militar, dirigido por Hans Thomsen. Thomsen ha sido un sirviente devoto y diplomático del Reich durante décadas. Se hizo cargo de la delegación alemana en Estocolmo, Suecia en sustitución de Víctor de Wied, hermano de Guillermo, príncipe de Albania, y permaneció allí hasta hoy.\n\nÉsto nos ayudará a gestionar mejor la economía de la región y a acceder a sus recursos. Según nuestras fuentes, es poco probable que los suecos luchen porque carecen de una red de resistencia organizada. En cualquier caso, la administración militar debe barrer cualquier indicio de incumplimiento."
+ Occupation_GER_SWE.1.A: "¡Estos recursos impulsarán al Reich!"
+ Occupation_GER_SWE.1.B: "¡Toda Suecia pertenecerá al Reich!"
+
+ Occupation_GER_HOL: "Ocupación alemana de los Países Bajos"
+ Occupation_GER_HOL_desc: ""
+ Occupation_GER_HOL.1.t: "Ocupación alemana de los Países Bajos"
+ Occupation_GER_HOL.1.d: "A medida que el Reich se expande, se hace necesario formar gobiernos civiles locales en los territorios conquistados para garantizar la paz y la estabilidad. Una de estas administraciones es el Comisariado Imperial de los Países Bajos, el gobierno civil de los territorios neerlandeses ocupados.\n\nDesde hace mucho tiempo se considera que los neerlandeses están estrechamente emparentados con nosotros. Su cultura y su historia están íntimamente ligadas a las del Reich, y muchas de sus costumbres tienen origen alemán. En consecuencia, se ha decidido tratar a los neerlandeses con dignidad y fraternidad.\n\nLa absorción directa de estas regiones en el Reich, sin embargo, será sumamente difícil en estos tiempos de guerra. Aunque ignoremos la oposición neerlandesa, los gastos de la integración serían mucho más de lo que nos podemos permitir. Como resultado, en lugar de imponer una dura dictadura militar destinada a aplastar a la oposición, se tomó la decisión de aplacar al pueblo neerlandés y camelarlo para el pensamiento nacionalsocialista mediante una gestión pacífica.\n\nEste gobierno civil está por hacerse con el control de la región, y es probable que su presencia impulse la cooperación neerlandesa con nuestro mandato. Por encima de todo, se espera que prepare a los neerlandeses para su absorción directa en el Reich y que allane el camino para la germanización de la región."
+ Occupation_GER_HOL.1.A: "Con ésto bastará por ahora."
+ Occupation_GER_HOL.1.B: "¡Todas las tierras neerlandesas pertenecerán al Reich!"
+ 
+ Occupation_GER_BEL: "Ocupación alemana de Bélgica"
+ Occupation_GER_BEL_desc: ""
+ Occupation_GER_BEL.1.t: "Ocupación alemana de Bélgica"
+ Occupation_GER_BEL.1.d: "Tras la invasión de Bélgica, ha llegado el momento de establecer un gobierno militar para controlar adecuadamente a la población local y mantener la región bajo el control del Reich.\n\nBélgica tiene una larga historia de animosidad hacia nosotros. Su insensata estrategia de buscar la neutralidad total los ha llevado a entrar en conflicto directo con nosotros, sobre todo durante la Primera Guerra Mundial. Al final de la guerra, incluso osaron tomar el territorio alemán de Eupen-Malmedy. Por supuesto, ya hemos recuperado esta región bajo nuestro control directo.\n\nLos belgas se parecen más a los franceses del norte que a nosotros. Por consiguiente, se ha decidido que sería práctico administrar estas regiones a través de un único gobierno militar. Ésto nos ayudará a gestionar mejor la economía de la región y también a reducir drásticamente los gastos de mano de obra.\n\nEs poco probable que los belgas opongan resistencia. No cuentan con una red de resistencia bien organizada, según nuestras fuentes. En cualquier caso, se espera que la administración militar barra cualquier indicio de incumplimiento."
+ Occupation_GER_BEL.1.A: "Esto debería bastar con los belgas por ahora."
+ Occupation_GER_BEL.1.B: "¡Todas las tierras belgas pertenecerán al Reich!"
+
+ Occupation_GER_ITA: "Ocupación alemana de Italia"
+ Occupation_GER_ITA_desc: ""
+ Occupation_GER_ITA.1.t: "Ocupación alemana de Italia"
+ Occupation_GER_ITA.1.d.A: "Tras la próspera ocupación de Italia, ha llegado la hora de isntaurar un Estado colaboracionista dependiente de Alemania y dirigido por el político italiano y miembro del Partido Nacional Fascista Roberto Farinacci. Antisemita declarado, representa a la facción sindicalista más radical del partido, que consideraba a Mussolini un líder excesivamente liberal. Farinacci es conocido entre los nacionalsocialistas por sus opiniones anticlericales, xenófobas y antisemitas. Farinacci llegó a ser el segundo hombre más poderoso del país en 1925, cuando Mussolini lo nombró secretario del partido, antes de ser destituido y desaparecer de la escena pública.\n\nAsimismo, ahora debemos decidir qué territorios ocuparemos directamente e integraremos en el Reich.\n\nLa primera opción sería simplemente tomar el Tirol del Sur, un territorio casi totalmente germanoparlante antes controlado por Austria-Hungría y ocupado por Italia al final de la Gran Guerra, en noviembre de 1918. Desde entonces, los italianos han reprimido con dureza a los alemanes y nuestra cultura, con la prohibición de la lengua alemana en los servicios públicos, la prohibición oficial de la enseñanza en alemán y la censura de periódicos alemanes.\n\nLa segunda opción es similar a la primera, pero también incluye Trento, aparte del Tirol del Sur. Trento y el Tirol del Sur tuvieron un destino parecido, dado que fueron parte de Austria-Hungría hasta su anexión por Italia en 1919."
+ Occupation_GER_ITA.1.d.B: "Tras la próspera ocupación de Italia, ha llegado la hora de isntaurar un Estado colaboracionista dependiente de Alemania y dirigido por el político italiano y miembro del Partido Nacional Fascista Roberto Farinacci. Antisemita declarado, representa a la facción sindicalista más radical del partido, que consideraba a Mussolini un líder excesivamente liberal. Farinacci es conocido entre los nacionalsocialistas por sus opiniones anticlericales, xenófobas y antisemitas. Farinacci llegó a ser el segundo hombre más poderoso del país en 1925, cuando Mussolini lo nombró secretario del partido, antes de ser destituido y desaparecer de la escena pública.\n\nAsimismo, ahora debemos decidir qué territorios ocuparemos directamente e integraremos en el Reich.\n\nLa primera opción sería simplemente tomar el Tirol del Sur, un territorio casi totalmente germanoparlante antes controlado por Austria-Hungría y ocupado por Italia al final de la Gran Guerra, en noviembre de 1918. Desde entonces, los italianos han reprimido con dureza a los alemanes y nuestra cultura, con la prohibición de la lengua alemana en los servicios públicos, la prohibición oficial de la enseñanza en alemán y la censura de periódicos alemanes.\n\nLa segunda opción es similar a la primera, pero también incluye Trento, aparte del Tirol del Sur. Trento y el Tirol del Sur tuvieron un destino parecido, dado que fueron parte de Austria-Hungría hasta su anexión por Italia en 1919.\n\nSi no, podríamos ocupar la península de Istria, otro antiguo territorio de Austria-Hungría anexionado por Italia, además del Tirol del Sur y Trento."
+ Occupation_GER_ITA.1.A: "No seamos demasiado duros. Ocupemos sólo el Tirol del Sur."
+ Occupation_GER_ITA.1.B: "¡Liberaremos a nuestros hermanos alemanes en el Tirol del Sur y Trento!"
+ Occupation_GER_ITA.1.C: "Nuestro botín incluirá la península de Istria."
+ Occupation_GER_ITA.1.D: "¡Todo le pertenece al Reich!"
+ 

@@ -1,0 +1,3677 @@
+﻿l_spanish:
+ STATE_1: "Córcega"
+ STATE_1_italian: "Córcega" #Italian
+ STATE_1_german: "Córcega"
+
+ STATE_2: "Lacio"
+ STATE_2_german: "Lacio" #German
+
+ STATE_3: "Romandía"
+ STATE_3_german: "Welschland" #German
+ STATE_3_exonym: "Romandía" #Exonym
+
+ STATE_4: "Baja Austria"
+ STATE_4_exonym: "Baja Austria" #Exonym
+
+ STATE_5: "Prusia Oriental"
+ STATE_5_russian_2: "Kaliningrado" #Soviet Russian
+ STATE_5_polish: "Prusia Oriental" #Polish
+
+ STATE_6: "Bruselas"
+ STATE_6_german: "Bruselas" #German
+
+ STATE_7: "Holanda"
+
+ STATE_8: "Luxemburgo"
+ STATE_8_german: "Luxemburgo" #German
+ STATE_8_french_exonym: "Luxemburgo" #French/Exonym
+
+ STATE_9: "Čechy"
+ STATE_9_german: "Bohemia" #German
+
+ STATE_10: "Varsovia"
+ STATE_10_german: "Varsovia" #German
+ STATE_10_exonym: "Varsovia" #Exonym
+
+ STATE_11: "Alta Lituania"
+ STATE_11_german: "Kaunas"
+
+ STATE_12: "Riga"
+ STATE_12_german: "Livonia"
+
+ STATE_13: "Harju"
+
+ STATE_14: "Bretaña"
+ STATE_14_breton: "Bretaña" #Breton
+ STATE_14_exonym: "Bretaña" #Exonym
+
+ STATE_15: "Baja Normandía"
+ STATE_15_exonym: "Baja Normandía" #Exonym
+
+ STATE_16: "Isla de Francia"
+
+ STATE_17: "Franco Condado"
+ STATE_17_german: "Franco Condado" #German
+
+ STATE_18: "Champaña"
+
+ STATE_19: "Aquitania"
+
+ STATE_20: "Ródano"
+
+ STATE_21: "Provenza"
+ STATE_21_italian: "Provenza" #Italian
+
+ STATE_22: "Languedoc"
+ STATE_22_german: "Languedoc"
+
+ STATE_23: "Poitou-Charentes"
+
+ STATE_24: "Centro"
+
+ STATE_25: "Limosín"
+
+ STATE_26: "Auvernia"
+
+ STATE_27: "Borgoña"
+
+ STATE_28: "Alsacia"
+ STATE_28_german: "Alsacia" #German
+
+ STATE_29: "Picardía"
+ STATE_29_exonym: "Picardía" #Exonym
+
+ STATE_30: "Países del Loira"
+
+ STATE_31: "Mediodía-Pirineos"
+
+ STATE_32: "Alpes"
+ STATE_32_italian: "Alpes" #Italian
+
+ STATE_33: "Centro-Sur"
+
+ STATE_34: "Namur"
+
+ STATE_35: "Brabante Septentrional"
+ STATE_35_german: "Brabante Septentrional" #German
+ STATE_35_exonym: "Brabante Septentrional" #Exonym
+
+ STATE_36: "Frisia"
+ STATE_36_exonym: "Frisia" #Exonym
+
+ STATE_37: "Selandia"
+ STATE_37_german: "Selandia" #German
+ STATE_37_exonym: "Selandia" #Exonym
+
+ STATE_38: "Västernorrland"
+ STATE_38_exonym: "Västernorrland" #Exonym
+
+ STATE_39: "Alto Adigio"
+ STATE_39_german: "Tirol del Sur" #German
+
+ STATE_40: "Barnaúl"
+
+ STATE_41: "Madrid"
+
+ STATE_42: "Renania del Sur"
+ STATE_42_exonym: "Renania del Sur" #Exonym
+
+ STATE_43: "Hungría Central"
+
+ STATE_44: "Albania"
+ STATE_44_exonym: "Albania"
+
+ STATE_45: "Bačka"
+ STATE_45_hungarian: "Bácska" #Hungarian
+
+ STATE_46: "Muntenia"
+
+ STATE_47: "Ática"
+
+ STATE_48: "Sofía"
+
+ STATE_49: "Ankara"
+
+ STATE_50: "Wurtemberg del Norte"
+
+ STATE_51: "Renania del Norte"
+
+ STATE_52: "Alta Baviera"
+
+ STATE_53: "Baja Baviera"
+
+ STATE_54: "Franconia"
+
+ STATE_55: "Hesse"
+
+ STATE_56: "Weser-Ems"
+
+ STATE_57: "Westfalia"
+
+ STATE_58: "Holstein"
+
+ STATE_59: "Hannover"
+
+ STATE_60: "Turingia"
+
+ STATE_61: "Mecklemburgo"
+
+ STATE_62: "Pomerania Occidental"
+
+ STATE_63: "Pomerania Oriental"
+ STATE_63_polish: "Pomerania Occidental"
+
+ STATE_64: "Brandeburgo"
+
+ STATE_65: "Sajonia"
+
+ STATE_66: "Baja Silesia"
+ STATE_66_polish: "Baja Silesia"
+
+ STATE_67: "Alta Silesia"
+ STATE_67_polish: "Alta Silesia"
+
+ STATE_68: "Nueva Marca"
+ STATE_68_polish: "Zielona Góra"
+
+ STATE_69: "Sudetes"
+ STATE_69_german_exonym: "Sudetes" #German/Exonym
+
+ STATE_70: "Bratislava"
+ STATE_70_german: "Presburgo" #german
+ STATE_70_hungarian: "Pozsony" #Hungarian
+
+ STATE_71: "Prešov"
+ STATE_71_hungarian: "Eperjes" #Hungarian
+
+ STATE_72: "Silesia de Těšín"
+ STATE_72_polish: "Zaolzie" #Polish
+ STATE_72_german: "Olsagebiet" #German
+
+ STATE_73: "Rutenia subcarpática"
+ STATE_73_hungarian: "Transcarpatia" #Hungarian
+
+ STATE_74: "Sudetes del Norte"
+ STATE_74_german: "Sudetes del Este" #German
+ STATE_74_exonym: "Sudetes del Sur" #Exonym
+
+ STATE_75: "Moravia"
+ STATE_75_german: "Moravia" #German
+
+ STATE_76: "Transilvania del Norte"
+ STATE_76_hungarian: "Transilvania del Norte" #Hungarian
+
+ STATE_77: "Dobruja Meridional"
+ STATE_77_bulgarian: "Dobruja Meridional" #Bulgarian
+
+ STATE_78: "Chisináu"
+ STATE_78_russian: "Chisináu"
+
+ STATE_79: "Moldavia"
+
+ STATE_80: "Bucovina del Norte"
+ STATE_80_russian: "Bucovina del Norte"
+
+ STATE_81: "Oltenia"
+
+ STATE_82: "Banato"
+ STATE_82_hungarian: "Banato" #Hungarian
+
+ STATE_83: "Crișana"
+ STATE_83_hungarian: "Körösvidék" #Hungarian
+
+ STATE_84: "Transilvania"
+ STATE_84_hungarian: "Erdély" #Hungarian
+
+ STATE_85: "Dánzig"
+ STATE_85_polish: "Gdansk" #Polish
+
+ STATE_86: "Poznan"
+ STATE_86_german: "Posnania" #German
+
+ STATE_87: "Lodz"
+ STATE_87_german: "Lodz" #German
+ STATE_87_german_2: "Gueto de Lodz" #Nazi German
+
+ STATE_88: "Cracovia"
+ STATE_88_german: "Cracovia" #German
+
+ STATE_89: "Stanisławów"
+ STATE_89_german: "Stanislau"
+ STATE_89_russian: "Stanislavov"
+
+ STATE_90: "Kielce"
+ STATE_90_german: "Kielce" #German
+
+ STATE_91: "Leópolis"
+ STATE_91_german: "Leópolis" #German
+ STATE_91_russian: "Leópolis"
+
+ STATE_92: "Lublin"
+
+ STATE_93: "Volinia"
+ STATE_93_russian: "Volinia"
+
+ STATE_94: "Polesia"
+
+ STATE_95: "Nowogrodek"
+ STATE_95_russian: "Novogrúdok"
+
+ STATE_96: "Wilejka"
+ STATE_96_russian: "Vileika"
+
+ STATE_97: "Białystok"
+ STATE_97_russian: "Bielostok"
+
+ STATE_98: "Plock"
+ STATE_98_german: "Prusia del Sudeste" #German
+
+ STATE_99: "Jutlandia"
+ STATE_99_german: "Jutlandia" #German
+ STATE_99_exonym: "Jutlandia" #Exonym
+
+ STATE_100: "Islandia"
+
+ STATE_101: "Godthåb"
+ STATE_101_greenlandic: "Nuuk" #Greenlandic
+
+ STATE_102: "Baja Estiria"
+ STATE_102_german: "Baja Estiria" #German
+
+ STATE_103: "Dalmacia"
+ STATE_103_italian: "Dalmacia" #Italian
+
+ STATE_104: "Bosnia"
+
+ STATE_105: "Montenegro"
+
+ STATE_106: "Skopie"
+
+ STATE_107: "Belgrado"
+ STATE_107_exonym: "Belgrado" #Exonym
+
+ STATE_108: "Nis"
+
+ STATE_109: "Croacia"
+ STATE_109_hungarian: "Croacia" #Hungarian
+
+ STATE_110: "Viken"
+
+ STATE_111: "Uusimaa"
+
+ STATE_112: "Lisboa"
+
+ STATE_113: "Leinster"
+
+ STATE_114: "Cerdeña"
+ STATE_114_exonym: "Cerdeña" #Exonym
+
+ STATE_115: "Sicilia"
+ STATE_115_exonym: "Sicilia" #Exonym
+
+ STATE_116: "Malta"
+
+ STATE_117: "Campania"
+
+ STATE_118: "Gibraltar"
+
+ STATE_119: "Irlanda del Norte"
+
+ STATE_120: "Tierras Altas de Escocia"
+
+ STATE_121: "Tierras Bajas de Escocia"
+
+ STATE_122: "Gales"
+
+ STATE_123: "Suroeste de Inglaterra"
+
+ STATE_124: "Gotland"
+
+ STATE_125: "Este de Inglaterra"
+
+ STATE_126: "Área metropolitana de Londres"
+
+ STATE_127: "Sureste de Inglaterra"
+
+ STATE_128: "Tierras Medias Occidentales"
+
+ STATE_129: "Tierras Medias Orientales"
+
+ STATE_130: "Yorkshire y Humber"
+
+ STATE_131: "Noreste de Inglaterra"
+
+ STATE_132: "Noroeste de Inglaterra"
+
+ STATE_133: "Islas Hébridas"
+
+ STATE_134: "Connacht"
+
+ STATE_135: "Münster"
+
+ STATE_136: "Aberdeenshire"
+
+ STATE_137: "Crimea"
+ STATE_137_exonym: "Crimea" #Exonym
+ STATE_137_german: "Crimea"
+
+ STATE_138: "Escania"
+
+ STATE_139: "Småland"
+
+ STATE_140: "Vestrogotia"
+
+ STATE_141: "Svealand"
+
+ STATE_142: "Vestlandet"
+
+ STATE_143: "Trøndelag"
+
+ STATE_144: "Nordland"
+
+ STATE_145: "Ahvenanmaa"
+ STATE_145_swedish_exonym: "Åland" #Swedish/Exonym
+
+ STATE_146: "Carelia del Ládoga"
+ STATE_146_russian: "Carelia del Ládoga"
+
+ STATE_147: "Salla"
+
+ STATE_148: "Laponia finlandesa"
+
+ STATE_149: "Ostrobotnia"
+
+ STATE_150: "Savonia"
+
+ STATE_151: "Berna"
+
+ STATE_152: "Alta Austria"
+ STATE_152_exonym: "Alta Austria" #Exonym
+
+ STATE_153: "Tirol del Norte"
+ STATE_153_exonym: "Tirol del Norte" #Exonym
+
+ STATE_154: "Tiszántúl"
+ STATE_154_exonym: "Transtisza" #Exonym
+
+ STATE_155: "Transdanubio Central"
+ STATE_155_exonym: "Transdanubio Central" #Exonym
+
+ STATE_156: "Calabria"
+
+ STATE_157: "Abruzos"
+
+ STATE_158: "Piamonte"
+ STATE_158_exonym: "Piamonte" #Exonym
+
+ STATE_159: "Milán"
+ STATE_159_exonym: "Milán" #Exonym
+
+ STATE_160: "Véneto"
+ STATE_160_exonym: "Venetia" #Exonym
+
+ STATE_161: "Romaña"
+
+ STATE_162: "Toscana"
+ STATE_162_exonym: "Toscana" #Exonym
+
+ STATE_163: "Zara"
+ STATE_163_croatian: "Zadar"
+
+ STATE_164: "Dodecaneso"
+ STATE_164_greek: "Dodecaneso" #Greek
+
+ STATE_165: "Cataluña"
+ STATE_165_catalan: "Cataluña" #Catalan
+
+ STATE_166: "Aragón"
+
+ STATE_167: "Valencia"
+
+ STATE_168: "Murcia"
+
+ STATE_169: "Andalucía"
+
+ STATE_170: "Extremadura"
+
+ STATE_171: "Galicia"
+
+ STATE_172: "Navarra"
+ STATE_172_basque: "Navarra" #Basque
+
+ STATE_173: "Granada"
+
+ STATE_174: "León"
+
+ STATE_175: "La Mancha"
+
+ STATE_176: "Castilla la Vieja"
+
+ STATE_177: "Islas Baleares"
+ STATE_177_exonym: "Islas Baleares" #Exonym
+
+ STATE_178: "Islas Canarias"
+ STATE_178_exonym: "Islas Canarias" #Exonym
+
+ STATE_179: "Alentejo"
+
+ STATE_180: "Oporto"
+
+ STATE_181: "Beira"
+
+ STATE_182: "Creta"
+ STATE_182_exonym: "Creta" #Exonym
+
+ STATE_183: "Sur de Chipre"
+
+ STATE_184: "Tracia Occidental"
+ STATE_184_bulgarian: "Tracia Occidental"
+
+ STATE_185: "Epiro"
+ STATE_185_italian: "Cameria"
+
+ STATE_186: "Peloponeso"
+
+ STATE_187: "Egeo Septentrional"
+
+ STATE_188: "Klaipėda"
+ STATE_188_german: "Territorio de Memel" #German
+
+ STATE_189: "Samogitia"
+
+ STATE_190: "Curlandia"
+
+ STATE_191: "Tartu"
+
+ STATE_192: "Odesa"
+ STATE_192_german: "Gotenschau"
+
+ STATE_193: "Chernígov"
+
+ STATE_194: "Mazyr"
+
+ STATE_195: "Leningrado"
+ STATE_195_2: "San Petersburgo" #Alternate name - Desovietization
+ STATE_195_german: "Wolfsburgo"
+
+ STATE_196: "Jersón"
+
+ STATE_197: "Nicolaiev"
+
+ STATE_198: "Vínnitsa"
+
+ STATE_199: "Kamenets-Podolski"
+
+ STATE_200: "Zaporiyia"
+
+ STATE_201: "Yitomir"
+
+ STATE_202: "Kiev"
+ STATE_202_german: "Kiroffo"
+
+ STATE_203: "Cherkasi"
+
+ STATE_204: "Babruisk"
+
+ STATE_205: "Kaluga"
+
+ STATE_206: "Minsk"
+
+ STATE_207: "Vítebsk"
+
+ STATE_208: "Ingria"
+
+ STATE_209: "Pskov"
+
+ STATE_210: "Nével"
+
+ STATE_211: "Burgas"
+
+ STATE_212: "Plovdiv"
+
+ STATE_213: "Múrmansk"
+ STATE_213_german: "Murmau"
+ STATE_213_finnish: "Muurmanni"
+
+ STATE_214: "Arcángel"
+ STATE_214_german: "Arcángel"
+
+ STATE_215: "Kemi"
+ STATE_215_finnish: "Kemi"
+
+ STATE_216: "Petrozavodsk"
+ STATE_216_finnish: "Äänislinna"
+
+ STATE_217: "Stalingrado"
+ STATE_217_2: "Volgogrado" #Alternate name - Destalinization
+ STATE_217_german: "Wolfstadt"
+
+ STATE_218: "Rostov"
+ STATE_218_german: "Rostov"
+
+ STATE_219: "Moscú"
+ STATE_219_exonym: "Moscú" #Exonym
+ STATE_219_german: "Moscú"
+
+ STATE_220: "Kursk"
+ STATE_220_german: "Zitadellenfurt"
+
+ STATE_221: "Járkov"
+ STATE_221_german: "Karkau"
+
+ STATE_222: "Oriol"
+
+ STATE_223: "Tula"
+ STATE_223_german: "Thulestadt"
+
+ STATE_224: "Briansk"
+
+ STATE_225: "Sumi"
+
+ STATE_226: "Dnipropetrovsk"
+ STATE_226_german: "Katerinoslau"
+
+ STATE_227: "Stálino"
+ STATE_227_2: "Donetsk" #Alternate name - Destalinization
+ STATE_227_german: "Neukoblenz"
+
+ STATE_228: "Voroshilovgrado"
+
+ STATE_229: "Bakú"
+
+ STATE_230: "Ereván"
+
+ STATE_231: "Tiflis"
+
+ STATE_232: "Chechenia"
+
+ STATE_233: "Osetia del Norte"
+
+ STATE_234: "Krasnodar"
+
+ STATE_235: "Stávropol"
+
+ STATE_236: "Astracán"
+ STATE_236_german: "Astracán"
+
+ STATE_237: "Kalmukia"
+
+ STATE_238: "Volgodonsk"
+
+ STATE_239: "Sarátov"
+
+ STATE_240: "Bélgorod"
+
+ STATE_241: "Gómel"
+ STATE_241_german: "Gómel"
+
+ STATE_242: "Smolensk"
+ STATE_242_german: "Smolenau"
+
+ STATE_243: "Róslavl"
+
+ STATE_244: "Borovichí"
+
+ STATE_245: "Millerovo"
+
+ STATE_246: "Rzhev"
+
+ STATE_247: "Kalinin"
+ STATE_247_german: "Königstein"
+
+ STATE_248: "Yaroslavl"
+
+ STATE_249: "Kazán"
+ STATE_249_german: "Kosakenstadt"
+
+ STATE_250: "Uliánovsk"
+
+ STATE_251: "Kúibyshev"
+ STATE_251_2: "Samara" #Alternate name - Desovietization
+
+ STATE_252: "Gorki"
+
+ STATE_253: "Ivánovo"
+
+ STATE_254: "Riazán"
+
+ STATE_255: "Penza"
+
+ STATE_256: "Chuváshiya"
+
+ STATE_257: "Tambov"
+
+ STATE_258: "Lípetsk"
+
+ STATE_259: "Poltava"
+
+ STATE_260: "Voronezh"
+
+ STATE_261: "Ohio"
+
+ STATE_262: "Nenetsia"
+
+ STATE_263: "Nóvgorod"
+ STATE_263_german: "Holmgard"
+
+ STATE_264: "Tijvín"
+
+ STATE_265: "Mijaílovka"
+
+ STATE_266: "Teherán"
+
+ STATE_267: "Kabul"
+
+ STATE_268: "Yibuti"
+
+ STATE_269: "Somalilandia"
+
+ STATE_270: "Islas Pitcairn"
+
+ STATE_271: "Shewa"
+
+ STATE_272: "Dakar"
+
+ STATE_273: "Fezán"
+
+ STATE_274: "Acra"
+
+ STATE_275: "Transvaal"
+
+ STATE_276: "Sur de Ontario"
+
+ STATE_277: "México"
+
+ STATE_278: "Buenos Aires"
+
+ STATE_279: "Santiago"
+
+ STATE_280: "Mato Grosso"
+
+ STATE_281: "Maldivas"
+
+ STATE_282: "Kantō"
+
+ STATE_283: "Lanchow"
+
+ STATE_284: "Isla Norte"
+
+ STATE_285: "Nueva Gales del Sur"
+
+ STATE_286: "Saigón"
+
+ STATE_287: "Taklamakán"
+
+ STATE_288: "Rangún"
+
+ STATE_289: "Tailandia Central"
+
+ STATE_290: "Rif"
+
+ STATE_291: "Bagdad"
+
+ STATE_292: "Riad"
+
+ STATE_293: "Saná"
+
+ STATE_294: "Mascate"
+
+ STATE_295: "Leopoldville"
+
+ STATE_296: "Guinea-Bisáu"
+
+ STATE_297: "Fernando Po"
+
+ STATE_298: "Monrovia"
+
+ STATE_299: "Islas Malvinas"
+ STATE_299_spanish: "Islas Malvinas" #Spanish
+ STATE_299_french: "Islas Malvinas" #French
+
+ STATE_300: "Montevideo"
+
+ STATE_301: "Paraguay"
+
+ STATE_302: "La Paz"
+
+ STATE_303: "Lima"
+
+ STATE_304: "Panamá"
+
+ STATE_305: "Ecuador"
+
+ STATE_306: "Cundinamarca"
+
+ STATE_307: "Caracas"
+
+ STATE_308: "Dominica"
+
+ STATE_309: "Surinam"
+
+ STATE_310: "Cayena"
+
+ STATE_311: "Belice"
+
+ STATE_312: "Tegucigalpa"
+
+ STATE_313: "Guatemala"
+
+ STATE_314: "El Salvador"
+
+ STATE_315: "La Habana"
+
+ STATE_316: "Costa Rica"
+
+ STATE_317: "Managua"
+
+ STATE_318: "Haití"
+
+ STATE_319: "Santo Domingo"
+
+ STATE_320: "Puducherry"
+
+ STATE_321: "Goa"
+
+ STATE_322: "Changtang"
+
+ STATE_323: "Katmandú"
+
+ STATE_324: "Punakha"
+
+ STATE_325: "Yunnan"
+
+ STATE_326: "Hong Kong"
+
+ STATE_327: "Sur de Luzón"
+
+ STATE_328: "Kirin"
+
+ STATE_329: "Tuvá"
+
+ STATE_330: "Ulán Bator"
+
+ STATE_331: "Terranova"
+
+ STATE_332: "Labrador"
+
+ STATE_333: "Jesselton"
+
+ STATE_334: "Borneo Oriental"
+ STATE_334_indonesia: "Borneo Oriental"
+ STATE_334_exonym: "Borneo Oriental" #Exonym
+
+ STATE_335: "Java Occidental"
+ STATE_335_indonesian: "Java Occidental" #Indonesian
+ STATE_335_exonym: "Java Occidental" #Exonym
+
+ STATE_336: "Singapur"
+
+ STATE_337: "Islas Feroe"
+ STATE_337_faroese: "Islas Feroe" #Faroese
+ STATE_337_exonym: "Islas Feroe" #Exonym
+
+ STATE_338: "Isla de Man"
+
+ STATE_339: "Esmirna"
+
+ STATE_340: "Bursa"
+
+ STATE_341: "Estambul"
+
+ STATE_342: "Antalya"
+
+ STATE_343: "Eskisehir"
+
+ STATE_344: "Adana"
+
+ STATE_345: "Mersín"
+
+ STATE_346: "Iconio"
+
+ STATE_347: "Kocaeli"
+
+ STATE_348: "Kayseri"
+
+ STATE_349: "Sivas"
+
+ STATE_350: "Gaziantep"
+
+ STATE_351: "Vólogda"
+
+ STATE_352: "Van"
+
+ STATE_353: "Erzurum"
+
+ STATE_354: "Trebisonda"
+
+ STATE_355: "Samsun"
+
+ STATE_356: "Kastamonu"
+
+ STATE_357: "Massachusetts"
+
+ STATE_358: "Nueva York"
+
+ STATE_359: "Nueva Jersey"
+
+ STATE_360: "Pensilvania"
+
+ STATE_361: "Maryland"
+
+ STATE_362: "Virginia"
+
+ STATE_363: "Carolina del Norte"
+
+ STATE_364: "Carolina del Sur"
+
+ STATE_365: "Georgia"
+
+ STATE_366: "Florida"
+
+ STATE_367: "Alabama"
+
+ STATE_368: "Tennessee"
+
+ STATE_369: "Kentucky"
+
+ STATE_370: "Misisipi"
+
+ STATE_371: "Luisiana"
+
+ STATE_372: "Arkansas"
+
+ STATE_373: "Misuri"
+
+ STATE_374: "Oklahoma"
+
+ STATE_375: "Este de Texas"
+
+ STATE_376: "Noreste de Nuevo México"
+
+ STATE_377: "Arizona central"
+
+ STATE_378: "California central"
+
+ STATE_379: "Clark"
+
+ STATE_380: "Utah"
+
+ STATE_381: "Wyoming"
+
+ STATE_382: "Colorado"
+
+ STATE_383: "Kansas"
+
+ STATE_384: "Nebraska"
+
+ STATE_385: "Oregón"
+
+ STATE_386: "Washington"
+
+ STATE_387: "Idaho"
+
+ STATE_388: "Montana"
+
+ STATE_389: "Oeste de Dakota del Norte"
+
+ STATE_390: "Dakota del Sur"
+
+ STATE_391: "Minnesota central"
+
+ STATE_392: "Iowa"
+
+ STATE_393: "Míchigan"
+
+ STATE_394: "Wisconsin"
+
+ STATE_395: "Illinois"
+
+ STATE_396: "Indiana"
+
+ STATE_397: "Komi"
+
+ STATE_398: "Perm"
+
+ STATE_399: "Udmurtia"
+
+ STATE_400: "Viatka"
+ STATE_400_2: "Kírov" #Alternate name - Death of Kirov
+
+ STATE_401: "Énguels"
+
+ STATE_402: "Aktiúbinsk"
+
+ STATE_403: "Tiumén"
+
+ STATE_404: "Kyzylorda"
+
+ STATE_405: "Taskent"
+
+ STATE_406: "Guriev"
+
+ STATE_407: "Oral"
+
+ STATE_408: "Primorie"
+
+ STATE_409: "Jabárovsk"
+
+ STATE_410: "Sistán"
+
+ STATE_411: "Isfahán"
+
+ STATE_412: "Fars"
+
+ STATE_413: "Juzestán"
+ STATE_413_arabic: "Arabistán"
+
+ STATE_414: "Kermán"
+
+ STATE_415: "Herat"
+
+ STATE_416: "Jorasán del Norte"
+
+ STATE_417: "Hamadán"
+
+ STATE_418: "Semnán"
+
+ STATE_419: "Tabriz"
+
+ STATE_420: "Mazandarán"
+
+ STATE_421: "Kurdistán"
+
+ STATE_422: "Ceilán"
+
+ STATE_423: "Tamil Nadu"
+
+ STATE_424: "Andhra Pradesh"
+
+ STATE_425: "Karnataka"
+
+ STATE_426: "Orissa"
+
+ STATE_427: "Hyderabad"
+
+ STATE_428: "Guyarat"
+
+ STATE_429: "Bombay"
+
+ STATE_430: "Daca"
+
+ STATE_431: "Bengala Occidental"
+
+ STATE_432: "Assam"
+
+ STATE_433: "Rajastán"
+
+ STATE_434: "Arunachal Pradesh"
+
+ STATE_435: "Bihar"
+
+ STATE_436: "Madhya Pradesh"
+
+ STATE_437: "Madhya Bharat"
+
+ STATE_438: "Uttar Pradesh"
+
+ STATE_439: "Delhi"
+
+ STATE_440: "Punyab Occidental"
+
+ STATE_441: "Jammu"
+
+ STATE_442: "Peshawar"
+
+ STATE_443: "Karachi"
+
+ STATE_444: "Kalat"
+
+ STATE_445: "Quetta"
+
+ STATE_446: "El Cairo"
+ STATE_446_exonym: "El Cairo" #Exonym
+
+ STATE_447: "Alejandría"
+
+ STATE_448: "Trípoli"
+
+ STATE_449: "Tobruk"
+
+ STATE_450: "Bengasi"
+
+ STATE_451: "Derna"
+
+ STATE_452: "Marsa Matruh"
+
+ STATE_453: "Sinaí"
+
+ STATE_454: "Galilea"
+
+ STATE_455: "Amán"
+
+ STATE_456: "Alto Egipto"
+
+ STATE_457: "Desierto arábigo"
+
+ STATE_458: "Túnez"
+ STATE_458_italian: "Túnez" #Italian
+
+ STATE_459: "Argel"
+ STATE_459_arabic: "Argel" #Arabic
+ STATE_459_exonym: "Argel" #Exonym
+
+ STATE_460: "Constantina"
+ STATE_460_italian: "Constantina" #italian
+ STATE_460_arabic: "Constantina" #Arabic
+
+ STATE_461: "Casablanca"
+
+ STATE_462: "Marrakech-Safí"
+
+ STATE_463: "Alaska"
+
+ STATE_464: "Nueva Escocia"
+
+ STATE_465: "Nuevo Brunswick"
+
+ STATE_466: "Norte de Quebec"
+
+ STATE_467: "Manitoba"
+
+ STATE_468: "Sur de Quebec"
+
+ STATE_469: "Saskatchewan"
+
+ STATE_470: "Alberta"
+
+ STATE_471: "Yukón"
+
+ STATE_472: "Territorios del Noroeste"
+
+ STATE_473: "Columbia Británica"
+
+ STATE_474: "Yucatán"
+
+ STATE_475: "Chiapas"
+
+ STATE_476: "Oaxaca"
+
+ STATE_477: "Veracruz"
+
+ STATE_478: "Jalisco"
+
+ STATE_479: "Tamaulipas"
+
+ STATE_480: "Coahuila"
+
+ STATE_481: "Durango"
+
+ STATE_482: "Chihuahua"
+
+ STATE_483: "Sonora"
+
+ STATE_484: "Baja California"
+
+ STATE_485: "Guerrero"
+
+ STATE_486: "Orinoquía"
+
+ STATE_487: "Santa Cruz"
+
+ STATE_488: "Bolívar"
+
+ STATE_489: "Zulia"
+
+ STATE_490: "Maynas"
+
+ STATE_491: "Alto Amazonas"
+
+ STATE_492: "Arequipa"
+
+ STATE_493: "Atlántico"
+
+ STATE_494: "Ucayali"
+
+ STATE_495: "Amazonas"
+
+ STATE_496: "Minas Gerais"
+
+ STATE_497: "Maranhão"
+
+ STATE_498: "Río Grande del Norte"
+
+ STATE_499: "Bahía"
+
+ STATE_500: "Río de Janeiro"
+
+ STATE_501: "São Paulo"
+
+ STATE_502: "Río Grande del Sur"
+
+ STATE_503: "Santa Catarina"
+
+ STATE_504: "Liechtenstein"
+
+ STATE_505: "Goiás"
+
+ STATE_506: "Antofagasta"
+
+ STATE_507: "Magallanes"
+
+ STATE_508: "Tucumán"
+
+ STATE_509: "Santiago del Estero"
+
+ STATE_510: "Santa Fe"
+
+ STATE_511: "Mendoza"
+
+ STATE_512: "Río Negro"
+
+ STATE_513: "Béchar"
+
+ STATE_514: "Tamanrasset"
+
+ STATE_515: "Yamena"
+
+ STATE_516: "Taimiria"
+
+ STATE_517: "Victoria"
+
+ STATE_518: "Tasmania"
+
+ STATE_519: "Australia Meridional"
+
+ STATE_520: "Territorio del Norte"
+
+ STATE_521: "Queensland"
+
+ STATE_522: "Australia Occidental"
+
+ STATE_523: "Puerto Moresby"
+
+ STATE_524: "Taiwán"
+
+ STATE_525: "Keijō"
+ STATE_525_korean: "Kyŏnggi" #Korean
+
+ STATE_526: "Islas Ryūkyū"
+ STATE_526_exonym: "Islas Ryūkyū" #Exonym
+
+ STATE_527: "P'yŏngan del Sur"
+ STATE_527_korean: "P'yŏngan del Sur"
+
+ STATE_528: "Kyūshū"
+
+ STATE_529: "Chūgoku"
+
+ STATE_530: "Shikoku"
+
+ STATE_531: "Kansai"
+
+ STATE_532: "Tōkai"
+
+ STATE_533: "Tōhoku"
+
+ STATE_534: "Kōshinetsu"
+
+ STATE_535: "Hokuriku"
+
+ STATE_536: "Hokkaidō"
+
+ STATE_537: "Sur de Karafuto"
+ STATE_537_russian: "Sur de Sajalín" #Russian
+
+ STATE_538: "Ecuador"
+
+ STATE_539: "Libreville"
+
+ STATE_540: "Luanda"
+
+ STATE_541: "Khomas"
+
+ STATE_542: "Gaborone"
+
+ STATE_543: "Antananarivo"
+
+ STATE_544: "Lourenço Marques"
+
+ STATE_545: "Lusaka"
+
+ STATE_546: "Dar es-Salam"
+
+ STATE_547: "Nairobi"
+
+ STATE_548: "Buganda"
+
+ STATE_549: "Kordofán del Norte"
+
+ STATE_550: "Asmara"
+
+ STATE_551: "Jartum"
+
+ STATE_552: "Desierto occidental"
+
+ STATE_553: "Monte Líbano"
+ STATE_553_arabic: "Monte Líbano"
+
+ STATE_554: "Damasco"
+ STATE_554_arabic: "Damasco"
+
+ STATE_555: "Kashiwabara"
+
+ STATE_556: "Abiyán"
+
+ STATE_557: "Nuakchot"
+
+ STATE_558: "Lagos"
+
+ STATE_559: "Benadir"
+
+ STATE_560: "Nikoláyevsk"
+
+ STATE_561: "Amur"
+
+ STATE_562: "Magadán"
+
+ STATE_563: "Chitá"
+
+ STATE_564: "Buriatia"
+
+ STATE_565: "Jakasia"
+
+ STATE_566: "Irkutsk"
+
+ STATE_567: "Islas del Comandante"
+
+ STATE_568: "Krasnoyarsk"
+
+ STATE_569: "Kémerovo"
+
+ STATE_570: "Novosibirsk"
+
+ STATE_571: "Omsk"
+
+ STATE_572: "Cheliábinsk"
+
+ STATE_573: "Vladímir"
+
+ STATE_574: "Yakutia"
+
+ STATE_575: "Ojotsk"
+
+ STATE_576: "Evenkía"
+
+ STATE_577: "Khantiya-Mansiya"
+
+ STATE_578: "Tomsk"
+
+ STATE_579: "Yamalia"
+
+ STATE_580: "Náberezhnie Chelní"
+
+ STATE_581: "Mari-El"
+
+ STATE_582: "Kurgán"
+
+ STATE_583: "Kostanái"
+
+ STATE_584: "Asjabad"
+
+ STATE_585: "Bujará"
+
+ STATE_586: "Chuy"
+
+ STATE_587: "Mangystau"
+
+ STATE_588: "Semipalátinsk"
+
+ STATE_589: "Alma Ata"
+
+ STATE_590: "Akmólinsk"
+
+ STATE_591: "Hainan"
+
+ STATE_592: "Cantón"
+
+ STATE_593: "Chaoshan"
+
+ STATE_594: "Nanning"
+
+ STATE_595: "Fukien"
+
+ STATE_596: "Chekiang"
+
+ STATE_597: "Shantung"
+
+ STATE_598: "Kiangsu"
+
+ STATE_599: "Kweilin"
+
+ STATE_600: "Kiangsi"
+
+ STATE_601: "Kham"
+
+ STATE_602: "Hunan"
+
+ STATE_603: "Kweichow"
+
+ STATE_604: "Yushu"
+
+ STATE_605: "Chungking"
+
+ STATE_606: "Anhwei"
+
+ STATE_607: "Honan"
+
+ STATE_608: "Pekín"
+
+ STATE_609: "Hebei Oriental"
+
+ STATE_610: "Jehol"
+
+ STATE_611: "Kalgán"
+
+ STATE_612: "Eren Hot"
+
+ STATE_613: "Nankín"
+
+ STATE_614: "Hebei"
+
+ STATE_615: "Shansi"
+
+ STATE_616: "Ningsia"
+
+ STATE_617: "Aksu"
+
+ STATE_618: "Tacheng"
+
+ STATE_619: "Kasgar"
+
+ STATE_620: "Hubei"
+
+ STATE_621: "Bayannur"
+
+ STATE_622: "Yenan"
+
+ STATE_623: "Norte de Luzón"
+
+ STATE_624: "Bícol"
+
+ STATE_625: "Sámar"
+
+ STATE_626: "Palawan"
+
+ STATE_627: "Mindanao"
+
+ STATE_628: "Cebú"
+
+ STATE_629: "Hawái"
+
+ STATE_630: "Atolón Johnston"
+
+ STATE_631: "Atolón Midway"
+
+ STATE_632: "Isla Wake"
+
+ STATE_633: "Islas Marshall"
+
+ STATE_634: "Islas Salomón"
+
+ STATE_635: "Nueva Caledonia"
+
+ STATE_636: "Fiyi"
+
+ STATE_637: "Kamchatka"
+
+ STATE_638: "Guam"
+
+ STATE_639: "Islas Gilbert"
+
+ STATE_640: "Mandalay"
+
+ STATE_641: "Islas de la Sociedad"
+
+ STATE_642: "Islas Fénix"
+
+ STATE_643: "Islas Ellice"
+
+ STATE_644: "Chukotka"
+
+ STATE_645: "Iwo Jima"
+
+ STATE_646: "Saipán"
+
+ STATE_647: "Palaos"
+
+ STATE_648: "Minami Torishima"
+
+ STATE_649: "Galápagos"
+
+ STATE_650: "Isla Attu"
+
+ STATE_651: "Baskiria"
+
+ STATE_652: "Oremburgo"
+
+ STATE_653: "Sverdlovsk"
+
+ STATE_654: "Altái"
+
+ STATE_655: "Norte de Sajalín"
+ STATE_655_japanese: "Norte de Karafuto" #Japanese
+
+ STATE_656: "Kuwait"
+
+ STATE_657: "Birobiyán"
+
+ STATE_658: "Abu Dabi"
+
+ STATE_659: "Adén"
+
+ STATE_660: "Bangui"
+
+ STATE_661: "Tripolitania"
+
+ STATE_662: "Sirte"
+
+ STATE_663: "Cirenaica"
+
+ STATE_664: "Košice"
+ STATE_664_german: "Großkositz" #german
+ STATE_664_hungarian: "Kassa" #Hungarian
+
+ STATE_665: "Gabes"
+
+ STATE_666: "Norbotnia"
+
+ STATE_667: "Islas menores de la Sonda"
+ STATE_667_indonesia: "Islas menores de la Sonda" #Indonesia
+ STATE_667_exonym: "Islas menores de la Sonda" #Exonym
+
+ STATE_668: "Molucas del Sur"
+ STATE_668_indonesian: "Molucas del Sur" #Indonesian
+ STATE_668_exonym: "Molucas del Sur"
+
+ STATE_669: "Hollandia"
+ STATE_669_indonesian: "Nueva Guinea"
+
+ STATE_670: "Vientián"
+
+ STATE_671: "Delta del Río Rojo"
+
+ STATE_672: "Sumatra Meridional"
+ STATE_672_indonesian: "Sumatra Meridional" #Indonesian
+ STATE_672_exonym: "Sumatra Meridional" #Exonym
+
+ STATE_673: "Célebes Meridional"
+ STATE_673_indonesian: "Célebes Meridional" #Indonesian
+ STATE_673_exonym: "Célebes Meridional" #Exonym
+
+ STATE_674: "Canberra"
+
+ STATE_675: "Ambar"
+
+ STATE_676: "Mosul"
+
+ STATE_677: "Alepo"
+ STATE_677_arabic: "Alepo"
+ STATE_677_exonym: "Alepo"
+
+ STATE_678: "Rub al-Jali"
+
+ STATE_679: "La Meca"
+
+ STATE_680: "Dier ez-Zor"
+
+ STATE_681: "Cabo"
+
+ STATE_682: "Norte de Ontario"
+
+ STATE_683: "Keewatin"
+
+ STATE_684: "Pohnpei"
+
+ STATE_685: "Canal de Panamá"
+
+ STATE_686: "Puerto Rico"
+
+ STATE_687: "Guyana"
+
+ STATE_688: "Alto Chaco"
+
+ STATE_689: "Jamaica"
+
+ STATE_690: "Bahamas"
+
+ STATE_691: "Trinidad"
+
+ STATE_692: "Granada"
+
+ STATE_693: "Islas Turcas y Caicos"
+
+ STATE_694: "Guadalupe"
+
+ STATE_695: "Curazao"
+
+ STATE_696: "Bermudas"
+
+ STATE_697: "Madeira"
+
+ STATE_698: "Azores"
+
+ STATE_699: "Saguía el Hamra"
+
+ STATE_700: "Freetown"
+
+ STATE_701: "Gambia"
+
+ STATE_702: "Cabo Verde"
+
+ STATE_703: "Ascensión"
+
+ STATE_704: "Santa Helena"
+
+ STATE_705: "Santo Tomé y Príncipe"
+
+ STATE_706: "Reunión"
+
+ STATE_707: "Mauricio"
+
+ STATE_708: "Comoras"
+
+ STATE_709: "Seychelles"
+
+ STATE_710: "Diego García"
+
+ STATE_711: "Isla de Navidad"
+
+ STATE_712: "Islas Cocos"
+
+ STATE_713: "Islas Kerguelen"
+ STATE_713_exonym: "Islas Kerguelen" #Exonym
+
+ STATE_714: "Heilungkiang"
+
+ STATE_715: "Liaopeh"
+
+ STATE_716: "Liaoning"
+
+ STATE_717: "Hokiang"
+
+ STATE_718: "Alto Congo"
+
+ STATE_719: "Natal"
+
+ STATE_720: "Georgia del Sur"
+ STATE_720_spanish: "Isla San Pedro" #Spanish
+
+ STATE_721: "Timor Oriental"
+
+ STATE_722: "Petsamo"
+ STATE_722_russian: "Pechenga" #Russian
+
+ STATE_723: "Isla Sur"
+
+ STATE_724: "Tailandia del Sur"
+
+ STATE_725: "Nauru"
+
+ STATE_726: "Samoa occidental"
+
+ STATE_727: "Islas de la Línea"
+
+ STATE_728: "Kwangchowan"
+
+ STATE_729: "Macao"
+
+ STATE_730: "San Pedro y Miquelón"
+
+ STATE_731: "Macedonia Central"
+ STATE_731_bulgarian: "Macedonia Central"
+
+ STATE_732: "Issyk-Kul"
+
+ STATE_733: "Islas Andamán y Nicobar"
+
+ STATE_734: "Islas Santa Cruz"
+
+ STATE_735: "Saboya"
+ STATE_735_italian: "Saboya" #Italian
+
+ STATE_736: "Friul"
+ STATE_736_german: "Friul"
+
+ STATE_737: "Nueva Bretaña"
+
+ STATE_738: "Islas Aru"
+ STATE_738_indonesian: "Islas Aru" #Indonesian
+ STATE_738_exonym: "Islas Aru" #Exonym
+
+ STATE_739: "Islas de la Reina Carlota"
+
+ STATE_740: "Isla de Vancouver"
+
+ STATE_741: "Nom Pen"
+
+ STATE_742: "Stalinabad"
+
+ STATE_743: "Tsingtao"
+
+ STATE_744: "Sian"
+
+ STATE_745: "Dairen"
+ STATE_745_chinese: "Dalian" #Chinese
+ STATE_745_russian: "Dalni" #Russian
+
+ STATE_746: "Ordos"
+
+ STATE_747: "Dali"
+
+ STATE_748: "Tsunyi"
+
+ STATE_749: "Waichow"
+
+ STATE_750: "Changte"
+
+ STATE_751: "Ya'an"
+
+ STATE_752: "Andorra"
+
+ STATE_753: "Aba"
+
+ STATE_754: "Sining"
+
+ STATE_755: "Dulan"
+
+ STATE_756: "Tungchwan"
+
+ STATE_757: "Shigatse"
+
+ STATE_758: "Ngari"
+
+ STATE_759: "Bayingolin"
+
+ STATE_760: "Turfán"
+
+ STATE_761: "Hsingan"
+
+ STATE_762: "Norte-Paso de Calais"
+
+ STATE_763: "Lorena"
+ STATE_763_german: "Lorena" #German
+
+ STATE_764: "Alta Saboya"
+ STATE_764_italian: "Alta Saboya" #Italian
+
+ STATE_765: "Liubliana"
+ STATE_765_italian: "Liubliana" #Italian
+ STATE_765_german: "Liubliana" #German
+
+ STATE_766: "Katowice"
+ STATE_766_german: "Kattowitz" #German
+
+ STATE_767: "Tesino"
+ STATE_767_german: "Tesino" #German
+
+ STATE_768: "Masuria"
+ STATE_768_polish: "Masuria" #Polish
+
+ STATE_769: "Trento"
+ STATE_769_german: "Trento" #German
+
+ STATE_770: "Transmurania"
+ STATE_770_hungarian: "Transmurania" #Hungarian
+
+ STATE_771: "Mashonalandia"
+
+ STATE_772: "Banato Occidental"
+ STATE_772_hungarian: "Banato Occidental" #Hungarian
+
+ STATE_773: "Oeste de Suez"
+
+ STATE_774: "Estiria"
+
+ STATE_775: "Asturias"
+
+ STATE_776: "País Vasco"
+ STATE_776_basque: "Euskadi" #Basque
+
+ STATE_777: "Vermont"
+
+ STATE_778: "Nuevo Hampshire"
+
+ STATE_779: "Maine"
+
+ STATE_780: "Virginia Occidental"
+
+ STATE_781: "Rhode Island"
+
+ STATE_782: "Connecticut"
+
+ STATE_783: "Delaware"
+
+ STATE_784: "Columbia"
+
+ STATE_785: "Conakri"
+
+ STATE_786: "Togo"
+
+ STATE_787: "Dahomey"
+
+ STATE_788: "Niamey"
+
+ STATE_789: "Yaundé"
+
+ STATE_790: "Brazzaville"
+
+ STATE_791: "Ruanda"
+
+ STATE_792: "Burundi"
+
+ STATE_793: "Tiris Zemmur"
+
+ STATE_794: "Bamako"
+
+ STATE_795: "Uagadugú"
+
+ STATE_796: "Lilongüe"
+
+ STATE_797: "Camerún Meridional"
+
+ STATE_798: "Pomerelia"
+ STATE_798_german: "Pomerelia" #German
+
+ STATE_799: "Basutolandia"
+ STATE_799_2: "Lesoto" #Alternate name - Independence
+
+ STATE_800: "Suazilandia"
+
+ STATE_801: "Islas del Canal"
+
+ STATE_802: "Eupen-Malmedy"
+
+ STATE_803: "Alejandreta"
+ STATE_803_turkish: "Hatay"
+
+ STATE_804: "Schleswig del Norte"
+ STATE_804_german: "Schleswig del Norte" #German
+
+ STATE_805: "Vilna"
+ STATE_805_lithuanian: "Vilna" #Lithuanian
+
+ STATE_806: "Sarre"
+
+ STATE_807: "Baden del Sur"
+ STATE_807_french: "Baden del Sur"
+
+ STATE_808: "Fráncfort"
+
+ STATE_809: "Región del Ruhr"
+
+ STATE_810: "Suwałki"
+ STATE_810_german: "Suwalken" #German
+ STATE_810_german_2: "Sudovia" #Nazi German
+ STATE_810_lithuanian: "Suvalkai" #Lithuanian
+
+ STATE_811: "Trieste"
+ STATE_811_german: "Trieste"
+
+ STATE_812: "Sajonia-Anhalt"
+
+ STATE_813: "Istria"
+ STATE_813_croatian: "Istria"
+ STATE_813_german: "Istria"
+
+ STATE_814: "Litoral ariático"
+ STATE_814_german: "Litoral austriaco" #German
+ STATE_814_exonym: "Litoral esloveno" #Exonym
+ STATE_814_croatian: "Litoral esloveno"
+
+ STATE_815: "Fiume"
+ STATE_815_croatian: "Rijeka"
+ STATE_815_german: "Sankt Veit am Flaum" #German
+
+ STATE_816: "Sokusou"
+ STATE_816_korean: "Sokch'o"
+
+ STATE_817: "Kaijō"
+ STATE_817_korean: "Kaesŏng"
+
+ STATE_818: "Kosovo"
+
+ STATE_819: "Sirmia"
+ STATE_819_hungarian: "Sirmia" #Hungarian
+
+ STATE_820: "Gaza"
+
+ STATE_821: "Cisjordania"
+
+ STATE_822: "Néguev"
+
+ STATE_823: "Jaffa"
+ STATE_823_hebrew: "Tel Aviv" #Hebrew
+
+ STATE_824: "Jerusalén"
+
+ STATE_825: "Shansi del Norte"
+
+ STATE_826: "Xilingol"
+
+ STATE_827: "Kweisui"
+
+ STATE_828: "Chingyang"
+
+ STATE_829: "Hami"
+
+ STATE_830: "Kizilsu"
+
+ STATE_831: "Jotán"
+
+ STATE_832: "Pakhoi"
+
+ STATE_833: "Watlam"
+
+ STATE_834: "Dobruja del Norte"
+ STATE_834_bulgarian: "Dobruja del Norte" #Bulgarian
+
+ STATE_835: "Bugeac"
+ STATE_835_russian: "Budzhak" 
+
+ STATE_836: "Jotín"
+
+ STATE_837: "Bucovina del Sur"
+
+ STATE_838: "País Sículo"
+ STATE_838_hungarian: "País Sículo" #Hungarian
+
+ STATE_839: "Maramureș"
+ STATE_839_hungarian: "Máramaros" #Hungarian
+
+ STATE_840: "Estado Norte"
+
+ STATE_841: "Capa de hielo de Groenlandia"
+ STATE_841_greenlandic: "Capa de hielo de Groenlandia" #Greenlandic
+
+ STATE_842: "Orán"
+ STATE_842_arabic: "Orán" #Arabic
+
+ STATE_843: "Borkou-Ennedi-Tibesti"
+
+ STATE_844: "Agadez"
+
+ STATE_845: "Kidal"
+
+ STATE_846: "Niza"
+ STATE_846_italian: "Niza" #Italian
+
+ STATE_847: "Meurthe y Mosela"
+ STATE_847_german: "Meurthe y Mosela" #German
+
+ STATE_848: "Hasaka"
+
+ STATE_849: "Sur de Líbano"
+ STATE_849_arabic: "Líbano Sur"
+
+ STATE_850: "Halayib"
+
+ STATE_851: "Catar"
+
+ STATE_852: "Baréin"
+
+ STATE_853: "Sarra"
+
+ STATE_854: "Auzú"
+
+ STATE_855: "Al Wahat"
+
+ STATE_856: "Liguria"
+
+ STATE_857: "Emilia"
+
+ STATE_858: "Puglia"
+
+ STATE_859: "Islas del Norte"
+
+ STATE_860: "Kiuchuan"
+
+ STATE_861: "Hofeng"
+
+ STATE_862: "Juicheng"
+
+ STATE_863: "Chengdú"
+
+ STATE_864: "Tihwa"
+ STATE_864_uyghur: "Ürümqi" #Uyghur
+
+ STATE_865: "Altay"
+
+ STATE_866: "Changchi"
+
+ STATE_867: "Ilí"
+
+ STATE_868: "Shanghái"
+
+ STATE_869: "Aksayqin"
+
+ STATE_870: "Sainyabuli"
+ STATE_870_thai: "Lan Chang" #Thai
+
+ STATE_871: "Champasak"
+ STATE_871_thai: "Nakhon Champasak" #Thai
+
+ STATE_872: "Kratié"
+
+ STATE_873: "Delta del Río Mekong"
+
+ STATE_874: "Mienchow"
+
+ STATE_875: "Mekele"
+
+ STATE_876: "Wolo"
+
+ STATE_877: "Illubabor"
+
+ STATE_878: "Welega"
+
+ STATE_879: "Begemder"
+
+ STATE_880: "Ogaden"
+
+ STATE_881: "Brunéi"
+
+ STATE_882: "Sarawak"
+
+ STATE_883: "Islas Riau"
+ STATE_883_indonesian: "Islas Riau"
+
+ STATE_884: "Outback de Australia Occidental"
+
+ STATE_885: "Grodno"
+ STATE_885_belarusian: "Hrodna" #Belarusian
+
+ STATE_886: "Przemyśl"
+ STATE_886_german: "Premissel" #German
+ STATE_886_russian: "Peremyshl"
+
+ STATE_887: "Kars"
+
+ STATE_888: "Cabo Norte"
+
+ STATE_889: "Orange"
+
+ STATE_890: "Debar"
+
+ STATE_891: "Osetia del Sur"
+
+ STATE_892: "Abjasia"
+
+ STATE_893: "Ayaria"
+
+ STATE_894: "Najicheván"
+
+ STATE_895: "Mahabad"
+
+ STATE_896: "Gilgit-Baltistán"
+
+ STATE_897: "Dhofar"
+
+ STATE_898: "Nizwa"
+
+ STATE_899: "Hadramaut"
+
+ STATE_900: "Calcídica"
+
+ STATE_901: "Nankiang"
+
+ STATE_902: "Tingchow"
+
+ STATE_903: "Viátskiye Poliani"
+
+ STATE_904: "Paoan"
+
+ STATE_905: "Lyuliang"
+
+ STATE_906: "Kachin"
+
+ STATE_907: "Hövsgöl"
+
+ STATE_908: "Chhattisgarh"
+
+ STATE_909: "Pingsiang"
+
+ STATE_910: "Hovd"
+
+ STATE_911: "Jangai"
+
+ STATE_912: "Tachow"
+
+ STATE_913: "Bulgan"
+
+ STATE_914: "Gobi"
+
+ STATE_915: "Andong"
+
+ STATE_916: "Sungkiang"
+
+ STATE_917: "Zavján"
+
+ STATE_918: "Dornod"
+
+ STATE_919: "Harbin"
+
+ STATE_920: "Xiahe"
+
+ STATE_921: "Bahía de Guantánamo"
+
+ STATE_922: "Balkan"
+
+ STATE_923: "Chardzhou"
+
+ STATE_924: "Leninabad"
+
+ STATE_925: "Alto Badajshán"
+
+ STATE_926: "Karakalpakistán"
+
+ STATE_927: "Corasmia"
+
+ STATE_928: "Kashkadar"
+
+ STATE_929: "Barbados"
+
+ STATE_930: "San Vicente"
+
+ STATE_931: "Santa Lucía"
+
+ STATE_932: "Martinica"
+
+ STATE_933: "Antigua y Barbuda"
+
+ STATE_934: "Montserrat"
+
+ STATE_935: "San Cristóbal"
+
+ STATE_936: "San Martín"
+
+ STATE_937: "Anguila"
+
+ STATE_938: "Karagandá"
+
+ STATE_939: "Chimkent"
+ STATE_939_kazakh: "Shymkent" #Kazakh
+
+ STATE_940: "Golán"
+
+ STATE_941: "Norte de Chipre"
+
+ STATE_942: "Tierras Altas de Islandia"
+
+ STATE_943: "Lataquia"
+
+ STATE_944: "Homs"
+
+ STATE_945: "As-Suwayda"
+ STATE_945_arabic: "As-Suwayda"
+
+ STATE_946: "Daraa"
+
+ STATE_947: "Al Raqa"
+
+ STATE_948: "Melilla"
+
+ STATE_949: "Ceuta"
+
+ STATE_950: "Ifni"
+
+ STATE_951: "Tarfaya"
+
+ STATE_952: "Tifariti"
+
+ STATE_953: "Guerguerat"
+
+ STATE_954: "Dajla"
+
+ STATE_955: "Dubái"
+
+ STATE_956: "Musandam"
+
+ STATE_957: "Umbría"
+
+ STATE_958: "Pirot"
+
+ STATE_959: "Este de Suez"
+
+ STATE_960: "Utrecht"
+
+ STATE_961: "Baden del Norte"
+
+ STATE_962: "Wurtemberg-Hohenzollern"
+
+ STATE_963: "Morobe"
+
+ STATE_964: "Flandes"
+ STATE_964_german: "Flandes" #German
+ STATE_964_exonym: "Flandes" #Exonym
+
+ STATE_965: "Sudovia"
+
+ STATE_966: "Jaanilinn"
+ STATE_966_russian: "Ivángorod" #Russian
+
+ STATE_967: "Petseri"
+
+ STATE_968: "Abrene"
+ STATE_968_russian: "Pytálovo" #Russian
+
+ STATE_969: "Semigalia"
+
+ STATE_970: "Latgalia"
+
+ STATE_971: "Moonsund"
+
+ STATE_972: "Ida-Viru"
+
+ STATE_973: "Burgenland"
+ STATE_973_hungarian: "Örvidék" #Hungarian
+
+ STATE_974: "Carintia"
+
+ STATE_975: "Transdanubio Meridional"
+
+ STATE_976: "Hungría Septentrional"
+
+ STATE_977: "Vorarlberg"
+
+ STATE_978: "Baranja"
+ STATE_978_hungarian: "Baranya"
+
+ STATE_979: "Kōgen"
+ STATE_979_korean: "Kangwŏn"
+
+ STATE_980: "Heianhoku"
+ STATE_980_korean: "P'yŏngan del Norte"
+
+ STATE_981: "Kankyohoku"
+ STATE_981_korean: "Hamgyŏng del Norte"
+
+ STATE_982: "Kankyōnan"
+ STATE_982_korean: "Hamgyŏng del Sur"
+
+ STATE_983: "Kōkai"
+ STATE_983_korean: "Hwanghae"
+
+ STATE_984: "Saishū"
+ STATE_984_korean: "Isla de Jeju"
+
+ STATE_985: "Zenra"
+ STATE_985_korean: "Chŏlla"
+
+ STATE_986: "Keisho"
+ STATE_986_korean: "Kyŏngsang"
+
+ STATE_987: "Chūsei"
+ STATE_987_korean: "Ch'ungch'ŏng"
+
+ STATE_988: "Kōgen"
+ STATE_988_korean: "Kangwŏn"
+
+ STATE_989: "Tailandia del Este"
+
+ STATE_990: "Tailandia del Nordeste"
+
+ STATE_991: "Tailandia del Norte"
+
+ STATE_992: "Tailandia del Oeste"
+
+ STATE_993: "Altiplano Central"
+
+ STATE_994: "Costa Central del Sur"
+
+ STATE_995: "Costa Central del Norte"
+
+ STATE_996: "Región Noroeste"
+
+ STATE_997: "Región Nordeste"
+
+ STATE_998: "Montes Cardamomo"
+
+ STATE_999: "Siem Reap"
+
+ STATE_1000: "Battambang"
+ STATE_1000_thai: "Phra Tabong" #Thai
+
+ STATE_1001: "Laos Phaktai"
+
+ STATE_1002: "Jammouan"
+
+ STATE_1003: "Luang Prabang"
+
+ STATE_1004: "Kedah"
+ STATE_1004_thai: "Syburi" #Thai
+
+ STATE_1005: "Penang"
+ STATE_1005_malay: "Pinang" #Malay
+
+ STATE_1006: "Kelaté"
+ STATE_1006_thai: "Kalantan" #Thai
+
+ STATE_1007: "Pahang"
+
+ STATE_1008: "Becá"
+ STATE_1008_arabic: "Becá"
+
+ STATE_1009: "Kuala Lumpur"
+
+ STATE_1010: "Malaca"
+ STATE_1010_malay: "Malaca" #Malay
+
+ STATE_1011: "Johor"
+
+ STATE_1012: "Erbil"
+
+ STATE_1013: "Solimania"
+
+ STATE_1014: "Kirkuk"
+
+ STATE_1015: "Saladino"
+
+ STATE_1016: "Náyaf"
+
+ STATE_1017: "Kerbala"
+
+ STATE_1018: "Basora"
+
+ STATE_1019: "Babilonia"
+
+ STATE_1020: "Nunkiang"
+
+ STATE_1021: "Drôme"
+ STATE_1021_italian: "Grenoble" #Italian
+
+ STATE_1022: "Somme"
+
+ STATE_1023: "Aisne"
+
+ STATE_1024: "Jura"
+
+ STATE_1025: "Ain"
+
+ STATE_1026: "Sena Marítimo"
+
+ STATE_1027: "Sena y Marne"
+
+ STATE_1028: "Loira Atlántico"
+ STATE_1028_breton: "Loira Atlántico" #Breton
+
+ STATE_1029: "Lyon"
+
+ STATE_1030: "Marsella"
+ STATE_1030_italian: "Marsella" #Italian
+
+ STATE_1031: "Ruwaished"
+
+ STATE_1032: "Ma'an"
+
+ STATE_1033: "Epiro Septentrional"
+
+ STATE_1034: "Chefoo"
+
+ STATE_1035: "Sikang"
+
+ STATE_1036: "Weihaiwei"
+ STATE_1036_2: "Weihai" #Alternate name - Communist Revolution
+
+ STATE_1037: "Algarve"
+
+ STATE_1038: "Grisones"
+ STATE_1038_romansh: "Grisones" #Romansh
+ STATE_1038_exonym: "Grisones" #Exonym
+
+ STATE_1039: "Bajo Valais"
+ STATE_1039_german: "Bajo Valais" #German
+
+ STATE_1040: "Bajo Valais"
+
+ STATE_1041: "Zúrich"
+
+ STATE_1042: "Jubalandia"
+
+ STATE_1043: "Somalia Sudoccidental"
+
+ STATE_1044: "Hirshabelle"
+
+ STATE_1045: "Galmudug"
+
+ STATE_1046: "Puntlandia"
+
+ STATE_1047: "Kairuán"
+
+ STATE_1048: "Bizerta"
+ STATE_1048_italian: "Bizerta" #Italian
+
+ STATE_1049: "Gash-Barka"
+
+ STATE_1050: "Asab"
+
+ STATE_1051: "Francistown"
+
+ STATE_1052: "Caprivi"
+
+ STATE_1053: "Otjozondjupa"
+
+ STATE_1054: "Damaralandia"
+
+ STATE_1055: "Karas"
+
+ STATE_1056: "Walvis Bay"
+
+ STATE_1057: "Berlín"
+
+ STATE_1058: "Mayotte"
+
+ STATE_1059: "Islas Laquedivas"
+
+ STATE_1060: "Tristán de Acuña"
+
+ STATE_1061: "Toamasina" # Toamasina
+
+ STATE_1062: "Fianarantsoa"
+
+ STATE_1063: "Arsi"
+
+ STATE_1064: "Matabelelandia"
+
+ STATE_1065: "Gwelo"
+ STATE_1065_shona: "Gweru" #Shona
+
+ STATE_1066: "Manicalandia"
+
+ STATE_1067: "Socotra"
+
+ STATE_1068: "Lahej"
+
+ STATE_1069: "Al Hudayda"
+
+ STATE_1070: "Taiz"
+
+ STATE_1071: "Abu Musa"
+
+ STATE_1072: "Tirán"
+
+ STATE_1073: "Najrán"
+
+ STATE_1074: "Jizán"
+
+ STATE_1075: "Asir"
+
+ STATE_1076: "Al Qunfudhah"
+
+ STATE_1077: "Medina"
+
+ STATE_1078: "Yauf"
+
+ STATE_1079: "Hail"
+
+ STATE_1080: "Hafar Al Batin"
+
+ STATE_1081: "Dammam"
+
+ STATE_1082: "Fionia"
+ STATE_1082_german: "Fionia" #German
+
+ STATE_1083: "Bornholm"
+
+ STATE_1084: "Eslavonia"
+ STATE_1084_hungarian: "Eslavonia" #Hungarian
+
+ STATE_1085: "Split"
+ STATE_1085_italian: "Spalato" #Italian
+
+ STATE_1086: "Bania Luka"
+
+ STATE_1087: "Herzegovina"
+
+ STATE_1088: "Kosovo del Norte"
+
+ STATE_1089: "Sandžak del Norte"
+ STATE_1089_exonym: "Sandžak del Norte" #Exonym
+
+ STATE_1090: "Sandžak del Sur"
+ STATE_1090_exonym: "Sandžak del Sur" #Exonym
+
+ STATE_1091: "Kotor"
+ STATE_1091_italian: "Cattaro" #Italian
+
+ STATE_1092: "Šumadija"
+
+ STATE_1093: "Strumica"
+
+ STATE_1094: "Štip"
+
+ STATE_1095: "Macedonia del Pirin"
+
+ STATE_1096: "Smolián"
+
+ STATE_1097: "Varna"
+ STATE_1097_2: "Stalin" #Alternate name - 1949
+
+ STATE_1098: "Pleven"
+
+ STATE_1099: "Värmland"
+
+ STATE_1100: "Dalarna"
+
+ STATE_1101: "Jämtland"
+
+ STATE_1102: "Valle del Torne"
+
+ STATE_1103: "Bahusia"
+
+ STATE_1104: "Casamanza"
+
+ STATE_1105: "Sudetes del Sur"
+ STATE_1105_german: "Sudetes del Sur" #German
+ STATE_1105_exonym: "Sudetes del Sur" #Exonym
+
+ STATE_1106: "Úzhgorod"
+ STATE_1106_hungarian: "Ungvár" #Hungarian
+
+ STATE_1107: "Žilina"
+ STATE_1107_german: "Sillein" #german
+ STATE_1107_hungarian: "Zsolna" #Hungarian
+
+ STATE_1108: "Sobrance"
+ STATE_1108_hungarian: "Szobránc" #Hungarian
+
+ STATE_1109: "Evros"
+ STATE_1109_bulgarian: "Maritsa"
+
+ STATE_1110: "Macedonia Oriental"
+ STATE_1110_bulgarian: "Blagóevgrad"
+
+ STATE_1111: "Elassona"
+
+ STATE_1112: "Macedonia Occidental"
+
+ STATE_1113: "Islas Jónicas"
+
+ STATE_1114: "Tesalia"
+
+ STATE_1115: "Grecia Central"
+
+ STATE_1116: "Lasithi"
+
+ STATE_1117: "Cícladas"
+
+ STATE_1118: "Icaria"
+
+ STATE_1119: "Samos"
+
+ STATE_1120: "Glatz"
+ STATE_1120_polish: "Kłodzko"
+ STATE_1120_czech: "Kladsko" #Czech
+
+ STATE_1121: "Bo"
+
+ STATE_1122: "Grand Gedeh"
+
+ STATE_1123: "Jan Mayen"
+
+ STATE_1124: "Finnmark"
+
+ STATE_1125: "Møre og Romsdal"
+
+ STATE_1126: "Vestfold og Telemark"
+
+ STATE_1127: "Oppland"
+
+ STATE_1128: "Limburgo"
+
+ STATE_1129: "Suursaari"
+ STATE_1129_russia: "Gogland" #Russian
+
+ STATE_1130: "Istmo de Carelia"
+ STATE_1130_russian: "Istmo de Carelia"
+
+ STATE_1131: "Porkkala"
+
+ STATE_1132: "Hanko"
+
+ STATE_1133: "Oulu"
+ STATE_1134: "Satakunta"
+
+ STATE_1135: "Finlandia Central"
+
+ STATE_1136: "Finlandia del Sudoeste"
+
+ STATE_1137: "Carelia"
+
+ STATE_1138: "Península de Rybachi"
+
+ STATE_1139: "Agadir"
+
+ STATE_1140: "Uchda"
+
+ STATE_1141: "Beni Melal-Jenifra"
+
+ STATE_1142: "Rabat"
+
+ STATE_1143: "Gagauzia"
+
+ STATE_1144: "Pridnestrovia"
+ STATE_1144_ukrainian: "Pridnestrovia" #Ukrainian
+ STATE_1144_romanian: "Transnistria" #Romanian/Exonym
+
+ STATE_1145: "Bălți"
+ STATE_1145_russian: "Beltsi"
+
+ STATE_1146: "Maroni"
+
+ STATE_1147: "Tigri"
+
+ STATE_1148: "Esequibo"
+
+ STATE_1149: "Islas Caimán"
+
+ STATE_1150: "Aruba"
+
+ STATE_1151: "Tórtola"
+
+ STATE_1152: "Santo Tomás"
+
+ STATE_1153: "San Eustaquio"
+
+ STATE_1154: "Bajo Nuevo"
+
+ STATE_1155: "San Andrés"
+
+ STATE_1156: "Nueva Esparta"
+
+ STATE_1157: "Oriente"
+
+ STATE_1158: "Camagüey"
+
+ STATE_1159: "Santa Clara"
+
+ STATE_1160: "Westerwald"
+
+ STATE_1161: "Outback de Australia Meridional"
+
+ STATE_1162: "Outback de Queensland"
+
+ STATE_1163: "Outback Septentrional"
+
+ STATE_1164: "Outback de Nueva Gales del Sur"
+
+ STATE_1165: "Isla de Lord Howe"
+
+ STATE_1166: "Sinaloa"
+
+ STATE_1167: "Islas Ashmore y Cartier"
+
+ STATE_1168: "Isla Norfolk"
+
+ STATE_1169: "Mosela"
+ STATE_1169_german: "Mosela" #German
+
+ STATE_1170: "Ternópol"
+ STATE_1170_ukrainian: "Ternópol" #Ukrainian
+ STATE_1170_russian: "Ternópol"
+
+ STATE_1171: "Druskieniki"
+ STATE_1171_lithuanian: "Druskininkai" #Lithuanian
+
+ STATE_1172: "Krystynopol"
+ STATE_1172_german: "Krisnipolye" #German
+
+ STATE_1173: "Ostrów Mazowiecka"
+ STATE_1173_german: "Ostrow" #German
+
+ STATE_1174: "Zawiercie"
+ STATE_1174_german: "Warthenau" #German
+
+ STATE_1175: "Bielsko"
+ STATE_1175_german: "Bielitz" #German
+
+ STATE_1176: "Moguilov"
+
+ STATE_1177: "Logone"
+
+ STATE_1178: "Ouaddaï"
+
+ STATE_1179: "Annobón"
+
+ STATE_1180: "Río Muni"
+
+ STATE_1181: "Zinder"
+
+ STATE_1182: "Schleswig Meridional"
+ STATE_1182_danish: "Schleswig Meridional" #Danish
+
+ STATE_1183: "Hamburgo"
+
+ STATE_1184: "Oyem"
+
+ STATE_1185: "Franceville"
+
+ STATE_1186: "Garua"
+
+ STATE_1187: "Duala"
+
+ STATE_1188: "Camerún Septentrional"
+
+ STATE_1189: "Bir Tawil"
+
+ STATE_1190: "Guiza"
+
+ STATE_1191: "Menia"
+
+ STATE_1192: "Volta"
+
+ STATE_1193: "Tamale"
+
+ STATE_1194: "Bongor"
+
+ STATE_1195: "Sarh"
+
+ STATE_1196: "Pointe-Noire"
+
+ STATE_1197: "Sembé"
+
+ STATE_1198: "Impfondo"
+
+ STATE_1199: "Likouala"
+
+ STATE_1200: "Berbérati"
+
+ STATE_1201: "Mbaiki"
+
+ STATE_1202: "Kaga-Bandoro"
+
+ STATE_1203: "Bambari"
+
+ STATE_1204: "Lieja"
+ STATE_1204_german: "Lieja" #German
+
+ STATE_1205: "Assaba"
+
+ STATE_1206: "Tinduf"
+
+ STATE_1207: "El Bayadh"
+
+ STATE_1208: "Oasis"
+
+ STATE_1209: "Gardaya"
+
+ STATE_1210: "Cabilia"
+ STATE_1210_italian: "Cabilia" #italian
+ STATE_1210_exonym: "Cabilia" #Exonym
+
+ STATE_1211: "Orléansville"
+ STATE_1211_arabic: "Chlef" #Arabic
+
+ STATE_1212: "Bona"
+ STATE_1212_arabic: "Annaba" #Arabic
+ STATE_1212_italian: "Bona" #Italian
+
+ STATE_1213: "Mazalquivir"
+
+ STATE_1214: "Adrar"
+
+ STATE_1215: "Zomba"
+
+ STATE_1216: "Kankan"
+
+ STATE_1217: "Bandama"
+
+ STATE_1218: "Yamusukro"
+
+ STATE_1219: "Timor Occidental"
+ STATE_1219_indonesian: "Timor Occidental" #Indonesian
+ STATE_1219_exonym: "Timor Occidental" #Exonym
+
+ STATE_1220: "Oecusse-Ambeno"
+
+ STATE_1221: "Tánger"
+
+ STATE_1222: "Cantabria"
+
+ STATE_1223: "Timbu"
+
+ STATE_1224: "Pokhara"
+
+ STATE_1225: "Al Jaghbub"
+
+ STATE_1226: "Misurata"
+
+ STATE_1227: "Wath"
+
+ STATE_1228: "Gadamés"
+
+ STATE_1229: "Al Wigh"
+
+ STATE_1230: "Desierto de Murzuq"
+
+ STATE_1231: "Réboli"
+ STATE_1231_finnish: "Repola"
+
+ STATE_1232: "Hauts-Bassins"
+
+ STATE_1233: "Azawad"
+
+ STATE_1234: "Sikasso"
+
+ STATE_1235: "Busoga"
+
+ STATE_1236: "Bunyoro"
+
+ STATE_1237: "Garissa"
+
+ STATE_1238: "Gran Valle del Rift"
+
+ STATE_1239: "Mombasa"
+
+ STATE_1240: "Panamá Oeste"
+
+ STATE_1241: "Muchinga"
+
+ STATE_1242: "Livingstone"
+
+ STATE_1243: "Copperbelt"
+
+ STATE_1244: "Tamil Eelam"
+
+ STATE_1245: "Petén"
+
+ STATE_1246: "Cortés"
+
+ STATE_1247: "Misquito"
+
+ STATE_1248: "Valle de Aosta"
+
+ STATE_1249: "Baja California Sur"
+
+ STATE_1250: "Islas Paracel"
+
+ STATE_1251: "Imereti"
+
+ STATE_1252: "Lenkoran"
+
+ STATE_1253: "Nagorno Karabaj"
+
+ STATE_1254: "Ganyá"
+
+ STATE_1255: "Syunik"
+
+ STATE_1256: "Duhok"
+
+ STATE_1257: "Mtwara"
+
+ STATE_1258: "Zanzíbar"
+
+ STATE_1259: "Tabora"
+
+ STATE_1260: "Mwanza"
+
+ STATE_1261: "Dodoma"
+
+ STATE_1262: "Missenyi"
+
+ STATE_1263: "Edirne"
+ STATE_1263_bulgarian: "Edirne" #Bulgarian
+
+ STATE_1264: "Galípoli"
+
+ STATE_1265: "Tekirdağ"
+
+ STATE_1266: "Çanakkale"
+
+ STATE_1267: "Estambul de Anatolia"
+
+ STATE_1268: "Ilemi"
+
+ STATE_1269: "Ecuatoria"
+
+ STATE_1270: "Gran Alto Nilo"
+
+ STATE_1271: "Bar el Gazal"
+
+ STATE_1272: "Kafia Kingi"
+
+ STATE_1273: "Darfur"
+
+ STATE_1274: "Mellit"
+
+ STATE_1275: "Nilo Azul"
+
+ STATE_1276: "Kordofán del Sur"
+
+ STATE_1277: "Abyei"
+
+ STATE_1278: "Dongola"
+
+ STATE_1279: "Kassala"
+
+ STATE_1280: "Puerto Sudán"
+
+ STATE_1281: "Fiordo Swilly"
+
+ STATE_1282: "Spike Island"
+
+ STATE_1283: "Berehaven"
+
+ STATE_1284: "Kurmangazí"
+
+ STATE_1285: "Borili"
+
+ STATE_1286: "Pavlodar"
+
+ STATE_1287: "Isla del Príncipe Eduardo"
+
+ STATE_1288: "Côte-Nord"
+
+ STATE_1289: "Baffin"
+
+ STATE_1290: "Nueva Guinea Occidental"
+ STATE_1290_indonesian: "Nueva Guinea Occidental"
+
+ STATE_1291: "Molucas Septentrionales"
+ STATE_1291_indonesian: "Molucas Septentrionales" #Indonesian
+ STATE_1291_exonym: "Molucas Septentrionales" #Exonym
+
+ STATE_1292: "Célebes Septentrional"
+ STATE_1292_indonesian: "Célebes Septentrional" #Indonesian
+ STATE_1292_exonym: "Célebes Septentrional" #Exonym
+
+ STATE_1293: "Bali"
+
+ STATE_1294: "Java Oriental"
+ STATE_1294_indonesian: "Java Oriental" #Indonesian
+ STATE_1294_exonym: "Java Oriental" #Exonym
+
+ STATE_1295: "Yogyakarta"
+ STATE_1295_indonesian: "Yogyakarta" #Indonesian
+
+ STATE_1296: "Java Central"
+ STATE_1296_indonesian: "Java Central" #Indonesian
+ STATE_1296_exonym: "Java Central" #Exonym
+
+ STATE_1297: "Achín"
+ STATE_1297_indonesian: "Achín" #Indonesian
+
+ STATE_1298: "Sumatra Septentrional"
+ STATE_1298_indonesian: "Sumatra Septentrional" #Indonesian
+ STATE_1298_exonym: "Sumatra Septentrional" #Exonym
+
+ STATE_1299: "Sumatra Central"
+ STATE_1299_indonesian: "Sumatra Central" #Indonesian
+ STATE_1299_exonym: "Sumatra Central" #Exonym
+
+ STATE_1300: "Borneo Occidental"
+ STATE_1300_indonesian: "Borneo Occidental" #Indonesian
+ STATE_1300_exonym: "Borneo Occidental" #Exonym
+
+ STATE_1301: "Borneo Central"
+ STATE_1301_indonesian: "Borneo Central" #Indonesian
+ STATE_1301_exonym: "Borneo Central" #Exonym
+
+ STATE_1302: "Sandakan"
+
+ STATE_1303: "Zambezia"
+
+ STATE_1304: "Kionga"
+
+ STATE_1305: "Tete"
+
+ STATE_1306: "Islas Chatham"
+
+ STATE_1307: "Jiangxinpo"
+
+ STATE_1308: "Nuevas Hébridas"
+
+ STATE_1309: "Bougainville"
+
+ STATE_1310: "Isla de Pascua"
+
+ STATE_1311: "Islas Senkaku"
+ STATE_1311_chinese: "Islas Tiaoyutai" #Chinese
+
+ STATE_1312: "Yap"
+
+ STATE_1313: "Chuuk"
+
+ STATE_1314: "Islas Howland y Baker"
+
+ STATE_1315: "Atolón Palmyra"
+
+ STATE_1316: "Isla Jarvis"
+
+ STATE_1317: "Tokelau"
+
+ STATE_1318: "Samoa oriental"
+
+ STATE_1319: "Badajshán"
+
+ STATE_1320: "Brescia"
+
+ STATE_1321: "Inini"
+
+ STATE_1322: "Tonga"
+
+ STATE_1323: "Islas Kermadec"
+
+ STATE_1324: "Wallis y Futuna"
+
+ STATE_1325: "Islas Cook"
+
+ STATE_1326: "Islas Australes"
+
+ STATE_1327: "Islas Tuamotu"
+
+ STATE_1328: "Islas Marquesas"
+
+ STATE_1329: "Niue"
+
+ STATE_1330: "Kostromá"
+
+ STATE_1331: "Zinovievsk"
+ STATE_1331_2: "Kirovogrado" #Alternate name - Death of Kirov
+
+ STATE_1332: "Pavlogrado"
+
+ STATE_1333: "Borýspil"
+
+ STATE_1334: "Demchok"
+
+ STATE_1335: "Khurnak"
+
+ STATE_1336: "Ladakh"
+
+ STATE_1337: "Muzaffarabad"
+
+ STATE_1338: "Shaksgam"
+
+ STATE_1339: "Lhasa"
+
+ STATE_1340: "Sikkim"
+
+ STATE_1341: "Parbotto Chottogram"
+
+ STATE_1342: "Chittagong"
+
+ STATE_1343: "Khulna"
+
+ STATE_1344: "Rajshahi"
+
+ STATE_1345: "Moxico"
+
+ STATE_1346: "Huila"
+
+ STATE_1347: "Huambo"
+
+ STATE_1348: "Malanje"
+
+ STATE_1349: "Cuanza Norte"
+
+ STATE_1350: "Cabinda"
+
+ STATE_1351: "Daguestán"
+
+ STATE_1352: "Adigueya"
+
+ STATE_1353: "Karacháyevo-Cherkesia"
+
+ STATE_1354: "Ingusetia"
+
+ STATE_1355: "Kabardia-Balkaria"
+
+ STATE_1356: "Matsushima"
+ STATE_1356_korean: "Ullŭngdo"
+
+ STATE_1357: "Takeshima"
+ STATE_1357_korean: "Dokdo" #Korean
+ STATE_1357_exonym: "Rocas de Liancourt" #Exonym
+
+ STATE_1358: "Furukamappu"
+ STATE_1358_russian: "Yuzhno-Kurilsk" #Russian
+
+ STATE_1359: "Koriakiya"
+
+ STATE_1360: "Guadar"
+
+ STATE_1361: "Cabailistán"
+
+ STATE_1362: "Rawalpindi"
+
+ STATE_1363: "Diu"
+
+ STATE_1364: "Damán"
+
+ STATE_1365: "Dadra y Nágar Havelí"
+
+ STATE_1366: "Karaikal"
+
+ STATE_1367: "Mahé"
+
+ STATE_1368: "Yanam"
+
+ STATE_1369: "Chandernagore"
+ STATE_1369_2: "Chandannagar" #Alternate name - Indianization
+
+ STATE_1370: "Tripura"
+
+ STATE_1371: "Mizoram"
+
+ STATE_1372: "Manipur"
+
+ STATE_1373: "Nagaland"
+
+ STATE_1374: "Meghalaya"
+
+ STATE_1375: "Trans-Zeya"
+
+ STATE_1376: "Katanga"
+ STATE_1376_2: "Shaba" #Alternate name - Zairianization
+
+ STATE_1377: "Kivu"
+
+ STATE_1378: "Maniema"
+
+ STATE_1379: "Kasai del Sur"
+
+ STATE_1380: "Kasai"
+
+ STATE_1381: "Bandundu"
+
+ STATE_1382: "Bajo Congo"
+ STATE_1382_2: "Bajo Zaire" #Alternate name - Zairianization
+
+ STATE_1383: "Trenčín"
+ STATE_1383_hungarian: "Trencsén" #Hungarian
+
+ STATE_1384: "Međimurje"
+ STATE_1384_hungarian: "Muraköz" #Hungarian
+
+ STATE_1385: "Cottbus"
+
+ STATE_1386: "Espírito Santo"
+
+ STATE_1387: "Fengtien"
+
+ STATE_1388: "Paraná"
+
+ STATE_1389: "Guaporé"
+
+ STATE_1390: "Acre"
+
+ STATE_1391: "Río Branco"
+
+ STATE_1392: "Amapá"
+
+ STATE_1393: "Pará"
+
+ STATE_1394: "Piauí"
+
+ STATE_1395: "Ceará"
+
+ STATE_1396: "Sergipe"
+
+ STATE_1397: "Alagoas"
+
+ STATE_1398: "Pernambuco"
+
+ STATE_1399: "Paraíba"
+
+ STATE_1400: "Bajo Chaco"
+
+ STATE_1401: "Dersim"
+
+ STATE_1402: "Diyarbakır"
+
+ STATE_1403: "Olivenza"
+
+ STATE_1404: "Gorski Kotar"
+ STATE_1404_hungarian: "Hegyvidék" #Hungarian
+ STATE_1404_italian: "Montanaro" #Italian
+
+ STATE_1405: "Berar"
+
+ STATE_1406: "Ajtúbinsk"
+
+ STATE_1407: "Jharkhand"
+
+ STATE_1408: "Biafra"
+
+ STATE_1409: "Bendel"
+
+ STATE_1410: "Borno"
+
+ STATE_1411: "Sokoto"
+
+ STATE_1412: "Kano"
+
+ STATE_1413: "Gongola"
+
+ STATE_1414: "Abuya"
+
+ STATE_1415: "Níger"
+
+ STATE_1416: "Tirol Oriental"
+
+ STATE_1417: "Al Tubayq"
+
+ STATE_1418: "Hajin"
+
+ STATE_1419: "Hama"
+
+ STATE_1420: "Al-Thawrah"
+
+ STATE_1421: "Kobani"
+
+ STATE_1422: "Norte de Alepo"
+
+ STATE_1423: "Idlib"
+
+ STATE_1424: "Basilicata"
+
+ STATE_1425: "Marcas"
+
+ STATE_1426: "Łomża"
+ STATE_1426_german: "Lomscha" #German
+
+ STATE_1427: "Lida"
+
+ STATE_1428: "Ostrowiec"
+ STATE_1428_belarusian: "Astraviec" #Belarusian
+ STATE_1428_lithuanian: "Astravas" #Lithuanian
+
+ STATE_1429: "Salto"
+
+ STATE_1430: "Leticia"
+
+ STATE_1431: "Hararghe"
+
+ STATE_1432: "Tigray"
+
+ STATE_1433: "Sidamo"
+
+ STATE_1434: "Gojjam"
+
+ STATE_1435: "Are'eta"
+
+ STATE_1436: "Schneidemühl"
+ STATE_1436_polish: "Pila" #Polish
+
+ STATE_1437: "Tierra del Fuego"
+
+ STATE_1438: "Santa Cruz"
+
+ STATE_1439: "Arica"
+
+ STATE_1440: "Islas Juan Fernández"
+
+ STATE_1441: "Los Lagos"
+
+ STATE_1442: "Araucanía"
+
+ STATE_1443: "Atacama"
+
+ STATE_1444: "Chubut"
+
+ STATE_1445: "Neuquén"
+
+ STATE_1446: "Vranje"
+
+ STATE_1447: "Al Salman"
+
+ STATE_1448: "Ar Rutba"
+
+ STATE_1449: "La Pampa"
+
+ STATE_1450: "Corrientes"
+
+ STATE_1451: "Entre Ríos"
+
+ STATE_1452: "Vukovar"
+ STATE_1452_hungarian: "Vukovár" #Hungarian
+
+ STATE_1453: "Leyte"
+
+ STATE_1454: "Panay"
+
+ STATE_1455: "Negros"
+
+ STATE_1456: "Mindoro"
+
+ STATE_1457: "Luzón central"
+
+ STATE_1458: "Kandahar"
+
+ STATE_1459: "Magdanly"
+
+ STATE_1460: "Klintsí"
+
+ STATE_1461: "Shlisselburg"
+
+ STATE_1462: "Volzhski"
+
+ STATE_1463: "Ostrogotia"
+
+ STATE_1464: "Formosa"
+
+ STATE_1465: "Chaco"
+
+ STATE_1466: "Khafji"
+
+ STATE_1467: "Al Hofuf"
+
+ STATE_1468: "Córdoba"
+
+ STATE_1469: "San Juan"
+
+ STATE_1470: "Salta"
+
+ STATE_1471: "Berchtesgadener Land"
+
+ STATE_1472: "Islas Matsu"
+
+ STATE_1473: "Olónets"
+ STATE_1473_finnish: "Aunus"
+
+ STATE_1474: "Ujtá"
+
+ STATE_1475: "Alta Abjasia"
+
+ STATE_1476: "Piura"
+
+ STATE_1477: "Oriente"
+
+ STATE_1478: "Tumbes"
+
+ STATE_1479: "Puno"
+
+ STATE_1480: "Cusco"
+
+ STATE_1481: "Tacna"
+
+ STATE_1482: "Quemoy"
+
+ STATE_1483: "Hyderabad"
+
+ STATE_1484: "Kerala"
+
+ STATE_1485: "Superior"
+
+ STATE_1486: "Syzran"
+
+ STATE_1487: "Himachal Pradesh"
+
+ STATE_1488: "Uttaranchal"
+
+ STATE_1489: "Siedlce"
+
+ STATE_1490: "Kotlas"
+
+ STATE_1491: "Mordovia"
+
+ STATE_1492: "Chuquisaca"
+
+ STATE_1493: "Potosí"
+
+ STATE_1494: "Beni"
+
+ STATE_1495: "Pando"
+
+ STATE_1496: "Cochabamba"
+
+ STATE_1497: "Melekes"
+ STATE_1497_2: "Dimitrovgrad" #Alternate name - 1980
+
+ STATE_1498: "Palatinado"
+ STATE_1498_french: "Palatinado"
+
+ STATE_1499: "Równe"
+ STATE_1499_ukrainian: "Rivne" #Ukrainian
+ STATE_1499_russian: "Rovno"
+
+ STATE_1500: "Faryab"
+
+ STATE_1501: "Balj"
+
+ STATE_1502: "Ghazni"
+
+ STATE_1503: "Kunduz"
+
+ STATE_1504: "Bamiyán"
+
+ STATE_1505: "Flandes francés"
+ STATE_1505_german: "Flandes francés" #German
+ STATE_1505_exonym: "Flandes francés" #Exonym
+
+ STATE_1506: "Belluno"
+
+ STATE_1507: "Mérida"
+
+ STATE_1508: "Anzoátegui"
+
+ STATE_1509: "Lara"
+
+ STATE_1510: "Carabobo"
+
+ STATE_1511: "Artvin"
+
+ STATE_1512: "Sur de California"
+
+ STATE_1513: "Norte de California"
+
+ STATE_1514: "Sur de Arizona"
+
+ STATE_1515: "Norte de Arizona"
+
+ STATE_1516: "Sureste de Nuevo México"
+
+ STATE_1517: "Kutch"
+
+ STATE_1518: "Saurashtra"
+
+ STATE_1519: "Punyab Oriental"
+
+ STATE_1520: "Haryana"
+
+ STATE_1521: "Nagpur"
+
+ STATE_1522: "Albacete"
+
+ STATE_1523: "Bremen"
+
+ STATE_1524: "Wesermünde"
+
+ STATE_1525: "Anking"
+
+ STATE_1526: "Islas Pescadores"
+
+ STATE_1527: "Vindhya Pradesh"
+
+ STATE_1528: "Bhopal"
+
+ STATE_1529: "Tabasco"
+
+ STATE_1530: "Junagadh"
+
+ STATE_1531: "Tenasserim"
+
+ STATE_1532: "Karen"
+
+ STATE_1533: "Mon"
+
+ STATE_1534: "Sagaing"
+
+ STATE_1535: "Kengtung"
+ STATE_1535_thai: "Saharat Thai Doem" #Thai
+
+ STATE_1536: "Shan"
+
+ STATE_1537: "Chin"
+
+ STATE_1538: "Arakán"
+
+ STATE_1539: "Magway"
+
+ STATE_1540: "Irrawaddy"
+
+ STATE_1541: "Bago"
+
+ STATE_1542: "Karenni"
+
+ STATE_1543: "Alaska interior"
+
+ STATE_1544: "Mugla"
+
+ STATE_1545: "Hormozgán"
+
+ STATE_1546: "Nuevo León"
+
+ STATE_1547: "Trans-Pecos"
+
+ STATE_1548: "Oeste de Texas"
+
+ STATE_1549: "Sur de Texas"
+
+ STATE_1550: "Tobago"
+
+ STATE_1551: "Zacatecas"
+
+ STATE_1552: "Bonaire"
+
+ STATE_1553: "Luxemburgo belga"
+ STATE_1553_german: "Luxemburgo belga" #German
+ STATE_1553_exonym: "Luxemburgo belga" #Exonym
+
+ STATE_1554: "Alxa"
+
+ STATE_1555: "Missoula"
+
+ STATE_1556: "Este de Minnesota"
+
+ STATE_1557: "Kaokolandia"
+
+ STATE_1558: "Ovambolandia"
+
+ STATE_1559: "Hererolandia"
+
+ STATE_1560: "Kitikmeot"
+
+ STATE_1561: "Svalbard"
+ STATE_1561_russian: "Grumant" #Russian
+ STATE_1561_german: "Spitsberg" #German
+
+ STATE_1562: "Tierra de Francisco José"
+
+ STATE_1563: "Puebla"
+
+ STATE_1564: "Michoacán de Ocampo"
+
+ STATE_1565: "Guanajuato"
+
+ STATE_1566: "San Luis Potosí"
+
+ STATE_1567: "Nayarit"
+
+ STATE_1568: "Antioquia"
+
+ STATE_1569: "Amazonas"
+
+ STATE_1570: "Bijeljina"
+
+ STATE_1571: "Varmia"
+ STATE_1571_polish: "Varmia" #Polish
+
+ STATE_1572: "Shalkar"
+
+ STATE_1573: "Valle del Cauca"
+
+ STATE_1574: "Denizli"
+
+ STATE_1575: "Nericia"
+
+ STATE_1576: "Molise"
+
+ STATE_1577: "Siachen"
+
+ STATE_1578: "Tazovski"
+
+ STATE_1579: "Heligoland"
+
+ STATE_1580: "Şırnak"
+
+ STATE_1581: "Ordu"
+
+ STATE_1582: "Idre"
+
+ STATE_1583: "Öland"
+
+ STATE_1584: "Bulunski"
+
+ STATE_1585: "Iultinski"
+
+ STATE_1586: "Kaf"
+
+ STATE_1587: "Rafha"
+
+ STATE_1588: "Sur de la zona neutral"
+
+ STATE_1589: "Norte de la zona neutral"
+
+ STATE_1590: "Yozgat"
+
+ STATE_1591: "Senegal Oriental"
+ STATE_1591_2: "Tambacounda" #Alternate name - Senegal independence
+
+ STATE_1592: "Kokang"
+
+ STATE_1593: "Pattani"
+
+ STATE_1594: "Saraikistán"
+
+ STATE_1595: "Qazvín"
+
+ STATE_1596: "Chat el Arab"
+
+ STATE_1597: "Yazd"
+
+ STATE_1598: "Jorasán del Sur"
+
+ STATE_1599: "Montes Maoke"
+
+ STATE_1600: "Tierras Altas del Norte"
+
+ STATE_1601: "Tierras Altas del Sur"
+
+ STATE_1602: "Cordillera de Owen Stanley"
+
+ STATE_1603: "Montes Finisterre"
+
+ STATE_1604: "Oro"
+
+ STATE_1605: "Río Fly"
+
+ STATE_1606: "Sepik"
+
+ STATE_1607: "Nueva Irlanda"
+
+ STATE_1608: "Nueva Guinea Meridional"
+ STATE_1608_indonesian: "Merauke"
+
+ STATE_1609: "Marathwada"
+
+ STATE_1610: "Gulbarga"
+
+ STATE_1611: "Longyearbyen"
+
+ STATE_1612: "Auja al-Hafir"
+ STATE_1612_hebrew: "Nitzana" #Hebrew
+
+ STATE_1613: "Hedmark"
+
+ STATE_1614: "Gudbrandsdalen"
+
+ STATE_1615: "Femundsmarka"
+
+ STATE_1616: "Knutshø"
+
+ STATE_1617: "Dovrefjell"
+
+ STATE_1618: "Jotunheimen"
+
+ STATE_1619: "Cordillera"
+
+ STATE_1620: "Bushmanlandia"
+
+ STATE_1621: "Suroeste de Nuevo México"
+
+ STATE_1622: "Noroeste de Nuevo México"
+
+ STATE_1623: "Costa de los Esqueletos"
+
+ STATE_1624: "Kharan"
+
+ STATE_1625: "Kavangolandia"
+
+ STATE_1626: "Oeste de Minnesota"
+
+ STATE_1627: "Este de Dakota del Norte"
+
+ STATE_1628: "Tierra de Erik el Rojo"
+ STATE_1628_danish: "Østgrønland" #Danish
+
+ STATE_1629: "Polotsk"
+
+ STATE_1630: "Cornualles"
+
+ STATE_1631: "Selonia"
+
+ STATE_1632: "Vidlandia"
+
+ STATE_1633: "Orsk"
+
+ STATE_1634: "Sochi"
+
+ STATE_1635: "Bosanska Krajina"
+
+ STATE_1636: "Rosellón"
+ STATE_1636_catalan: "Rosellón" #Catalan
+
+ STATE_1637: "País Vasco francés"
+ STATE_1637_basque: "Iparralde" #Basque
+
+ STATE_1638: "Pantelaria"
+
+ STATE_1639: "Isla Bouvet"
+ STATE_1639_exonym: "Isla Bouvet" #Exonym
+
+ STATE_1640: "Yibin"
+
+ STATE_1641: "Nanchung"
+
+ STATE_1642: "Hunza"
+
+ STATE_1643: "Waján"
+
+ STATE_1644: "Bole"
+
+ STATE_1645: "Ovyur"
+
+ STATE_1646: "Darhad"
+
+ STATE_1647: "Panjshir"
+
+ STATE_1648: "San Francisco"
+
+ STATE_1649: "Valle de la Muerte"
+
+ STATE_1650: "Gran Cuenca de Nevada"
+
+ STATE_1651: "Norte de Nevada"
+
+ STATE_1652: "Luna"
+
+ STATE_1653: "Dechen"
+
+ STATE_1654: "Shaybah"
+
+ STATE_1655: "Lábrea"
+
+ STATE_1656: "Makaran"
+
+ STATE_1657: "Las Bela"
+
+ STATE_1658: "Kharan"
+
+ STATE_1659: "Costa de los Esqueletos"
+
+ STATE_1660: "Kavangolandia"
+
+ STATE_1661: "Bushmanlandia"
+
+ STATE_1662: "Hererolandia"

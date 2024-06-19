@@ -1,0 +1,57 @@
+﻿l_spanish:
+ # GUI:
+ STATE_DECISIONS_TITLE: "Decisiones del estado"
+
+ STATE_DECISIONS_ENTRY_NAME: "[This.GetStateDecisionName]"
+ STATE_DECISIONS_ENTRY_TT: "§Y[This.GetStateDecisionName]§! \n§L[This.GetStateDecisionDesc]§! \n\n§YRequisitos:§! \n[!entry_button_click_enabled] \n§YEfectos:§! \n[!entry_button_click]"
+ STATE_DECISIONS_ENTRY_COMPLETED_TT: "§Y[This.GetStateDecisionName]§! \n§L[This.GetStateDecisionDesc]§! \n\n§YEfectos:§! \n[!entry_button_click]"
+
+ STATE_DECISIONS_SHOW_TT: "§GHaz clic§! para mostrar la ventana de §Ydecisiones del estado§!."
+ STATE_DECISIONS_HIDE_TT: "§GHaz clic§! para ocultar la ventana de §Ydecisiones del estado§!."
+ STATE_DECISIONS_COLLAPSE_TT: "§GHaz clic§! para plegar esta ventana."
+
+ STATE_DECISIONS_SELECT_NEW_STATE_OWNER_TT: "§GHaz clic§! para seleccionar §Y[This.GetNameWithFlag]§! como el nuevo dueño de §Y[From.GetName]§!. \nSi haces ésto y pulsas el botón «Enviar», el estado se cederá a §Y[This.GetNameWithFlag]§!."
+ STATE_DECISIONS_SELECT_NEW_STATE_OWNER_TT_DELAYED: "[!select_entry_button_click_enabled]"
+ STATE_DECISIONS_DESELECT_NEW_STATE_OWNER_TT: "§GHaz clic§! para desmarcar §Y[This.GetNameWithFlag]§! como el nuevo dueño de §Y[From.GetName]§!."
+
+ STATE_DECISION_CEDE_STATE_LIST_WINDOW_OK_BUTTON_DELAYED_TT: "[!ok_button_click_enabled]"
+
+ # Scripted Triggers:
+ STATE_DECISIONS_HAS_SELECTED_A_NEW_STATE_OWNER: "Ha elegido un nuevo dueño para §Y[This.GetName]§!"
+ CHANGE_CAPITAL_STATE_MISSION_MISSION_NOT_ACTIVE: "La capital no se está moviendo actualmente"
+ STATE_DECISION_CEDE_STATE_NOT_ACTIVE: "No hay ninguna selección para el nuevo dueño de §Y[This.GetName]§! por el momento"
+ ADD_SHARED_BUILDING_SLOT_STATE_MISSION_MISSION_NOT_ACTIVE: "No hay ninguna confiscación de terreno en uno de nuestros estados controlados activa"
+ STATE_DECISION_STATE_HAS_ALL_UNLOCKED_SHARED_BUILDING_SLOTS_USED: "Todas las casillas de construcción actualmente desbloqueadas en §Y[This.GetName]§! se están usando"
+ STATE_DECISION_STATE_HAS_NOT_ALL_SHARED_BUILDING_SLOTS_UNLOCKED: "§Y[This.GetName]§! no ha desbloqueado todas las casillas de construcción y se están usando todas las casillas de construcción actualmente desbloqueadas"
+
+ # Scripted Effects:
+ STATE_DECISION_CANNOT_TRANSFER_CORE_STATE_NOT_OWNED_TT: "§Y[This.GetName]§! no será propiedad de §Y[Root.GetNameWithFlag]§!."
+ STATE_DECISION_CANNOT_TRANSFER_CORE_STATE_NO_CORE_COUNTRY_TT: "No hay ningún país esencial válido al que se pueda ceder §Y[This.GetName]§"
+ STATE_DECISION_CANNOT_TRANSFER_CORE_STATE_NO_CLAIM_COUNTRY_TT: "No hay ningún país reivindicativo válido al que se pueda ceder §Y[This.GetName]§"
+ STATE_DECISION_TRANSFER_CORE_STATE_CHOOSE_NEW_OWNER_TT: "Se abrirá una ventana para seleccionar al nuevo dueño de §Y[This.GetName]§!."
+
+ # Decisions:
+ State_decisions_GUI_category: "Decisiones del estado"
+
+ change_capital_state_mission: "Mover la capital a §Y[?change_capital_state_mission_target.GetName]§!"
+ change_capital_state_mission_desc: "La capital se mueve a §Y[?change_capital_state_mission_target.GetName]§!."
+
+ add_shared_building_slot_state_mission: "Casilla de construcción adicional en §Y[?add_shared_building_slot_state_mission_target.GetName]§!"
+ add_shared_building_slot_state_mission_desc: "Nos apoderamos de tierras privadas para poder ampliar la industria bélica en §Y[?add_shared_building_slot_state_mission_target.GetName]§!."
+
+ CHANGE_CAPITAL_STATE_MISSION_NO_EFFECT_TT: "§Y[Root.Capital.GetName]§! sigue siendo el estado capital."
+ ADD_SHARED_BUILDING_SLOT_STATE_MISSION_NO_EFFECT_TT: "§Y[?add_shared_building_slot_state_mission_target.GetName]§! no recibe una casilla de construcción adicional."
+
+ # State Decisions:
+ STATE_DECISION_1: "Mover capital"
+ STATE_DECISION_1_DESC: "Nuestro estado capital, §Y[Root.Capital.GetName]§!, está en peligro. ¡Deberíamos mover nuestra capital a §Y[This.GetName]§! para que le resulte al enemigo más complicado capturarla!"
+ STATE_DECISION_2: "Reivindicar estado"
+ STATE_DECISION_2_DESC: "¡§Y[This.GetName]§! es territorio [Root.GetAdjective] legítimo! Sólo tenemos que "«demostrar» que lo reivindicamos para justificar una guerra.
+ STATE_DECISION_3: "Devolver estado esencial"
+ STATE_DECISION_3_DESC: "§Y[This.GetName]§! es el estado esencial de otro país existente. Deberíamos devolverlo. \nSi tenemos reivindicaciones o la propiedad de §Y[This.GetName]§!, las perderemos."
+ STATE_DECISION_4: "Ceder estado reivindicado"
+ STATE_DECISION_4_DESC: "Otro país existente reivindica §Y[This.GetName]§!. Deberíamos cedérselo. \nSi tenemos reivindicaciones o la propiedad de §Y[This.GetName]§!, las perderemos."
+ STATE_DECISION_5: "Confiscar tierras para la industria"
+ STATE_DECISION_5_DESC: "§Y[This.GetName]§! no tiene suficientes propiedades gubernamentales sobre las que podamos ampliar nuestra industria bélica. Deberíamos confiscar tierras para poder usarlas para construir fábricas y edificios importantes."
+ STATE_DECISION_6: "Administración de derechos sobre recursos"
+ STATE_DECISION_6_DESC: "Como sus soberanos, es nuestro derecho exigir que utilicemos nosotros sus recursos directamente... y aunque no fuera nuestro derecho, ¿qué pueden hacer? \n\nSi ya hemos exigido derechos sobre los recursos de §Y[This.GetName]§!, de §Y[This.Owner.GetNameDef]§!, esta decisión nos hará renunciar de nuevo a nuestros derechos sobre dichos recursos. Tras su promulgación, volverá a estar disponible al cabo de §Y30§! días."

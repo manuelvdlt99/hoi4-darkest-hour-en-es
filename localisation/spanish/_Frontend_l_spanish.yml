@@ -1,0 +1,8 @@
+﻿l_spanish:
+############################################################
+### Ocean Colormap
+############################################################
+ SM_TEX_QUALITY: "Mapa de colores del océano"
+ SM_TEX_QUALITY_LOW: "El más brillante"
+ SM_TEX_QUALITY_MEDIUM: "Medio"
+ SM_TEX_QUALITY_HIGH: "El más oscuro"

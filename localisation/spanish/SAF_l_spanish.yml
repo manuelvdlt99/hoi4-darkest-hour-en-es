@@ -1,0 +1,345 @@
+﻿l_spanish:
+######################################################################
+#  South Africa Events
+######################################################################
+ SAF_Election_1933.1.t: "Elecciones generales de Sudáfrica de 1933"
+ SAF_Election_1933.1.d: ""
+ SAF_Election_1933.1.A: "J. B. M. Hertzog - Partido Nacional"
+ SAF_Election_1933.1.B: "Jan Smuts - Partido Sudafricano"
+ SAF_1933_General_Elections_held: "Elecciones generales de 1933 celebradas"
+
+ SAF_Election_1938.1.t: "Elecciones generales de Sudáfrica de 1938"
+ SAF_Election_1938.1.d: ""
+ SAF_Election_1938.1.A: "J. B. M. Hertzog - Partido Nacional"
+ SAF_Election_1938.1.B: "D. F. Malan - Partido Nacional Purificado (democracia autoritaria)"
+
+ SAF_Election_1943.1.t: "Elecciones generales de Sudáfrica de 1943"
+ SAF_Election_1943.1.d: ""
+ SAF_Election_1943.1.A: "Jan Smuts - Partido Unido (conservador)"
+ SAF_Election_1943.1.B: "D. F. Malan - Partido Nacional Reunificado (democracia autoritaria)"
+
+ SAF_Politics.2.t: "Reemplazar el neerlandés por el afrikáans"
+ SAF_Politics.2.d: ""
+ SAF_Politics.2.A: ""
+ 
+ SAF_Politics.3.t: "South African Airways"
+ SAF_Politics.3.d: "[FROM.GetNewsIcon]"
+ SAF_Politics.3.A: ""
+ 
+######################################################################
+#  South Africa Focuses
+######################################################################
+ SAF_1933_General_Elections: "Elecciones generales de 1933"
+ SAF_1933_General_Elections_held: "Se han celebrado las §Yelecciones generales de 1933§!\n"
+ SAF_National_Party_Victory: "Victoria del Partido Nacional"
+ SAF_National_Party_Victory_desc: "Desde este día en adelante, el Partido Nacional de Sudáfrica llevará a nuestro país a la gloria. Bajo el liderazgo del nuevo partido dirigente, los sudafricanos pueden esperar muchos cambios en su vida cotidiana, que será mejor, y nuestro país prosperará y se convertirá en una de las principales potencias de nuestro mundo."
+ SAF_South_African_Party_Victory: "Victoria del Partido Sudafricano"
+ SAF_South_African_Party_Victory_desc: "Tras una carrera bastante reñida con el Partido Nacional, el SAP ha logrado situarse en cabeza. El partido dominado por los afrikáneres ya ha dado coletazos de ser mucho más mediador entre los afrikáneres y los británicos de lo que sería el Partido Nacional. Aunque sigue centrado en los bóeres, Jan Smuts parece mucho más inclinado a buscar la cooperación con los anglos en igualdad de condiciones y a mantener una relación cordial con la Corona y no buscar la independencia inmediata o la emancipación de ésta. Entre sus medidas, también aspira a fomentar la inmigración de blancos europeos al continente."
+ SAF_Centralize_the_Government: "Centralizar el Gobierno"
+ SAF_Centralize_the_Government_desc: "Nuestra nación se encuentra en una gran depresión y, para curar esta enfermedad, debemos empezar reformando el Gobierno. La mejor decisión es centralizar nuestro Gobierno para gestionar el comercio tanto con el Eje como con los Aliados y con ello mantenernos neutrales en esta guerra, además de administrar nuestros territorios más rápidamente, pues tenemos la última palabra. Muchos ven ésto como un acto de cobardía, pero creemos que debemos cooperar con ambos bandos y, al final de la guerra, nos pondremos de parte del vencedor y seguiremos desarrollando nuestro país."
+ SAF_Restore_Relations_with_the_Boers: "Restaurar las relaciones con los bóeres"
+ SAF_Restore_Relations_with_the_Boers_desc: "Las cruentas guerras bóeres han mancillado la relación del Estado sudafricano con la población bóer de ascendencia neerlandesa y han hecho que éstos se opongan a todo lo que hacemos. Este deterioro de las relaciones con nuestros hermanos europeos ha llevado el malestar al Noroeste, rico en recursos, y ha diluido la unidad de todos los blancos del continente. Una campaña para atraer a los bóeres y mostrarles que su participación es necesaria y deseada en la formación de esta gran nación nos ayudará con este asunto."
+ SAF_Merger_with_the_SAP: "Fusión con el SAP"
+ SAF_Merger_with_the_SAP_desc: "Nuestro éxito en las elecciones no significa que vaya a repetirse, pues, aunque hemos conseguido la influencia política necesaria para alcanzar el poder, sospechamos que los anglos obstaculizarán nuestra creación de políticas en cada oportunidad que se les presente. Para evitar este tira y afloja indeseado, debemos cortejar y unir fuerzas con los afrikáneres del Partido Sudafricano para formar un bloque político unido que permita un apoyo casi unilateral a nuestras reformas."
+ SAF_Promote_Economic_Autarky: "Promover la autarquía económica"
+ SAF_Promote_Economic_Autarky_desc: "Una gran nación se vale por una misma sin tener que depender de nada ni de nadie para avanzar. Sudáfrica tiene tierras fértiles y minas profundas listas para ser explotadas. Importar productos de los británicos sólo serviría para volvernos adictos a chupar de su teta mientras la mayor parte de lo que necesitamos está a tiro de piedra. Nuestro país sólo prosperará cuando sepa aprovechar lo que tiene."
+ SAF_Increase_Afrikaner_Privileges: "Aumentar los privilegios a los afrikáneres"
+ SAF_Increase_Afrikaner_Privileges_desc: "Los afrikáneres han formado parte de Sudáfrica desde su colonización en el siglo XVII por parte de los Países Bajos, y fueron los primeros en colonizar y domesticar la zona. Debemos honrar a estos valientes hombres y mujeres concediéndoles los derechos que se merecen por encima de los ingleses y los indígenas y libertad para vivir como deseen. "
+ SAF_Replace_Dutch_with_Afrikaner: "Reemplazar el neerlandés por el afrikáans"
+ SAF_Replace_Dutch_with_Afrikaner_desc: "Ha llegado el momento de ahondar en nuestras raíces. No volveremos a escuchar la lengua de Ámsterdam. ¡Así pues, Sudáfrica sustituirá el neerlandés por el afrikáans para consolidar nuestro control y apoyo por parte de la población y profundizar nuestras raíces en este gran continente!\n\nAunque tengamos estrechos lazos con los neerlandeses, ya que muchos de nuestros políticos tienen ascendencia neerlandesa, uno de nuestros más grandes estadistas, James B. M. Hertzog, ha dejado morir estas raíces. Éste es el comienzo de una nueva era para Sudáfrica, y será la era en la que Sudáfrica demostrará su valor en el escenario mundial."
+ SAF_White_Only_Voting: "Sufragio sólo para blancos"
+ SAF_White_Only_Voting_desc: "A partir de este día, nuestro país de Sudáfrica borrará la opción de la gente de color de Sudáfrica de votar en las próximas elecciones, pues son indignos de opinar sobre quién dirigirá el país. Esta decisión fue tomada por el más alto cargo político de nuestro país y será respetada hasta que se produzca un cambio. En las próximas semanas, el Gobierno de Sudáfrica puede verse metido en un lío o será la paz la que resuelva esta cuestión. A ver cómo reacciona la población negra de Sudáfrica."
+ SAF_Establish_the_Department_of_Social_Welfare: "Crear el Departamento de Bienestar Social"
+ SAF_Grants_for_the_Old_and_Disabled: "Subvenciones para ancianos y discapacitados"
+ SAF_Grants_for_the_Old_and_Disabled_desc: "El futuro se construye sobre el presente y el presente se convertirá en pasado. Nunca debemos olvidar los sacrificios que nuestros padres y abuelos han hecho por nosotros, los que han dado su sangre, sus miembros e incluso sus cuerpos por las naciones y los que trabajaron sin descanso para construir esta gran nación. ¡No podemos permitir que nuestros mayores mueran en la pobreza y la miseria, debemos honrarlos! Pues honrarlos a ellos es honrar a nuestra nación, y ¿qué es una nación que no honra su propio pasado?"
+ SAF_Representation_of_Natives_Act: "Ley de Representación de Indígenas"
+ SAF_Representation_of_Natives_Act_desc: "Los indígenas de este país no son más que salvajes incultos, y los que han aprendido nuestras costumbres y poseen algo de riqueza siempre votarán en nuestra contra, pero, dado que son una minoría tan insignificante y tan molesta al mismo tiempo, nadie dirá ni pío ni en el Parlamento ni entre las masas si les quitáramos el sufragio. Al fin y al cabo, votar es para los ciudadanos, no para los salvajes."
+ SAF_Reconcile_with_the_States: "Reconciliarse con los estados"
+ SAF_Revive_the_Agricultural_Sector: "Revivir el sector agrícola"
+ SAF_Revive_the_Agricultural_Sector_desc: "Las sequías periódicas de los años veinte, seguidas del gran crac bursátil de 1929, han dejado a nuestros agricultores en la ruina. Aunque nuestra incipiente industria aún está en pañales, muchos de los habitantes de aquí dependían de la agricultura para subsistir, pero la mencionada crisis ha provocado un aumento masivo de los índices de pobreza. El Parlamento ha propuesto una serie de proyectos de ley que prevén subvenciones estatales para los cultivos de los agricultores blancos, así como un aumento de los aranceles hasta que el mercado vuelva a la normalidad."
+ SAF_Revive_the_Agricultural_Sector_tt: "Se modificará la reducción de estabilidad de la idea §YIndustria agrícola moribunda§! en un §G+5%§!."
+ SAF_Save_the_Economy: "Salvar la economía"
+ SAF_Merger_with_the_Nationalists: "Fusión con los nacionalistas"
+ SAF_Merger_with_the_Nationalists_desc: "El resultado de las elecciones ha sido claro: el Partido Sudafricano ha tenido una ventaja ajustada, pero bien definida, en las urnas. Instaurado el nuevo Gobierno, parece que nuestro partido rival, el Partido Nacional, ha llegado a un consenso con nosotros en muchísimas cuestiones, lo que ha llevado al Sr. Smuts a creer que es necesario poner fin a esta inútil competición entre nuestros partidos. Por ello, ha presentado una propuesta de fusión con los nacionalistas, un movimiento que consolidaría nuestros bloques electorales."
+ SAF_Healthcare_Investments: "Inversiones en sanidad"
+ SAF_Healthcare_Investments_desc: "El continente entero de África padece enfermedades provocadas por la madre naturaleza africana. Muchas naciones carecen de un sistema sanitario y muchas personas mueren a causa de las enfermedades que contraen. Para evitarlo, invertiremos considerablemente en asistencia sanitaria e intentaremos por todos los medios ayudar a nuestra gente a combatir sus enfermedades e intentar encontrar una cura para la peor de todas las enfermedades. El pueblo aprobará sin duda esta inversión y estará contento en un futuro previsible, claro que éso sólo ocurrirá si realizamos nuestras inversiones de la manera correcta."
+ SAF_Encourage_Privatisation: "Fomentar la privatización"
+ SAF_Connect_the_Rurals: "Conectar las zonas rurales"
+ SAF_Connect_the_Rurals_desc: "Aparte de las ciudades costeras y algunos asentamientos en el Noreste, la infraestructura sudafricana carece en gran medida de infraestructuras, con vastas extensiones de terreno puramente salvaje y caminos de tierra como únicas vías de comunicación. Hacer el esfuerzo de conectar la parte continental de nuestro país con las costas facilitará el acceso a los recursos del interior y permitirá unas líneas de suministro mucho más eficientes para nuestras tropas."
+ SAF_Bring_Natives_into_Factories: "Meter a los indígenas en fábricas"
+ SAF_Bring_Natives_into_Factories_desc: "Nuestra terquedad a la hora de trabajar con los indígenas ha perjudicado nuestro crecimiento industrial, llevando ya al límite la cantidad de mano de obra disponible. Gracias a las reformas de la administración actual en materia de leyes raciales, podemos aliviar esta carga trayendo a los bantúes y los joisanes a la planta de montaje y dándoles una formación en condiciones sobre el funcionamiento de las máquinas, lo que también nos permitirá seguir siendo competitivos en el mercado."
+ SAF_Abolish_Property_Discrimination: "Abolir la discriminación por propiedades"
+ SAF_Abolish_Property_Discrimination_desc: "¡Es el deber y el derecho de todos los hombres participar en el liderazgo del país! A medida que los tiempos han avanzado, también lo han hecho las instituciones del hombre; las leyes nos han igualado ante la justicia y ahora la tecnología y la educación nos han igualado en conocimientos y responsabilidad de actuación para con nuestra nación. Como tal, es natural que el hombre no sea discriminado por lo que posee, sino por lo que vale como hombre."
+ SAF_Extend_Pensions_and_Grants: "Extender las pensiones y subvenciones"
+ SAF_Reform_the_Party: "Reformar el partido"
+ SAF_United_Party_Victory: "Victoria del Partido Unido"
+ SAF_Appoint_Loyal_Governors: "Nombrar gobernadores leales"
+ SAF_Suspend_the_Parliament: "Suspender el Parlamento"
+ SAF_Suspend_the_Parliament_desc: "El ambiente político actual en Sudáfrica es espantoso, ya que está empañado por las disputas políticas y la influencia hegemónica de nuestros amos británicos. Con la Segunda Guerra Mundial en marcha, el malestar se ha apoderado de la nación, avivado por el sentimiento antibelicista y los ultimátums británicos para que nos unamos a esta guerra innecesaria. Para preservar la seguridad de nuestra nación y restaurar al menos una pizca de estabilidad política, debemos suspender el Parlamento.\n\nEste acto será temporal, un pequeño escalón para que los disturbios no se desborden. Aunque los ideales de la democracia son necesarios para el buen funcionamiento de un gobierno civil, no podemos permitir que los extremistas se instalen en nuestro Gobierno y que los políticos exploten esta crisis política para sus ambiciones. Sudáfrica aguantará, pero sólo si prevalecen las medidas drásticas."
+ SAF_Smuts_takes_Reign: "Smuts toma las riendas"
+ SAF_Form_the_Herenigde: "Formar el Partido Nacional Reunificado"
+ SAF_Dreams_of_Independence: "Sueños de independencia"
+ SAF_Dreams_of_Independence_desc: "Desde la integración de nuestra Unión en el Imperio británico, han surgido varios movimientos independentistas que buscan crear una Sudáfrica independiente de Londres. Aunque estos movimientos fueron aparentemente destruidos durante las guerras bóeres, aún hay multitud de personas que albergan en su corazón el deseo de independizarse. Con el Reino Unido ocupado en sus asuntos europeos y ante el temor de que los valientes hijos de Sudáfrica vuelvan a sacrificar sus vidas por una guerra extranjera, estos tiempos han creado el momento perfecto para que hagamos realidad nuestro sueño.\nEl sueño de la independencia."
+ SAF_Contest_British_Rule: "Impugnar el dominio británico"
+ SAF_Contest_British_Rule_desc: "Durante demasiado tiempo, nuestros amos británicos han disfrutado de un poder y un lujo sin control a expensas de nuestro pueblo. Han dictado nuestra política interior y exterior sin contexto ni consideración alguna hacia nuestro pueblo, siempre que se ajustara a los intereses de Londres y sólo a los suyos. Aseguran otorgarnos el estatus de «dominio», que somos libres de decidir nuestro destino como nación, pero los británicos se mantienen inflexibles a la hora de otorgar poderes a su gobernador general de confianza, financiando partidos políticos probritánicos y presionando a nuestro Gobierno para que reprima los sentimientos antiimperialistas.\n\nEs hora de que nos posicionemos y disolvamos nuestra relación con nuestros amos coloniales. El pueblo de Sudáfrica no puede seguir permitiendo que los oligarcas británicos mantengan un monopolio sobre nuestros asuntos, sean grandes como pequeños. Si se resisten, adelante. Se les acabó el chollo, ni más ni menos."
+ SAF_Proclaim_the_South_African_Republic: "Proclamar la República Sudafricana"
+ SAF_Proclaim_the_South_African_Republic_desc: "Ha llegado el momento de deshacernos de las cadenas de la opresión y el imperialismo británicos que han imperado sobre nosotros desde su conquista y colonización de las repúblicas bóeres en el siglo pasado. No nos dejaremos arrastrar por el collar anglosajón que llevamos al cuello ni en la cultura, ni en la política, ¡y mucho menos hacia una nueva guerra mundial!"
+ SAF_Integrate_the_Protectorates: "Integrar los protectorados"
+ SAF_Integrate_the_Protectorates_desc: "Nuestro país usa un sistema ciertamente burocrático e ineficiente para gobernar algunos de sus territorios: el sistema de protectorados. El sistema otorga una autonomía bastante generosa a algunos territorios, al tiempo que se benefician de nuestra protección y están bajo nuestra soberanía. Aunque nos ha funcionado en el pasado, ha dado lugar a ineficiencia y ha impedido a nuestro Gobierno ejercer su autoridad en todo el país. Va siendo hora de que nosl ibremos de este sistema e integremos todos los protectorados en el Estado sudafricano formal."
+ SAF_Claim_Bechuanaland_and_South_Rhodesia: "Reclamar Bechuanalandia y Rodesia del Sur"
+ SAF_Empower_the_Broederbond: "Conferir poderes a la Broederbond"
+ SAF_Empower_the_Broederbond_desc: "La Broederbond, una organización secreta creada por bóeres que ha ejercido una gran influencia en la política sudafricana desde su concepción como Jong Zuid Afrika, ha sido un elemento central de la política de nuestra nación durante muchos años. Con el reciente alejamiento de nuestra nación del Reino Unido y su esfera, debemos arrebatar la cultura y la política a los anglófonos y anglófilos. Ya han sido el centro de la dirección política de la nación, y muchos de sus miembros son los más influyentes de la sociedad, ¿por qué no hacerlo oficial?"
+ SAF_Ban_Natives_from_the_Army: "Prohibir la entrada de indígenas en el Ejército"
+ SAF_Ban_Natives_from_the_Army_desc: "Si hay que luchar, lucharán hombres descendientes de europeos y sólo ellos. Dejar el poder destructivo del armamento moderno y las astutas tácticas de la guerra moderna en manos de salvajes sin educación supondría la perdición para toda nuestra nación. Ningún negro empuñará un arma contra un europeo gracias a nosotros."
+ SAF_Recognise_German_Namibians: "Reconocer a los namibios alemanes"
+ SAF_Recognise_German_Namibians_desc: "Antaño, Alemania controlaba Namibia y muchos alemanes se instalaron en la región, pero, después de la Gran Guerra, Sudáfrica se anexionó la región. Para buscar una mayor relación con la nación alemana, deberíamos reconocerlos como su propio pueblo y concederles autonomía." 
+ SAF_Establish_the_Sauer_Commission: "Establecer la Comisión Sauer"
+ SAF_Stay_Inline_with_the_Statute_of_Westminster: "Ajustarse al Estatuto de Westminster"
+ SAF_Stay_Inline_with_the_Statute_of_Westminster_desc: "Los ingleses nos han ofrecido una gran libertad muy buscada con la reciente introducción del Estatuto de Westminster, y ahora tenemos realmente el poder de decidir nuestro propio futuro. Pero distanciarnos de ellos no haría sino alienarnos y aislarnos en el escenario mundial. Como muestra de agradecimiento y por el bien de nuestros propios intereses, haríamos bien en no separarnos de la Corona por el momento."
+ SAF_Moving_Past_Neutrality: "Dejar atrás la neutralidad"
+ SAF_Divert_Resources_into_the_War: "Destinar recursos a la guerra"
+ SAF_Divert_Resources_into_the_War_desc: "Aunque Sudáfrica ya mostró en la Gran Guerra que somos amigos de verdad de nuestros aliados europeos y que no hacemos ascos a contribuir a la lucha allá donde se nos necesite, esta nueva guerra nos obligará a poner de nuestra parte otra vez. Para lograr este objetivo, el alto mando, apoyado por el Gobierno y nuestros amigos de Londres, ha elaborado un plan que nos permitirá desviar una cantidad considerable de recursos, normalmente reservados para el mercado libre, hacia una serie de fábricas consideradas vitales para el esfuerzo bélico."
+ SAF_Handle_the_Ossewabrandwag: "Controlar al Ossewabrandwag"
+ SAF_Handle_the_Ossewabrandwag_desc: "Hemos hecho la vista gorda a las actividades del OB durante demasiado tiempo. Somos un país en guerra y, a pesar de ser una democracia, no podemos permitir el crecimiento de todo un colectivo social de traidores y saboteadores en potencia delante de nuestras narices. A partir de hoy, todas las sedes de la organización serán clausuradas y todos los que persistan en difundir su mantra serán considerados proscritos."
+ SAF_Coordinated_Planning: "Planificación coordinada"
+ SAF_Crackdown_on_Ultranationalism: "Mano dura con el ultranacionalismo"
+ SAF_Crackdown_on_Ultranationalism_desc: " Para evitar que nuestra Unión caiga en la inestabilidad política y en disputas sin sentido en este gran momento de conflicto, es de suma importancia reprimir cualquier movimiento que pueda amenazar la armonía en Sudáfrica. Los movimientos independentistas bóeres e indígenas llevan demasiado tiempo siendo una piedra en el zapato. Detendremos a sus líderes, incautaremos sus activos y propiedades, amenazaremos a cualquiera que se atreva a asociarse a ellos con la exclusión social y dispersaremos su organización, para que ningún extremista político, ya sea un indígena comunista o un bóer fascista, pueda amenazar con apuñalar por la espalda el esfuerzo bélico."
+ SAF_Draw_up_the_Native_Military_Corps: "Formalizar el Cuerpo Militar Indígena"
+ SAF_Draw_up_the_Native_Military_Corps_tt: "Aparecerán dos unidades de milicia en Transvaal."
+ SAF_Fortify_the_Cape_and_the_North: "Fortificar el Cabo y el norte"
+ SAF_Restore_the_Cape_Qualified_Franchise: "Restaurar el sufragio cualificado del Cabo"
+ SAF_Restore_the_Cape_Qualified_Franchise_desc: "El ardiente deseo de mantener fuera del electorado a las razas no afrikáneres y anglo se ha asegurado de crear una élite de personas que controlan el destino de todo el país, pero esta élite es tan restringida y pequeña que la eficacia con la que podemos hacer las cosas es bastante alta, pero hace que los privados de derechos se inquieten. Para impulsar este país, deberíamos eliminar todas las barreras a las que se enfrenta un enorme porcentaje de la población sudafricana para hacer oír su voz."
+ SAF_Closer_ties_to_the_Commonwealth: "Lazos más estrechos con la Mancomunidad"
+ SAF_Closer_ties_to_the_Commonwealth_desc: "Había que tomar una decisión: era el Eje o la Mancomunidad. Hemos acordado, como nación fuerte y libre, que unos lazos más estrechos con la Mancomunidad harán que nuestro país prospere y alcance todos sus objetivos futuros. A partir de hoy, nuestra atención se centrará en la Mancomunidad y sólo en la Mancomunidad. Los tratos con las potencias del Eje pertenecen ya al pasado."
+ SAF_Export_Arms_and_Volunteers: "Exportar armas y voluntarios"
+ SAF_Export_Arms_and_Volunteers_desc: "Sudáfrica, aunque es un dominio del Reino Unido, siempre ha estado dispuesta a luchar por lo correcto, lo hayan querido o no nuestros amos. Muchas veces hemos tenido que sentarnos al margen viendo sufrir a la gente, viendo caer la bota del opresor sobre el inocente. Pero éso se acabó.\nÉsta es una nueva era para Sudáfrica, pues por fin lucharemos por la libertad, donde y cuando sea necesario. Ya no toleraremos al hombre que piense que está bien intimidar a los demás hasta la sumisión. Será atacado con tal ferocidad que nadie lo esperará, porque no es consciente de lo único que corre por las venas del sudafricano medio: determinación. Determinación para luchar hasta el final, aunque estemos acorralados como ratas, aunque la situación sea desesperada. Pero a muchos se les olvida una cosa de las ratas. \nLas ratas pueden arañar."
+ SAF_Question_of_Federalisation: "La cuestión de la federalización"
+ SAF_Question_of_Federalisation_desc: "Ahora que la guerra europea ha llegado a las vidas de los sudafricanos, muchos en el Gobierno quieren un cambio. Este cambio concierne al propio Gobierno y a la forma de dirigir el país una vez acabada esta sangrienta guerra.\nDesde que Westminster nos metió en este lío, muchos quieren más autonomía y quizás la independencia. Sin embargo, éso habrá que sopesarlo mejor en su debido momento. No obstante, cabe preguntarse qué será de la Unión Sudafricana en última instancia. ¿Se establecerá un régimen más centralizado o prevalecerá la Unión, aunque más federalizada?"
+ SAF_Federal_Republic_of_South_Africa: "República Federal de Sudáfrica"
+ SAF_Centralised_Rule: "Gobierno centralizado"
+ SAF_Repeal_the_Statute_of_Westminister: "Revocar el Estatuto de Westminster"
+ SAF_More_Taxation_of_Segregation: "Más impuestos a la segregación"
+ SAF_Learn_from_Germany: "Aprender de Alemania"
+ SAF_Learn_from_Germany_desc: "Si bien nos hemos liberado de las cadenas de la opresión británica, ha llegado el momento de transformar políticamente nuestro país a fin de librarnos de las manchas que la colonización británica ha dejado en nuestro sistema político. Y, aunque este proceso nos obligará a defendernos, no hay que avergonzarse de aprender de países que han dominado situaciones similares. Y ¿qué mejor país del que aprender que Alemania? Alemania, bajo el liderazgo de Adolf Hitler y el NSDAP, se ha liberado de las cadenas de tanto el Tratado de Versalles como la corrupta democracia que casi destruyó su país, dominando al mismo tiempo la Gran Depresión como ningún país de Europa.\nY, si a los alemanes les funcionó, ¿por qué a nosotros no?"
+ SAF_Call_for_a_General_Election: "Convocar elecciones generales"
+ SAF_Federal_Union_of_South_Africa: "Unión Federal de Sudáfrica"
+ SAF_Federal_Union_of_South_Africa_desc: "Teníamos la respuesta delante de nosotros todo este tiempo. La Unión Sudafricana sigue siendo la Unión Sudafricana. Sin embargo, ésto induce cambios en nuestro Estado. Ahora el Parlamento ya no será un gobierno unitario y centralizado, sino federal, en el que los distintos sectores de Sudáfrica votarán a su candidato parlamentario. Esperemos que ésto conduzca a la resolución pacífica de cualquier mal pensamiento que el Gobierno actual haya dirigido hacia él."
+ SAF_Reshuffle_the_Cabinet: "Reorganizar el gabinete"
+ SAF_Appoint_Loyal_State_Governors: "Nombrar gobernadores de estado leales"
+ SAF_Fund_Rural_Mechanisation: "Financiar la mecanización rural"
+ SAF_Fund_Rural_Mechanisation_desc: "Nuestro sector agrícola se ha quedado muy rezagado en su producción debido a que sigue utilizando métodos tradicionales de cultivo, lo que ha provocado un desfase en el índice de producción de cultivos por acre entre nosotros y los países más avanzados. Este retraso podría subsanarse introduciendo equipos mecanizados en los campos; sin embargo, la mayoría de nuestros agricultores no tienen muchos beneficios que permitan una introducción masiva de tractores. Una solución propuesta en el Parlamento consistiría en subvencionar la introducción de dichos equipos prestando a los agricultores los equipos propiedad del Gobierno a tipos bajos u ofreciéndoles venderlos con un pago de horas extras a bajo interés para los más ricos."
+ SAF_Aliens_Registration_Act: "Ley de Registro de Extranjeros"
+ SAF_Aliens_Registration_Act_desc: "Aunque hay multitud de personas y etnias en Sudáfrica que viven actualmente en Sudáfrica, ha recaído sobre la raza europea la responsabilidad de garantizar el mantenimiento de la armonía racial en nuestra gran Unión. Mediante el registro y la categorización racial de todos los nuevos extranjeros que lleguen al país, podremos separar mayoritariamente las distintas razas entre sí y evitar el mestizaje, que podría poner en grave peligro nuestros esfuerzos por mantener la estabilidad y la armonía racial en Sudáfrica."
+ SAF_The_Asiatics_Bill: "El proyecto de ley de los asiáticos"
+ SAF_The_Asiatics_Bill_desc: "Actualmente hay una gran afluencia de asiáticos, principalmente de China y de la India, que están irrumpiendo en nuestro país. Aunque se trata de un fenómeno bienvenido por la enorme cantidad de mano de obra barata que estas personas podrían proporcionarnos, se ha hecho evidente que el creciente número de asiáticos bien podría socavar la estabilidad y la armonía racial de Sudáfrica. Para combatir cualquier consecuencia negativa que pueda producirse, aprobaremos la Ley de Registro de Asiáticos, que exigirá que todos los asiáticos se registren con su nombre y un certificado de identidad impreso y que toda persona que no lo haga se atenga a una multa económica inmediata o a la deportación."
+ SAF_Fund_Engineering_Companies: "Financiar empresas de ingeniería"
+ SAF_The_Storm_Looms: "La tempestad acecha"
+ SAF_The_Storm_Looms_desc: "Después de casi 20 años de paz, parece que el deseo humano de hacer la guerra ha superado cualquier intento de razonar o apaciguar. Se está gestando una tempestad en Europa y será la mayor convulsión que el mundo haya visto jamás. Caerán imperios, arderán continentes y naciones enteras serán destruidas. Y, en esta tormenta apocalíptica, Sudáfrica se mantendrá firme o será arrastrada al reino de la historia. En cualquier caso, sólo habrá una opción: luchar. Nada más."
+ SAF_Expand_Heavy_Industry: "Ampliar la industria pesada"
+ SAF_Expand_Heavy_Industry_desc: "Aunque Sudáfrica ya tiene una base industrial estable, a la luz de la situación actual se ha hecho evidente que sería sensato industrializar aún más nuestro país y acortar distancias con otras naciones, que actualmente tienen una gran ventaja industrial. Comenzaremos este proyecto ampliando nuestra industria pesada construyendo nuevas fábricas y subvencionando las ya existentes."
+ SAF_Metal_Foundries: "Fundiciones"
+ SAF_Metal_Foundries_desc: "La puesta en marcha de nuevas fundiciones metalúrgicas convertirá aún más nuestra economía en un modelo autosuficiente, al tiempo que potenciará nuestras capacidades bélicas. Con las inversiones en nuevas plantas metalúrgicas, podremos construir máquinas y armas que nos ahorrarán carne y sangre."
+ SAF_Nationalise_Foreign_Arms_Companies: "Nacionalizar las empresas armamentísticas extranjeras"
+ SAF_Nationalise_Foreign_Arms_Companies_desc: "Desde hace tiempo, Sudáfrica alberga una gran variedad de productores de armas de todo el mundo, y miles de armas fabricadas en el país han entrado en combate en casi todos los conflictos del planeta. Y, si bien estas empresas eran bienvenidas en tiempos de paz, ahora se ha convertido tristemente en una necesidad que nacionalicemos sus fábricas para reforzar nuestra producción armamentística y garantizar que las armas sudafricanas acaben únicamente en manos sudafricanas."
+ SAF_Commission_New_Tank_Assemblies: "Encargar nuevas fábricas de tanques"
+ SAF_Commission_New_Tank_Assemblies_desc: "Aunque Sudáfrica nunca ha tenido una industria estable de la que partir, éso cambia hoy. Se avecina una guerra en Europa, y Sudáfrica, aunque estemos lejos, debe estar preparada para el conflicto. Por tanto, nos convendría abrir nuevas fábricas para producir equipos para la guerra.\n\nLo que se construirá será una mezcla de fusiles, artillería y camiones; sin embargo, estas fábricas producirán principalmente tanques para el Cuerpo Blindado. Estos tanques abastecerán a nuestro Ejército y, de ser necesario, al Reino Unido y a algunos de nuestros otros aliados cuando llegue el momento. ¡Estos programas y fábricas convertirán a Sudáfrica en una potencia industrial nunca antes vista en el continente africano!"
+ SAF_Mass_Factory_Mechanisation: "Mecanización en masa de las fábricas"
+ SAF_An_Industrialised_South_Africa: "Una Sudáfrica industrializada"
+ SAF_Treat_the_Depression_Sorrows: "Tratar las penas de la Depresión"
+ SAF_Form_the_Anglovaal_Group: "Formar el Grupo Anglovaal"
+ SAF_Exploit_the_Witwatersrand_Basin: "Explotar la cuenca de Witwatersrand"
+ SAF_Exploit_the_Witwatersrand_Basin_tt: "Se modificará el coste de bienes de consumo de la idea §YGran Depresión§! en un §G-5%§!."
+ SAF_Mines_on_the_Orange_River: "Minas en el río Orange"
+ SAF_Mines_on_the_Orange_River_desc: "Con la anexión de Namibia a Sudáfrica, hemos accedido a toda la extensión del río Orange. Con este nuevo poder económico, deberíamos explotarlo abriendo minas a lo largo del río, sobre todo de diamantes, para impulsar el desarrollo económico de nuestra nación."
+ SAF_Market_Security_Haven: "Refugio de seguridad de los mercados"
+ SAF_Market_Security_Haven_tt: "Se modificará el coste de bienes de consumo de la idea §YGran Depresión§! en un §G-10%§!.\n"
+ SAF_Commission_New_Steel_Mills: "Encargar nuevas acerías"
+ SAF_Commission_New_Steel_Mills_desc: "Debido a la creciente falta de acero, tanto en Sudáfrica como en el resto del Imperio británico, debido a la tensa situación en Europa, el Gobierno colaborará con varios de los principales productores de acero de todo el Imperio para poner en marcha varias nuevas acerías, lo que nos ayudará a desarrollar nuestra propia industria militar al tiempo que nos permitirá apoyar a nuestros amigos y aliados con acero de alta calidad, siempre que lo necesiten."
+ SAF_Help_out_the_Protectorates: "Ayudar a los protectorados"
+ SAF_Build_up_Arms_Stockpiles: "Acumular arsenales"
+ SAF_Build_up_Arms_Stockpiles_desc: "Ante la tempestad que se avecina en Europa, muchos abogan por seguir acumulando armas. Aunque nuestro Ejército y nuestras reservas no son ninguna broma, aún tenemos que construir adecuadamente una reserva completa.\n\n Los fusiles Lee-Enfield han constituido la mayor parte de nuestro arsenal, pero un número añadido de ametralladoras, municiones, artillería e incluso unos cuantos camiones contribuiría fácilmente a aumentar nuestra reserva de forma monumental. Comprar armas del Reino Unido u otros benefactores es nuestra principal manera de obtener armas. Nuestra industria manufacturera tiene que ponerse las pilas o nos pillarán mal equipados y mal preparados."
+ SAF_The_Economy_Survives: "La economía sobrevive"
+ SAF_The_Economy_Survives_desc: "Parece que las medidas que hemos promulgado para combatir la reciente crisis económica han empezado a mostrar una mejoría. El mercado bursátil se ha estabilizado, las fábricas vuelven a abrir y ya están contratando a muchos de los parados que ha creado la crisis, mientras que la confianza de los ciudadanos en nuestro Gobierno también ha mejorado notablemente. Todavía hay algunos problemas que aquejan a nuestro país, pero la tarea más importante se ha logrado: La economía ha sobrevivido y, a partir de ahora, no hará más que mejorar."
+
+ SAF_Cape_Corps: "Cuerpo del Cabo"
+ SAF_Cape_Corps_desc: ""
+ SAF_Cape_Corps_tt: "Genera dos milicias en el Cabo Occidental."
+
+ SAF_Bush_Warfare_tt: "Añade la idea §YGuerra de arbustos§!, que concede: $MODIFIER_ARMY_ORG$: §R-2%§!, $MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-15%§!"
+
+ SAF_Bush_Warriors_of_Africa_tt: "Modifica §YGuerra de arbustos§! en:\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5%§!, $MODIFIER_LAND_REINFORCE_RATE$: §G+5%§!"
+
+ SAF_Unify_the_Regional_Commands_tt: "Genera una milicia en Namibia Occidental.\nModifica §YGuerra de arbustos§! en:\n$MODIFIER_ARMY_ORG$: §G+5%§!"
+
+ SAF_Invest_in_Radars_tt: "Concede la primera tecnología de radar si no se ha investigado aún.\n"
+
+ SAF_Empower_the_Broederbond_tt: "Añade la idea §YDominación afrikáner§!, que concede: $stability_good_modifier$: §G+10%§!"
+
+ SAF_Ban_Natives_from_the_Army_tt: "Modifica §YDominación afrikáner§! en:\n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0.5%§!, $MODIFIER_CONSCRIPTION_FACTOR$: §R-2.5%§!"
+
+ SAF_Recognise_German_Namibians_tt: "Modifica §YDominación afrikáner§! en: $MODIFIER_POLITICAL_POWER_GAIN$: §G+0.5%§!, $stability_good_modifier$: §G+10%§!"
+
+ SAF_The_South_African_Army: "Ejército sudafricano"
+ SAF_The_South_African_Army_desc: ""
+ 
+ SAF_The_Home_Guard: "La Guardia Nacional"
+ SAF_The_Home_Guard_desc: ""
+
+ SAF_Face_our_Enemies_Head_On: "Enfrentarnos a nuestros enemigos de frente"
+ SAF_Face_our_Enemies_Head_On_desc: ""
+
+ SAF_Bush_Warfare: "Guerra de arbustos"
+ SAF_Bush_Warfare_desc: ""
+
+ SAF_Expand_our_Northern_Forts: "Ampliar nuestras fortalezas al norte"
+ SAF_Expand_our_Northern_Forts_desc: ""
+
+ SAF_Bring_the_Artillery_up_to_Standard: "Poner la artillería al día"
+ SAF_Bring_the_Artillery_up_to_Standard_desc: ""
+
+ SAF_Development_of_Weapons: "Desarrollo de armas"
+ SAF_Development_of_Weapons_desc: ""
+
+ SAF_Expand_the_UDF: "Ampliar el UDF"
+ SAF_Expand_the_UDF_desc: ""
+ 
+ SAF_Bush_Warriors_of_Africa: "Guerreros de arbustos de África"
+ SAF_Bush_Warriors_of_Africa_desc: ""
+ 
+ SAF_Expand_the_Army_College: "Ampliar la Academia Militar"
+ SAF_Expand_the_Army_College_desc: ""
+ 
+ SAF_Unify_the_Regional_Commands: "Unificar los mandos regionales"
+ SAF_Unify_the_Regional_Commands_desc: ""
+ 
+ SAF_Promote_the_Q_Corps: "Promover el Cuerpo Q"
+ SAF_Promote_the_Q_Corps_desc: ""
+ 
+ SAF_Invest_in_Radars: "Invertir en radares"
+ SAF_Invest_in_Radars_desc: ""
+ 
+ SAF_Desert_Warfare: "Guerra de desierto"
+ SAF_Desert_Warfare_desc: ""
+ 
+ SAF_Better_Equipment_for_the_Troops: "Mejor equipo para las tropas"
+ SAF_Better_Equipment_for_the_Troops_desc: ""
+ 
+ SAF_Comission_Trucks_from_Ford: "Encargar camiones a Ford"
+ SAF_Comission_Trucks_from_Ford_desc: ""
+ 
+ SAF_Integrate_the_Tank_Batallions: "Integrar los batallones blindados"
+ SAF_Integrate_the_Tank_Batallions_desc: ""
+ 
+ SAF_Motorized_Artillery: "Artillería motorizada"
+ SAF_Motorized_Artillery_desc: ""
+ 
+ SAF_Engineering_Batallions: "Batallones de ingenieros"
+ SAF_Engineering_Batallions_desc: ""
+ 
+ SAF_Bring_the_Heat: "Subir la temperatura"
+ SAF_Bring_the_Heat_desc: ""
+ 
+ SAF_Form_the_Seaward_Defense_Force: "Formar la Fuerza de Defensa Marítima"
+ SAF_Form_the_Seaward_Defense_Force_desc: ""
+ 
+ SAF_ASW_Vessels: "Navíos ASW"
+ SAF_ASW_Vessels_desc: ""
+ 
+ SAF_Submarine_Hunter_Killers: "Cazadores asesinos submarinos"
+ SAF_Submarine_Hunter_Killers_desc: ""
+ 
+ SAF_Expand_the_Capetown_Shipyards: "Ampliar el astillero de Ciudad del Cabo"
+ SAF_Expand_the_Capetown_Shipyards_desc: ""
+
+ SAF_Minesweeping_Operations: "Operaciones de desminado"
+ SAF_Minesweeping_Operations_desc: ""
+ 
+ SAF_South_African_Naval_Forces: "Armada sudafricana"
+ SAF_South_African_Naval_Forces_desc: ""
+ 
+ SAF_South_African_Airforce: "Fuerza Aérea sudafricana"
+ SAF_South_African_Airforce_desc: ""
+ 
+ SAF_South_African_Airways: "South African Airways"
+ SAF_South_African_Airways_desc: ""
+ 
+ SAF_South_African_Airways: "South African Airways"
+ SAF_South_African_Airways_desc: ""
+ 
+ SAF_The_Hawkers_Prowl: "Los Hawkers merodean"
+ SAF_The_Hawkers_Prowl_desc: ""
+ 
+ SAF_Beyond_Biplanes: "Más allá de los biplanos"
+ SAF_Beyond_Biplanes_desc: ""
+ 
+ SAF_Convert_Passenger_Planes: "Convertir aviones de pasajeros"
+ SAF_Convert_Passenger_Planes_desc: ""
+ 
+ SAF_Close_Air_Support: "Apoyo aéreo cercano"
+ SAF_Close_Air_Support_desc: ""
+ 
+ SAF_Close_Air_Support: "Apoyo aéreo cercano"
+ SAF_Close_Air_Support_desc: ""
+ 
+ SAF_Establish_Aerial_Academies: "Fundar academias aéreas"
+ SAF_Establish_Aerial_Academies_desc: ""
+ 
+ SAF_Maritime_Patrols: "Patrullas marítimas"
+ SAF_Maritime_Patrols_desc: ""
+ 
+ SAF_History_Repeats_Itself: "La historia se repite"
+ SAF_History_Repeats_Itself_desc: ""
+ 
+ SAF_Curtail_Apartheid_Rhetoric: "Restringir la retórica del Apartheid"
+ SAF_Curtail_Apartheid_Rhetoric_desc: ""
+
+######################################################################
+#  South Africa Ideas
+######################################################################
+ SAF_great_depression: "Gran Depresión"
+ SAF_great_depression_desc: "El crac del 29 en Estados Unidos no debería haber afectado tanto a nuestra nación, por no decir nada. Por desgracia, nuestra dependencia de la economía británica ha sumido nuestra economía en una espiral de la muerte. El desempleo, la bancarrota, el estancamiento económico, todo ello afecta a la nación sudafricana. Ésto ha hecho sufrir por igual tanto a los europeos gobernantes como a los indígenas, y todos reclaman por igual reformas económicas rápidas aquí y ahora. Lo mejor será resolver esta crisis lo antes posible; de lo contrario, toda Sudáfrica será igual por fin... en su sufrimiento."
+
+ SAF_dying_agricultural_industry: "Industria agrícola moribunda"
+ SAF_dying_agricultural_industry_desc: "Agricultura industrial, el supuesto futuro de la industria agrícola. Menos en Sudáfrica. El experimento industrial ha sido un fracaso y ahora se está convirtiendo una industria moribunda en nuestra economía. No ha dado la producción deseada, no ha respetado las cuotas y resulta caro mantener el nivel actual. Ahora nos encontramos en una encrucijada. Mantener el rumbo actual y dejar que pase a los libros de historia, o reformar e intentar salvar lo que queda de nuestro experimento industrial."
+
+ SAF_history_of_segregation: "Historial de segregación"
+ SAF_history_of_segregation_desc: "Como medida para preservar la estabilidad, la ley y el orden, así como para garantizar el control de los europeos en Sudáfrica, se ha implementado un sistema de segregación racial con los años. Estas medidas, que conllevan la separación de tanto la mayoría indígena como la minoría gobernante, han fomentado una especie de armonía y estabilidad nacional, ya que impiden cualquier tipo de violencia sectaria/étnica que, de otro modo, minaría la estabilidad de la región. Sin embargo, ésto ha provocado algunas consecuencias imprevistas, ya que ha generado pobreza y desigualdad entre la población autóctona, que se enfada por tales condiciones mientras la clase dirigente se mantiene en el lujo. Si el problema de la segregación continúa, podría tener consecuencias devastadoras..."
+
+ SAF_ossewabrandwag: "Ossewabrandwag"
+ SAF_ossewabrandwag_desc: "Nuestra entrada en la Segunda Guerra Mundial ha provocado la ira de los afrikáneres, sudafricanos descendientes de los antiguos colonizadores neerlandeses. Estos afrikáneres, que durante mucho tiempo se han opuesto al dominio británico sobre la región, han adoptado un enfoque más agresivo para poner fin al dominio británico. El Ossewabrandwag —literalmente «centinela de un carro tirado por bueyes»— ha participado repetidamente en disturbios civiles, sabotajes, subversión del Estado, etc. Esta organización no es más que una amenaza para nuestro Gobierno y debemos ocuparnos de ella con extremo prejuicio. Y lo que es más importante, debe dejar de existir antes de estrechar la mano de Berlín, pues, de lo contrario, surgirían más problemas..."
+
+ SAF_all_for_one: "Todo para uno"
+ SAF_all_for_one_desc: ""
+
+ SAF_no_rural_funds: "Sin fondos rurales"
+ SAF_no_rural_funds_desc: ""
+
+ SAF_market_security: "Refugio de seguridad de los mercados"
+ SAF_market_security_desc: ""
+
+ SAF_privatization_efforts: "Esfuerzos de privatización"
+ SAF_privatization_efforts_desc: ""
+
+ SAF_extended_pensions: "Pensiones extendidas"
+ SAF_extended_pensions_desc: "Las anteriores redes de seguridad que se han establecido han proporcionado a nuestros pueblos los ingresos necesarios para mejorar su actual estilo de vida, pero recientes investigaciones demuestran que las inversiones siguen sin ser suficientes para cubrir ni siquiera una sola de las necesidades vitales básicas. Con la ampliación de estas redes de seguridad, garantizaremos el bienestar de nuestros mayores y fomentaremos el gasto en el mercado sudafricano."
+
+ SAF_natives_in_factories: "Trabajadores indígenas"
+ SAF_natives_in_factories_desc: ""
+
+ SAF_bush_warfare_idea: "Guerra de arbustos"
+ SAF_bush_warfare_idea_desc: ""
+
+ SAF_desert_patrols: "Patrullas del desierto"
+ SAF_desert_patrols_desc: ""
+
+ SAF_engineering_corps: "El Cuerpo de Ingenieros"
+ SAF_engineering_corps_desc: ""
+
+ SAF_afrikaner_dominance: "Dominación afrikáner"
+ SAF_afrikaner_dominance_desc: ""
+
+ SAF_sauer_commission: "Comisión Sauer"
+ SAF_sauer_commission_desc: ""
+
+ SAF_coordinated_army: "Ejército coordinado"
+ SAF_coordinated_army_desc: ""

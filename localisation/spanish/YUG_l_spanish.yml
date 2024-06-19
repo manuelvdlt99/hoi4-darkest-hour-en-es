@@ -1,0 +1,56 @@
+﻿l_spanish:
+######################################################################
+#  Yugoslavia Events
+######################################################################
+ YUG_Election_1935.1.t: "Elecciones generales de Yugoslavia de 1935"
+ YUG_Election_1935.1.d: ""
+ YUG_Election_1935.1.A: "Milan Stojadinović, Partido Nacional"
+
+ YUG_Election_1938.1.t: "Elecciones generales de Yugoslavia de 1938"
+ YUG_Election_1938.1.d: ""
+ YUG_Election_1938.1.A: "Milan Stojadinović, Partido Nacional"
+
+ YUG_Politics.1.t: "Cambio de PM"
+ YUG_Politics.1.d: ""
+ YUG_Politics.1.A: "Nikola Uzunović, Partido Nacional"
+
+ YUG_Politics.2.t: "Cambio de PM"
+ YUG_Politics.2.d: ""
+ YUG_Politics.2.A: "Bogoljub Jevtić, Partido Nacional"
+
+ YUG_Politics.3.t: "Cambio de PM"
+ YUG_Politics.3.d: ""
+ YUG_Politics.3.A: "Dragiša Cvetković, Partido Nacional"
+
+ YUG_Capitulation.1.t: "Nuestra capitulación"
+ YUG_Capitulation.1.d: ""
+ YUG_Capitulation.1.A: ""
+
+ YUG_Capitulation.2.t: "Nuestra capitulación"
+ YUG_Capitulation.2.d: ""
+ YUG_Capitulation.2.A: ""
+
+ YUG_Capitulation.3.t: "La capitulación de Yugoslavia"
+ YUG_Capitulation.3.d: "[GER.GetNewsIcon]El armisticio del alto mando yugoslavo con la rendición incondicional pone fin a la guerra para Yugoslavia, pero las secuelas traen inestabilidad y división por parte de los invasores del Eje. Estados títere como la ocupación militar de Serbia, el Banato y el protectorado italiano de Montenegro muestran las esferas de influencia italiana y alemana. Croacia se convierte en un Estado independiente anexionado por las potencias del Eje, mientras que Hungría y Bulgaria también reclaman algunos territorios.\n\nEl Gobierno en el exilio en Londres se enfrenta a la ingente tarea de comunicar y organizar a los chetniks para que resistan a las potencias del Eje. A pesar de sus esfuerzos, las tensiones entre las facciones y las potencias siguen latentes, y el legado de la guerra se dejará sentir durante décadas.\n\nLa división de Yugoslavia por las potencias del Eje subraya la naturaleza compleja y complicada de la guerra y sus secuelas, con consecuencias duraderas para la región."
+ YUG_Capitulation.3.A: "Ha llegado lo inevitable."
+ YUG_Capitulation.3.B: "Los Balcanes vuelven a sumirse en la oscuridad."
+
+ YUG_Capitulation.4.t: "La capitulación de Yugoslavia"
+ YUG_Capitulation.4.d: "[ITA.GetNewsIcon]Italia se ha abierto paso a través de las desorganizadas y desgreñadas divisiones yugoslavas, marchando hacia Belgrado y forzando una rendición incondicional de los ahora desmoralizados comandantes políticos y militares de Yugoslavia y de su pueblo. Italia ha conseguido todas sus reclamaciones en Dalmacia y más allá. Es hora de ver cómo se reparten Yugoslavia, mientras los rebeldes y valientes oficiales del Ejército yugoslavo y más se lanzan al campo para organizar una resistencia.\n\nAhora existe la inquietante tensión de qué ocurrirá con los nuevos regímenes títere de la antigua Yugoslavia encabezados por los amos italianos de turno. Dependiendo de cómo se aborden, las fronteras traerán el desastre a todos los grupos étnicos de los Balcanes durante años. La lucha continúa, y el desastre que son los Balcanes sigue complicándose aún más."
+ YUG_Capitulation.4.A: "Esperemos que nuestros amigos italianos tengan ésto bajo control."
+ YUG_Capitulation.4.B: "Donde acaba un problema en los Balcanes, empieza otro."
+
+######################################################################
+#  Yugoslavia Spirit
+######################################################################
+ YUG_Divided_Nation: "Nación dividida"
+ YUG_Divided_Nation_desc: "Yugoslavia, en este preciso instante, no es un Estado muy federalizado y está bastante controlado por los serbios. Los croatas y los demás pueblos exigen más autonomía, idea a la que los serbios responden negativamente."
+
+ YUG_Separatist_Terrorists: "Terroristas separatistas"
+ YUG_Separatist_Terrorists_desc: "La OIRM y la Ustacha suponen una gran amenaza para Yugoslavia. Los terroristas sabotean fábricas, bombardean ferrocarriles y matan a civiles inocentes para impulsar sus agendas.\n§RHemos de ocuparnos de estas organizaciones terroristas lo antes posible.§!"
+
+ YUG_Inexperienced_Military: "Ejército inexperto"
+ YUG_Inexperienced_Military_desc: "El Ejército yugoslavo no está bien equipado, no está bien entrenado ni dirigido, y tampoco está bien estructurado. El Ejército carece de armas, hombres y personal; la industria militar necesita un impulso, hay que resolver el problema serbocroata y reponer el personal."
+
+ YUG_Anti_German_Sentiments: "Sentimientos antialemanes"
+ YUG_Anti_German_Sentiment_desc: "Facciones en la Fuerza Aérea yugoslava se oponen a cooperar con Alemania. Podrían intentar derrocar el régimen si el país abre sus fronteras al Tercer Reich o se alía con él."

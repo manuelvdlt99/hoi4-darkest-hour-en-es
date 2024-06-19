@@ -1,0 +1,22 @@
+﻿l_spanish:
+ socialism_at_a_snails_pace: "Comunismo a paso de tortuga"
+
+ communist_revolutionary: "Revolucionario marxista-leninista"
+ communist_revolutionary_desc: "Defensor de la revolución internacional con la esperanza de contribuir a la transición del país, y del mundo en un futuro, hacia una sociedad comunista."
+ socialist_revolutionary: "Revolucionario socialista"
+ socialist_revolutionary_desc: "Defensor de la revolución internacional con la esperanza de contribuir a la transición del país, y del mundo en un futuro, hacia una sociedad comunista."
+ democratic_reformer: "Reformista conservador"
+ democratic_reformer_desc: "Firme creyente en el derecho del pueblo a gobernarse a sí mismo, este político considera que su capacitación es la primera prioridad y aspira a que el país se gobierne con su mandato."
+ fascist_demagogue: "Demagogo fascista"
+ fascist_demagogue_desc: "Impulsado por la voluntad de unir al pueblo bajo un Estado fuerte, este político hace hincapié en la retórica nacionalista y militarista."
+ authoritarian_demagogue: "Demagogo autócrata paternal"
+ authoritarian_demagogue_desc: "Este político cree que un gobernante hereditario sirve de poderoso icono para unir al país."
+ el_caudillo: "El Caudillo"
+ armchair_general: "General de salón"
+ armchair_general_desc: ""
+ paratrooper_trait: "Paracaidista"
+ GER_SS: "Waffen-SS"
+ GER_SS_desc: "Las Waffen-SS eran las asociaciones militares de las SS del Partido Nacionalsocialista."
+
+ rule_max_amount_of_divisions_per_general_minus_8_trait: "De regla seleccionada"
+ rule_max_amount_of_divisions_per_general_minus_8_trait_desc: "Se ha eligido la opción de las reglas personalizadas de permitir §Y16§! divisiones por general."

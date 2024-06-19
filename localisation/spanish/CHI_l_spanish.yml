@@ -1,0 +1,808 @@
+﻿l_spanish:
+ CHI_Economy.1.t: "El aumento del precio de la plata paraliza el yuan"
+ CHI_Economy.1.d: "[CHI.GetNewsIcon]Parecía que nuestro país iba a eludir los efectos de la Depresión, experimentando incluso un auge de las exportaciones mientras el resto del mundo sufría la deflación.\n\nNos equivocamos. \n\nDesde los primeros años de la República de China, nuestras reservas de plata marcan el valor de nuestra moneda. Sin embargo, los países del mundo están empezando a devaluar sus monedas y el precio de la plata está empezando a subir como consecuencia. Ésto está provocando una grave deflación que afecta negativamente al valor del yuan chino en los mercados de divisas y que no tiene visos de detenerse pronto."
+ CHI_Economy.1.A: "No tiene buena pinta."
+
+ CHI_Economy.2.t: "La depresión empeora"
+ CHI_Economy.2.d: "[CHI.GetNewsIcon]Nuestra crisis financiera actual acaba de empeorar. \n\nComo parte de sus nuevas políticas intervencionistas, el Gobierno de los Estados Unidos ha empezado a comprar grandes cantidades de plata para inflar los precios del metal. Ésto está provocando que la plata fluya desde el interior de China hacia el centro financiero de Shanghái, desde donde se exporta a Estados Unidos, provocando una catastrófica deflación de precios que está afectando enormemente a nuestra agricultura y a nuestra industria. A medida que empeora la crisis financiera, el futuro económico de China sigue siendo incierto."
+ CHI_Economy.2.A: "¡Malditos seáis, yanquis!"
+
+ CHI_Economy.3.t: "Ley de Compra de Plata de Estados Unidos"
+ CHI_Economy.3.d: "[CHI.GetNewsIcon]Otro golpe a la economía. \n\nContinuando con su política de compra de plata en grandes cantidades, el Gobierno de los Estados Unidos ha aprobado la Ley de Compra de Plata, que facilita la compra de plata en el extranjero hasta que el precio mundial de la plata suba por encima de 1,29 dólares la onza. Aunque esta ley probablemente se haya realizado para apoyar a los productores de plata estadounidenses, acarrea consecuencias imprevistas para nosotros. Con el repentino aumento del precio de la plata en todo el mundo, la plata está saliendo de China aún más rápido. No sólo se está catapultando la deflación, sino que nuestras propias exportaciones están menguando. Los bancos están sacando billetes de la circulación tras vender su plata en el extranjero, y la falta de suministro de billetes provocó una caída de los precios que afectó a muchas empresas y a sus trabajadores en el proceso. Como tenemos que recurrir a más préstamos, nuestra política de endeudamiento se está convirtiendo en una carga aún mayor. Tenemos que hacer algo con el eflujo de plata, especialmente los bancos privados responsables de este problema."
+ CHI_Economy.3.A: "Nosotros somos la carne y ellos el cuchillo de trinchar."
+
+ CHI_Economy.4.t: "Se imponen controles al intercambio de plata"
+ CHI_Economy.4.d: "[CHI.GetNewsIcon]Tenemos que detener la deflación descontrolada que está sembrando el caos en nuestra economía cueste lo que cueste. Por éso hemos decidido imponer controles al intercambio en el extranjero de plata para poner fin al eflujo del metal. Consistiría en un arancel del 10 por ciento y una carga de compensación, ajustándose ambos diariamente, que tienen por objeto hacer que la exportación de plata no sea rentable. Dado que a las fuerzas responsables del precio de la plata no les interesa detener sus operaciones, tenemos que tomar cartas en el asunto para proteger el bienestar económico del pueblo de China."
+ CHI_Economy.4.A: "A ver si funciona."
+
+ CHI_Economy.5.t: "¡La depresión empieza a mejorar!"
+ CHI_Economy.5.d: "[CHI.GetNewsIcon]Nuestras medidas para combatir la deflación están dando algunos frutos. Desde que impusimos aranceles y cargas de compensación en el mercado de la plata, las exportaciones de este metal han disminuido drásticamente. Sin embargo, vender plata sigue siendo una actividad rentable, así que hemos tenido que vender moneda extranjera para estabilizar la nuestra. Algunos altos funcionarios del Gobierno insinuaron que el patrón plata hace inevitables las fluctuaciones de precios y que deberíamos abandonarlo en favor de una moneda basada en el extranjero. Nuestro Gobierno se ve ante el dilema de preservar la plata o preservar las divisas extranjeras. Parece que harán falta más cambios estructurales para volver a encauzar la economía."
+ CHI_Economy.5.A: "Por fin buenas noticias."
+
+ CHI_Economy.6.t: "Chiang Kai-shek habla en contra de los banqueros"
+ CHI_Economy.6.d: "[CHI.GetNewsIcon]Mientras nuestro Gobierno lucha por resolver esta crisis, los bancos privados intentan cortar lazos con nosotros. El mayor banco privado del país, el Banco de China, está intentando liquidar nuestros bonos, lo cual podría permitirnos seguir financiando mediante deudas. En cambio, Chiang Kai-shek y el nuevo ministro de Finanzas, H. H. Kung, culpan a los bancos de la crisis económica, acusándolos de anteponer los beneficios a los intereses del pueblo. Los periódicos respaldan estas afirmaciones y los ciudadanos enfadados expresan su descontento con los bancos codiciosos. Este cambio en la opinión pública gracias a esta eficaz campaña propagandística nos ha permitido convencer a los bancos privados de que proporcionen fondos de emergencia a las empresas afectadas por la deflación. Pero tenemos que ir más allá si queremos poner fin a esta crisis."
+ CHI_Economy.6.A: "Es culpa suya."
+
+ CHI_Economy.7.t: "El golpe bancario"
+ CHI_Economy.7.d: "[CHI.GetNewsIcon]Se acabó la era de banqueros sin escrúpulos arruinando la economía con su avaricia. Hoy, el ministro Kung ha anunciado la nacionalización de dos grandes bancos privados de China: el Banco de China y el Banco de Comunicaciones. Esta adquisición ha sido posible gracias a la tenencia de suficientes acciones en ambos bancos, con lo que el Gobierno se convirtió de hecho en el accionista mayoritario. Hay quienes argumentan que los fondos de emergencia usados para comprar acciones se podrían haber usado para ayudar a los negocios afectados por la crisis, pero era un sacrificio necesario para detener la deflación. Más nombramientos patrióticos dispuestos a servir al país en lugar de a sí mismos sustituirán a los viejos banqueros que provocaron este desmadre desde un comienzo. Dado que ahora controlamos los dos mayores bancos de China, en el futuro podremos hacernos con el control de los bancos privados restantes acaparando sus billetes."
+ CHI_Economy.7.A: "¡Ahora nosotros somos los bancos!"
+
+ CHI_Economy.8.t: "Se introduce la moneda fa-pi"
+ CHI_Economy.8.d: "[CHI.GetNewsIcon]La posibilidad de una catástrofe financiera total hace necesaria una ambiciosa reforma monetaria y bancaria. Para acabar definitivamente con nuestra dependencia de las reservas de plata, el Gobierno emitirá una nueva moneda desvinculada del patrón plata: el fa-pi. Los nuevos billetes tienen curso legal pleno para su uso en transacciones públicas y privadas y el pago de impuestos. Se exige a los ciudadanos chinos y a otras instituciones privadas que entreguen sus reservas de plata restantes a la recién creada Junta de Reserva Monetaria para utilizar la nueva moneda, que usaremos para pagar nuestras deudas con Estados Unidos. El proceso de distribución de los billetes fa-pi se va a llevar a cabo de forma gradual y cautelar para evitar la inflación, con billetes emitidos por otros bancos que podrán circular en cantidades fijadas por el Gobierno, pero que acabarán retirándose del mercado. Se prohíben la posesión ilegal y el contrabando de plata, y los infractores serán duramente castigados por la ley. El Gobierno también ha anunciado la implementación de un nuevo «fondo de estabilización monetaria» que permite la compraventa de divisas extranjeras, que esperamos que mantenga las esperanzas de la población en la recién creada moneda."
+ CHI_Economy.8.A: "Con viento fresco se marcha la espina plateada."
+
+ CHI_Economy.9.t: "¡La economía mejora!"
+ CHI_Economy.9.d: "[CHI.GetNewsIcon]Tras un periodo inicial de implementación, parece que nuestras nuevas políticas monetarias están empezando a mostrar indicios de éxito. En Shanghái, los precios al por mayor están alcanzando niveles que sólo se habían visto justo antes de la recesión económica. Sin embargo, los cambios más aparentes parecen estar produciéndose en las aldeas rurales. El valor de mercado de los cultivos y el ganado aumenta constantemente, mientras que los gastos del agricultor medio se mantienen prácticamente estables. Con el aumento de los precios de los productos básicos, muchos de nuestros sectores agrícolas están registrando un equilibrio presupuestario, ¡y algunos incluso beneficios! Aunque en conjunto queda mucho por hacer, con el aumento del poder adquisitivo se espera una mayor mejora y estabilización económica en los próximos meses."
+ CHI_Economy.9.A: "¡Un repunte para los agricultores!"
+
+ CHI_Economy.10.t: "¡La inflación se descontrola!"
+ CHI_Economy.10.d: "[CHI.GetNewsIcon]Cuando parecía que nuestra economía estaba a punto de recuperarse, vuelve a producirse el desastre. Imprimir dinero en masa para respaldar la nueva moneda resultó ser un gran error, ya que la inflación empezó a crecer sin control. La supuesta solución para resolver el problema del patrón plata no hizo sino crear otro mayor. Como consecuencia, los precios se están disparando, poniendo en riesgo el modus vivendi de agricultores por todo el campo. Y lo que es aún peor: es probable que nuestra situación empeore aún más si entramos en guerra. Como necesitamos dinero para mejorar la economía y devolver nuestros préstamos, no se sabe cuánto durará esta inflación."
+ CHI_Economy.10.A: "¡Maldición!"
+
+ CHI_Economy.11.t: "¡Pánico bancario!"
+ CHI_Economy.11.d: "[CHI.GetNewsIcon]¡Pánico en las calles de nuestras ciudades urbanas! Impulsados por la noticia de la declaración de guerra de Japón, los ciudadanos chinos de Nankín y Shanghái se han apresurado a acudir a sus bancos locales para retirar el dinero que puedan. La moral está baja porque la gente está desesperada por vaciar sus cuentas y tener sus finanzas cerca. Algunos bancos están tomando medidas para limitar la cantidad que pueden retirar sus clientes en cualquier día dado, mientras que otros están cerrando directamente. Los bonos del Estado se están revendiendo a la velocidad más alta jamás registrada y, en consecuencia, el valor de nuestras garantías está cayendo en picado. Aunque inicialmente esperábamos cierto caos, si la situación sigue agravándose, es posible que tengamos que intervenir para mantener a flote nuestra situación económica durante esta crisis."
+ CHI_Economy.11.A: "Quizás debería ir yo también al banco."
+
+ CHI_Operation_Nekka.1.t: "Un ultimátum del Ejército de Kwantung"
+ CHI_Operation_Nekka.1.d: "A quien corresponda:\n\nEl acto perpetrado por el Ejército del Noreste ayer, día 1 de enero de 1933, es inaceptable en muchos sentidos. Han violado la soberanía nacional del Estado de Manchuria sin causa justificada, han acosado, intimidado e incluso atacado a soldados del Ejército Imperial Japonés sin causa alguna, y han causado daños irreparables a la frágil paz de la región. Desde el Imperio del Japón, cuyo único deber es la protección de la soberanía del Estado de Manchuria, hemos visto al Ejército del Noreste, y por extensión a la República de China, como belicistas que no tienen freno a la hora de violar la soberanía e independencia de Manchuria.\n\nPor ello, exigimos el cese de las hostilidades a lo largo del sector del Paso Shanhai de la frontera entre Manchuria y la República de China. El 626.º Regimiento del Ejército del Noreste y todas las demás tropas del Ejército del Noreste han de evacuar la zona con premura. Si no acceden a nuestras exigencias, el Imperio del Japón responderá militarmente.\n\nNo pongan a prueba nuestra determinación."
+ CHI_Operation_Nekka.1.A: "Es humillante, pero debemos postrarnos ante el sol naciente..."
+ CHI_Operation_Nekka.1.B: "¿Cómo se atreve esta escoria japonesa a amenazarnos? ¡Quiten ésto de mi vista!"
+
+ CHI_Operation_Nekka.2.t: "Un informe del Paso Shanhai"
+ CHI_Operation_Nekka.2.d: "El Paso Shanhai es una importante posición estratégica de la Gran Muralla que separa Manchuria de China. Fue aquí donde los ejércitos del príncipe Dorgon derrotaron a las fuerzas de la dinastía Shun rebelde en 1644, garantizando el mandato de los Qing para los siglos posteriores. La historia se repitió una vez más cuando otro ejército se hizo con el control del paso, pero se trataba de un adversario mucho más despiadado y poderoso.\n\nUtilizando como excusa un supuesto ataque con granadas, un comandante japonés del Ejército de Kwantung ordenó a los hombres del 626.º Regimiento que evacuaran el paso. Naturalmente, esta flagrante violación de nuestra soberanía sólo para hacerse con el control de la posición, que incluía llamar «terroristas» a nuestros soldados, fue rechazada por la guarnición. El ataque se produjo poco después. Usando escaleras de bambú improvisadas, los japoneses intentaron entrar en el paso. A pesar de contar sólo con un puñado de armas ligeras y las antiguas fortificaciones de la dinastía Ming como defensa, nuestros hombres hicieron frente heroicamente al ataque japonés. La lucha se convirtió rápidamente en una cruenta pelea cuerpo a cuerpo, con hombres cayendo en ambos bandos al filo de las bayonetas y las espadas. Pero ni siquiera la valentía puede superar el poder combinado de tanques, aviones, buques de guerra y trenes blindados, y la guarnición tuvo que evacuar la posición tras días de brutales combates.\n\nNi siquiera esta obra maestra de las fortificaciones humanas y símbolo del orgullo nacional chino pudo detener la arremetida japonesa. La crueldad de la guerra moderna no atiende en absoluto a los restos del pasado. Nuestros informes indican que los japoneses planean concentrar su avance en las montañas de Jehol. El Ejército de Kwantung no tiene intención de detenerse en la Gran Muralla."
+ CHI_Operation_Nekka.2.A: "¡Esta escoria barbárica lo pagará caro!"
+
+ CHI_Operation_Nekka.3.t: "¡Japón reclama Jehol!"
+ CHI_Operation_Nekka.3.d: "Una vez más, el Ejército de Kwantung busca justificación para tomar más partes de nuestro territorio del norte. Según un comunicado de altos funcionarios, los japoneses afirman que la provincia de Jehol es una porción histórica de Manchuria, aunque lleva casi 300 años bajo dominio chino. De hecho, antiguos emperadores Qing pasaban veranos en la región, visitando la Gran Muralla y alojándose en el balneario de las montañas de Chengte. A pesar de ello, los funcionarios de Kwantung insisten en que Jehol le fue arrebatado al pueblo manchú y buscan formas de socavar nuestra influencia en la zona. Obviamente, hemos respondido que las reivindicaciones carecen de todo fundamento y que defenderemos nuestro territorio soberano.\n\nEs poco probable, dada la historia de agresiones japonesas en Manchukuo, que la situación se calme pronto. Además, nuestros exploradores que observan los movimientos japoneses al norte de la zona están enviando informes de grandes convoyes de suministros, así como de una mayor y sospechosa actividad de tropas. Por desgracia, incluso con nuestra refutación a los japoneses, una guerra podría avecinarse en cuestión de días."
+ CHI_Operation_Nekka.3.A: "Los japoneses no tienen límite..."
+
+ CHI_Operation_Nekka.4.t: "¡Los delegados japoneses se reúnen con el general Tang!"
+ CHI_Operation_Nekka.4.d: "En nuestro conflicto actual, Tang Yu-lin gobierna la región de Jehol. El llamado «general sapo» no tiene el mejor de los historiales. Además de sus impopulares impuestos sobre la tierra para comprar propiedades en Tientsin, su tendencia a aceptar extorsiones y sus fastuosos y extravagantes banquetes, también controla la mayor parte del comercio de opio en Jehol. Sin embargo, este incidente en particular demuestra que ni siquiera los generales más corruptos están dispuestos a venderle el país al enemigo. Nos llegó que los japoneses se reunieron con el general Tang para convencerlo de que respaldara su toma de la región de Jehol. Sorprendentemente, el gobernador rechazó la oferta, lo que llevó a los japoneses a intentar conquistar la región. Ésto debería hablar muy bien del gobernador por negarse a desertar a los japoneses. Sin embargo, ya corren rumores de que el general Tang tiene pensado abandonar Jehol con su riqueza, lo que dice mucho de lo mal preparadas que están nuestras fuerzas."
+ CHI_Operation_Nekka.4.A: "Todo el mundo tiene límites."
+
+ CHI_Operation_Nekka.5.t: "El catastrófico incidente de Rehe"
+ CHI_Operation_Nekka.5.d: "El incidente en la frontera no ha sido más que una catástrofe tras otra. El despiadado Ejército de Kwantung convenció a su débil Emperador de que autorizara una invasión de la provincia de Jehol, y nuestras fuerzas son incapaces de detener el ataque. El comandante local, Tang Yu-lin, no está preparado para hacer frente al ataque, ignorando las órdenes del mariscal Chang Hsueh-liang. Los soldados se rinden en masa, algunos incluso desertan al enemigo. Aunque el Ejército Nacional Revolucionario no carece de comandantes competentes o soldados valientes dispuestos a proteger China, la falta de entrenamiento y equipo hace imposible resistir ante un enemigo de un tamaño más o menos parejo.\n\nEl resultado del mal estado de nuestras Fuerzas Armadas es evidente. El Ejército de Kwantung tomó Chaoyang y Chifeng, encontrando sólo una resistencia simbólica por parte de las fuerzas de Sun Tien-ying. Los tanques japoneses terminaron llegando a la capital de Jehol, Chengte. Nuestros refuerzos llegaron demasiado tarde para salvar la provincia de la fuerza combinada de los ejércitos japoneses y manchúes. El ENR consiguió plantar cara en el paso de Lengkou a pesar de ir armados con espadas, pero la abrumadora potencia de fuego japonesa los obligó a retirarse. Sólo un par de fortificaciones obsoletas se interponen ahora entre el norte de China y el Ejército de Kwantung.\n\nLa Sociedad de las Naciones respaldó nuestra afirmación de que Manchukuo es un Estado ilegítimo, pero este gesto no significa nada si no se traduce en apoyo para detener la agresión japonesa. Nosotros no queríamos esta batalla de entrada, y ahora es evidente que no podemos ganar de ninguna manera. Parece que nuestra única opción es aceptar las exigencias que el Ejército de Kwantung decida hacer."
+ CHI_Operation_Nekka.5.A: "¡Qué desastre!"
+
+ CHI_Operation_Nekka.6.t: "Chang es dado de baja"
+ CHI_Operation_Nekka.6.d: ""
+ CHI_Operation_Nekka.6.A: "¡Saquen a ese idiota del frente y envíenlo a luchar contra los comunistas!"
+
+ CHI_Operation_Nekka.7.t: "La secesión de Jehol"
+ CHI_Operation_Nekka.7.d: "Tras varias reuniones con líderes provinciales, oficiales militares y diplomáticos, hemos llegado a una conclusión ineludible. Con el Ejército de Kwantung ansioso por lanzar un ataque contra el sur de Manchuria y conociendo nuestras defensas posicionales en la zona, organizar una buena defensa de Jehol parece una tarea imposible. Estamos demasiado esparcidos en un área demasiado extensa, sobre todo teniendo en cuenta la habilidad de los japoneses de redesplegar rápidamente a sus fuerzas. Las perspectivas son previsiblemente nefastas también entre los altos mandos, pues ellos también saben que se trata de una situación inviable.\n\nPor tanto, a instancias del Gobierno y el Ejército, estamos redactando una carta para ceder formalmente el control de la provincia al Ejército de Kwantung. La carta afirmará que, aunque no creemos en la insensata afirmación de que Jehol es una parte moderna de Manchuria, evitar una costosa guerra entre las superpotencias asiáticas es lo mejor para todos. En lo privado, retroceder nos permitirá disponer de un bien aún más preciado que la tierra: el tiempo. El alto mando está creando mapas detallados de la zona para que, cuando hayamos realizado planes ofensivos, podamos destruir al títere de Manchukuo y expulsar a los japoneses del continente.\n\nPor desgracia, las potencias extranjeras verán ésto como un apaciguamiento. Ordenaremos a nuestros funcionarios que intenten darle algún giro positivo, pero los pueblos de toda la frontera verán este resultado como la incapacidad del Gobierno central para defender las fronteras. Nuestro mandato será cuestionado en los márgenes de nuestro dominio y seguramente surgirán más crisis a raíz de esta decisión. Pero se mantendrá el statu quo, al menos por ahora."
+ CHI_Operation_Nekka.7.A: "Una derrota humillante, pero una decisión humilde."
+
+ CHI_Tanggu_Truce.1.t: "Una reunión en Tientsin"
+ CHI_Tanggu_Truce.1.d: "Tras nuestra abrumadora derrota ante los japoneses en Jehol, estamos presionados en todos los frentes. La guerra civil continúa, proporcionando una amplia distracción al Ejército Nacional frente a una invasión exterior. Por ende, cuando recibimos la invitación para las negociaciones, no estábamos en condiciones de discutir.\n\nSe prevé que las conversaciones tengan lugar en el distrito de Tanggu de Tientsin. Aunque es poco probable, no podemos evitar soñar con términos favorables. Con el respaldo de la Sociedad de las Naciones y superioridad numérica, la amenaza japonesa no puede soportar una invasión a gran escala de la China continental. Tal vez se conformen con el fruto al alcance de Manchuria, una bendición económica por sí sola. En cualquier caso, ha sido una derrota humillante para el Kuomintang, derrota que no quedará impune."
+ CHI_Tanggu_Truce.1.A: "Quizá la hemorragia pueda parar por fin..."
+
+ CHI_Tanggu_Truce.2.t: "La cuestión de Manchuria"
+ CHI_Tanggu_Truce.2.d: "Previsiblemente, los saqueadores japoneses se niegan a devolver Manchuria a sus dueños legítimos, invirtiendo en su lugar en la legitimidad del nuevo Imperio de Manchukuo y mancillando el legado de los Qing con cada acuerdo. Consolidada la traición de Pu-i a sus compatriotas, no hay nada que hacer. Los invasores conservarán el control de todo el territorio al norte de la Gran Muralla, dejando a millones de ciudadanos chinos bajo el puño opresor de Hirohito. Por desgracia, con la amenaza comunista asomando en el horizonte, no podemos escatimar sangre ni sudor en la defensa de territorios extremos como Manchuria. Tendremos que reducir nuestras pérdidas y seguir adelante."
+ CHI_Tanggu_Truce.2.A: "Un pequeño precio a pagar por nuestra supervivencia."
+
+ CHI_Tanggu_Truce.3.t: "La cuestión de la militarización"
+ CHI_Tanggu_Truce.3.d: "¡Los bastardos han llegado demasiado lejos! Tras sus recientes éxitos en las negociaciones, los japoneses han utilizado su influencia para establecer una disruptiva zona desmilitarizada que se extiende cien kilómetros al sur de la Gran Muralla, quedando la propia muralla bajo control japonés como una especie de «medida de seguridad». Inutilizadas nuestras defensas principales, no nos queda otra que retirarnos de la zona, dejando indefensas las afueras de Peiping. La zona estará controlada por el Cuerpo de Preservación de la Paz supervisado por Japón, manteniendo el orden en lugar de una fuerza policial organizada del Kuomintang. La situación es grave, pero las ciudades aún no están perdidas. ¡Aún podemos recuperarnos!"
+ CHI_Tanggu_Truce.3.A: "Al menos el conflicto está descartado..."
+
+ CHI_Tanggu_Truce.4.t: "La cuestión de los ejércitos de voluntarios antijaponeses"
+ CHI_Tanggu_Truce.4.d: "Era demasiado optimista suponer que tendríamos alguna influencia sobre los acontecimientos de la zona desmilitarizada. Las conversaciones de paz se volvieron especialmente agitadas tras el anuncio de que habría varias cláusulas secretas en el armisticio, concretamente sobre la administración de la zona y la composición del Cuerpo de Preservación de la Paz. Aunque se permite al Ejército de Kwantung patrullar el área dentro de la zona para garantizar la obediencia, todos los miembros de los ejércitos de voluntarios antijaponeses están vetados, confirmando que los japoneses tienen el control absoluto de la región. Parece que la zona desmilitarizada era simplemente un pretexto para ampliar la influencia de Kwantung en el continente. Ceder a sus exigencias nos ha hecho ganar tiempo a costa del futuro."
+ CHI_Tanggu_Truce.4.A: "Siguen siendo rebeldes..."
+
+ CHI_Tanggu_Truce.5.t: "La tregua de Tanggu"
+ CHI_Tanggu_Truce.5.d: "[CHI.GetNewsIcon]Las hostilidades del Japón imperial hacia nuestra gran república eran más que aparentes, y su intento de reaccionar ante dicha agresión quedó demostrado en el incidente de Mukden. Nuestros ejércitos se esforzaron al máximo para hacer frente a las implacables fuerzas de los japoneses, pero nuestro país necesita desesperadamente modernizarse antes de poder oponer una resistencia eficaz. Las aldeas en llamas y los gritos de los niños en las calles son la prueba fehaciente de que nuestro ejército no está haciendo su trabajo como debería. Las humillantes pérdidas que están sufriendo nuestras fuerzas terrestres contra los japoneses imperialistas nos han obligado a sopesar la opción de negociar la paz con ellos, aunque no esperamos un trato justo con los perros imperialistas. Estamos acorralados.\n\nLa penosa condena de la invasión japonesa de Manchuria por parte de la SDN demuestra que es demasiado incompetente para proteger la soberanía de nuestra nación y que nos toca a nosotros preservar la República. Logramos reunirnos con representantes del Gobierno japonés y negociar un fin al cruento conflicto que ha estado arrasando el norte. Las exigencias japonesas iban al grano: habíamos de ampliar una zona desmilitarizada 100 kilómetros al sur de la Gran Muralla, desde Pekín hasta Tientsin, y la Gran Muralla como tal estaría estrictamente bajo control japonés. En nuestra posición actual, no nos queda otra que firmar el acuerdo injusto; éso o afrontar la arremetida de los ejércitos rebeldes del Imperio japonés.\n\nEl traicionero Pu-i está sentado en su trono en el nuevo Imperio de Manchukuo como un mero perrito faldero de los japoneses. Mientras que ellos recogen los frutos de la victoria y nuestra nación sigue sufriendo a manos de la negligente Sociedad de las Naciones, debemos hacer tiempo, pues Pu-i y los japoneses lo pagarán."
+ CHI_Tanggu_Truce.5.A: "Una vez más, otro tratado desigual."
+ tanggu_truce: "Tregua de Tanggu"
+
+ CHI_Liangguang.1.t: "Muere Hu Han-min" # CHI, GXC, GND
+ CHI_Liangguang.1.d.CHI: "Ha ocurrido un nuevo suceso en el Gobierno. El presidente del Kuomintang, Hu Han-min, ha muerto en Cantón de una hemorragia cerebral. Hu fue uno de los miembros principales de la facción derechista del partido y el líder de facto del sur de China. \n\nTambién criticó a Chiang Kai-shek por su supuesta inacción ante las amenazas japonesas. Aunque la muerte del presidente es una tragedia, tenemos que elegir a un sustituto para asegurarnos de que sus compinches no se aprovechen de la situación para perseguir su agenda. Asegurar nuestra autoridad sobre el sur de China garantizará que estemos preparados para hacer frente a la próxima agresión japonesa."
+ CHI_Liangguang.1.d.GXC: "Noticias alarmantes. El líder del Kuomintang, Hu Han-min, ha muerto en Cantón de una hemorragia cerebral. El presidente era uno de los principales rivales de Chiang Kai-shek y criticó su cobardía a la hora de lidiar con la amenaza japonesa y la corrupción desenfrenada y el amiguismo que permite en su Gobierno. \n\nCon la muerte de nuestro aliado, Chiang Kai-shek seguramente quiera poner a uno de sus secuaces a cargo para poner fin a nuestra autonomía. Este flagrante intento de acaparar el poder es inaceptable: tenemos que neutralizar cuanto antes los intentos de Chiang de monopolizar el poder poniéndonos en contacto con nuestros aliados de Cantón. ¡Chiang no volverá a humillarnos!"
+ CHI_Liangguang.1.d.GND: "¡Noticias muy preocupantes! El presidente del Kuomintang, Hu Han-min, ha muerto en Cantón de una hemorragia cerebral. El presidente era uno de los principales rivales de Chiang Kai-shek y lo criticaba por su falta de respuesta para con la amenaza japonesa y por permitir la corrupción en su Gobierno. Con la muerte de nuestro aliado, Chiang Kai-shek seguramente quiera poner a uno de sus seguidores a cargo para consolidar su control del sur de China. Esta situación no puede permitirse: tenemos que neutralizar cuanto antes los intentos de Chiang de monopolizar el poder poniéndonos en contacto con nuestros aliados de Kwanghsi. Es probablemente lo que el presidente habría querido."
+ CHI_Liangguang.1.CHI: "Una oportunidad para controlar el sur..."
+ CHI_Liangguang.1.GND: "¡Hay que parar a Chiang a toda costa!"
+ CHI_Liangguang.1.GXC: "¡Hay que parar a Chiang a toda costa!"
+
+ CHI_Liangguang.2.t: "Ultimátum de Liangguang"  # CHI
+ CHI_Liangguang.2.d: "¡Manda huevos lo de estos bandidos del sur! ¡No sólo se niegan a someterse a nuestra autoridad legítima y devolver el poder sobre Cantón al Gobierno central, sino que también pretenden imponernos sus políticas! Tras rechazar nuestro ultimátum, respondieron con una serie de exigencias que incluían centrar nuestra atención en Japón. Esta medida perturbaría nuestra campaña de pacificación interna, exacerbaría las relaciones con Japón y nos lanzaría a un conflicto para el que no estamos preparados.\n\nAnte los rumores de que los señores de la guerra de Kwanghsi y Cantón conspiran contra Chang, la frontera sur comienza a agitarse. Huelga decir que esta insolencia no será tolerada. Las camarillas del sudoeste deben desaparecer, por la fuerza si hace falta."
+ CHI_Liangguang.2.A: "No cederemos a las exigencias de señores de la guerra baladíes."
+
+ #CHI_Liangguang.3.t: "Our Ultimatum Accepted"
+ #CHI_Liangguang.3.d: ""
+ #CHI_Liangguang.3.A: "A surprise, but a pleasant one"
+
+ CHI_Liangguang.4.t: "Rechazan nuestro ultimátum" # GXC
+ CHI_Liangguang.4.d: "El corrupto Gobierno de Nankín ha rechazado nuestra solicitud, mostrando su voluntad a vender el país al Imperio del Japón. Si Chiang no presta atención a nuestras exigencias, entonces un acto de fuerza lo convencerá. Li Tsung-jen y el líder de Cantón, Chen Chi-tang, celebraron una reunión conjunta de las «organizaciones del sudoeste» planeando cómo desafiar la autoridad de Chiang y obligarlo a atender este asunto de vida o muerte para la nación china. \n\nUsando la fuerza combinada de nuestros ejércitos antijaponeses, nuestras fuerzas marcharán sobre Hunan para obligar a Nankín a doblegarse. La estructura corrupta y podrida del Kuomintang está poniendo a la nación china en riesgo, así que hacen falta medidas drásticas para darles un toque de atención."
+ CHI_Liangguang.4.A: "A ver si ahora nos hace caso."
+
+ CHI_Liangguang.5.t: "Fuerzas de Liangguang marchan sobre Hunan" # CHI
+ CHI_Liangguang.5.d: ""
+ CHI_Liangguang.5.A: "Prueba"
+
+ CHI_Liangguang.6.t_chi: "Deserciones de Cantón" # CHI
+ CHI_Liangguang.6.t_gxc: "Deserciones en el Ejército" # GXC, GND
+ CHI_Liangguang.6.d_chi: ""
+ CHI_Liangguang.6.d_gxc: ""
+ CHI_Liangguang.6.A_chi: "YEET"
+ CHI_Liangguang.6.A_gxc: ""
+
+ CHI_Liangguang.7.t: "Victoria en Hunan" # GXC
+ CHI_Liangguang.7.d: ""
+ CHI_Liangguang.7.A: ""
+
+ CHI_Liangguang.8.t: "Chen Chi-tang huye" # CHI, GXC
+ CHI_Liangguang.8.d_chi: ""
+ CHI_Liangguang.8.d_gxc: ""
+ CHI_Liangguang.8.A_chi: "Enviar a las tropas."
+ CHI_Liangguang.8.A_gxc: "¡Maldito sea!"
+ CHI_Liangguang.8.A_gnd: ""
+
+ CHI_Liangguang.10.t: "Hunan se une a Liangguang"
+ CHI_Liangguang.10.d: ""
+ CHI_Liangguang.10.A: ""
+
+ CHI_Liangguang.11.t_chi: "Detenido el avance de Liangguang"
+ CHI_Liangguang.11.t_gxc: "El avance hacia Hunan fracasa"
+ CHI_Liangguang.11.d_chi: ""
+ CHI_Liangguang.11.d_gxc: ""
+ CHI_Liangguang.11.A_chi: ""
+ CHI_Liangguang.11.A_gxc: ""
+
+ CHI_Liangguang.12.t_chi: "El Ejército del Noreste desierta"
+ CHI_Liangguang.12.t_gxc: "El Ejército del Noreste se une a nuestra causa"
+ CHI_Liangguang.12.d_chi: ""
+ CHI_Liangguang.12.d_gxc: ""
+ CHI_Liangguang.12.A_chi: "Debemos poner freno a ésto." #declare war
+ CHI_Liangguang.12.B_chi: "No podemos permitirnos los recursos de otra guerra." #negotiate
+ CHI_Liangguang.12.A_gxc: "Excelente."
+
+ CHI_Liangguang.13.t_chi: "Hunan retomado"
+ CHI_Liangguang.13.t_gxc: "El Gobierno central presiona para negociar"
+ CHI_Liangguang.13.d_chi: ""
+ CHI_Liangguang.13.d_gxc: ""
+ CHI_Liangguang.13.A_chi: "Envíen a un enviado, la lucha debe parar."
+ CHI_Liangguang.13.B_chi: "Terminaremos con ésto."
+ CHI_Liangguang.13.A_gxc: "Poner fin al derramamiento de sangre"
+
+ #CHI_Liangguang.10.t: "Negotiate with the Central Government?"
+ #CHI_Liangguang.10.d: ""
+ #CHI_Liangguang.10.A: "We cannot possibly face them in battle"
+ #CHI_Liangguang.10.B: "We will not bend the knee to the Generalissimo"
+
+ CHI_Liangguang.22.t: "Hacer presión para negociar"
+ CHI_Liangguang.22.d: ""
+ CHI_Liangguang.22.A: "Debemos aceptar."
+
+ ### Fujian Rebellion
+ CHI_Fujian.1.t: "Alzamiento comunista en Fukien"
+ CHI_Fujian.1.d: ""
+ CHI_Fujian.1.A: "Envíen al 19.º Ejército de Ruta."
+
+ CHI_Fujian.2.t: "¡El 19.º Ejército de Ruta desierta!"
+ CHI_Fujian.2.d: ""
+ CHI_Fujian.2.A: "¡Maldición!"
+
+ ### Trautmann Mediaition (China)
+ CHI_Trautmann.1.t: "Alemania se ofrece a mediar"
+ CHI_Trautmann.1.d: "Llevamos ya un tiempo enzarzados en una guerra con los japoneses y no ha transcurrido necesariamente a nuestro favor, pero hay una forma potencial de preservar la soberanía e independencia de nuestro país indefinidamente. Hace muchos años que somos buenos amigos del Gobierno alemán y, teniendo en cuenta el reciente acercamiento a nuestro enemigo, lo mejor para ellos es que ambos dejemos de luchar.\n\nEl embajador de Alemania en nuestro país, Oskar Trautmann, nos ha planteado la posibilidad de mediar en unas conversaciones de paz que, de tener éxito, podrían resultar muy útiles, ya que podríamos centrar plenamente nuestros esfuerzos en la amenaza de los insurgentes comunistas dentro de nuestro país. A pesar de ello, no nos doblegaremos ante nuestro enemigo aceptando un trato desfavorable que nos dejaría en peor situación que en la que estamos. Teniendo ésto en cuenta, podemos elegir rechazar la oferta de Trautmann para ahorrarnos el posiblemente perder un tiempo que podríamos estar dedicando a ganar la guerra."
+ CHI_Trautmann.1.A: "Quizás las Nueve Potencias nos salvan. No respondemos."
+ CHI_Trautmann.1.B: "Puede que la guerra no acabe yendo a nuestro favor, para preservar el país, debemos hacer un intento de paz."
+ CHI_Trautmann.1.C: "Los alemanes son nuestros amigos, pero es probable que ésto sea una pérdida de tiempo. Rechazaremos la oferta de Trautmann."
+
+ CHI_Trautmann.2.t: "Japón presiona para que se endurezcan los términos"
+ CHI_Trautmann.2.d: "¡Escándalo! Ahora que la paz entre nosotros y el Imperio del Japón parece una posibilidad real, estos malditos imperialistas han decidido pisar la mano que les tendimos ¡y han optado por escupir sobre nuestros intentos de reconciliación!\n\nTras las primeras rondas de negociaciones y con la ayuda de nuestro mediador Oskar Trautmann, presentamos a los japoneses el primer borrador de un posible tratado de paz, que habría sido beneficioso para ambas partes. Cierto, seguía siendo un tratado de derrota para nosotros, dado que habríamos tenido que ceder territorios en Mongolia, establecer una zona desmilitarizada en la frontera y hacer concesiones comerciales a los japoneses, pero habría supuesto un fin rápido a la guerra y paz entre nuestras naciones.\n\nAhora, la delegación japonesa ha regresado después de sopesar nuestra oferta inicial y la ha rechazado sin demora, presentándonos un nuevo tratado «mejorado». Y menudo tratado más escandaloso. Al igual que en el anterior tratado, nos veríamos obligados a ceder la Mongolia Interior y a establecer una zona desmilitarizada aún mayor, que haría simplemente imposible cualquier defensa considerable de la frontera contra los japoneses. Asimismo, tendríamos que hacer aún más concesiones, que tendríamos que pagar inevitablemente enviando casi toda nuestra industria sobrante a Japón.\n\nTrautmann ya ha intentado convencer a los japoneses de que repiensen sus términos, pero siguen inflexibles. Ahora nos toca a nosotros decidir: ¿vale la pena este tratado o deberíamos unirnos para continuar la guerra?"
+ CHI_Trautmann.2.A: "Debe alcanzarse la paz, cueste lo que cueste."
+ CHI_Trautmann.2.B: "Este tratado destruiría el futuro de China durante décadas. Nos negamos."
+
+ CHI_Trautmann.3.t: "Japón claudica las negociaciones"
+ CHI_Trautmann.3.d: "[CHI.GetNewsIcon]Parece que los japoneses han vuelto a rechazar nuestras propuestas de paz y han claudicado las conversaciones de paz iniciadas por Oskar Trautmann. Incluso ofreciéndoles a los japoneses amplias concesiones en forma de tierras, dinero, industria y mucho más, el imperio imperialista, impulsado por su codicia y su voluntad de dominar la totalidad de Asia, ha optado por exigir condiciones más duras, condiciones que sencillamente no podíamos satisfacer. Así que la guerra proseguirá, haciendo sufrir a millones de personas.\n\nQuizás fue insensato de nuestra parte abogar por la paz, quizás los japoneses lo interpretaron como una debilidad que explotar o un indicio de que dábamos la guerra por perdida, pero pronto se darán cuenta de que están totalmente equivocados. Nuestra resistencia continuará, sin que lo impidan el apaciguamiento o la política, decididos a luchar por la supervivencia libraremos esta guerra hasta el último hombre y la última bala. Esta guerra será la mayor victoria de China o su última derrota, un punto medio ya no es posible. Los japoneses se encargaron de que así fuera."
+ CHI_Trautmann.3.A: "Ante la historia, nuestra conciencia es clara: nunca quisimos esta guerra."
+
+ CHI_Trautmann.4.t: "Tratado de Shanghái"
+ CHI_Trautmann.4.d: "[CHI.GetNewsIcon]Tras rondas de conversaciones diplomáticas, parece haber luz al final del largo túnel. El embajador Trautmann ha dirigido las negociaciones entre el Ejército de Kwantung y nuestro Gobierno durante semanas ya. Ha sido una conferencia caótica, ya que se han producido intentos de abandono sobre múltiples temas. Un suceso llevó a una pausa de una semana, en la que Trautmann consiguió que ambas partes volvieran a la mesa. Está claro que los alemanes desean la paz entre nuestros países, pero no se sabe por qué. En cualquier caso, nuestra nación está cansada y la paz es deseable, bajo ciertas condiciones.\n\nLos términos redactados han sido aprobados tanto por Trautmann como por la propia Alemania. Japón insiste en que los términos sólo serán vinculantes durante un breve periodo, así que hay que tomar una decisión rápido. Véase este resumen:\n\nAutonomía de Mongolia Interior, tanto de la influencia china como japonesa.\n\nHabrá dos nuevas zonas desmilitarizadas, una entre Manchukuo y nuestra frontera norte, y otra en la propia Shanghái, con una presencia policial internacional.\n\nTodas las medidas antijaponesas promulgadas serán frenadas.\n\nLas fuerzas japonesas y chinas cooperarán contra el comunismo en Asia y los alrededores.\n\nLos productos japoneses estarán sujetos a aranceles más bajos.\n\nSe respetarán las propiedades y los derechos de naciones extranjeras en China.\n\nCon una solución pacífica a la vista, algunos funcionarios del Gobierno están divididos. Podríamos poner fin al conflicto y centrarnos en los comunistas al sur, pero podría ser sólo una paz momentánea y los japoneses podrían romper los términos, sabiendo lo recelosos que son los funcionarios de Kwantung. Otros insinúan que pronto podría producirse un avance en el norte y que poner fin a la guerra ahora detendría una posible victoria. En cualquier caso, China pende de un hilo y nuestra nación está agotada. ¿Cómo seguimos?"
+ CHI_Trautmann.4.A: "Aceptar los términos de inmediato, la paz es una pausa bienvenida en el continente."
+ CHI_Trautmann.4.B: "Aún tenemos Shanghái y nuestro ejército tiene ventaja. Aplazar el acuerdo durante un periodo de tiempo."
+
+ CHI_Trautmann.5.t: "Una nueva propuesta de tratado"
+ CHI_Trautmann.5.d: "Tras informar a los oficiales japoneses de nuestra posición abierta a otro intento de paz, han vuelto con un borrador de sus requisitos para un alto el fuego. Marginada Alemania de esta propuesta, nuestro mejor facilitador sólo puede observar cómo se leen los términos en voz alta. Decir que son totalmente lo contrario al tratado original sería quedarse muy corto. Se presentan del siguiente modo:\n\nManchukuo será reconocido diplomáticamente por la República de China.\n\nMongolia Interior conservará la autonomía ante Japón y China.\n\nTodas las medidas antijaponesas y antimanchúes promulgadas por nuestro Gobierno serán pausadas.\n\nLas fuerzas japonesas, chinas y manchúes cooperarán en la aniquilación del comunismo en Asia y los alrededores.\n\nChina pagará reparaciones de guerra a Japón, cuyo importe no se ha revelado.\n\nSe incluirían las dos propuestas de zonas desmilitarizadas originales, pero ampliadas en el lado chino.\n\nNuevos acuerdos comerciales redactados entre China, Japón y Manchukuo.\n\nLa cláusula de reparaciones de guerra por sí sola es suficiente para hacer reflexionar seriamente a nuestro equipo negociador. Cuando se leen las nuevas ampliaciones de las zonas desmilitarizadas, se oyen gritos ahogados de varios administradores. Tras largas conversaciones con oficiales militares y funcionarios del Gobierno, muchos han declarado que sería casi imposible para nuestras fuerzas defender la nueva frontera de la zona desmilitarizada. Está por ver cómo se dividirán las reparaciones de guerra, pero conociendo a los japoneses, se espera que sean duras. ¿Cómo respondemos a esta propuesta?"
+ CHI_Trautmann.5.A: "La paz es la paz, aunque sea dolorosa. Enviamos a la delegación nuestra aceptación de los términos."
+ CHI_Trautmann.5.B: "Esto va más allá de nuestras condiciones y es sencillamente inaceptable. ¡No respondemos al espantoso documento!"
+
+ CHI_Civil_War.1.t: "Las campañas de cerco"
+ CHI_Civil_War.1.d: ""
+ CHI_Civil_War.1.A: "Erradicaremos esta amenaza comunista."
+
+ CHI_Civil_War.2.t: "Comienza el cuarto cerco del sóviet de Kiangsi"
+ CHI_Civil_War.2.d: "Para acabar con la República Soviética de China de una vez por todas, nuestro Ejército ha decidido lanzar otra campaña de cerco contra el Ejército Rojo. Tras destruir las bases comunistas en la región fronteriza de Hunan-Henan-Anhui, esta vez centraremos nuestra atención en aniquilar el sóviet de Kiangsi. El general Ho Ying-chin está a cargo de la operación y ha movilizado a más de medio millón de hombres. El plan de batalla consistirá primero en desplegar una línea de bloqueo para cortar el flujo comunista de suministros, y luego el frente central atacará la base comunista con el apoyo de los flancos izquierdo y derecho. Esta vez, nos aseguraremos de que los ejércitos comunistas no se zafen de la destrucción total."
+ CHI_Civil_War.2.A: "A ver qué tal va."
+
+ CHI_Civil_War.3.t: "Fracaso en Kiangsi"
+ CHI_Civil_War.3.d: "[CHI.GetNewsIcon]El Ejército Rojo sigue siendo una espina clavada en la República. Una vez más, nuestro último intento de derrotar a las fuerzas comunistas en Kiangsi se saldó con un sonoro fracaso. Como subestimamos la fuerza del enemigo y una serie de errores de comunicación dificultaron las operaciones de combate, nuestras fuerzas no lograron desalojar a los comunistas de Lichwan. Aunque conseguimos infligir grandes bajas al Ejército Rojo, nuestras fuerzas fueron emboscadas y aniquiladas. Los comunistas han podido ganar esta vez, pero su destrucción es inevitable. ¡Basta ya de que estos bandidos asolen el país!"
+ CHI_Civil_War.3.A: "Un bochorno para el ENR."
+ fourth_encirclement: "La cuarta campaña de cerco ha concluido"
+
+ CHI_Civil_War.31.t: "Destrucción de la base de Peng-hsiang"
+ CHI_Civil_War.31.d: "[CHI.GetNewsIcon]"
+ CHI_Civil_War.31.A: "Un paso más cerca de su destrucción."
+
+ CHI_Civil_War.4.t: "Preparación para la quinta campaña"
+ CHI_Civil_War.4.d: "La desastrosa cuarta campaña de cerco nos ha demostrado que ya no podemos subestimar al sóviet de Kiangsi y que debemos pensar en nuevas tácticas si queremos extirpar a la mugre comunista. Reforzados nuestros números por la vacilante participación de los señores de la guerra y nuestro cambio de estrategia proporcionado por los alemanes, esperamos tener por fin la fuerza suficiente para expulsar a los comunistas de sus posiciones.\n\nPlaneamos utilizar la guerra de fortificaciones para forzar a los comunistas a una batalla de desgaste, en la que los atraigamos a zonas fortificadas y los obliguemos a combatir con nuestras tropas atrincheradas. Una vez agotadas sus fuerzas de combate y su mano de obra, pretendemos avanzar y aplastarlos mientras los señores de la guerra, de los que esperamos un leve compromiso con el esfuerzo bélico, se quedan atrás y actúan como tropas de bloqueo y guarnición de las zonas ocupadas. Los campos se teñirán de rojo."
+ CHI_Civil_War.4.A: "Esta vez estaremos listos."
+
+ CHI_Civil_War.5.t: "El Generalísimo en Nanchang"
+ CHI_Civil_War.5.d: "Tras unas breves vacaciones, Chiang Kai-shek ha vuelto al trabajo. El Generalísimo ha llegado a Nanchang para preparar personalmente a sus fuerzas para la nueva operación contra el sóviet de Kiangsi. Esta vez se ha movilizado a más de medio millón de hombres de todas las regiones de China para organizar un quinto cerco a gran escala y la represión del Ejército Rojo. Con la ayuda del miembro de la plana mayor del batallón de Nanchang Liu Wei-yuan, el alto mando dirigido por Chiang desarrolla una nueva estrategia basada en perseguir al enemigo en huida en lugar de rodearlo arriesgándose a una batalla de desgaste. \n\nCon estos minuciosos preparativos, esperamos librar por fin al país de la peste roja."
+ CHI_Civil_War.5.A: "Su presencia inspirará a los hombres."
+
+ CHI_Civil_War.6.t: "Los asesores militares alemanes proponen una nueva estrategia"
+ CHI_Civil_War.6.d: "Por fortuna, no estamos solos en nuestra lucha contra el comunismo. Hans von Seeckt y Alexander von Falkenhausen, asesores de Alemania, llevan meses en el país, y nos ayudarán a desarrollar nuevas estrategias para romper por fin al Ejército Rojo. Ambos oficiales proponen que realicemos un cerco sistemático de la región del sóviet de Kiangsi con blocaos fortificados para bloquear su acceso a los suministros. Para maximizar la efectividad de esta estrategia, introduciremos los principios de la defensa táctica y las ofensivas estratégicas a nuestra estrategia de batalla. \n\nMientras el sóviet de Jiangxi pierde gradualmente efectivos y recursos, vemos el resultado de la operación con optimismo."
+ CHI_Civil_War.6.A: "Los alemanes son los verdaderos maestros de la guerra."
+
+ CHI_Civil_War.7.t: "El comienzo de la quinta campaña" #september - mid-november
+ CHI_Civil_War.7.d: "Las tropas nacionalistas se enfrentaron en el gran escenario de combate que estaba destinado a ser el ataúd del Ejército Rojo. Los soldados del Ejército Rojo arremetieron sin esperanza contra las fortificaciones construidas antes para preparar la batalla, sólo para ser masacrados por los disparos de las ametralladoras. La artillería ahogaba los gritos de los hombres mientras caían uno encima del otro, hombres de la misma estirpe masacrándose los unos a los otros, una escena digna del infierno.\n\nLa estrategia planeada con la ayuda de Hans von Seeckt se ejecutó magistralmente con resultados asombrosos. Los comunistas no tardaron en verse en desventaja, faltos de personal y de voluntad para luchar contra la superioridad táctica y numérica de las fuerzas de los nacionalistas y los señores de la guerra. Los amargos combates de desgaste obligaron a los comunistas a retirarse del combate por el momento, pero a la campaña le faltaba mucho para terminar, sólo podían huir durante un tiempo."
+ CHI_Civil_War.7.A: "Al final no eran tan fuertes."
+
+ CHI_Civil_War.8.t: "La caída de Lichuan" #Three days after start
+ CHI_Civil_War.8.d: "[CHI.GetNewsIcon]"
+ CHI_Civil_War.8.A: ""
+
+ CHI_Civil_War.9.t: "Comunistas repelidos en Hsiaochi" #Mid october
+ CHI_Civil_War.9.d: "[CHI.GetNewsIcon]Nuestras nuevas tácticas están empezando a tener buenos resultados. En un intento inútil por frenar nuestro avance, los comunistas han intentado tomar la ciudad de Hsiaochi. La 24.ª División del Ejército Rojo Chino esperaba una victoria aplastante con la esperanza de detener nuestra ofensiva, pero no esperaban la valentía y la pericia de nuestros hombres. Cuando los bandidos rojos entraron en las afueras de Hsiaochi, fueron debidamente recibidos por un aluvión de artillería y balas. \n\nUna y otra vez, los comunistas se estrellaban contra nuestras defensas fortificadas para ser vapuleados en todas las ocasiones. El Generalísimo está muy satisfecho con este triunfo y ha dado nuevas órdenes desde Nanchang para seguir perfeccionando las tácticas desarrolladas con la ayuda de nuestros amigos alemanes. Ahora que hemos demostrado ser capaces de hacer frente al Ejército Rojo, estamos en condiciones de borrarlo definitivamente de la faz de la nación china."
+ CHI_Civil_War.9.A: "Hacia la victoria."
+
+ CHI_Civil_War.10.t: "El comienzo de la segunda ofensiva" #december
+ CHI_Civil_War.10.d: "El fracaso de la cuarta campaña de cerco en la primavera de 1933 ha hecho que nuestros militares no confíen en su capacidad para erradicar a los comunistas, pero el principal objetivo de Chiang Kai-shek sigue siendo estabilizar la República internamente, por lo que debemos continuar la guerra indefinidamente. En el tiempo que hemos cooperado con Alemania hemos presenciado muchos avances en la modernización de la República, y uno de los más favorables se ha producido en el ámbito militar. Hans von Seeckt, con sus mejores intenciones, ha modernizado nuestras fuerzas hasta cierto grado de profesionalidad. Esperemos que ésto dé sus frutos.\n\nSe construyeron blocaos a lo largo de las zonas de combate y carreteras previstas con la intención de calcinar todo a su alrededor, con lo que esperamos vencer a los comunistas mediante una guerra de desgaste y una potencia de fuego superior. Con esta nueva estrategia y entrenamiento de oficiales profesional alemán, esperamos tener la fuerza necesaria para erradicar a la mugre comunista. Sólo podemos rezar para que ésto no se convierta en la misma matanza que ocurrió en la última campaña.\n\nEsperemos que los esfuerzos del alemán compensen."
+ CHI_Civil_War.10.A: "Hora de atrincherarse."
+
+ CHI_Civil_War.11.t: "El fin de la segunda ofensiva" #end of january
+ CHI_Civil_War.11.d: "Los proyectiles de artillería dejaron de caer del cielo y los fusiles dejaron de disparar. Parecía que la segunda ofensiva había terminado. Los comunistas decidieron tontamente atacarnos en nuestras elaboradas defensas que habíamos construido previamente, y fue poco menos que una masacre. En sus intentos por expulsar a nuestras tropas de los blocaos que construimos, sufrieron numerosas bajas y apenas consiguieron expulsarnos de nuestras posiciones defensivas.\n\nPara nuestra sorpresa, las fuerzas de los señores de la guerra pasaron a la ofensiva con nosotros en coordinación con nuestros ejércitos, lo que no hizo sino reforzar el martillo que aplastó a sus fuerzas con tanto valor. Agradecemos su ayuda, pero sospechamos que quieren llevarse parte de la gloria. La última imagen grabada a fuego en las mentes de nuestras tropas fue la escena de los comunistas corriendo desesperados, justo lo que queríamos.\n\nAunque la ofensiva fue una victoria decisiva para nosotros, no tenemos tiempo para envanecernos con nuestra victoria; debemos prepararnos para otra ofensiva para expulsarlos. Ya casi vemos la victoria final contra los comunistas, sólo tenemos que presionar un poquito más."
+ CHI_Civil_War.11.A: "¡La victoria final contra los rojos nos aguarda!"
+
+
+ xian_chiang: "§REl Generalísimo ha confundido sus prioridades, le haremos entrar en razón.§!"
+ CHI_Xian.1.t: "Reunión en Sian"
+ CHI_Xian.1.d: ""
+ CHI_Xian.1.A: ""
+
+ CHI_Xian.2.t: "¡Detienen al Generalísimo!"
+ CHI_Xian.2.d: "El ruido de las botas golpeaba las paredes del camarote y, a toda prisa, Chang y Yang se pusieron en marcha. La puerta del camarote de Chiang Kai-shek se abrió de par en par con una feroz patada y los guardaespaldas de Chang Hsueh-liangy Yang Hu-cheng irrumpieron en su interior, sometiendo al destacamento de seguridad de Chiang y deteniendo a Chiang allí mismo.\n\nNuestro glorioso líder había partido previamente para supervisar la campaña de supresión en Sian contra los comunistas, pero, para nuestra consternación, parece que los disidentes internos se tomaron la molestia de planear un arresto sorpresa de Chiang Kai-shek mientras estaba allí. Los informes contradictorios no han hecho nada para calmar la situación, y nuestro alto mando ha quedado paralizado.\n\nEn Nankín se había recibido un telegrama de los captores de Chiang en el que se exigía el fin inmediato de la guerra civil contra los comunistas y un cambio posterior para preparar el país para una guerra contra Japón en su lugar, así como la expulsión de las facciones projaponesas y la adopción de una postura antijaponesa. Parece que las fuerzas políticas están en juego, tenemos que mover ficha."
+ CHI_Xian.2.A: "Necesitamos a nuestro rey, todo el que haya jugado al ajedrez lo sabe."
+
+ CHI_Xian.3.t: "Chiang Kai-shek es ejecutado"
+ CHI_Xian.3.d: ""
+ CHI_Xian.3.A: ""
+
+ xian_failed: "§YChiang se mantuvo desafiante§!"
+ xian_success: "§YSe ha formado un Frente Unido§!"
+
+ CHI_Warlords.1.t: "Un plan para eliminar el caudillismo"
+ CHI_Warlords.1.d: ""
+ CHI_Warlords.1.A: "China debe volver a ser una."
+ CHI_Warlords.1.A.tt: "Esta decisión te situará en la vía de §YIntegración total§! del árbol de enfoques militar."
+ CHI_Warlords.1.B: "Un enfoque más cauteloso garantizará la lealtad."
+ CHI_Warlords.1.B.tt: "Esta decisión te situará en la vía de §YIntegración selectiva§! del árbol de enfoques militar."
+
+ CHI_Inner_Mongolian_States.1.t: "La Confederación de Estados de Mongolia Interior exige autonomía"
+ CHI_Inner_Mongolian_States.1.d: "En un acto que sólo puede calificarse de traición, hemos recibido hoy un comunicado de Mongolia Interior en el que se nos informa de que los príncipes de Mongolia, el principal de ellos el príncipe Demchugdongrub, declaran su independencia de China y forman su propia confederación mongola.\n\nHan indicado que, si intentamos detenerlos, no tendrían ninguna reserva en alinearse con Japón. Aunque cuesta imaginarse cualquier nación o pueblo convirtiéndose voluntariamente en un esclavo de Japón, ya hemos presenciado lo lejos que están dispuestos a llegar los traidores para asegurar su propia seguridad personal y poder.\n\nSi vemos su farol y pasamos a desmantelar cualquier organización política improvisada que hayan creado ahí arriba, corremos el riesgo de terminar en guerra con Japón, para la cual no estamos preparados aún. Sin embargo, si dejamos que Mongolia Interior se marche, éso podría ser una señal de debilidad dentro de nuestra administración, algo que nuestros enemigos políticos estarían más que dispuestos a explotar. ¿Qué hacemos?"
+ CHI_Inner_Mongolian_States.1.A: "No podemos jugarnos una guerra contra Japón."
+ CHI_Inner_Mongolian_States.1.B: "Mongolia Interior es una parte íntegra de China."
+ 
+ CHI_Sino_Japanese_War_Chinese_Defeat.1.t: "La caída de Chungking"
+ CHI_Sino_Japanese_War_Chinese_Defeat.1.d: " "
+ CHI_Sino_Japanese_War_Chinese_Defeat.1.A: "O sea que ésto termina así..."
+ 
+ CHI_Sino_Japanese_War_Chinese_Defeat.2.t: "Para luchar otro día"
+ CHI_Sino_Japanese_War_Chinese_Defeat.2.d: " "
+ CHI_Sino_Japanese_War_Chinese_Defeat.2.A: "Entonces nos retiraremos... por ahora."
+ 
+ CHI_Sino_Japanese_War_Chinese_Defeat.3.t: "La gran retirada"
+ CHI_Sino_Japanese_War_Chinese_Defeat.3.d: " "
+ CHI_Sino_Japanese_War_Chinese_Defeat.3.A: "El patriotismo nos exige sacrificios constantes."
+ 
+ CHI_Sino_Japanese_War_Chinese_Defeat.4.t: "La nueva realidad"
+ CHI_Sino_Japanese_War_Chinese_Defeat.4.d: " "
+ CHI_Sino_Japanese_War_Chinese_Defeat.4.A: "Moscú ha demostrado ser un amigo de fiar, seguro que nos protegen."
+ 
+ CHI_Sino_Japanese_War_Chinese_Defeat.5.t: "En el frío"
+ CHI_Sino_Japanese_War_Chinese_Defeat.5.d: " "
+ CHI_Sino_Japanese_War_Chinese_Defeat.5.A: "¡Jamás deberíamos habernos fiado de ellos!"
+ 
+ CHI_Sino_Japanese_War_Chinese_Defeat.6.t: "Bajo la égida de Moscú"
+ CHI_Sino_Japanese_War_Chinese_Defeat.6.d: " "
+ CHI_Sino_Japanese_War_Chinese_Defeat.6.A: "Una solución temporal... Esperemos."
+ 
+ CHI_Fourth_Encirclement_Campaign: "El cuarto cerco del sóviet de Kiangsi"
+ CHI_Fourth_Encirclement_Campaign_desc: "La insurgencia comunista es una de las mayores amenazas a la estabilidad de la República de China. El Ejército Rojo lleva años desafiando la autoridad del Kuomintang y siendo un adversario poderoso e ingenioso. Organizamos tres campañas de cerco, pero los bandidos repelieron todas y cada una de ellas. Sin embargo, los nuevos informes indican que los comunistas no pueden luchar para siempre. Sus fuerzas están empezando a reducirse tanto en número como en equipo, gracias al bloqueo de sus suministros. Esta cuarta campaña aspira a destruir la mayor base controlada por el Ejército Rojo: el Sóviet de Kiangsi-Fukien."
+
+ CHI_Final_Encirclement: "Preparar el cerco final"
+ CHI_Final_Encirclement_desc: "Tras muchos fracasos en el intento de acabar con la espina comunista, hemos llegado a la conclusión de que es necesaria una última campaña para aniquilar al Ejército Rojo. Esta vez contaremos con el apoyo de asesores militares alemanes que nos ayudarán a desarrollar nuevas estrategias para neutralizar las tácticas de contracerco comunistas, y otros señores de la guerra regionales colaborarán con hombres y recursos en la operación. Con nuestra superioridad numérica y tecnológica, eliminaremos el Sóviet de Kiangsi y acabaremos con la amenaza roja de una vez por todas."
+
+ CHI_Chinese_Hindenberg_Line: "Línea Hindenburg china"
+ CHI_Chinese_Hindenberg_Line_desc: "Aunque nuestras operaciones militares contra los comunistas tuvieron éxito en su mayor parte, nunca conseguimos erradicar por completo la amenaza roja en las provincias, ya que el Ejército Rojo Chino a menudo se limitaba a reocupar el territorio después de que nuestras tropas fueran reasignadas a otros lugares. Para asegurar adecuadamente los territorios arrebatados a los comunistas, nuestro asesor militar alemán Hans von Seeckt ha propuesto un plan, según el cual construiríamos blocaos de hormigón al estilo alemán en las zonas aseguradas. Aunque estaos blocaos sólo estarían dotados de tropas de segundo grado, su capacidad defensiva disuadiría a los comunistas de contraatacar y haría que los contraataques emprendidos resultaran costosos para las fuerzas rojas."
+
+ CHI_Destroy_the_Remaining_Soviets: "Destruir los sóviets restantes"
+ CHI_Destroy_the_Remaining_Soviets_desc: "Con los soviéticos a la zaga durante bastante tiempo, ahora por fin nos ha sido posible acabar con la amenaza comunista de una vez por todas. En una movilización masiva de todas las tropas disponibles, iniciaremos una ofensiva masiva contra todas las bases rojas conocidas, ocuparemos el territorio circundante y destruiremos a todas las fuerzas rojas a las que podamos echar mano. Aunque esta ofensiva será costosa, las tropas involucradas son necesarias para asegurarnos de que los rojos estén totalmente erradicados y no tengan la oportunidad de replegarse y reagruparse. El destino de la guerra civil se decidirá en la siguiente ofensiva y haremos todo lo posible para garantizar nuestra victoria ante el bolchevismo."
+
+ CHI_National_Defense_Council: "Consejo Nacional de Defensa"
+ CHI_National_Defense_Council_desc: "China fue antaño la joya brillante de Asia Oriental y la mayor economía del mundo, pero las constantes luchas intestinas de los señores de la guerra han dejado a la destrozada república en un estado de desorden y degradación económica. Aunque nuestra mayor preocupación debería ser prepararnos para acabar con los señores de la guerra traicioneros que se extienden por las vastas tierras de China, una nueva amenaza emergente, la nación isleña del Imperio japonés, ha captado la atención de los planificadores de guerra de nuestra nación. Con su injustificada invasión de Manchuria, han demostrado claramente sus ambiciones de someter a toda China bajo su dominio.\n\nNuestra administración de Pekín ha considerado oportuno organizar una asamblea de los tecnócratas más brillantes de toda la República para formar un Consejo Nacional de Defensa que supervise la organización, construcción y distribución de los recursos y materiales bélicos de nuestra nación. Con este consejo en marcha, podemos movilizar adecuadamente a nuestra república en caso de una nueva agresión japonesa y destronar por fin al traidor del emperador Pu-i al norte."
+
+ CHI_Reproachment: "Acercamiento" #rapprochement??
+
+ CHI_Containment: "Contención"
+
+ CHI_Appeasement: "Apaciguamiento"
+
+ CHI_Ally_In_Guangdong: "Liangguang"
+
+ CHI_Skin_Disease: "Tratar el sarpullido"
+ CHI_Skin_Disease_desc: "Los señores de la guerra han sido un punto central de nuestra estrategia para reunificar y fortalecer China bajo nuestro Gobierno, pero los últimos acontecimientos nos han obligado a reconocer que la amenaza japonesa podría descontrolarse si no actuamos pronto. Su invasión del norte de China ha asustado a nuestros dirigentes y los ha llevado a un estado de ánimo menos obsesionado con los señores de la guerra, y para bien. Aunque los señores de la guerra siguen siendo la mayor prioridad, ya no podemos quedarnos de brazos cruzados y desentendernos de los japoneses. Es hora de desviar parte de nuestra atención hacia ellos, a menos que deseemos que ésto se convierta en un problema aún mayor."
+
+ CHI_Comintern_Coop: "Cooperación con Moscú"
+ CHI_Comintern_Coop_desc: "Los rojos salvajes llevan asolando China desde su fundación en 1921, y hemos convertido en la mayor prioridad de nuestra administración erradicar la podredumbre que está esparcida por el país. Sin embargo, han surgido crisis extranjeras que han restado algo de atención a Mao y sus perritos falderos. Los japoneses son una amenaza mucho mayor, y vemos los beneficios de contactar con el mundo comunista.\n\nEl Hombre de Acero de arriba nos ha presionado durante mucho tiempo para que colaboremos con los cuadros comunistas del Partido Comunista de China y, a pesar de nuestra reticencia a hacerlo, la situación a la que nos enfrentamos con la amenaza de los perros japoneses ha obligado a nuestra república a sopesarlo siguiendo las órdenes de Moscú. Aunque nuestras dos naciones tienen modus vivendis completamente distintos, tenemos un interés común: la eliminación y contención del imperialismo, y la Unión Soviética puede ser un medio para alcanzar el fin. Con nuestra lealtad parcial hacia los deseos del Kremlin, podemos esperar el apoyo continuado de la Unión Soviética para ayudarnos a expulsar a los japoneses, incluso a costa de trabajar con comunistas."
+
+ CHI_Fortress_China: "Fortaleza China"
+ CHI_Fortress_China_desc: "Siempre ha habido quienes codician las riquezas del dragón y tratan de apropiárselas. Antes de que los malvados rayos del sol naciente nos iluminaran desde el otro lado del mar, los mongoles y los yurchen cabalgaban desde las estepas septentrionales para saquear y expoliar las vastas riquezas de China. Para proteger a su pueblo, los Ming construyeron una serie de fortificaciones enormes en su frontera norte, la Gran Muralla.\n\nPara protegernos de los japoneses, nosotros construiremos nuevas murallas, aunque serán de cemento y alambre de espino en lugar de piedra, y serán para fusiles y ametralladoras en lugar de para arcos. Desde los Himalayas hasta la costa oriental, China estará a salvo."
+
+ CHI_Eliminate_Warlordism: "Plan para eliminar el caudillismo"
+ CHI_Eliminate_Warlordism_desc: "China lleva mucho tiempo asolada por eras recurrentes de fractura y unificación; tras la revolución de Hsinhai y la muerte prematura de Yuan Shih-kai, la república volvió a convertirse en una sociedad fracturada. Nuestra administración sólo ejerce un poder limitado sobre China propiamente dicha, mientras que el resto está dividido entre una camarilla de traidores con sus propias agendas independientes de la República.\n\nSi queremos destruir a los señores de la guerra traicioneros subyugándolos, podemos volver a unir China bajo la república que se fundó después de la muerte de la dinastía Qing. Ya sea mediante la integración diplomática o por la fuerza, la eliminación de los señores de la guerra sigue siendo uno de los principales objetivos de Chiang Kai-shek."
+
+ CHI_Yellow_River: "Plan de defensa del río Amarillo"
+ CHI_Yellow_River_desc: "El río Amarillo es el segundo río más largo de China, y su importancia se remonta a la fundación de la primera civilización china. Ha alimentado el crecimiento de la cultura china durante miles de años y ha servido diligentemente a China. Al igual que proveyó a nuestros antepasados y fundó la primera de muchas dinastías chinas, nos ayudará en nuestro momento de necesidad contra los japoneses. Es hora de volver a llamar al poderoso río.\n\nLa ubicación del río Amarillo proporciona una línea defensiva adecuada para la defensa de China propiamente dicha, y creemos que si construimos una serie de fortificaciones defensivas en lugares estratégicos, podremos aprovechar el río para impedir que los japoneses sigan avanzando, o al menos podemos intentarlo. Ésta será una de muchas grandes propuestas defensivas que nuestra administración intentará aplicar. Recemos para que frene a los japoneses."
+ CHI_Yellow_River_tt: "Añade fortificaciones de nivel 4 en cada uno de los siguientes estados del río Amarillo controlados por ti:\n§YShantung\nHopeh\nHonan§!"
+
+ CHI_Yangtze_River: "Fortificaciones en el río Yangtsé"
+ CHI_Yangtze_River_desc: "El río Yangtsé ha sido el salvavidas de las naciones chinas durante miles de años, con sus crecidas periódicas que sustentan millones de hectáreas de agricultura, mientras que la navegación a lo largo del río ha contribuido mucho a la conexión de zonas a menudo aisladas de China. Ahora que está en juego la existencia de las naciones chinas, ha llegado de nuevo el momento de recordar otra influencia que el caudaloso río ha tenido en China a lo largo de la historia. Su enorme potencial militar.\n\nUtilizando a todo el personal capacitado en las inmediaciones del río y cada gramo de material de construcción que podamos conseguir, construiremos una serie de fortificaciones que, cuando todas las medidas militares al norte del río hayan fracasado, servirán como nuestra principal línea de defensa contra la invasión japonesa, con la esperanza de detenerlos en seco."
+ CHI_Yangtze_River_tt: "Añade fortificaciones de nivel 3 en cada uno de los siguientes estados del Yangtsé controlados por ti:\n§YNankín\nWaichow\nKiangsi\nHupeh§!"
+
+ CHI_Realign_Priorities: "Pacificación interna"
+ CHI_Realign_Priorities_desc: "La captura de Chiang Kai-shek no nos ha dejado otra opción que detener la guerra civil contra los comunistas indefinidamente y nos ha unido en una alianza con ellos en preparación para una guerra con Japón. Aunque ésto podría fortalecer a China en su totalidad, no podemos dejar de verlo como una oportunidad para que los comunistas planten en su interior las semillas de su revolución roja y refuercen su control sobre el territorio. Aunque Chang no desea más que la reclamación de Manchuria de manos de los japoneses, no reconoce la amenaza interna que realmente suponen los comunistas. El idealismo y el orgullo de Chang podrían terminar siendo más peligrosos para la República que los propios japoneses."
+
+ CHI_Negotiation: "Resistir mediante negociaciones"
+
+ CHI_Peace_with_Japan: "¿Paz con Japón?"
+
+ CHI_War_in_Chongqing: "Continuar la guerra en Chungking"
+ CHI_War_in_Chongqing_desc: "Nankín, la capital del sur, ha caído.\n\nMientras la perla del Yangtsé arde y los japoneses masacran a su pueblo, nuestras tropas se ven obligadas a retirarse y reagruparse tierra adentro.\n\nAmenazadas la mayoría de las grandes ciudades de la costa oriental por el avance japonés, debemos evacuar a nuestra cúpula más al oeste, al interior del país. La ciudad de Chungking, muy alejada de nuestras líneas y resguardada por todos lados por las montañas Daba, Wu, Wuling y Dalou, será la capital provisional de la República.\n\nDesde la ciudad de los héroes, continuaremos luchando contra el invasor hasta que las fuerzas del sol naciente sean expulsadas al mar."
+
+ CHI_Ratify_the_Pact: "Ratificar el pacto"
+ CHI_Ratify_the_Pact_desc: "Ahora que las negociaciones de paz han tenido éxito, ha llegado el momento de saldar nuestra deuda con Alemania por habernos salvado de la continuación de la destructiva guerra con Japón. Como forma de mostrar nuestro agradecimiento, hemos decidido sentarnos con el embajador Trautmann para negociar nuestra entrada en la alianza alemana, inclusive una proclamación de amistad eterna, cooperación económica extendida y ayuda militar contra el comunismo dentro de China o por parte de fuerzas exteriores.\n\nAunque existe la posibilidad de que Japón, nuestro antiguo enemigo, una sus fuerzas a las de Alemania en breve, lo que nos obligaría a colaborar con ellos, ¡los beneficios superan con creces estos agravios, en su mayoría irrelevantes! ¡Junto con nuestros amigos alemanes, China hará realidad su destino!"
+
+ CHI_Efforts_of_the_Four: "Esfuerzos de los cuatro"
+
+ CHI_Lure_Them_In: "Atraerlos"
+ CHI_Lure_Them_In_desc: "Nuestra guerra contra los japoneses es de una ferocidad y barbarie sin precedentes, una guerra en la que la palabra «infierno» es la única que vale para describirla. El avance despiadado de los japoneses en nuestro territorio acarrea aún más sufrimiento a los pueblos ocupados, pero abre una ventana de oportunidad que nuestros militares pueden explotar. La historia ha demostrado que no existen los ejércitos invencibles, y los japoneses no son ninguna excepción.\n\nEl enemigo, a pesar de estar bien organizado y ser disciplinado, carece de la habilidad para reprimir a millones de nuestros compatriotas tras sus líneas, y cuanto más les dejemos adentrarse en nuestro territorio, más largas y menos defendidas estarán sus líneas de suministro. Nuestra campiña urbana y las ciudades densamente pobladas requieren guarniciones para mantener un orden que los japoneses no pueden permitirse, y usaremos ésto en su contra. Que vengan. Fue la muerte de Napoleón en Rusia y será la muerte de los japoneses aquí."
+
+ CHI_Heart_Disease: "§RTratar la enfermedad cardiovascular§!"
+ CHI_Heart_Disease_tt: "Durante años, hemos librado una larga y dura batalla con los comunistas y las camarillas caudillistas. Estas constantes luchas intestinas llevan años asolando nuestra nación y han impedido que nuestro país alcance su pleno potencial y sea todo lo fuerte que podría ser. Ésto acaba ahora. Con enemigos potenciales asomando la cabeza y mirando con envidia nuestras tierras repletas de recursos, no podemos permitirnos mostrar debilidad a través de la división, sino proyectar fuerza a través de la unidad. Debemos acelerar el proceso de erradicación de esta enfermedad y unificar el país bajo un gobierno único, fuerte y capaz."
+
+ CHI_Political_Tutelage: "Tutela del pueblo"
+ CHI_Political_Tutelage_desc: "Sun Yat-sen, el padre de la democracia en China, imaginó la instauración de la república por fases. La segunda de las tres fases de la revolución de Sun Yat-sen, la tutela política, hace referencia al periodo en el que el partido educa al pueblo sobre sus derechos y responsabilidades en la república. Ningún sistema democrático puede representar la voluntad del pueblo si el pueblo no entiende cómo funciona.\n\nEnviaremos burócratas formados a las numerosas aldeas rurales de China para que empiecen a forjar la infraestructura de una democracia moderna, informando a los futuros votantes sobre la visión de Sun Yat-sen y su nuevo deber cívico."
+
+ CHI_Central_Exec_Committee: "Comité Ejecutivo Central"
+
+ CHI_Dang_Guo: "I-tang Chih-kuo"
+
+ CHI_Restrict_Membership: "Restringir la afiliación al Kuomintang"
+ CHI_Restrict_Membership_desc: "A raíz de la corrupción masiva que se apodera de nuestro país, incluso el propio partido gobernante, el Kuomintang, se ha convertido en una parodia desmesurada de lo que fue. Por todo el país, hay miles de «miembros» del Kuomintang que no sólo se afiliaron a nuestro partido en beneficio propio, ¡sino que siguen envenenando el partido desde dentro sobornando y enchufándose en diversos cargos poderosos en el partido e incluso en el Gobierno! Para combatir a estos individuos despreciables y restaurar la reputación de nuestro partido, debemos restringir en gran medida la afiliación al Kuomintang, tanto reduciendo el tamaño máximo de las ramas regionales como promulgando controles más estrictos para poner a prueba a los iniciados en sus convicciones políticas. En combinación con otras medidas, ésto restaurará en gran medida el estado de nuestro partido, combatiendo a la par la corrupción en China en general."
+
+ CHI_Political_Mobilization: "Movilización política de asociaciones"
+
+ CHI_Centralization: "Centralización del Gobierno"
+
+ CHI_Political_Councils: "Consejos políticos directos"
+
+ CHI_Purge_Bureaucrats: "Purgar a los burócratas ineficaces"
+ CHI_Purge_Bureaucrats_desc: "A lo largo y ancho del país, la corrupción que nos asola ha dado lugar a todo un ejército de burócratas ineficaces que obstruyen los puestos de gobierno, y que o bien utilizan su cargo únicamente para promover sus agendas o bien causan un daño irreparable a nuestra administración por pura incompetencia y falta de experiencia. Debemos poner en marcha un programa nacional para luchar contra esta masa de ineficaces chupatintas y destruir o restringir su influencia, siempre que sea posible.\n\nUtilizaremos todos los datos a nuestra disposición, ya sean informes fiscales, documentos sobre «donaciones» a funcionarios, cuotas de productividad, cualquier cosa que nos ayude a identificar a estos parásitos, y los expulsaremos sin demora de sus cargos. Esta vez, ninguna cantidad de dinero podrá ayudarlos, y China dará un paso más en la lucha contra la corrupción."
+
+ CHI_Absorb_Civilian_Orgs: "Absorber las organizaciones civiles"
+
+ CHI_Provincial_Authority: "Reforzar las autoridades provinciales"
+ CHI_Provincial_Authority_desc: "Con otros problemas que nos ocupan y atan desde hace tiempo, muchas provincias dentro de China se han ido zafando gradualmente de nuestro control, convirtiéndose esencialmente en entidades independientes o en pequeños Estados de señores de la guerra.\n\nEl Gobierno ha ignorado esta evolución durante demasiado tiempo y ha llegado el momento de presionar de una vez contra esta peligrosa degradación de nuestro Gobierno y nuestra administración. Reafirmaremos una vez más nuestro control sobre estas regiones infractoras y reforzaremos nuestra autoridad provincial."
+ CHI_Provincial_Authority_tt: "Desbloquea decisiones para reducir los efectos de la §Ycorrupción§!."
+
+ CHI_Skilled_Administrators: "Formar a administradores cualificados"
+ CHI_Skilled_Administrators_desc: "Con nuestra reciente purga de burócratas ineficaces, hemos creado sin querer una gran demanda de nuevos administradores que puedan asumir el trabajo de las personas que hemos destituido. Para prevenir la creación de otra oleada de corrupción en nuestro Gobierno, es necesario que nos centremos por fin en formar a administradores nuevos y competentes que guíen a Chine a una nueva era.\n\nPara satisfacer esta demanda, abriremos escuelas en todo el país, apoyando también a los estudiantes de familias pobres, para garantizar una educación de calidad independientemente del trasfondo de cada uno. Asimismo, también ascenderemos a varios administradores de bajo nivel que hayan mostrado su competencia para seguir colmando las lagunas actuales y satisfacer las exigencias de nuestra administración en constante expansión."
+ CHI_Skilled_Administrators_tt: "Desbloquea decisiones para reducir los efectos de la §Ypurga§!."
+
+ CHI_Final_Push_Against_Corruption: "Último empujón contra la corrupción"
+ CHI_Final_Push_Against_Corruption_desc: "Una vez que se han sentado las bases y que la corrupción está disminuyendo en todo el país, por fin estamos en condiciones de iniciar una ofensiva final contra las personas y las instituciones que durante tanto tiempo han hundido a nuestro país con su codicia, su incompetencia y su actitud antipatriótica.\n\nEn toda China, cada oficina gubernamental será objeto de despidos masivos si se encuentra una sola irregularidad en sus registros, mientras que se cortarán los contactos de los que untan por cualquier medio necesario, ya sea multas, confiscaciones, cárcel o, en casos especiales, la ejecución. No se dejará piedra sin remover ni currículum sin revisar hasta que China se libere por fin de la arrogancia de los burócratas."
+
+ CHI_Form_Nat_Committee: "Formar la Asamblea Nacional Constituyente"
+
+ CHI_ROC_Constitution: "Constitución de la República de China"
+
+ CHI_End_Tutelage: "Terminar la tutela política"
+
+ CHI_Martial_Law: "Declarar la ley marcial"
+
+ CHI_Nationalism: "Min-tsu"
+
+ CHI_Zhongtong: "Chung-tong"
+
+ CHI_Curtail_Blue_Shirts: "Limitar a los camisas azules"
+
+ CHI_Embrace_Fascist_Influence: "Abrazar las influencias fascistas"
+
+ CHI_New_Life_Movement: "Movimiento Vida Nueva"
+
+ CHI_CC_Clique_Power: "Refrenar a la camarilla CC"
+
+ CHI_Side_With_Landlords: "Ponerse de parte de los terratenientes"
+
+ CHI_Commit_to_Reform: "§RComprometerse con la reforma§!"
+ CHI_Commit_to_Reform_tt: "§RTRABAJO EN ELABORACIÓN§!"
+
+ CHI_Chiangs_Cadres: "Los cuadros de Chiang en el poder"
+
+ #Military Tree
+ CHI_Reorganize_NRA: "Reorganizar el ENR"
+ CHI_Reorganize_NRA_desc: "El Ejército Nacional Revolucionario fue formado por el Kuomintang hace casi una década y, a las órdenes de Chiang Kai-shek, desempeñó un papel fundamental en la exitosa campaña de la Expedición del Norte. Pese a recibir ayuda de algunas potencias militares extranjeras como Alemania, el ENR se ha convertido en una cloaca de corrupción e incompetencia, una pareja que podría ser desastrosa si no se soluciona rápidamente. La rehabilitación del Ejército será una tarea monumental para el Generalísimo, y si fracasa, los grandes ideales que Sun Yat-sen deseaba que se impartieran en China podrían perderse para siempre."
+
+ CHI_Foreign_Assistance_tt: "Desbloquea las decisiones de §Yayuda militar extranjera§!."
+
+ CHI_War_Theory: "Moderno de nombre"
+ CHI_War_Theory_desc: "Aunque el ENR estaba pensado como un nuevo paso hacia un Ejército chino moderno, que había de representar el progreso de China a escala militar, la realidad hasta ahora decepciona. Años de corrupción, una burocracia excesivamente complicada y disputas dentro de las filas han convertido a este Ejército, que se supone que es moderno, en un amasijo desorganizado, mal equipado y apenas capacitado de varias divisiones, ejércitos y bandas de señores de la guerra, ninguno de los cuales está controlado por una estructura de mando unificada.\n\nSi queremos de verdad reformar el ENR para que sea la fuerza de combate que tenía que ser, tendremos que llevar a cabo serias reformas cuanto antes."
+
+ CHI_Professional_Army: "Plan de 60 divisiones"
+ CHI_Professional_Army_desc: "Hans von Seeckt, general del Ejército alemán, ha actuado como asesor del Generalísimo durante un tiempo y ha propuesto un nuevo plan radical que podría mejorar nuestro Ejército sobremanera. Este plan, el «plan de 60 divisiones», se explica por sí mismo y detalla que debemos centrarnos en formar sesenta divisiones bien entrenadas y bien equipadas. En teoría, estas divisiones deberían rendir a un nivel mucho más alto que cien divisiones inconsistentes y mal equipadas, dándonos la mejor oportunidad posible de defender el país de cualquier potencia imperialista."
+
+ CHI_Human_Wave: "Compromiso de 10 años"
+ CHI_Human_Wave_desc: "Aunque no hay duda de que el plan de 60 divisiones propuesto por Hans von Seeckt es una buena idea y mejoraría en gran medida nuestra situación militar, pasa por alto algunos hechos sencillos que, lamentablemente, lo hacen inviable para nuestra situación actual.\n\nPor un lado, nuestro control del país, y especialmente de los ejércitos de los señores de la guerra, no es suficiente para introducir estos cambios radicales, mientras que la mayoría de los señores de la guerra alineados con nosotros se opondrían violentamente a nuestros intentos de imponerles las reformas militares propuestas. Además, nuestra falta de industrialización y de fábricas de armamento especializadas hace que nos resulte sencillamente imposible mantener un ejército de este tamaño y equipo.\n\nPara seguir cosechando los beneficios del trabajo de Von Seeckt, hemos decidido optar por la vía intermedia de crear un pequeño número de divisiones entrenadas según el plan de 60 divisiones, que constituirán el núcleo de nuestro Ejército, mientras que las antiguas divisiones de los señores de la guerra serán relegadas a tareas de apoyo."
+
+ CHI_Selective_Integration: "Divisiones entrenadas por alemanes"
+ CHI_Selective_Integration_desc: "Con el plan de 60 divisiones en pleno apogeo, ha llegado el momento de que organicemos nuestras divisiones siguiendo las directrices previstas por Hans von Seeckt, nuestro asesor militar y cerebro de las reformas, transformando básicamente nuestras divisiones en tropas bien instruidas y equipadas, organizadas siguiendo las doctrinas alemanas. Estas divisiones formarán el núcleo de nuestro Ejército, reemplazando gradualmente a las diversas bandas caudillistas, brigadas y demás formaciones desorganizadas e ineficaces suministradas por los diferentes señores de la guerra.\n\nClaro que este proceso llevará un tiempo, sobre todo debido a la escasez de equipo, las constantes disputas entre los diferentes señores de la guerra y el reducido número de oficiales alemanes que pueden entrenar de forma fiable a estas nuevas divisiones, pero con el tiempo suficiente, ¡el plan de 60 divisiones convertirá al ENR en el orgullo de China!"
+
+ CHI_Full_Integration: "Ejército al estilo alemán"
+ CHI_Full_Integration_desc: "El Ejército alemán, con su equipo, instrucción y doctrina superiores, es el claro ejemplo de lo que debería ser cualquier ejército. Con nuestra situación actual en el escenario mundial, necesitaremos un Ejército fuerte que pueda proteger nuestra nación y los ideales que el doctor Sun Yat-sen quiso impartirnos. Para hacerlo, haremos todo lo posible por emular el Ejército que poseen los alemanes y los valores que inculcan a sus tropas. Con suficiente dedicación y tiempo, nuestro Ejército se convertirá en una fuerza temible y nos conferirá la habilidad de expulsar a cualquier invasor extranjero."
+
+ CHI_Political_Reorg: "Reorganización política"
+ CHI_Political_Reorg_desc: "El ENR se fundó como un nuevo tipo de ejército, un ejército ajeno a los varios escollos del faccionalismo político que asolaba los viejos ejércitos de los Qing. Un nuevo comienzo para el ejército de China, por así decirlo. Sin embargo, como muchas otras cosas, el faccionalismo político nunca desapareció y el caudillismo desenfrenado hasta aumentó. Hoy, el ENR es quizás uno de los ejércitos más divididos del mundo, compuesto en su totalidad por camarillas de oficiales, bandas caudillistas y bandidos a las órdenes de los señores de la guerra y los generales, quienes quieren restar autoridad al Gobierno constantemente.\n\nSi queremos resolver este enorme problema, tendremos que emprender un esfuerzo masivo para reorganizar el ENR por todos los medios necesarios si queremos que el Ejército sea algún día el protector de China y no su mayor amenaza y bochorno."
+
+ CHI_Reconcile_Opposition: "Reconciliarse con los generales de la oposición"
+ CHI_Reconcile_Opposition_desc: "Hay muchos generales en China e incluso dentro de nuestro Ejército que en un principio se opusieron a nosotros debido a nuestra ideología o se convirtieron en nuestros enemigos más adelante por simple animadversión personal o incluso por circunstancias desfavorables. Y aunque todavía no estamos en los mejores términos con estos generales de la oposición, siguen siendo generales capacitados y una raza de hombres que el ENR y China necesitan desesperadamente. Para conseguir que estos generales se pongan de nuestro lado, ha llegado el momento de tenderles la mano y buscar la reconciliación siempre que sea posible, ya sea mediante ascensos, favores políticos o regalos personales, hasta que todos los grandes guerreros de China guíen al ENR a la victoria. Bajo estrecha supervisión, claro está."
+ CHI_Reconcile_Opposition_tt: "Desbloquea las decisiones de §Yreconciliación§!.\n§RÉsto aumentará las probabilidades de un golpe militar, pero permitirá una rehabilitación más rápida del Ejército.§!"
+
+ CHI_Remove_Opposition: "Expulsar a los generales de la oposición"
+ CHI_Remove_Opposition_desc: "Desde el principio, el ENR ha sufrido enormemente por la falta de una estructura de mando unificada y por las disputas nimias de generales revoltosos, que una y otra vez se vieron maquinando y conspirando para imponer sus ridículas ideas, reformas o políticas a nuestro Ejército, paralizando gravemente la capacidad del ENR para seguir el ritmo de las exigencias del tiempo. Ésto ha de parar ahora. Estos llamados «generales de la oposición» han de ser expulsados a toda costa sea como sea. Y cierto, el ENR perderá muchos oficiales indudablemente capacitados de esta forma, pero es necesario, no vaya a ser que el Ejército siga paralizándose hasta la saciedad simplemente debido a la ignorancia de algunos de sus comandantes."
+ CHI_Remove_Opposition_tt: "Desbloquea las decisiones de la §Ypurga§!.\n§RÉsto reducirá las probabilidades de un golpe militar, pero hará temporalmente al Ejército menos eficaz.§!"
+
+ CHI_Cull_Incompetency: "Ascender a los oficiales competentes"
+ CHI_Cull_Incompetency_desc: "Muchos ejércitos del mundo están asolados por una grave enfermedad: la incompetencia. Nuestro Ejército no es distinto. Con demasiada frecuencia no se tiene en cuenta a los funcionarios inteligentes y trabajadores para un ascenso sin pensárselo dos veces. Sin embargo, lo que empeora aún más la situación es que los cargos más altos se otorgan a oficiales que son tácticamente ineptos y carecen de las aptitudes necesarias, pero a los que se deben favores políticos. Se ha convertido en un problema sistémico que llevará un tiempo solucionar, pero un buen comienzo será ascender a los oficiales que se lo merecen. Ésto no sólo empezará a mejorar la cultura de trabajo dentro de nuestro Ejército, sino que proporcionará un impulso al rendimiento de nuestros soldados sobre el terreno, algo que sin duda nos vendrá muy bien."
+
+ CHI_Reward_Loyalty: "Recompensar el mando leal"
+ CHI_Reward_Loyalty_desc: "Desde los albores de la era de los señores de la guerra, se ha primado la lealtad a un líder local o a una facción. Las devociones militares han mantenido a algunos en el poder mucho más allá de las expectativas de muchos expertos políticos. Si queremos que se nos considere la fuerza unificadora de China, debemos crear un sistema de recompensas y beneficios para aquéllos que muestren compromiso con nuestro mando. La formación de vínculos entre los soldados, los oficiales y sus generales daría lugar a una jerarquía de lealtad. La dedicación debe anteponerse a todo si queremos triunfar en la lucha por la nación."
+
+ CHI_Modern_Fighting_Force: "Moderno en la práctica"
+ CHI_Modern_Fighting_Force_desc: "Ser una fuerza de combate actualizada requiere más que fusiles impolutos y botas nuevas. En el campo de batalla en evolución tecnológica de hoy en día, un soldado moderno tiene que entender su equipo, sus tácticas, sus provisiones y su conocimiento de todo lo relativo a la guerra. Actualizar nuestra formación y nuestras maniobras precisará un enorme esfuerzo por parte de nuestros militares, pero permitirá infinitamente una mejor preparación y dará a nuestras fuerzas una ventaja significativa, ya sea luchando contra el Ejército de Kwantung o contra los comunistas."
+
+ CHI_Mass_Produced_Warfare: "Guerra producida en masa"
+ CHI_Mass_Produced_Warfare_desc: "Por lo visto, sin importar el Gobierno al mando, China siempre ha tenido problemas de equipo en el campo de batalla. Nuestra población es demasiado abundante para que nuestra pequeña base industrial pueda tratarla con rapidez. La movilización de hombres rara vez equivale al equipo necesario para cada soldado, y mucho menos a sistemas de armamento avanzados, como tanques o aviones. Superar este problema será difícil, pero mediante la racionalización de nuestros actuales procesos industriales y una fuerte inversión en nuevas fábricas militares, nuestro Gobierno puede sentar las bases de una nueva revolución china en la fabricación y la guerra de masas."
+
+ CHI_Elite_Units: "Crear unidades de élite"
+ CHI_Elite_Units_desc: ""
+
+ CHI_Special_Forces: "Programa de fuerzas especiales del ENR"
+ CHI_Special_Forces_desc: ""
+
+ CHI_Enforced_Conscription: "Campaña de reclutamiento forzoso"
+ CHI_Enforced_Conscription_desc: ""
+
+ CHI_Defensive_Strategems: "Estratagemas defensivas"
+ CHI_Defensive_Strategems_desc: ""
+
+ CHI_Hire_Engineering_Companies: "Contratar empresas de ingeniería"
+ CHI_Hire_Engineering_Companies_desc: "En un intento por reclutar a las mentes chinas más brillantes y presumir de tecnología propia ante nuestros socios internacionales, hemos empezado a buscar empresas nacionales de ingeniería para crear un cuasicomplejo industrial-militar. Muchos altos funcionarios del Gobierno se maravillan ante las proezas de los referentes estadounidenses de la industria bélica, como Ford Motor Company o Douglas Aircraft. Si conseguimos impulsar nuestras propias empresas de diseño y contratarlas para que creen y construyan distintos armamentos para nuestras fuerzas, se crearía un gran sentimiento de orgullo nacional y se demostraría a los ojos del mundo que el Gobierno naconalista es la única autoridad legítima de China."
+
+ CHI_Open_Taiyuan_Arsenal: "Abrir filiales del Arsenal de Taiyuan"
+ CHI_Open_Taiyuan_Arsenal_desc: "No es ningún secreto que nuestra base industrial actual está ridículamente poco preparada para abastecer a un Ejército del tamaño del ENR con resultados satisfactorios y éso se nota, ya que una gran parte de nuestros soldados están equipados con fusiles anticuados y poca o nada de munición, mientras que las armas de apoyo como las ametralladoras y los morteros son auténticas rarezas.\n\nAlgunas divisiones parecen haber retrocedido a la Edad Media y han empezado a dotar a sus soldados de espadas, lanzas y demás armas primitivas debido a la falta de otras opciones.\n\nPara combatir esta grave situación, abriremos una serie de nuevos arsenales que usaremos para producir las armas y la munición que nuestro Ejército tan desesperadamente necesita."
+
+ CHI_Expand_Minsheng: "Ampliar Minsheng Industrial"
+ CHI_Expand_Minsheng_desc: "Aunque las recientes mejoras nos han ayudado a volver a la senda de convertirnos en una nación industrializada, el estado general de nuestra industria sigue siendo lamentable. Para seguir expandiendo nuestra industria y mantener el ritmo actual en lo que respecta al desarrollo industrial, debemos tratar de ampliar aún más Minsheng Industrial, una de las mayores fábricas de China.\n\nÉsto nos permitiría aumentar más nuestra capacidad de producción y nos proveería de fábricas civiles que, en caso de una invasión extranjera o una guerra civil intensificada, podrían proporcionarle a nuestro Ejército los suministros que necesitará."
+
+ CHI_Qishuyuan_Contracts: "Contratos para Qishuyan Machinery"
+ CHI_Qishuyuan_Contracts_desc: "El factor más importante para industrializar eficazmente un país es la disponibilidad de maquinaria suficiente para construir y mantener las fábricas, cadenas de construcción e infraestructuras deseadas. Lamentablemente, como ocurre con casi todo lo moderno, China carece desesperadamente de las máquinas necesarias para dar pasos considerables hacia su transformación en una nación moderna e industrializada.\n\nPara enmendar este lamentable estado, debemos tender la mano a diversas empresas de dentro y fuera de China y ofrecerles lucrativas oportunidades de mercado en China y un contrato estable con el Gobierno como clientes garantizados a cambio de que produzcan y vendan maquinaria industrial moderna dentro de China."
+
+ CHI_Overhaul_Logistics: "Revisar los sistemas logísticos"
+ CHI_Overhaul_Logistics_desc: "La logística en China siempre ha sido un asunto delicado, ya que el país abarca una superficie de 9 000 000 de kilómetros cuadrados, muchos de los cuales no poseen ningún tipo de infraestructura moderna, mientras que otras zonas están controladas por señores de la guerra que a menudo obstruyen nuestras líneas de suministro, ya sea por motivos políticos o personales. No sorprende a nadie entonces que la logística del ENR sea un desastre parecido, ya que nuestra oficina de logística simplemente no es capaz de abastecer adecuadamente a nuestras tropas, dondequiera que se encuentren actualmente. Ésto tiene que parar lo antes posible si queremos tener posibilidades contra nuestros enemigos extranjeros. \n\nAsí pues, revisaremos por completo el proceso actual de abastecimiento de nuestro Ejército al tiempo que ampliaremos el número de oficiales de logística y los depósitos de suministros en todo el país. Aunque quizá no baste para resolver por completo nuestros problemas, supondrá un paso en la dirección correcta y resolverá las cuestiones más graves."
+
+ CHI_Foreign_Assistance: "Buscar experiencia extranjera"
+ CHI_Foreign_Assistance_desc: ""
+
+ #Air Force
+ CHI_Air_Force: "Fuerza Aérea de la República de China"
+
+ CHI_Nat_Aviation_Coop: "Corporación Nacional de Aviación de China"
+
+ CHI_Camco: "Contratos para CAMCO"
+
+ CHI_Open_Aviation: "Abrir departamentos de aviación"
+
+ CHI_Chennaults_Program: "Programa de aviación de Chennault"
+
+ CHI_Eurasia_Aviation: "Planos para el Cuerpo de Aviación de Eurasia"
+
+ #Navy
+ CHI_Navy: "Armada de la República de China"
+
+ CHI_Naval_Sec_Commanders: "Comandantes de seguridad naval"
+
+ CHI_Coast_Guard: "Guardia Costera de la República de China"
+
+ CHI_Renovate_Kiangnan: "Renovar los astilleros de Kiangnan"
+
+ CHI_Marine_Corps: "Cuerpo de Infantería de Marina de la República de China"
+
+ #Sino German Coop
+ CHI_Hans_von_Seeckt: "Visita de Hans von Seeckt"
+
+ CHI_Seeckt_Military_Affairs_Council: "Von Seeckt en el Consejo de Asuntos Militares"
+
+ CHI_Training_Brigade: "Formar la Brigada de Entrenamiento"
+
+ CHI_German_Officer_Training: "Entrenamiento de oficiales al estilo alemán"
+
+ CHI_Sino_German_Cooperation: "Cooperación sino-alemana"
+
+ CHI_Sino_German_Resource_Agreement: "Acuerdo comercial de recursos sino-alemán"
+
+ CHI_Industrial_Build_Up: "Plan de desarrollo industrial"
+
+ CHI_Expand_Military_Production: "Expansión de instalaciones de producción militar"
+
+ CHI_Three_Year_Plan: "Plan trienal del Dr. Wong"
+
+ CHI_Nat_Resource_Commission_Oversight: "Supervisión de la Comisión Nacional de Recursos"
+
+ CHI_Monopolize_Tungsten: "Monopolizar las operaciones de tungsteno"
+
+ CHI_Metal_Exports: "Exportaciones de metal para cubrir la deuda"
+
+ CHI_Rail_Construction: "Construcción de ferrocarriles al sur del Yangtsé"
+
+ CHI_Guangzhou_Hankou: "Red Cantón-Hankow"
+
+ CHI_Develop_Power: "Desarrollar infraestructura eléctrica"
+
+
+ #Economic
+ CHI_Great_Awakening: "Minsheng"
+
+ CHI_Support_Rural_Reconstruction: "Continuar la reconstrucción rural"
+
+ CHI_Invest_Rural_Infrastructure: "Invertir en infraestructura rural"
+
+ CHI_Accept_American_Missionaries: "Aceptar misioneros estadounidenses"
+ CHI_Accept_American_Missionaries_tt: "§YLos misioneros estadounidenses ayudarán con la reconstrucción rural, reduciendo los costes de los esfuerzos de modernización.§!"
+
+ CHI_JCRR: "Comisión Conjunta de Reconstrucción Rural"
+ CHI_JCRR_tt: "§YLa formación de la Comisión Conjunta de Reconstrucción Rural reducirá más los costes de ahora en adelante.§!\n\n"
+
+ CHI_Expand_Rural_Administration: "Ampliar la administración rural"
+
+ CHI_Connect_Villages: "Conectar y modernizar las aldeas"
+
+ CHI_Prepare_Countryside_for_War: "Preparar el campo para la guerra"
+
+ CHI_Mass_Literacy: "Campaña de alfabetización en masa"
+
+ CHI_Path_to_Economic_Recovery: "Camino a la recuperación económica"
+
+ CHI_Coerce_Shanghai: "Coaccionar a los comerciantes de Shanghái"
+
+ CHI_Invest_Major_Trade: "Invertir en el gran comercio"
+
+ CHI_Commission_Industry_Mining: "Comisión Nacional de Recursos"
+
+ CHI_Banking_Coup: "El golpe bancario"
+ chiang_speaks_against_bankers: "§YChiang ha hablado en contra de los banqueros§!"
+
+ CHI_Cooperate_Foreign_Investors: "Colaborar con inversores extranjeros"
+
+ CHI_Seize_Assets: "Confiscar los activos de la oposición"
+
+ CHI_Militarize_Private_Business: "Militarizar los negocios privados"
+
+ CHI_Expand_State_Owned_Mining: "Ampliar la minería del Estado"
+
+ CHI_Expand_State_Industry: "Ampliar la industria del Estado"
+
+ CHI_Nationalize_Smaller_Banks: "Nacionalizar los bancos pequeños"
+
+ CHI_The_Dragon_Awakened: "El dragón despierta"
+
+ #Opinion Modifiers
+ CHI_sov_pact_opinion: "Cooperación"
+ 
+ CHI_soviets_betrayed_us: "¡Nos ha traicionado!"
+ 
+ CHI_moscows_aegis: "La égida de Moscú"
+
+
+ CHI_Chinese_United_Front: "Frente Unido Chino"
+
+ CHI_Unequal_Treaties: "Tratados desiguales"
+
+ CHI_Modernized_General_Staff: "Estado Mayor modernizado"
+ CHI_Incompetent_NRA: "ENR incompetente"
+ CHI_Incompetent_NRA_desc: "Aunque el Ejército Nacional Revolucionario es, al menos en teoría, una fuerza relativamente moderna y capacitada, también se ha visto afectada por los grandes problemas que asolan toda la República de China, a saber, la corrupción extrema y el faccionalismo, que ahora desgarran el Ejército desde dentro, mermando lentamente las capacidades de combate del ya debilitado Ejército. La malversación de fondos y el fraude son el pan de cada día, mientras que tanto los generales y oficiales incompetentes como el escaso control del Gobierno central sobre la mayoría de las divisiones han convertido la organización y el mando del ENR en una tarea imposible. Si bien el Gobierno, con la ayuda de asesores alemanes, ha intentado realizar algunas pequeñas reformas, parece que la condición política actual ha hecho de la creación de un ejército capacitado algo imposible."
+ CHI_Incompetent_NRA_2: "ENR incompetente"
+ CHI_Incompetent_NRA_2_desc: "Aunque el Ejército Nacional Revolucionario es, al menos en teoría, una fuerza relativamente moderna y capacitada, también se ha visto afectada por los grandes problemas que asolan toda la República de China, a saber, la corrupción extrema y el faccionalismo, que ahora desgarran el Ejército desde dentro, mermando lentamente las capacidades de combate del ya debilitado Ejército. La malversación de fondos y el fraude son el pan de cada día, mientras que tanto los generales y oficiales incompetentes como el escaso control del Gobierno central sobre la mayoría de las divisiones han convertido la organización y el mando del ENR en una tarea imposible. Si bien el Gobierno, con la ayuda de asesores alemanes, ha intentado realizar algunas pequeñas reformas, parece que la condición política actual ha hecho de la creación de un ejército capacitado algo imposible."
+ CHI_Incompetent_NRA_3: "ENR incompetente"
+ CHI_Incompetent_NRA_3_desc: "Aunque el Ejército Nacional Revolucionario es, al menos en teoría, una fuerza relativamente moderna y capacitada, también se ha visto afectada por los grandes problemas que asolan toda la República de China, a saber, la corrupción extrema y el faccionalismo, que ahora desgarran el Ejército desde dentro, mermando lentamente las capacidades de combate del ya debilitado Ejército. La malversación de fondos y el fraude son el pan de cada día, mientras que tanto los generales y oficiales incompetentes como el escaso control del Gobierno central sobre la mayoría de las divisiones han convertido la organización y el mando del ENR en una tarea imposible. Si bien el Gobierno, con la ayuda de asesores alemanes, ha intentado realizar algunas pequeñas reformas, parece que la condición política actual ha hecho de la creación de un ejército capacitado algo imposible."
+ CHI_Incompetent_NRA_4: "ENR incompetente"
+ CHI_Incompetent_NRA_4_desc: "Aunque el Ejército Nacional Revolucionario es, al menos en teoría, una fuerza relativamente moderna y capacitada, también se ha visto afectada por los grandes problemas que asolan toda la República de China, a saber, la corrupción extrema y el faccionalismo, que ahora desgarran el Ejército desde dentro, mermando lentamente las capacidades de combate del ya debilitado Ejército. La malversación de fondos y el fraude son el pan de cada día, mientras que tanto los generales y oficiales incompetentes como el escaso control del Gobierno central sobre la mayoría de las divisiones han convertido la organización y el mando del ENR en una tarea imposible. Si bien el Gobierno, con la ayuda de asesores alemanes, ha intentado realizar algunas pequeñas reformas, parece que la condición política actual ha hecho de la creación de un ejército capacitado algo imposible."
+ CHI_Incompetent_NRA_5: "ENR incompetente"
+ CHI_Incompetent_NRA_5_desc: "Aunque el Ejército Nacional Revolucionario es, al menos en teoría, una fuerza relativamente moderna y capacitada, también se ha visto afectada por los grandes problemas que asolan toda la República de China, a saber, la corrupción extrema y el faccionalismo, que ahora desgarran el Ejército desde dentro, mermando lentamente las capacidades de combate del ya debilitado Ejército. La malversación de fondos y el fraude son el pan de cada día, mientras que tanto los generales y oficiales incompetentes como el escaso control del Gobierno central sobre la mayoría de las divisiones han convertido la organización y el mando del ENR en una tarea imposible. Si bien el Gobierno, con la ayuda de asesores alemanes, ha intentado realizar algunas pequeñas reformas, parece que la condición política actual ha hecho de la creación de un ejército capacitado algo imposible."
+ CHI_Warlord_Buff: "Defensor de China"
+ 
+ CHI_Depression_1: "Economía hundiéndose: deflación"
+ CHI_Depression_1_desc: "El gran dragón chino sufre bajo la gran calamidad provocada por los vientos del oeste. El colapso de las economías del mundo se ha dejado sentir hasta en las dispares tierras de cultivo de China. Los puertos de libre comercio se han utilizado como vertederos de los excedentes de productos agrícolas de todo el mundo occidental, provocando una avalancha de productos en el mercado chino que hace que los precios de los cultivadores locales no sean competitivos en comparación y que más operaciones no sean rentables. Mientras tanto, la caída global de la emanda ha inutilizado gran parte de los cultivos comerciales de China, sin compradores, lo que ha dejado en grave crisis a los terratenientes y a las empresas dedicadas a los cultivos comerciales\n\nEl aumento de las importaciones agrícolas debido a su precio barato, unido a la falta de un crecimiento industrial significativo, ha perjudicado a una parte relevante de la población china cercana a las costas, mientras que el mercado interior chino permanece inalterado debido a su carácter de subsistencia. El desarrollo sustancial de la economía no será posible sin reformas organizativas y logísticas profundas."
+ CHI_Depression_2: "Economía en declive: deflación"
+ CHI_Depression_2_desc: "El gran dragón chino sufre bajo la gran calamidad provocada por los vientos del oeste. El colapso de las economías del mundo se ha dejado sentir hasta en las dispares tierras de cultivo de China. Los puertos de libre comercio se han utilizado como vertederos de los excedentes de productos agrícolas de todo el mundo occidental, provocando una avalancha de productos en el mercado chino que hace que los precios de los cultivadores locales no sean competitivos en comparación y que más operaciones no sean rentables. Mientras tanto, la caída global de la emanda ha inutilizado gran parte de los cultivos comerciales de China, sin compradores, lo que ha dejado en grave crisis a los terratenientes y a las empresas dedicadas a los cultivos comerciales\n\nEl aumento de las importaciones agrícolas debido a su precio barato, unido a la falta de un crecimiento industrial significativo, ha perjudicado a una parte relevante de la población china cercana a las costas, mientras que el mercado interior chino permanece inalterado debido a su carácter de subsistencia. El desarrollo sustancial de la economía no será posible sin reformas organizativas y logísticas profundas."
+ CHI_Depression_3: "Economía en declive: deflación"
+ CHI_Depression_3_desc: "El gran dragón chino sufre bajo la gran calamidad provocada por los vientos del oeste. El colapso de las economías del mundo se ha dejado sentir hasta en las dispares tierras de cultivo de China. Los puertos de libre comercio se han utilizado como vertederos de los excedentes de productos agrícolas de todo el mundo occidental, provocando una avalancha de productos en el mercado chino que hace que los precios de los cultivadores locales no sean competitivos en comparación y que más operaciones no sean rentables. Mientras tanto, la caída global de la emanda ha inutilizado gran parte de los cultivos comerciales de China, sin compradores, lo que ha dejado en grave crisis a los terratenientes y a las empresas dedicadas a los cultivos comerciales\n\nEl aumento de las importaciones agrícolas debido a su precio barato, unido a la falta de un crecimiento industrial significativo, ha perjudicado a una parte relevante de la población china cercana a las costas, mientras que el mercado interior chino permanece inalterado debido a su carácter de subsistencia. El desarrollo sustancial de la economía no será posible sin reformas organizativas y logísticas profundas."
+ CHI_Depression_4: "Economía colapsada: deflación"
+ CHI_Depression_4_desc: "El gran dragón chino sufre bajo la gran calamidad provocada por los vientos del oeste. El colapso de las economías del mundo se ha dejado sentir hasta en las dispares tierras de cultivo de China. Los puertos de libre comercio se han utilizado como vertederos de los excedentes de productos agrícolas de todo el mundo occidental, provocando una avalancha de productos en el mercado chino que hace que los precios de los cultivadores locales no sean competitivos en comparación y que más operaciones no sean rentables. Mientras tanto, la caída global de la emanda ha inutilizado gran parte de los cultivos comerciales de China, sin compradores, lo que ha dejado en grave crisis a los terratenientes y a las empresas dedicadas a los cultivos comerciales\n\nEl aumento de las importaciones agrícolas debido a su precio barato, unido a la falta de un crecimiento industrial significativo, ha perjudicado a una parte relevante de la población china cercana a las costas, mientras que el mercado interior chino permanece inalterado debido a su carácter de subsistencia. El desarrollo sustancial de la economía no será posible sin reformas organizativas y logísticas profundas."
+
+ CHI_Corruption: "La división hace la fuerza"
+ CHI_Corruption_desc: "El relativamente nuevo Gobierno nacionalista estaba plagado de corrupción y agitación política. El Gobierno civil no tenía poder para realizar reformas significativas, dado que la administración militar de facto controlaba el país. La falta de reformas engendró corrupción en todos los estratos de la sociedad, desde el antiguo sistema de terratenientes de los Qing hasta la administración gubernamental."
+
+ CHI_generalissimo: "Camarilla de Whampoa"
+ CHI_generalissimo_desc: "Aunque en teoría se supone que la República de China es un país democrático, el faccionalismo desenfrenado dentro de cada institución gubernamental ha paralizado todos los intentos de instaurar algo que se parezca lo más mínimo a una entidad política democrática. Estas luchas intestinas omnipresentes han ayudado al comandante del Ejército Nacional Revolucionario, §BChiang Kai-shek§!, a consolidarse como el gobernante de la República de China, instaurando un gobierno militar en el proceso. Y aunque hasta ahora este Gobierno ha sido capaz de mantener al menos una fachada bastante inestable de estabilidad y control gubernamental sobre China, queda mucho por hacer para hacer realidad por fin la visión de Sun Yat-sen."
+
+
+ CHI_Faction_Infighting_General: "Luchas entre facciones"
+ CHI_Faction_Infighting_General_desc: "El incipiente Gobierno nacionalista de China ha estado plagado de luchas intestinas por el poder desde su fundación en 1928, y desde entonces se ha dividido en tres facciones principales que luchan por convertirse en el poder dominante del país. Estas facciones son la §Bcamarilla de Whampoa§!, que representa la cúpula militar al mando del Ejército Nacional Revolucionario, la §Bcamarilla del Club Central§!, que representa a la extrema derecha tradicionalista del Kuomintang, liderada sobre todo por los hermanos Chen Kuo-fu y Chen Li-fu, la §BSociedad de Camisas Azules§!, que representa a los radicales del partido inspirados en los fascistas italianos, la §Bcamarilla de Reorganización§!, que representa a la camarilla personal de Wang Ching-wei y al grupo de seguidores leales a él y, por último, la §Bcamarilla de Ciencias Políticas§!, liderada por Chang Chun y Yang Yung-tai, compuesta principalmente por sus amigos y socios."
+
+ CHI_Purge_1: "Purga militar reciente"
+ CHI_Purge_1_desc: "Una reciente purga ha debilitado nuestras capacidades militares. Llevará un tiempo reemplazar a los oficiales que hemos perdido. Sin embargo, la eliminación del mando disidente ha aumentado nuestro control sobre el Ejército."
+
+ CHI_restricted_party_membership: "Afiliación al partido restringida"
+ CHI_restricted_party_membership_desc: ""
+
+ CHI_Government_Purge_1: "Burócratas purgados"
+ CHI_Government_Purge_1_desc: "Una reciente purga ha debilitado nuestras capacidades administrativas. Llevará un tiempo reemplazar a los administradores que hemos perdido. Sin embargo, la eliminación de los disidentes ha reforzado nuestro control sobre el Gobierno."
+
+ CHI_Government_Purge_2: "Burócratas purgados"
+ CHI_Government_Purge_2_desc: "Una reciente purga ha debilitado nuestras capacidades administrativas. Llevará un tiempo reemplazar a los administradores que hemos perdido. Sin embargo, la eliminación de los disidentes ha reforzado nuestro control sobre el Gobierno."
+
+ CHI_Government_Purge_1: "Burócratas purgados"
+ CHI_Government_Purge_1_desc: "Una reciente purga ha debilitado nuestras capacidades administrativas. Llevará un tiempo reemplazar a los administradores que hemos perdido. Sin embargo, la eliminación de los disidentes ha reforzado nuestro control sobre el Gobierno."
+
+ provincial_authority_3: "§YAutoridad provincial consolidada§!"
+ administrators_3: "§YSe ha recuperado de la purga§!"
+
+ CHI_Faction_Infighting_Whampoa: "Camarilla de Whampoa"
+ CHI_Faction_Infighting_Whampoa_desc: "Aunque en teoría se supone que la República de China es un país democrático, el faccionalismo desenfrenado dentro de cada institución gubernamental ha paralizado todos los intentos de instaurar algo que se parezca lo más mínimo a una entidad política democrática. Estas luchas intestinas omnipresentes han ayudado al comandante del Ejército Nacional Revolucionario, §BChiang Kai-shek§!, a consolidarse como el gobernante de la República de China, instaurando un gobierno militar en el proceso. Y aunque hasta ahora este Gobierno ha sido capaz de mantener al menos una fachada bastante inestable de estabilidad y control gubernamental sobre China, queda mucho por hacer para hacer realidad por fin la visión de Sun Yat-sen."
+
+ CHI_Rural_Administrative_Chaos: "Caos administrativo rural"
+ CHI_Rural_Administrative_Chaos_desc: ""
+
+ #focus
+ CHI_nat_defense_council: "Consejo Nacional de Defensa"
+ CHI_nat_defense_council_desc: ""
+
+ CHI_appeasement_policy: "Política de apaciguamiento"
+ CHI_appeasement_policy_desc: ""
+
+ CHI_yi_dang_zhi_guo: "Dang Guo"
+ CHI_yi_dang_zhi_guo_desc: ""
+
+ CHI_Agressive_Warlord_Policy: "Política agresiva con los señores de la guerra"
+ CHI_Agressive_Warlord_Policy_desc: ""
+ CHI_Careful_Warlord_Policy: "Política cauta con los señores de la guerra"
+ CHI_Careful_Warlord_Policy_desc: ""
+
+ CHI_ROC_Commission_1: "Comisión Nacional de Recursos"
+ CHI_ROC_Commission_2: "Comisión Nacional de Recursos"
+
+ CHI_Japanese_Concessions_1: "Concesiones a Japón"
+ CHI_Japanese_Concessions_2: "Concesiones a Japón"
+
+ CHI_Peoples_Tutelage_Category: "Tutela del pueblo"
+ CHI_Peoples_Tutelage_Category_desc: "\n\n\n£decision_header_CHI_Peoples_Tutelage£\n\n\n\n§YChina§! ha conservado la misma forma de gobierno durante un milenio: la autocracia. Las dinastías gobernaban con puño de hierro, esquilmando al hombre común y utilizando sus fortunas para apuntalar el pedestal de poder de su amo. Cuando derrocamos a la monarquía aquel fatídico día en Hsinhai, fue reemplazada por un general ambicioso que quería autocoronarse emperador. Pero hoy no será el día.\n\nYa no permitiremos que generales y burócratas ambiciosos se apoderen de esta §Yrepública§!. Es hora de darle el gobierno al pueblo, que guíen el futuro de esta nación de una vez por todas. §GLos Tres Principios del Pueblo§! no se dejarían de lado, sino que se reforzarían. Por ende, implementaremos una serie de reformas que estarán en consonancia con nuestro nuevo mandato."
+
+ CHI_Corruption_Timer_Mission: "Carrera contra la corrupción"
+ CHI_Corruption_Mission_tt: "La corrupción aumenta un nivel.\n\n§YCambio efectivo:§!\n"
+ CHI_Corruption_Mission_Political_tt: "$MODIFIER_POLITICAL_POWER_GAIN$: §R-0.05§!\n"
+ CHI_Corruption_Mission_Build_tt: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-1.0%§!\n"
+ CHI_Corruption_Mission_Consumer_tt: "$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+2.0%§!\n"
+ CHI_Corruption_Mission_Stability_tt: "$stability_good_modifier$: §R-3.0%§!\n"
+ CHI_Corruption_Mission_War_tt: "$war_support_modifier$: §R-3.0%§!\n"
+ CHI_Corruption_Mission_Lower_General_tt: "La corrupción disminuye un nivel.\n\n§YCambio efectivo:§!\n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0,05§!\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+1,0%§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.0%§!\n$stability_good_modifier$: §G+3%§!\n$war_support_modifier$: §G+3%§!\n"
+ CHI_Corruption_Mission_Lower_Focus_tt: "\n§YReduce a la mitad los efectos de la corrupción.§!\n§YCambio efectivo:§!\n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0,25§!\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10.0%§!\n$stability_good_modifier$: §G+15.0%§!\n$war_support_modifier$: §G+15.0%§!\n\n"
+ CHI_Corruption_Mission_Lower_Decision: "Reduce permanentemente varios efectos de la corrupción.\n\n§YCambio efectivo:§!"
+ CHI_Corruption_Mission_Political_Lower: "$MODIFIER_POLITICAL_POWER_GAIN$: §G+0,05§!\n"
+ CHI_Corruption_Mission_Build_Lower: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+1.0%§!\n"
+ CHI_Corruption_Mission_Consumer_Lower: "$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.0%§!\n"
+ CHI_Corruption_Mission_Stability_Lower: "$stability_good_modifier$: §G+3 %§!\n"
+ CHI_Corruption_Mission_War_Lower: "$war_support_modifier$: §G+3 %§!\n"
+
+ CHI_factions_category: "Facciones del país"
+
+ CHI_Welfare_Mission: "Tutela del bienestar"
+ CHI_Democracy_Mission: "Tutela de la democracia"
+ CHI_Nationalism_Mission: "Tutela del nacionalismo"
+ CHI_tutelage_campaign_running: "Ya está llevando a cabo un programa de tutela"
+ CHI_Reconcile_Opposition_Risk_High: "Este líder tiene un §Ralto§! riesgo de integración."
+ CHI_Reconcile_Opposition_Risk_Medium: "Este líder tiene un riesgo de integración §Ymedio§!."
+ CHI_Reconcile_Opposition_Risk_Low: "Este líder tiene un §Rbajo§! riesgo de integración."
+
+ CHI_Mobilize_Trade_Unions: "Movilizar los sindicatos"
+ CHI_Mobilize_Trade_Unions_desc: "Si queremos competir económicamente, debemos movilizar a los sindicatos y ponerlos al servicio del Estado."
+ CHI_Mobilize_Student_Associations: "Movilizar las asociaciones estudiantiles"
+ CHI_Mobilize_Newspaper_Companies: "Movilizar las empresas periodísticas"
+ CHI_Mobilize_Rural_Societies: "Movilizar las sociedades rurales"
+ CHI_Mobilize_Village_Associations: "Movilizar las asociaciones de vecinos"
+
+ CHI_Absorb_Trade_Unions: "Integrar los sindicatos"
+ CHI_Absorb_Trade_Unions_desc: "Movilizados los sindicatos, estamos preparados para incorporarlos en el partido."
+ CHI_Absorb_Student_Associations: "Integrar las asociaciones estudiantiles"
+ CHI_Absorb_Newspaper_Companies: "Integrar las empresas periodísticas"
+ CHI_Absorb_Rural_Societies: "Integrar las sociedades rurales"
+ CHI_Absorb_Village_Associations: "Integrar las asociaciones de vecinos"
+
+ CHI_Centralise_Taxation_Offices: "Centralizar las oficinas tributarias"
+ CHI_Centralise_Customs_Offices: "Centralizar las oficinas aduaneras"
+ CHI_Centralise_Banking_Offices: "Centralizar las oficinas bancarias"
+ CHI_Centralise_Transportation_Offices: "Centralizar las oficinas de transportes"
+
+ CHI_Pol_Council_Reports: "Exigir informes"
+ established_reporting_system: "Ha establecido un sistema de informes"
+ CHI_Pol_Council_Establish_Reports: "Establecer un sistema de informes"
+ CHI_Pol_Council_Establish_Reports_tt: "Desbloqueará la decisión §YExigir informes§!."
+ CHI_Pol_Council_Representatives: "Asignar representantes políticos"
+ CHI_Pol_Council_Financial_Accounts: "Hacer cuentas financieras"
+ CHI_Pol_Council_Financial_Accounts_tt: "Desbloqueará las decisiones de §Ycuotas tributarias§!."
+ CHI_financial_accounts: "Ha hecho cuentas financieras"
+ CHI_Pol_Council_Tax_Quota: "Imponer la cuota tributaria"
+ CHI_Pol_Council_Relax_Tax_Quota: "Relajar la cuota tributaria"
+
+ CHI_Provincial_Representatives: "Asignar refuerzos de tropas a los representantes"
+ CHI_Provincial_Taxes: "Exigir cuentas fiscales"
+ CHI_Provincial_Station_Troops: "Destinar tropas militares"
+
+ CHI_Administrators_Law: "Abrir facultades de Derecho"
+ CHI_Administrators_Political: "Abrir facultades políticas"
+ CHI_Administrators_Training: "Programas obligatorios de formación"
+
+ # Unequal Treaties
+ CHI_Treaties_Category: "Tratados desiguales"
+ CHI_Treaties_Category_desc: "\n\n\n£decision_header_CHI_Unequal_Treaties£\n\n\n\nEn el último siglo, §YChina§W ha sido sometida a una serie infinita de tratados humillantes y pérdidas de la soberanía de sus territorios a conveniencia de las potencias occidentales. Aunque técnicamente son tratados bilateralmente ventajosos, su contenido revela una parcialidad aplastante hacia los occidentales, permitiéndoles §Rextraterritorialidad§! en nuestras tierras, una §Rpresencia militar§! simbólica, la §Rpropiedad de tierras chinas§! bajo el pretexto de «puertos comerciales» y, lo que es más importante, la §Rapertura forzosa de nuestros mercados§! a su comercio.\n\nCon estos factores en juego, la economía china es extremadamente volátil y está abierta a la influencia extranjera, mientras que nuestra propia capacidad para controlar la economía es extremadamente limitada y siempre favorecerá los deseos codiciosos de los occidentales en lugar de a nuestro pueblo. ¡§YChina§! debe forjar su propio camino y ocuparse de esta situación avergonzante si quiere imponerse como una nación que no se debe tomar tan a la ligera!\n\n£stability_texticon£ Efectos en la estabilidad: [?CHI_treaties_stability|%R0]\n$MODIFIER_MIN_EXPORT_FACTOR$: [?CHI_treaties_exports|%Y0]\n£civ_factory_output£ Efectos en el rendimiento industrial: [?CHI_treaties_production_speed|%R0]\n"
+
+ # Economic Reform
+ CHI_Economic_Reform_Actions: "El gran despertar"
+ CHI_Economic_Actions: "Decisiones económicas en el mapa"
+ CHI_Show_Economic_Actions: "Mostrar acciones económicas"
+ CHI_Hide_Economic_Actions: "Ocultar acciones económicas"
+ show_economy: "Acciones económicas visibles"
+ depression_easing: "§YLa economía ha empezado a recuperarse§!"
+
+ CHI_Invest_in_Trade: "Invertir en un gran centro comercial"
+ CHI_Nationalize_Key_Industry: "Nacionalizar las industrias regionales"
+ CHI_Nationalize_Mining: "Tomar el control directo de la minería"
+ CHI_Expand_State_Steel_Mining: "Ampliar la minería siderúrgica del Estado"
+ CHI_Expand_State_Tungsten_Mining: "Ampliar la minería de wolframio del Estado"
+ CHI_Expand_State_Business: "Ampliar las industrias del Estado"
+ CHI_Introduce_Fabi_Currency: "Introducir la moneda fa-pi"
+
+ CHI_Rural_Reconstruction_Actions: "Reconstrucción rural"
+ CHI_Rural_Reconstruction_Actions_desc: "El Movimiento de Reconstrucción Rural, encabezado por Y. C. James Yen y Liang Shu-ming, aspira a modernizar las aldeas y zonas rurales del país. Independiente tanto del Gobierno del Kuomintang como del enfoque radical de los comunistas, este programa, con suerte, mejorará la economía, las condiciones de vida y la sanidad drásticamente en dichas zonas. Al desarrollar la tierra en la que viven, esas personas vivirán allí por decisión propia, no por obligación, y lucharán con uñas y dientes para protegerla de cualquier posible invasor."
+
+ CHI_Rural_Reconstruction: "Decisiones de reconstrucción rural en el mapa"
+ CHI_Show_Reconstruction_Actions: "Mostrar decisiones de reconstrucción rural"
+ CHI_Hide_Reconstruction_Actions: "Ocultar decisiones de reconstrucción rural"
+ show_reconstruction: "Acciones de reconstrucción visibles"
+ rural_reconstruction_in_progress: "§YProyecto de reconstrucción en curso§!"
+
+ CHI_Reconstruct_Infrastructure: "Ampliar la infraestructura rural"
+ CHI_Reconstruct_Industry: "Conectar las aldeas remotas"
+ CHI_Reconstruct_Mil_Industry: "Esconder las instalaciones de producción en el campo"
+ CHI_Reconstruct_Administration: "La guerra contra el caos administrativo"
+ CHI_Reconstruct_Literacy: "Campaña de alfabetización menor"
+ CHI_Prepare_Partisans: "Prepararse para la guerra partisana"
+ CHI_Efforts_of_the_Four: "Esfuerzos de los Cuatro Grandes"
+
+ CHI_Reconstruct_Administration_tt: "Reduce los efectos de §YCaos administrativo§! en un §G10 %§!.\n"
+
+ # Liangguang Incident
+ CHI_Liangguang_Incident: "Liangguang"
+ CHI_Liangguang_War: "Guerra con Liangguang"
+ GXC_Liangguang_War: "Guerra de Salvación Nacional"

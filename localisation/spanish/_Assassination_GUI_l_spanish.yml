@@ -1,0 +1,60 @@
+﻿l_spanish:
+ # GUI:
+ ASSASSINATION_TARGET: "Blanco del asesinato: §Y[This.GetAssassinationTarget]§!"
+ ASSASSINATION_TARGET_COUNTRY: "País objetivo: §Y[This.GetAssassinationTargetCountry]§!"
+ ASSASSINATION_METHOD: "Método: §Y[This.GetAssassinationMethod]§!"
+ ASSASSINATION_SITUATION: "Situación: §Y[This.GetAssassinationSituation]§!"
+ ASSASSINATION_BASE_CHANCE: "Probabilidad de éxito: §Y[?assassination_success_chance|2] %§!"
+ 
+ ASSASSINATION_SELECT_METHOD_NO_MATCHES_INFO: "§YTienes que seleccionar un blanco para ver los métodos.§!"
+ ASSASSINATION_SELECT_SITUATION_NO_MATCHES_INFO: "§YTienes que seleccionar un blanco para ver las situaciones.§!"
+ 
+ ASSASSINATION_SELECT_METHOD: "Selecciona un método para el asesinato:"
+ ASSASSINATION_SELECT_METHOD_TT: "§GHaz clic§! para seleccionar el método §Y[This.GetAssassinationMethodName]§!. [This.GetSelectAssassinationMethodTooltip]"
+ ASSASSINATION_SELECT_METHOD_TT_DELAYED: "[This.GetSelectAssassinationMethodTooltipDelayed]"
+ ASSASSINATION_UNSELECT_METHOD_TT: "§GHaz clic§! para desmarcar §Y[This.GetAssassinationMethodName]§!."
+ ASSASSINATION_SELECT_SITUATION: "Selecciona una situación para el asesinato:"
+ ASSASSINATION_SELECT_SITUATION_TT: "§GHaz clic§! para seleccionar la situación §Y[This.GetAssassinationSituationName]§!. [This.GetSelectAssassinationSituationTooltip]"
+ ASSASSINATION_SELECT_SITUATION_TT_DELAYED: "[This.GetSelectAssassinationSituationTooltipDelayed]"
+ ASSASSINATION_UNSELECT_SITUATION_TT: "§GHaz clic§! para desmarcar §Y[This.GetAssassinationSituationName]§!."
+  
+ # Scripted Localisation:
+ string_assassination_method_shoot: "Disparar al blanco"
+ string_assassination_method_stab: "Apuñalar al blanco"
+ string_assassination_method_poison: "Envenenar al blanco"
+ string_assassination_method_plant_bomb: "Colocar una bomba"
+ string_assassination_method_sabotage_car: "Sabotear el coche del blanco"
+ string_assassination_method_kidnap: "Secuestrar, interrogar y ejecutar al blanco"
+ 
+ string_assassination_situation_private: "En la casa del blanco"
+ string_assassination_situation_speech: "Durante un discurso del blanco"
+ string_assassination_situation_meeting: "En una reunión del blanco con la plana mayor"
+ string_assassination_situation_meeting_with_fuhrer: "En una reunión del blanco con el Führer"
+ 
+ string_cannot_select_assassination_method_with_other_situation_than_this: "\n--------------\n§REl método§! §Y[This.GetAssassinationMethodName]§! §Rsólo puede usarse con la situación§! §Y[This.GetAssassinationSituationNameOtherContext]§! §R.§!"
+ string_cannot_select_assassination_situation_with_current_method: "\n--------------\n§RLa situación§! §Y[This.GetAssassinationSituationName]§! §Rno puede combinarse con el método actual§! §Y[This.GetAssassinationMethod]§!§R.§!"
+ 
+ string_special_effect_of_method_poison: "El método §Y[This.GetAssassinationMethodName]§! tiene las siguientes características especiales: \n   - La posibilidad de que se §Ydescubra§! el asesinato disminuye un §G20 %§!. \n   - La posibilidad de que §Yatrapen§! al asesino al final disminuye un §G30 %§!. \n   - La §Yprobabilidad de éxito§! es de un §R50 %§! como mucho."
+ string_special_effect_of_method_bomb: "El método §Y[This.GetAssassinationMethodName]§! tiene las siguientes características especiales: \n   - Si el asesinato sale bien, el país objetivo perderá un §G5 %§! de §Yapoyo bélico§!."
+ string_special_effect_of_method_kidnap: "El método §Y[This.GetAssassinationMethodName]§! tiene las siguientes características especiales: \n   - Si el asesinato sale bien, §Y[This.GetNameDef]§! conseguirá bonfiicaciones de ataque de §G10 %§! contra el país objetivo durante §Y365 días§!."
+ 
+ string_special_effect_of_situation_speech: "La situación §Y[This.GetAssassinationSituationName]§! tiene las siguientes características especiales: \n   - Si el método empleado es §Y[This.GetAssassinationMethodNameOtherContext]§! y el asesinato sale bien, el país objetivo perderá un §G3 %§! de §Yapoyo bélico§!."
+ string_special_effect_of_situation_meeting: "La situación §Y[This.GetAssassinationSituationName]§! tiene las siguientes características especiales: \n   - Si el método empleado es §Yapuñalar al blanco§!, la probabilidad de que §Yatrapen§! al asesino al final disminuye un §G5 §!. \n   - Si el método empleado es §Ycolocar una bomba§! y el asesinato sale bien, hay un §G5 %§! de posibilidades de que un general aleatorio del país objetivo muera."
+ string_special_effect_of_situation_meeting_with_fuhrer: "La situación §Y[This.GetAssassinationSituationName]§! tiene las siguientes características especiales: \n   - Si el método empleado es §Y[This.GetAssassinationMethodNameOtherContext]§! y el asesinato sale bien, hay un §G5 %§! de posibilidades de que el líder del país objetivo muera."
+ 
+ # Decisions:
+ assassionation_decisions_category: "Planificar un asesinato"
+ assassionation_decisions_category_desc: ""
+ 
+ cancel_assassination: "Cancelar el asesinato"
+ cancel_assassination_desc: "REFERENTE"
+ 
+ initiate_assassination_of_heydrich: "Iniciar planes para asesinar a Reinhard Heydrich"
+ initiate_assassination_of_heydrich_desc: "Selecciona a §YReinhard Heydrich§! como el blanco del asesinato. Después podrás decidir los detalles y empezar a planificar el asesinato."
+ 
+ HAS_SELECTED_AN_ASSASSINATION_METHOD: "Ha seleccionado un §Ymétodo§!"
+ HAS_SELECTED_AN_ASSASSINATION_SITUATION: "Ha seleccionado una §Ysituación§!"
+ 
+ SELECT_TARGET_OF_ASSASSINATION: "Selecciona a §Y[This.GetAssassinationTargetOtherContext]§! como el blanco del asesinato."
+ CANCEL_ASSASSINATION: "Cualquier plan para el asesinato se cancelará y el blanco se borrará."
+ 

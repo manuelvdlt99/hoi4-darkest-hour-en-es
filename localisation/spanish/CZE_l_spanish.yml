@@ -1,0 +1,308 @@
+﻿l_spanish:
+######################################################################
+#  Danzig Spirit - NOTE from iDovy12: What does Danzig have to do with Czechs?
+######################################################################
+ CZE_French_Bunker_Expertise: "Experiencia francesa en búnkeres"
+ CZE_French_Bunker_Expertise_desc: ""
+
+ CZE_Reditelstvi_Opevnovacich_Praci: "Ředitelství Opevňovacích Prací"
+ CZE_Reditelstvi_Opevnovacich_Praci_desc: ""
+
+ CZE_Sudeten_Crisis: "Crisis de los Sudetes"
+ CZE_Sudeten_Crisis_desc: ""
+
+ CZE_Slovak_Problem: "El problema eslovaco"
+ CZE_Slovak_Problem_desc: ""
+
+ CZE_Extremism_on_Rise: "Extremismo en alza"
+ CZE_Extremism_on_Rise_desc: ""
+
+ CZE_Skoda_Industries: "Industrias Škoda"
+ CZE_Skoda_Industries_desc: ""
+
+######################################################################
+#  Political Tree
+######################################################################
+ CZE_A_Test_of_our_Democracy: "Una prueba de nuestra democracia"
+ CZE_A_Test_of_our_Democracy.desc: ""
+
+ CZE_Support_Centralization_of_Power: "Respaldar la centralización del poder"
+ CZE_Support_Centralization_of_Power.desc: ""
+
+ CZE_Uphold_Democratic_Values: "Defender los valores democráticos"
+ CZE_Uphold_Democratic_Values.desc: ""
+
+ CZE_Sudeten_German_Suppression: "Represión de los alemanes de los Sudetes"
+ CZE_Sudeten_German_Suppression.desc: ""
+
+ CZE_Establish_A_Support_Program: "Instaurar un programa de apoyo"
+ CZE_Establish_A_Support_Program.desc: ""
+
+ CZE_Reaffirm_Little_Entente_Ties: "Reafirmar los lazos con la Pequeña Entente"
+ CZE_Reaffirm_Little_Entente_Ties.desc: ""
+
+ CZE_Our_One_True_Ally: "Nuestro único aliado verdadero"
+ CZE_Our_One_True_Ally.desc: ""
+
+ CZE_Continue_Empowering_the_Hrad: "Seguir confiriendo poderes al Hrad"
+ CZE_Continue_Empowering_the_Hrad.desc: ""
+
+ CZE_Increase_Sudetenland_Gendarmerie_Presence: "Aumentar la presencia de la Gendarmería en los Sudetes"
+ CZE_Increase_Sudetenland_Gendarmerie_Presence.desc: ""
+
+ CZE_The_German_Problem: "El problema alemán"
+ CZE_The_German_Problem.desc: ""
+
+ CZE_Support_the_Sokol_Movement: "Apoyar al movimiento Sokol"
+ CZE_Support_the_Sokol_Movement.desc: ""
+
+ CZE_An_Election_For_the_Ages: "Unas elecciones para la eternidad"
+ CZE_An_Election_For_the_Ages.desc: ""
+ 
+ CZE_Under_Beness_Rule: "Bajo el mandato de Beneš"
+ CZE_Under_Beness_Rule.desc: ""
+
+ CZE_Support_the_Majority_proposal: "Apoyar la propuesta mayoritaria"
+ CZE_Support_the_Majority_proposal.desc: ""
+
+ CZE_Focus_On_Current_Problems: "Centrarse en los problemas actuales"
+ CZE_Focus_On_Current_Problems.desc: ""
+
+ CZE_Fight_Appeasement: "Combatir el apaciguamiento"
+ CZE_Fight_Appeasement.desc: ""
+
+ CZE_Boost_Nationalism_with_Sokols: "Potenciar el nacionalismo con sokols"
+ CZE_Boost_Nationalism_with_Sokols.desc: ""
+
+ CZE_Scared_of_Third_Reich: "Miedo al Tercer Reich"
+ CZE_Scared_of_Third_Reich.desc: ""
+
+ CZE_Find_Solution: "Buscar una solución"
+ CZE_Find_Solution.desc: ""
+
+ CZE_Trust_in_Army: "Confiar en el Ejército"
+ CZE_Trust_in_Army.desc: ""
+
+ CZE_Military_Propaganda: "Propaganda militar"
+ CZE_Military_Propaganda.desc: ""
+
+ CZE_No_Doubt_About_France: "No hay duda sobre Francia"
+ CZE_No_Doubt_About_France.desc: ""
+
+ CZE_Call_Little_Entente_to_Arms: "Llamar a la Pequeña Entente a las armas"
+ CZE_Call_Little_Entente_to_Arms.desc: ""
+
+ CZE_Protect_What_is_Ours: "Proteger lo que nos pertenece"
+ CZE_Protect_What_is_Ours.desc: ""
+
+ CZE_Listen_to_Our_People: "Escuchar a nuestro pueblo"
+ CZE_Listen_to_Our_People.desc: ""
+
+ CZE_Beness_Policy: "Política de Beneš"
+ CZE_Beness_Policy.desc: ""
+
+ CZE_Negotiate_with_Germans: "Negociar con los alemanes"
+ CZE_Negotiate_with_Germans.desc: ""
+
+ CZE_Regulate_what_We_can: "Negociar lo que podamos"
+ CZE_Regulate_what_We_can.desc: ""
+
+ CZE_Improve_our_Border_Guards: "Mejorar nuestra guardia fronteriza"
+ CZE_Improve_our_Border_Guards.desc: ""
+
+ CZE_Discuss_Military: "Hablar del tema militar"
+ CZE_Discuss_Military.desc: ""
+
+ CZE_Secure_Citizens_in_Sudetenland: "Asegurar a los ciudadanos de los Sudetes"
+ CZE_Secure_Citizens_in_Sudetenland.desc: ""
+
+ CZE_Policy_of_Appeasement: "Política de apaciguamiento"
+ CZE_Policy_of_Appeasement.desc: ""
+
+ CZE_More_power_to_SOS: "Más poder para el SOS"
+ CZE_More_power_to_SOS.desc: ""
+
+ CZE_State_of_emergency_in_the_Sudetenland: "Estado de emergencia en los Sudetes"
+ CZE_State_of_emergency_in_the_Sudetenland.desc: ""
+
+ CZE_Possible_Red_Ally: "Posible aliado rojo"
+ CZE_Possible_Red_Ally.desc: ""
+
+ CZE_Part_of_the_West: "Parte de Occidente"
+ CZE_Part_of_the_West.desc: ""
+
+ CZE_We_Wont_Shoot_First: "No dispararemos primero"
+ CZE_We_Wont_Shoot_First.desc: ""
+ 
+ CZE_We_Against_Everyone: "Nosotros contra todos"
+ CZE_We_Against_Everyone.desc: ""
+
+######################################################################
+#  After Munich Conference
+######################################################################
+ 
+ CZE_Times_of_Second_Czechoslovak_Republic: "Tiempos de la Segunda República checoslovaca"
+ CZE_Times_of_Second_Czechoslovak_Republic.desc: ""
+ 
+ CZE_Form_A_New_Government: "Formar un nuevo Gobierno"
+ CZE_Form_A_New_Government.desc: ""
+ 
+ CZE_An_undefeated_army: "Un ejército invicto"
+ CZE_An_undefeated_army.desc: ""
+ 
+ CZE_Humiliated_Country: "País humillado"
+ CZE_Humiliated_Country.desc: ""
+ 
+ CZE_We_Stand_Firm: "Nos mantenemos firmes"
+ CZE_We_Stand_Firm.desc: ""
+ 
+ CZE_Public_Support_for_Army: "Apoyo público al Ejército"
+ CZE_Public_Support_for_Army.desc: ""
+ 
+ CZE_Trust_in_our_Government: "Confiar en nuestro Gobierno"
+ CZE_Trust_in_our_Government.desc: ""
+ 
+ CZE_Move_out_Germans_from_Our_Borderland: "Fuera alemanes de nuestra frontera"
+ CZE_Move_out_Germans_from_Our_Borderland.desc: ""
+
+ CZE_To_the_Last_Drop_of_Blood: "Hasta la última gota de sangre"
+ CZE_To_the_Last_Drop_of_Blood.desc: ""
+
+######################################################################
+#  Army tree
+######################################################################
+ CZE_The_Czechoslovak_Army: "Armáda v poli"
+ CZE_The_Czechoslovak_Army_desc: ""
+
+ CZE_Phase_Out_Old_Austrian_Equipment: "Retirar el viejo equipo austriaco"
+ CZE_Phase_Out_Old_Austrian_Equipment.desc: ""
+
+ CZE_A_New_Era_of_Mobility: "Una nueva era de movilidad"
+ CZE_A_New_Era_of_Mobility.desc: ""
+
+ CZE_Accelerate_Infantry_Mobilization: "Acelerar la movilización de la infantería"
+ CZE_Accelerate_Infantry_Mobilization.desc: ""
+
+ CZE_Emphasise_Strong_Logistics: "Hacer hincapié en una logística firme"
+ CZE_Emphasise_Strong_Logistics.desc: ""
+
+ CZE_Praga_Skoda_Tank_Development: "Desarrollo de tanques Praga y Škoda"
+ CZE_Praga_Skoda_Tank_Development.desc: ""
+
+ CZE_Flexible_Defence: "Defensa flexible"
+ CZE_Flexible_Defence.desc: ""
+
+ CZE_Czech_Trench_System: "Sistema de trincheras checo"
+ CZE_Czech_Trench_System.desc: ""
+
+ CZE_Faith_in_Border_Guards: "Fe en la guardia fronteriza"
+ CZE_Faith_in_Border_Guards.desc: ""
+
+ CZE_Expand_Support_Equipment: "Expandir el equipo de apoyo"
+ CZE_Expand_Support_Equipment.desc: ""
+
+ CZE_Innovate_Trench_Tactics: "Innovar las tácticas de trincheras"
+ CZE_Innovate_Trench_Tactics.desc: ""
+
+ CZE_Sophisticated_Defence: "Defensa sofisticada"
+ CZE_Sophisticated_Defence.desc: ""
+
+ CZE_A_Storm_of_Shells: "Tormenta de proyectiles"
+ CZE_A_Storm_of_Shells.desc: ""
+
+ CZE_Power_from_Background: "Poder de fondo"
+ CZE_Power_from_Background.desc: ""
+
+ CZE_Expand_the_Caliber_of_Cannons: "Ampliar el calibre de los cañones"
+ CZE_Expand_the_Caliber_of_Cannons.desc: ""
+
+ CZE_Innovate_Skoda_Artillery_Designs: "Innovar los diseños de artillería de Škoda"
+ CZE_Innovate_Skoda_Artillery_Designs.desc: ""
+
+ CZE_Superior_Defence: "Defensa superior"
+ CZE_Superior_Defence.desc: ""
+
+ CZE_The_War_College_of_Prague: "La Escuela de Guerra de Praga"
+ CZE_The_War_College_of_Prague.desc: ""
+
+ CZE_Invoke_the_Legacy_of_the_Czechoslovak_Legions: "Invocar el legado de las Legiones Checoslovacas"
+ CZE_Invoke_the_Legacy_of_the_Czechoslovak_Legions.desc: ""
+
+ CZE_Modernise_Our_Equipment: "Modernizar nuestro equipo"
+ CZE_Modernise_Our_Equipment.desc: ""
+
+ CZE_Lessons_from_the_War: "Lecciones de la guerra"
+ CZE_Lessons_from_the_War.desc: ""
+
+ CZE_The_Experience_is_Non_transferable: "La experiencia no es transferible"
+ CZE_The_Experience_is_Non_transferable.desc: ""
+
+ CZE_Focus_on_Infantry: "Centrarse en la infantería"
+ CZE_Focus_on_Infantry.desc: ""
+
+ CZE_Mechanization_of_Army: "Mecanización del Ejército"
+ CZE_Mechanization_of_Army.desc: ""
+
+######################################################################
+#  Airforce tree
+######################################################################
+ CZE_Reform_our_wings: "Reformar nuestras alas"
+ CZE_Reform_our_wings_desc: ""
+
+ CZE_Improve_our_Airports: "Mejorar nuestros aeropuertos"
+ CZE_Improve_our_Airports.desc: ""
+
+ CZE_Quality_not_Quantity: "Calidad, no cantidad"
+ CZE_Quality_not_Quantity.desc: ""
+
+ CZE_Which_wings: "Qué alas"
+ CZE_Which_wings.desc: ""
+
+ CZE_Focus_on_Defence: "Centrarse en la defensa"
+ CZE_Focus_on_Defence.desc: ""
+
+ CZE_Check_out_Aviras_Blueprints: "Revisar los planos de Avia"
+ CZE_Check_out_Aviras_Blueprints.desc: ""
+
+ CZE_Improve_Flying_Tactics: "Mejorar las tácticas de vuelo"
+ CZE_Improve_Flying_Tactics.desc: ""
+
+ CZE_Focus_on_Fighters: "Centrarse en los cazas"
+ CZE_Focus_on_Fighters.desc: ""
+
+ CZE_Support_our_ground_units: "Apoyar a nuestras unidades terrestres"
+ CZE_Support_our_ground_units.desc: ""
+
+ CZE_Dive_Bombing_Tactics: "Tácticas de bombardeo en picado"
+ CZE_Dive_Bombing_Tactics.desc: ""
+
+ CZE_Check_out_Letovs_Blueprints: "Revisar los planos de Letov"
+ CZE_Check_out_Letovs_Blueprints.desc: ""
+
+ CZE_Boost_Production_of_Bombers: "Potenciar la producción de bombarderos"
+ CZE_Boost_Production_of_Bombers.desc: ""
+
+ CZE_Support_Aeros_Work: "Apoyar el trabajo de Aero"
+ CZE_Support_Aeros_Work.desc: ""
+
+ CZE_Air_is_our_Sea: "El aire es nuestro mar"
+ CZE_Air_is_our_Sea.desc: ""
+
+######################################################################
+#  Czechoslovakia Events
+######################################################################
+ CZE_Politics.1.t: "Masaryk se jubila"
+ CZE_Politics.1.d: ""
+ CZE_Politics.1.A: ""
+ 
+ CZE_Politics.2.t: "Hodža se convierte en primer ministro"
+ CZE_Politics.2.d: ""
+ CZE_Politics.2.A: ""
+
+ CZE_Politics.3.t: "Syrový se convierte en primer ministro"
+ CZE_Politics.3.d: ""
+ CZE_Politics.3.A: ""
+
+ CZE_Politics.4.t: "Beran se convierte en primer ministro"
+ CZE_Politics.4.d: ""
+ CZE_Politics.4.A: ""

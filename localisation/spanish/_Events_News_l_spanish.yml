@@ -1,0 +1,84 @@
+﻿l_spanish:
+  ######################################################################
+  #  Custom Newspaper Headers
+  ######################################################################
+  Newspaper_ARAB: "£newspaper_title_ARAB \n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_AUS_socialist: "£newspaper_title_AUS_socialist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_BRA: "£newspaper_title_BRA\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_BRA_fascist: "£newspaper_title_BRA_fascist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_BUL: "£newspaper_title_BUL\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_CHI: "£newspaper_title_CHI\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_CRO: "£newspaper_title_CRO\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_DDR: "£newspaper_title_DDR\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_DEN: "£newspaper_title_DEN\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_ENG: "£newspaper_title_ENG\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_FIN: "£newspaper_title_FIN\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_FRA: "£newspaper_title_FRA\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_FRA_communist: "£newspaper_title_FRA_communist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_FRA_fascist: "£newspaper_title_FRA_fascist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_GER: "£newspaper_title_GER\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_GER_communist: "£newspaper_title_GER_communist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_GER_democratic: "£newspaper_title_GER_democratic\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_GER_fascist: "£newspaper_title_GER_fascist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_GER_SS_fascist: "£newspaper_title_GER_SS_fascist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_GRE: "£newspaper_title_GRE\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_HUN: "£newspaper_title_HUN\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_IRE: "£newspaper_title_IRE\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_ITA: "£newspaper_title_ITA\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_JAP: "£newspaper_title_JAP\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_JAP_communist: "£newspaper_title_JAP_communist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_KOR: "£newspaper_title_KOR\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_NOR: "£newspaper_title_NOR\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_PRC_communist: "£newspaper_title_PRC_communist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_ROM: "£newspaper_title_ROM\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_SOV_RED_ARMY_communist: "£newspaper_title_SOV_RED_ARMY_communist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_SOV_communist: "£newspaper_title_SOV_communist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_SPA: "£newspaper_title_SPA\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_SWE: "£newspaper_title_SWE\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_USA: "£newspaper_title_USA\n\n\n\n\n\n\n\n\n\n\n\n"
+  
+  Newspaper_GENERIC: "£newspaper_title_GENERIC\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_GENERIC_communist: "£newspaper_title_GENERIC_communist\n\n\n\n\n\n\n\n\n\n\n\n"
+  Newspaper_GENERIC_fascist: "£newspaper_title_GENERIC_fascist\n\n\n\n\n\n\n\n\n\n\n\n"
+
+  ######################################################################
+  #  News Events
+  ###################################################################### 
+  News.1.t: "Se formaliza el Eje Roma-Berlín"
+  News.1.d: "[ROOT.GetNewsIcon]Nos han llegado noticias impactantes de nuestras fuentes en Roma y Múnich: parece que el Reich alemán y el Reino de Italia han firmado un pacto informal de amistad y posible alianza militar, o Eje, como lo denominan ellos, formalizado por el ministro de Exteriores italiano, Galeazzo Ciano. Esta alianza ha sorprendido a muchos, teniendo en cuenta la jerarquía racial de Hitler para con los europeos del sur, en particular los italianos, y las grandes diferencias entre el fascismo italiano y el nacionalsocialismo del Reich, sobre todo teniendo en cuenta las tensiones entre Alemania e Italia sobre el futuro de Austria y el Tirol sur. En particular, este acontecimiento sorprende a las potencias occidentales, que ahora se ven más amenazadas por una Alemania menos aislada e incluso podrían empezar a centrarse menos en contrarrestar la influencia soviética y más en contrarrestar la influencia de la extrema derecha..."
+  News.1.A: "Preocupante."
+  News.1.B: "Todos los demás países giran en torno al Eje Roma-Berlín."
+  
+  News.2.t: "Los Acuerdos de Múnich"
+  News.2.t1: "[ROOT.GetNewsIcon]El Dictado de Múnich"
+  News.2.d1: "Después de haber reunido en Múnich a los dirigentes de todos los grandes países europeos para negociar sobre los Sudetes, el glorioso Führer ha conseguido que el Reino Unido y Francia apoyen nuestra reivindicación sobre el territorio checoslovaco. Debido a ello, podemos ocupar la región sin problemas, y ¡si esos checoslovacos impertinentes se atreven a resistirse, se enfrentarán a nuestra Wehrmacht!"
+  News.2.d2: "Tras una próspera serie de negociaciones en Múnich, el primer ministro Chamberlain volvió al Reino Unido con promesas de paz. En el número 10 de Downing Street se le citó diciendo: «Mis buenos amigos, por segunda vez en nuestra historia un primer ministro británico ha regresado de Alemania trayendo la paz con honor. Creo que es la paz para nuestros tiempos»."
+  News.2.d3: "Tras un fructífero debate en Múnich, las principales potencias europeas han decidido que los Sudetes deben ser entregados a Alemania para evitar una posible segunda guerra mundial. A pesar de no tener representación en Múnich, se supone que los checoslovacos han de ceder a las exigencias alemanas."
+  News.2.A: "¡Otra gloriosa victoria para el Reich!"
+  News.2.B: "¡Paz para nuestros tiempos!"
+  News.2.C: "¡Sobre nosotros, sin nosotros!"
+  News.2.D: "Otra tirada de mapas obsoletos."
+  
+  
+  News.4.t: "Se formaliza el Pacto Antikomintern"
+  News.4.d: "[ROOT.GetNewsIcon]En una conferencia de prensa celebrada hoy en Berlín, Adolf Hitler ha anunciado formalmente la creación de un bloque anticomunista llamado el Pacto Antikomintern. Este pacto, supuestamente destinado a oponerse a la Internacional Comunista formada por la Unión Soviética, se creó para preservar y contrarrestar el comunismo en Europa y más allá. Los firmantes del pacto acuerdan que cesarán la creación y ratificación de cualquier tratado en el que participe la Unión Soviética, además de prestarse asistencia mutua de cualquier manera, desde el suministro de ayuda técnica y militar, el envío de material bélico, hasta la intervención directa en cualquier conflicto que la Unión Soviética y sus aliados cometan en los Estados firmantes. Aunque el pacto no tiene más miembros que el Reich alemán actualmente, informes de otras naciones dan a entender que un puñado aceptarán la invitación de Alemania como forma de crear un esfuerzo unido contra el comunismo y la revolución mundial."
+  News.4.A: "Interesante."
+  News.4.B: "¿Cómo se atreven?"
+  
+  News.5.t: "El papa Pío XI muere a los 81 años"
+  News.5.d: "[ROOT.GetNewsIcon]Hoy es un día triste para todos los católicos del mundo: tras sufrir un tercer y fatídico infarto, el papa Pío XI, primer soberano del Estado vaticano, ha fallecido en sus aposentos en el Palacio Apostólico. El Papa era muy conocido como mecenas de las ciencias, con especial afinidad por la radio, mientras que sus críticas a los peligros del socialismo y el comunismo marcarían a una generación de católicos. También fueron conocidas sus últimas condenas al Tercer Reich de Alemania, a través de su encíclica ""«Mit brennender Sorge», hace no mucho tiempo. Ya se está celebrando el cónclave para elegir un nuevo papa. "
+  News.5.A: "Pax Christi in regno Christi."
+  
+  News.6.t: "¡El Cuadrado Dorado toma Irak!"
+  News.6.d: "[ROOT.GetNewsIcon]Parece que las promesas de independencia limitada de los británicos a los iraquíes en 1932 no han bastado para saciar su sed de libertad de un gobierno extranjero. Ayer, cuatro generales iraquíes, conocidos coloquialmente como el Cuadrado Dorado, tomaron el aparato de Estado, derrocaron al regente probritánico, 'Abd al-Ilah, e instauraron a Rashid Alí al-Gailani como nuevo primer ministro. Oriente Medio observa, esperando la siguiente jugada del Reino Unido. No es la primera vez que se produce una revuelta contra los mandatos establecidos por Londres, y puede que tampoco sea la última. "
+  News.6.A: "Primero Palestina, ahora Irak... ¡Ésto se nos está yendo de las manos!"
+  News.6.B: "¡Abajo los británicos!"
+  
+  News.7.t: "Gira real canadiense"
+  News.7.d: "[ROOT.GetNewsIcon]El rey Jorge VI y la reina Isabel han visitado hoy Canadá para recorrer durante unos días todas las provincias canadienses, el Dominio de Terranova y los Estados Unidos. El rey y la reina llegaron en barco a Quebec y viajaron al oeste por ferrocarril, acompañados durante su viaje por el primer ministro canadiense."
+  News.7.A: "Interesante suceso."
+  News.7.B: "Les damos la bienvenida."
+  
+  News.8.t: "Ocupación soviética del Báltico"
+  News.8.d: "[ROOT.GetNewsIcon]Hoy, el ministro de Asuntos Exteriores de la Unión Soviética, Viacheslav Mólotov, ha informado a la prensa oficial del mundo, reunida en Moscú, que el Politburó de la Unión Soviética ha accedido a las peticiones de los Gobiernos de Estonia, Letonia y Lituania de unirse formalmente a la Unión Soviética como repúblicas socialistas soviéticas, poniendo fin a la independencia de los Estados bálticos.\nSi bien ésto no es una sorpresa, dado que la presión soviética sobre los países bálticos ha aumentado drásticamente en las últimas semanas, lo que ha llevado a la instalación de un «Gobierno popular» de asignación soviética en estos Estados, varios Estados de todo el mundo han condenado la «anexión apenas velada» de la Unión Soviética y se niegan a reconocer al Gobierno soviético como legítimo, siendo Alemania la única excepción notable.\nInformes de los Estados ocupados indican que el NKVD ya ha empezado a identificar y deportar a los «enemigos del pueblo». Los primeros trenes parten hacia Siberia en este preciso instante."
+  News.8.A: "¿El fin del Báltico?"

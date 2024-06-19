@@ -1,0 +1,15 @@
+﻿l_spanish:
+######################################################################
+#  Argentine Political Events
+######################################################################
+ Argentina_Elections.1.t: "Elecciones generales de Argentina de 1937"
+ Argentina_Elections.1.A: "Elegir a los nacionalsocialistas"
+ Argentina_Elections.1.B: "Elegir a los fascistas"
+ Argentina_Elections.1.C: "Elegir a los autócratas paternales"
+ Argentina_Elections.1.D: "Elegir a los socialconservadores"
+ Argentina_Elections.1.E: "Elegir a los socioliberales"
+ Argentina_Elections.1.F: "Elegir a los socialdemócratas"
+ Argentina_Elections.1.G: "Elegir a los nacionalistas de izquierda"
+ 
+ ARG_PA_1937_Candidate: "§YCandidato§! : Roberto M. Ortiz"
+ ARG_SL_1937_Candidate: "§YCandidato§! : Marcelo Torcuato de Alvear"

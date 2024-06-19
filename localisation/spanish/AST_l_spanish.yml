@@ -1,0 +1,52 @@
+﻿l_spanish:
+######################################################################
+#  Australian Political Events
+######################################################################
+ AST_Election_1934.1.t: "Elecciones federales de Australia de 1934"
+ AST_Election_1934.1.d: ""
+ AST_Election_1934.1.A: "Joseph Lyons"
+ AST_Election_1934.1.B: "James Scullin"
+
+ AST_Election_1937.1.t: "Elecciones federales de Australia de 1937"
+ AST_Election_1937.1.d: ""
+ AST_Election_1937.1.A: "Joseph Lyons"
+ AST_Election_1937.1.B: "John Curtin"
+ AST_1937_Party_A: "§YPartido§! : Partido de la Australia Unida"
+ AST_1937_Party_B: "§YPartido§! : Partido Laborista"
+
+ AST_Election_1940.1.t: "Elecciones federales de Australia de 1940"
+ AST_Election_1940.1.d: ""
+ AST_Election_1940.1.A: "Robert Menzies"
+ AST_Election_1940.1.B: "John Curtin"
+ AST_1940_Party_A: "§YPartido§! : Partido de la Australia Unida"
+ AST_1940_Party_B: "§YPartido§! : Partido Laborista"
+ 
+ AST_Election_1943.1.t: "Elecciones federales de Australia de 1943"
+ AST_Election_1943.1.d: ""
+ AST_Election_1943.1.A: "Arthur Fadden"
+ AST_Election_1943.1.B: "John Curtin"
+ AST_1943_Party_A: "§YPartido§! : Partido del Campo"
+ AST_1943_Party_B: "§YPartido§! : Partido Laborista"
+
+ AST_Election_1946.1.t: "Elecciones federales de Australia de 1946"
+ AST_Election_1946.1.d: "Elecciones federales de Australia de 1946"
+ AST_Election_1946.1.A: "Arthur Fadden"
+ AST_Election_1946.1.B: "Ben Chifley"
+ AST_1946_Party_A: "§YPartido§! : Partido del Campo"
+ AST_1946_Party_B: "§YPartido§! : Partido Laborista"
+
+ AST_Politics.1.t: "Dimite el primer ministro Robert Menzies"
+ AST_Politics.1.d: "[FROM.GetNewsIcon]En una reunión de emergencia del Gabinete de Australia esta mañana, el primer ministro, Robert Menzies, ha anunciado su intención de dimitir del cargo debido a la caída en picado del apoyo a su posición dentro del partido y ha dado instrucciones al gobernador general, lord Gowrie, para que nombre primer ministro a John Curtin. Le fue negado, y una conferencia conjunta del UAP y el Partido del Campo ha elegido a Arthur Fadden como nuevo líder de la coalición."
+ AST_Politics.1.A: "Que preste un servicio duradero y fiel."
+ 
+ AST_Politics.2.t: "Dimite el primer ministro Arthur Fadden"
+ AST_Politics.2.d: "[FROM.GetNewsIcon]En un sorprendente giro de los acontecimientos, hoy se ha derrumbado el Gobierno de coalición del UAP apuntalado por independientes. Arthur Fadden se mostró incapaz de acallar los temores de sus diputados ordinarios y de los parlamentarios independientes tanto en las políticas de su Gobierno como en su capacidad para llevar a cabo la defensa del Pacífico y de los soldados australianos arrojados a las trituradoras del extranjero. Se ha formado e investido un Gobierno laborista bajo el primer ministro John Curtin."
+ AST_Politics.2.A: "A ver de qué es capaz."
+ 
+ AST_Politics.3.t: "Muere John Curtain a los 60 años"
+ AST_Politics.3.d: "[FROM.GetNewsIcon]El primer ministro John Curtin ha fallecido esta mañana a los 60 años. Los constantes viajes a Londres y Washington, unidos a su cardiopatía preexistente, han demostrado ser una combinación fatídica. Se llamó a un sacerdote católico para que le diera la extremaunción, pero Curtin se negó a verlo, pues no había pisado una iglesia católica en toda su vida adulta, ni siquiera para la boda de unos amigos. Deja tras de sí un legado duradero que abarca desde su amplia reforma fiscal hasta importantes ampliaciones de los sistemas de servicios sociales australianos. Entre los numerosos homenajes que se le han rendido destaca el del general MacArthur: «la preservación de Australia de una invasión será su monumento inmemorial». Por ahora, su adjunto, Frank Forde, ha asumido el cargo de primer ministro."
+ AST_Politics.3.A: "Que su alma descanse en paz."
+
+ AST_Politics.4.t: "Se funda el Partido Liberal de Australia"
+ AST_Politics.4.d: "El Partido Liberal de Australia es un partido político importante en Australia. Fundado en 1945 para sustituir al Partido de la Australia Unida (UAP), el Partido Liberal, en términos generales de centroderecha, es uno de los dos grandes partidos de la política australiana, junto con el Partido Laborista Australiano (ALP)."
+ AST_Politics.4.A: "Vale."

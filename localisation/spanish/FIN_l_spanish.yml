@@ -1,0 +1,543 @@
+﻿l_spanish:
+######################################################################
+#  Finland Leaders
+######################################################################
+ Pehr_Evind_Svinhufvud_desc: "Cuando uno piensa en un político, piensa en alguien que actúa en interés propio. O éso o en los intereses de otro. Éso suele acabar con el pueblo sufriendo bajo el político y sin llegar nunca a recibir las necesidades básicas de la vida.\nPero este político no es el político habitual. No, él no. Él es una especie única de político, uno dispuesto a dar su vida por su país. Él presenció los horrores de la guerra, la carnicería que el hombre creó durante la guerra de Independencia. Pero también presenció la valentía de sus compatriotas finlandeses, lo que lo inspiró a hacer lo mismo. Se alistó en una milicia tras otra, sirviendo diligentemente contra la amenaza roja. Tras la guerra, cuando los soviéticos degeneraron en esa pesadilla totalitaria, él lo sabía...\nTenía razón en todo momento.\nPero no sólo contra la izquierda, estaba en contra de cualquier forma de radicalismo, porque el país era joven y prefería morir antes que dejar que se convirtiera en una cloaca socialista o en un Estado policial fascista. Cuando ocurrió lo de Mäntsälä, se aseguró de que se frustrara el golpe, pero no con balas, sino con palabras. Esas palabras ayudaron a mostrar la verdad a los rebeldes y, con un solo discurso, se dispersaron.\nHan pasado casi dos décadas desde que el país se liberó del yugo ruso y tiene algo que demostrar. Regente, primer ministro y ahora presidente. Ciertamente, éste no es el político habitual."
+ Kyosti_Kallio_desc: "El tiempo. Es un concepto linear. Siempre va en una dirección, nunca cambia y nadie puede cambiarlo. Así que uno tiene que saberlo usar o habrá vivido una vida insatisfactoria.\nEste hombre no. Kyösti Kallio no.\nNacido en el seno de una familia pequeña en el Ducado de Finlandia, este hombre terminaría convirtiéndose en algo más que un mero ciudadano, en algo más que un político. En su lugar, se convertiría en un símbolo. Para el pueblo finlandés.\nKallio se encontró en una situación peligrosa tras la liberación del país del Gobierno provisional. Principalmente, ¿adónde iría su país? ¿Se convertiría en un antro socialista de libertinaje? ¿O prosperaría entre las llamas de la guerra?\nKallio, aunque era miembro de la Liga Agraria, contempló la destrucción que los rojos habían causado y, en su lugar, decidió usar la ley para reprimir a estos dementes. \nPero no fue sólo un hombre de leyes, ya que fue capaz de ser presidente varias veces en los años veinte, logrando dirigir el país hacia una senda más próspera.\nKallio ha demostrado que el tiempo se puede usar de forma más eficiente y conseguir muchas cosas en un periodo ínfimo.\nEl tiempo será linear, pero desde luego no pasa sin pena ni gloria."
+ Risto_Ryti_desc: "Finanzas y política. Normalmente, estas dos cosas no deberían mezclarse, ya que las veces que ha sucedido han tenido resultados poco apetecibles. Corrupción, nepotismo y manipulación del Gobierno para adaptarlo a las necesidades de cada uno. Sin embargo, si se mezclan de la forma correcta, pueden tener resultados espectaculares.\nEntra en escena Risto Ryti. Un hombre que fue más que un escondite durante la guerra de Independencia, fue capaz de ascender en el Gobierno. Pero no fue por sus contactos o por su sabiduría política, sino por su perspicacia en las finanzas y la economía. A sus 23 años, fue nombrado ministro de Finanzas bajo Juho Vennola, dirigiendo la economía con precisión y eficiencia.\nNada lo superaría hasta que se convirtió en gobernador del Banco Nacional. \nEse nombramiento fue su momento.\nConsiguió poner en marcha el país tras el Lunes Negro, estabilizando la economía y mostrando al mundo que Finlandia no era el país atrasado por el que lo daban. ¡Que este hombre sea un ejemplo para todos nosotros de la verdadera fuerza del pueblo finlandés y de que ya no somos el remanso que fuimos!"
+ Carl_Gustaf_Emil_Mannerheim_desc: "Carl Gustaf Emil Mannerheim, nacido el 4 de junio de 1867, es un líder militar finlandés nacido en el seno de una familia nobiliaria germano-sueca, pero no es menos leal a Finlandia que cualquier otro hombre que pudiera situar su ascendencia en Finlandia durante cientos de años. Fue una figura clave en la gran lucha por la existencia de Finlandia en cuanto Estado con autodeterminación surgido del convaleciente Imperio ruso y un defensor de los ideales democráticos y republicanos a pesar de la revolución bolchevique.\n\nDe joven, Mannerheim se formó exhaustivamente en el arte de la guerra a caballo. De hecho, durante la mayor parte de su historial militar en el Ejército Imperial, luchó y dirigió al cuerpo de caballería, desde formar parte del Regimiento de Caballeros de la Guardia hasta dirigir la Brigada de Caballería de la Guardia. No sólo era muy hábil en la guerra, sino que tenía conocimientos y experiencia sobre el terreno en la recopilación de inteligencia y el espionaje después de pasar varios años encubierto en Asia para el Gobierno ruso.\nLa verdadera prueba de su temple y sus habilidades llegó en 1918, con la revolución bolchevique de Rusia extendiéndose por el recién formado Estado independiente de Finlandia, donde no sólo luchó contra la Guardia Roja finlandesa, sino también contra los restos del Ejército Imperial Ruso. Pese a la situación ventajosa inicial para la Guardia Roja, Mannerheim consiguió capear la tormenta gracias a su pericia táctica y a la ayuda del Imperio alemán. Al final, tras meses de cruentos combates, la guerra terminó y Mannerheim se hizo con la victoria.\n\nDurante el periodo de entreguerras, Mannerheim no ocupó ningún cargo político ni se afilió a ningún partido político. Aunque tenía sus simpatías por la derecha y no creía realmente en la democracia, siguió una política apartidista, tratando a menudo de reconciliar a la derecha y a la izquierda para hacer frente a las adversidades como una sola nación, unida.\nEsta política dio sus frutos, dado que la opinión pública acerca de él viró a la de un unificador y un partido verdaderamente neutral entre las camorras de los partidos políticos y, en 1933, fue nombrado mariscal de campo de Finlandia. Mientras el oso rojo despierta al este y el águila negra al sur, la posición de Finlandia parece más precaria que nunca y no cabe duda de que Mannerheim desempeñará un papel central en lo que será el futuro de esta nación."
+
+######################################################################
+#  Finland Events
+######################################################################
+ FIN_Politics.1.t: "Flanco norte: Finlandia"
+ FIN_Politics.1.d: "Diplomáticos alemanes se han dirigido a nosotros con la oferta de apoderarse del legítimo territorio finlandés. Nos ofrecen Carelia, la península de Kola y Olonetsk a cambio de nuestra incorporación incondicional a la facción del Eje. Su razón para abandonar las tierras parece girar en torno a las duras condiciones invernales. Bueno, ellos verán. Si aceptamos, se espera que funcionemos como flanco norte de Alemania, salvaguardando el norte de sus nuevas posesiones en el este."
+ FIN_Politics.1.A: "Aceptamos encantados."
+ FIN_Politics.1.B: "No necesitamos la ayuda de Alemania."
+
+ FIN_Winter_War.1.t: "¡Llegan las exigencias soviéticas!"
+ FIN_Winter_War.1.d: "Después de muchas intrigas políticas y diplomáticas, las exigencias soviéticas —en un formato formal por escrito— han sido entregadas a Juho Kusti Paasikivi, nuestro representante en Moscú, quien las ha remitido a Helsinki.\n\nLas exigencias son el desplazamiento de la frontera entre la URSS y Finlandia en el istmo de Carelia hacia el oeste hasta un punto a 30 kilómetros al este de Viipuri, nuestra segunda ciudad más grande, hasta la línea entre Koivisto y Lipola, una exigencia muy dura.\n\nAdemás, nos han solicitado que destruyamos todas las fortificaciones existenes en el istmo de Carelia. Según su nota, también les cederíamos las islas de Suursaari, Tytärsaari y Koivisto, en el golfo de Finlandia. En el norte, los soviéticos han exigido la península de Kalastajasaarento. Asimismo, también tendríamos que «ceder» la península de Hanko a los soviéticos durante treinta años y permitirles establecer una base militar allí.\n\nPara compensarnos nuestros territorios, nos han ofrecido Repola y Porajärvi, de Carelia Oriental, una zona dos veces más grande que los territorios que nos han exigido.\n\nLas exigencias son exageradas y muy estrictas. A pesar de las tierras que nos ofrecen a cambio, nos arriesgamos a perder una gran cantidad de prestigio y soberanía. Nuestra respuesta a sus exigencias requeriría considerables deliberaciones y debates."
+ FIN_Winter_War.1.A: " Aah.... mikä ongelma. Aceptamos sus exigencias."
+ FIN_Winter_War.1.B: "Aah.... mikä ongelma. Presentaremos una contraoferta."
+
+ FIN_Winter_War.2.t: "Tratado de Leningrado"
+ FIN_Winter_War.2.d: "La paz se ha mantenido, ya que la última ronda de conversaciones entre nuestros países ha dado por fin sus frutos. Aunque la parte finlandesa se había mostrado inflexible en cuanto a mantener su «integridad territorial», el representante finlandés, Juho Kusti Paasikivi, comunicó a Moscú que el Gobierno finlandés había aceptado al final las exigencias soviéticas en su totalidad.\n\nY en un acontecimiento trascendental, ayer se firmó un acuerdo en Leningrado, con la asistencia de numerosos periodistas internacionales. Aunque otros conflictos siguen en vigor en el resto del mundo, este tratado ha llamado mucho la atención internacional. Hans Frederick Arthur Schoenfeld, el embajador estadounidense en Finlandia, comunicó su pesar al Gobierno finlandés en nombre de la Oficina del Presidente de los Estados Unidos de América, que había tildado todo el asunto de un «asunto vergonzoso en el que un país democrático se ve obligado a ceder sus territorios so amenaza de una acción militar». Pero muchas personas, incluidos los diplomáticos de nuestros dos países, aceptan esta evolución.\n\nEl acuerdo final ratificado por ambas partes contiene cláusulas que facilitan los intercambios territoriales y de otros tipos, principalmente por parte de Finlandia para permitir una mayor zona neutral entre Leningrado y la frontera, junto con intercambios recíprocos por parte soviética para compensar las pérdidas territoriales de Finlandia."
+ FIN_Winter_War.2.A: "Por una longeva amistad."
+
+ FIN_Winter_War.3.t: "Se firma el Tratado de Leningrado"
+ FIN_Winter_War.3.d: "[ROOT.GetNewsIcon]\nMientras que las conversaciones y la diplomacia han fracasado en otros lugares de Europa y del mundo, los Gobiernos de la República de Finlandia y la Unión de Repúblicas Socialistas Soviéticas han llegado por fin a un entendimiento y han firmado el Tratado de Leningrado.\n\nEl tratado ha facilitado intercambios territoriales y de otros tipos, principalmente por parte de Finlandia para permitir una mayor zona neutral entre Leningrado y la frontera, junto con intercambios recíprocos por parte soviética para compensar las pérdidas territoriales de Finlandia.\n\nMuchos han calificado todo el proceso detrás del acuerdo como una situación en la que Finlandia fue retenida a punta de pistola, en la que el Gobierno se vio obligado a aceptar el tratado. Con las respuestas internacionales aún por llegar y divididas, si algo está claro es que se ha preservado la paz y se ha evitado cualquier riesgo de conflicto."
+ FIN_Winter_War.3.A: "Se producirán tormentas de nieve en ambos lados de la nueva frontera."
+
+ FIN_Winter_War.4.t: "Llega la delegación finlandesa"
+ FIN_Winter_War.4.d: "Tras nuestros intercambios diplomáticos iniciales con el Gobierno finlandés, ha llegado a Moscú una delegación que representará sus intereses. Parece que los finlandeses se han mostrado un poco recelosos ante nuestra oferta y exigencias iniciales y la delegación nos ha hecho una contraoferta.\n\nLa delegación, con la aproación necesaria de su Gobierno, ha rechazado nuestra oferta inicial, pero aún parece receptiva a la idea de cedernos algunos territorios. Su delegación ha ignorado rotundamente nuestras exigencias de las islas de Suursaari, Tytärsaari y Koivisto en el golfo de Finlandia, la península de Kalastajasaarento e incluso nuestra solicitud del «arrendamiento» de la península de Hanko, y se ha rechazado el permiso para establecer allí una base militar. Incluso han rechazado nuestra solicitud de destruir todas las fortificaciones existentes en el istmo de Carelia, una obstinación provocadora por su parte.\n\nPero, aparte de ésto, su contraoferta comulga con nuestra necesidad de tierras para tener una mayor zona neutral entre la frontera y Leningrado, y en lo sucesivo han mostrado su disposición a ceder el municipio de Terijoki, en Carelia.\n\nPara resumir su contraoferta: apenas nos dan nada de lo que exigimos, y está claro que sólo están alargando las conversaciones. Mientras nos ofrecen un terreno simbólico, han llamado a sus reservas a filas para unas maniobras «de repaso». Es una segunda naturaleza de estas serpientes fascistas, de hecho: llamar al Ejército para todo. Está ahora claro que tenemos que recurrir a «otros medios» para imponer nuestras exigencias."
+ FIN_Winter_War.4.A: "Movilicen al Ejército Rojo"
+
+ FIN_Winter_War.5.t: "Las negociaciones se rompen"
+ FIN_Winter_War.5.d: "Hoy, la delegación finlandesa que había llegado a Moscú para tratar una contraoferta en respuesta a nuestras exigencias territoriales se ha marchado precipitadamente a Helsinki, lo que supone una ruptura de las conversaciones.\n\nLa delegación finlandesa, encabezada por Juho Kusti Paasikivi, insistió en su «integridad territorial» y en su deseo de salvaguardarla. Su contraoferta era una oferta simbólica de traspasarnos el municipio de Terijoki, una falta total de consideración a nuestras exigencias originales.\n\nPero los finlandeses, en su arrogante tozudez, se han negado a siquiera considerar nuestras exigencias. Es obvio que no tiene sentido que los enviados diplomáticos vayan y vengan de Helsinki.\n\nAparte de nuestras cuestiones territoriales, el pueblo finlandés está gobernado por una administración engañosa de escoria fascista que trata de oprimir a los trabajadores finlandeses y, por lo tanto, su bienestar y nuestro objetivo de promover la causa socialista también deben tenerse en cuenta en nuestro plan de acción.\n\nNuestro futuro plan de acción es, digamos, de naturaleza «resuelta» y «definitiva» y buscará la liberación del pueblo finlandés, así como asegurar nuestros intereses territoriales."
+ FIN_Winter_War.5.A: "Las tierras blancas de los finlandeses pronto serán rojas."
+
+ FIN_Winter_War.6.t: "Bombardeo de Mainila"
+ FIN_Winter_War.6.d: "Ahora está más que claro que debemos imponer nuestras exigencias a Finlandia. Sin embargo, seguimos estando ligados a tratados absurdos y también somos un Estado miembro de la Sociedad de las Naciones, por lo que cualquier acción militar por nuestra parte debe estar justificada.\n\nEn consecuencia, hemos planeado una operación de bandera falsa en la que nuestra ciudad de Mainila será bombardeada por nuestros propios cañones, supuestas «bajas» incluidas, todo lo cual presentaremos como un acto de agresión finlandesa. Este «incidente» nos proporcionará un casus belli, que usaremos para retirarnos de nuestro actual pacto de no agresión con Finlandia. Entonces, nuestras tropas se prepararán para una invasión a gran escala de Finlandia. Aunque el terreno puede plantearnos algunas dificultades, nuestra abrumadora superioridad tanto en cantidad como en calidad nos garantizará una rápida victoria ante la exigua fuerza que los finlandeses puedan reunir contra nosotros.\n\nEn estos momentos, con la guerra asolando Europa, la mayoría de los países estarán preocupados por sus propios asuntos como para preocuparse por lo que ocurra en nuestro gélido rincón del mundo, y de ahí que el actual estado de los asuntos internacionales nos brinde un momento oportuno para llevar a cabo una operación de esta índole.\n\nEn lo que hablamos, los cañones de artillería están apuntando hacia Mainila, y simplemente esperan una orden final."
+ FIN_Winter_War.6.A: "¡Fuego!"
+ 
+ FIN_Winter_War.66.t: "Bombardeo de Mainila"
+ FIN_Winter_War.66.d: "El baile político ha terminado. Los soviéticos han bombardeado presuntamente sus propias posiciones y nos culpan de ello. Una afirmación tan escandalosa es físicamente imposible, dado que no tenemos cañones tan cerca de la frontera capaces de tal acto. Ayer, nuestros puestos fronterizos oyeron siete disparos procedentes del lado soviético y los detectaron aterrizando a unos 800 metros de la frontera, en la localidad de Mainila. Aunque se han producido «bajas» en el bando soviético, nuestros puestos fronterizos creen que no ha habido ningún afectado.\n\nLos últimos sucesos han agriado nuestras relaciones con los soviéticos. Sin duda, todo el incidente ha sido una puesta en escena de los propios soviéticos, ya que antes habían realizado maniobras fronterizas que estaban supeditadas a una agresión contra Mainila.\n\nAunque hemos rechazado las acusaciones falsas, los soviéticos siguen insistiendo en sus alegatos, llegando a rechazar nuestra oferta de que una tercera parte investigue el incidente. Aunque el futuro parece incierto, debemos comenzar los preparativos para defender nuestro país."
+ FIN_Winter_War.66.A: "Vamos a tener que bombardear Mainila de verdad."
+
+ FIN_Winter_War.7.t: "Los soviéticos abandonan el pacto de no agresión"
+ FIN_Winter_War.7.d: "Cualquier esperanza que tuviéramos de que las conversaciones bilaterales apaciguaran la situación actual se demostró falsa ayer, cuando la Unión Soviética «se retiró irrevocablemente de sus obligaciones» mencionadas en el pacto de no agresión soviético-finlandés de 1932.\n\nEl pacto de no agresión soviético-finlandés era un tratado de no agresión firmado en 1932 por representantes nuestros y de la Unión Soviética en el que ambas partes aseguraban respetar las fronteras del otro, con el acuerdo de permanecer neutrales en los conflictos de la otra parte, y se prometía que las disputas se resolverían de forma pacífica y neutral. El pacto se amplió hasta el 31 de diciembre de 1945 el 7 de abril de 1934. La ampliación fue firmada en Moscú por nuestro ministro de Exteriores, Aarno Yrjö-Koskinen, y el ministro de Exteriores soviético, Maxim Litvínov.\n\nLos soviéticos han aducido el reciente «bombardeo» de Mainila como motivo de su retirada unilateral del pacto, una acusación absurda. En virtud del artículo 5 del pacto, se supone que ambas partes deben convocar una comisión conjunta para examinar tal suceso; a pesar de nuestras reiteradas súplicas, la Unión Soviética se ha negado a permitir la formación de una, y mucho menos a investigar el «incidente».\n\nCon su retirada del pacto, parece que el conflicto es inminente. La Unión Soviética, aun con toda su imagen propagandística de tener un ejército poderoso, muy pronto aprenderá hasta qué punto un finlandés está dispuesto a luchar por su patria."
+ FIN_Winter_War.7.A: "Movilicen a la Guardia Civil."
+
+ FIN_Winter_War.8.t: "¡Bombarderos sobrevuelan Helsinki!"
+ FIN_Winter_War.8.d: "Anoche, una gran ala de aviones de la VVS se cernió sobre nuestra capital, Helsinki. En lo que supuestamente fue un «ataque aéreo» masivo por parte de los soviéticos, nuestra capital no se vio afectada en gran medida por las bombas. Aunque de gran envergadura, la escasa precisión de los bombarderos, la existencia de refugios antiaéreos en toda la ciudad, nuestro relativamente preciso fuego de cañones antiaéreos y la rápida actuación de nuestra Guardia Civil impidieron que se produjeran pérdidas significativas de vidas humanas. Sin embargo, la población sigue afectada por el hecho de que cayeran miles de bombas en la ciudad, con algunos desgraciados entre las víctimas. Aunque se desconoce, los primeros intervinientes de la Guardia Civil calculan que sólo unos cientos se vieron afectados directamente por los bombardeos.\n\nCuando los diplomáticos internacionales le pidieron que no bombardeara ninguna ciudad finlandesa, el portavoz soviético afirmó que los Túpolev SB estaban «lanzando comida a los hambrientos finlandeses». Nuestros compatriotas han apodado de broma a las bombas soviéticas como «las cestas de pan de Mólotov». \n\nAunque los daños en sí no son muy preocupantes, sí lo son la intención y la actitud que hay detrás de los bombardeos. El uso de tal fuerza por parte de los soviéticos denota su voluntad de intensificar sus operaciones militares a tal escala masiva. Mientras hablamos, las tropas soviéticas que han cruzado la frontera parecen estar decididas. Pero el «sisu», la tenacidad y determinación sin parangón evidente en el ADN de los finlandeses, hará que la apisonadora se quede sin combustible."
+ FIN_Winter_War.8.A: "Carguen los antiaéreos Bofors."
+
+ FIN_Winter_War.9.t: "¡Finlandia en guerra!"
+ FIN_Winter_War.9.d: "La guerra ha llegado a nuestro país. Durante mucho tiempo pensamos que nuestra patria se libraría del caos y el conflicto que asolan el mundo, pero, por desgracia, se ha demostrado que no. Nuestra vecina embustera, la URSS, carente de toda racionalidad y sentido común, nos ha atacado. Mientras hablamos, miles de tropas soviéticas están cruzando la frontera para hacer la guerra, apoyadas por cientos de aviones que ya han empezado a bombardear nuestra capital.\n\nEn este momento de desesperación, Risto Ryti se ha puesto al frente de nuestro país. Bajo su dirección, resistiremos y prevaleceremos sobre los rojos. Se está movilizando a la Guardia Civil, nuestro Ejército está tomando posiciones defensivas, se están operando los cañones antiaéreos y los focos reflectores y, por último pero no menos importante, quizás lo más crucial, se ha mandado a nuestros enviados en busca de apoyo y ayuda internacional para presionar a los soviéticos, ya que incluso nuestro fuerte pueblo no puede resistir indefinidamente contra una horda interminable de atacantes.\n\nLos soviéticos están utilizando cargas blindadas para intentar atravesar nuestras defensas, pero nuestros valientes soldados se mantienen obstinadamente firmes, recurriendo a todo tipo de armas improvisadas, utilizando palancas y troncos para atascar las orugas de sus tanques, y algunos soldados de primera línea han empezado a utilizar botellas de cristal llenas de líquidos inflamables y con una simple mecha encendida a mano para prender fuego a los vehículos enemigos. Las están llamando de broma «cócteles Mólotov» y, dicho por un soldado raso, son «la bebida perfecta para acompañar una cesta de pan de Mólotov». Este chiste demuestra la moral de nuestras tropas, aunque muy superadas en número, las compensaremos con creces con nuestro espíritu guerrero."
+ FIN_Winter_War.9.A: "Ésta por usted, camarada Mólotov."
+
+ FIN_Winter_War.10.t: "La Sociedad de las Naciones expulsa a la URSS"
+ FIN_Winter_War.10.d: "[ROOT.GetNewsIcon]\nEn un hecho sin precedentes, la Sociedad de las Naciones ha revocado oficialmente la condición de miembro de la URSS y la ha expulsado. Un funcionario anónimo de la Sociedad de Naciones fue citado diciendo: «La Unión Soviética ha exhibido una flagrante violación del Pacto de la Sociedad de las Naciones». Dicha «violación» hace referencia al ataque soviético contra su vecina del Ártico, Finlandia.\n\nAunque se trata de una respuesta muy contundente, la mayoría de los diplomáticos coinciden en que esta «expulsión» no tiene consecuencias, ya que el ataque soviético sigue desenfrenado. La SDN ha sido criticada por su inacción en el pasado, y parece que su acción más enérgica ni siquiera sirve para detener actos tan agresivos.\n\nMuchos han declarado que todo este asunto es «el último clavo en el ataúd de la SDN», alegando que ha fracasado rotundamente en sus metas y objetivos. Está completamente paralizada mientras los conflictos hacen estragos en todo el mundo."
+ FIN_Winter_War.10.A: "Tampoco fue bonito mientras duró."
+
+ FIN_Winter_War.11.t: "Establecimiento de la República Democrática de Finlandia"
+ FIN_Winter_War.11.d: "En un evento formal celebrado en Helsinki, el mariscal Kliment Voroshílov, comandante de las fuerzas de ocupación en Finlandia, ha cedido el control de la ciudad a Otto Wille Kuusinen, primer ministro de la República Democrática de Finlandia. La entrega simbólica de la ciudad pretendía representar la devolución del gobierno nacional a los finlandeses, o en realidad representaba el establecimiento de una nueva administración comunista que sustituiría a la anterior, disuelta poco después de la derrota finlandesa.\n\nAunque al principio se mantuvieron firmes mediante tácticas innovadoras, la defensa y la resistencia finlandesas acabaron siendo aniquiladas ante nuestro abrumador poderío militar. Poco después, nuestras tropas habían peinado la mayoría de los centros de población y ciudades finlandesas y establecido un firme control sobre la mayor parte del país.\n\nEntre sus cambios iniciales, el nuevo país se «desprenderá» de sus traidores y empezará a reparar los daños causados por la guerra corta pero intensa contra nosotros, sobre todo los daños que Helsinki sufrió en nuestros bombardeos. Los finlandeses nos han cedido algunas tierras, pero su «integridad» territorial ha quedado prácticamente intacta. Una cosa está clara: Leningrado está a salvo de cualquier posible ataque en el futuro previsible y hemos conseguido un valioso aliado en forma de nuestros vecinos."
+ FIN_Winter_War.11.A: "Un triunfo de la causa socialista."
+ FIN_Winter_War.11.B: "Paz amarga"
+
+ FIN_Winter_War.12.t: "Derrota en la guerra de Invierno"
+ FIN_Winter_War.12.d: ""
+ FIN_Winter_War.12.A: "Paz amarga"
+ FIN_Winter_War.12.B: "Una derrota humillante"
+
+######################################################################
+#  Finland Focuses
+######################################################################
+ FIN_The_Kivimaki_Government_Holds_On: "El Gobierno de Kivimäki aguanta"
+ FIN_The_Kivimaki_Government_Holds_On_desc: ""
+ FIN_The_First_Red_Agrarian_Coalition: "La primera coalición roja-agraria"
+ FIN_The_First_Red_Agrarian_Coalition_desc: ""
+ FIN_A_New_Centrist_Government: "Un nuevo Gobierno centrista"
+ FIN_A_New_Centrist_Government_desc: ""
+ FIN_Red_Agrarian_Coalition_Emerges_Victorious: "La coalición roja-agraria se hace con la victoria"
+ FIN_Red_Agrarian_Coalition_Emerges_Victorious_desc: ""
+ FIN_Right_Wing_Coalition_Forms_the_Government: "La coalición de derechas forma Gobierno"
+ FIN_Right_Wing_Coalition_Forms_the_Government_desc: ""
+ FIN_Second_Red_Agrarian_Coalition: "Segunda coalición roja-agraria"
+ FIN_Second_Red_Agrarian_Coalition_desc: ""
+ FIN_The_End_of_the_Depression: "El fin de la Depresión"
+ FIN_The_End_of_the_Depression_desc: ""
+ FIN_Finnish_Army: "Ejército finlandés"
+ FIN_Finnish_Army_desc: "Toda nación precisa un Ejército fuerte y seguro de sí mismo. Actualmente estamos en proceso de crear la gran máquina de guerra finlandesa. La reforma del Ejército nos hará más fuertes y nos hará competentes con los otros grandes países que amenazan nuestra propia existencia. Añadir más experiencia a nuestro Ejército debería ser nuestro primer acto que nos lleve a la gloria."
+
+ FIN_Finnish_Air_Force: "Fuerza Aérea finlandesa"
+ FIN_Finnish_Air_Force_desc: ""
+ FIN_Finnish_Navy: "Armada finlandesa"
+ FIN_Finnish_Navy_desc: "La Armada finlandesa no es más que un departamento anticuado y estancado de nuestras Fuerzas Armadas, constantemente infradotada en aras de la financiación de otros, especialmente del Ejército. Que dejemos nuestra Armada en este estado simplemente permite a nuestros adversarios acceder a nuestras aguas y permitirles controlar nuestros propios mares en aras de la sumisión a su dominio. \n\nA medida que las flotas de la Unión Soviética se fortalecen en tamaño y en potencia de fuego, nosotros debemos hacer lo mismo e implementar reformas que le brinden a nuestra nación una oportunidad de luchar contra nuestros enemigos en los mares. Ya no descuidaremos nuestras aguas, sino que las convertiremos en un enemigo al que ninguna nación pueda derrotar y que los deje traumatizados."
+
+ FIN_Finno_German_Cooperation: "Cooperación fino-alemana"
+ FIN_Finno_German_Cooperation_desc: ""
+ FIN_Reduce_Far_Right_Influence: "Reducir la influencia de la extrema derecha"
+ FIN_Reduce_Far_Right_Influence_desc: "Tras los espantosos ataques en Mäntsälä, está claro que estamos en una posición debilitada. Tan es así que hasta los reaccionarios han decidido declarar un golpe contra nuestra república democrática. Es escandaloso. No podemos permitir que declaren un segundo golpe, ya que éso nos debilitará o nos derrocará. \n\nPor eso iniciaremos una campaña de reducción de estos elementos reaccionarios en nuestro Gobierno, especialmente en el Ejército, ya que en él residen elementos reaccionarios. Junto a ellos, ilegalizaremos el Movimiento Lapua, el principal movimiento reaccionario que respaldó vehementemente estos actos terroristas. La república y su democracia sobrevivirán, pero el futuro de estos derechistas está, con toda seguridad, al final de su terrorismo."
+
+ FIN_Strenghten_the_Coalition: "Reforzar la coalición"
+ FIN_Strenghten_the_Coalition_desc: ""
+ FIN_Contain_the_IKL: "Contener al IKL"
+ FIN_Contain_the_IKL_desc: "El IKL no es más que un frente para los extremistas que causaron la rebelión que ha aterrorizado a nuestra nación. Ahora claman guerra, tanto contra los soviéticos como contra los suecos, con sus sueños errados, farisaicos y evasivos de una «Gran Finlandia», sin siquiera considerar las consecuencias geopolíticas de propugnar tan impensable doctrina de guerra basada en el revanchismo. \n\nNo podemos permitir que tengan un punto de apoyo en la política interna, ya que no hace sino revertir los esfuerzos que hemos realizado para ilegalizar a sus antecesores. Al prohibir a sus líderes entrar en política y promulgar leyes que prohíban sus símbolos, estarían, como mínimo, bajo control y controlables, hasta tal punto que nuestro Gobierno ya no los considerará una amenaza."
+
+ FIN_Democracy_Secured: "Democracia asegurada"
+ FIN_Democracy_Secured_desc: "Los recientes esfuerzos de nuestro Gobierno han conseguido mantener a los elementos radicales de nuestra nación a raya. Nuestra vigilancia constante contra las fuerzas que quieren ver nuestra república hecha pedazos garantizará un futuro seguro para la democracia finlandesa."
+
+ FIN_Work_with_the_Industrialists: "Trabajar con los magnates industriales"
+ FIN_Work_with_the_Industrialists_desc: ""
+ FIN_Promote_Patriotism: "Fomentar el patriotismo"
+ FIN_Promote_Patriotism_desc: ""
+ FIN_Valpo_Expansion: "Expansión de Valpo"
+ FIN_Valpo_Expansion_desc: ""
+ FIN_Economic_Austerity: "Austeridad económica"
+ FIN_Economic_Austerity_desc: "La única forma de salir de esta recesión es apretándonos el cinturón. Minetras que otros piden más gastos, nuestra política será mucho más estable a la larga. El escozor inicial de la austeridad puede irritar a algunos, pero es necesaria para que nuestra economía recupere todo su potencial."
+
+ FIN_Increase_Military_Spending: "Aumentar los gastos militares"
+ FIN_Increase_Military_Spending_desc: ""
+ FIN_Unemployment_Measures: "Medidas contra el desempleo"
+ FIN_Unemployment_Measures_desc: "La recesión ha traído consigo una oleada de desempleo. Conseguir que estos hombres y mujeres jóvenes vuelvan a trabajar es una prioridad para que los engranajes de nuestra economía vuelvan a girar. Una serie de medidas contra el desempleo harán precisamente éso, aunque algunas de ellas puedan ser impopulares entre las masas."
+
+ FIN_Shorten_the_Debt: "Acortar la deuda"
+ FIN_Shorten_the_Debt_desc: "Nuestras políticas económicas nos han aportado más riqueza de la que necesitamos actualmente. Destinar este dinero a reducir nuestra deuda en lugar de a gastar más nos ayudará a largo plazo."
+
+ FIN_Prepare_for_Conflict: "Prepararse para un conflicto"
+ FIN_Prepare_for_Conflict_desc: ""
+ FIN_Collaborate_with_the_SDP: "Colaborar con el SDP"
+ FIN_Collaborate_with_the_SDP_desc: ""
+ FIN_Increase_the_Military_Budget: "Aumentar el presupuesto militar"
+ FIN_Increase_the_Military_Budget_desc: ""
+ FIN_Preparing_for_Conflict: "Prepararse para un conflicto"
+ FIN_Preparing_for_Conflict_desc: ""
+ FIN_The_Scandinavian_Direction: "La dirección escandinava"
+ FIN_The_Scandinavian_Direction_desc: "Los anteriores Gobiernos no han prestado suficiente atención a nuestras relaciones con las naciones escandinavas. Estrechar nuestros vínculos con ellos tendrá ventajas económicas y políticas."
+
+ FIN_Public_Works: "Obras públicas"
+ FIN_Public_Works_desc: ""
+ FIN_Spending_Spree: "Racha de gastos"
+ FIN_Spending_Spree_desc: ""
+ FIN_Stabilize_the_Country: "Estabilizar el país"
+ FIN_Stabilize_the_Country_desc: ""
+ FIN_Economic_Recovery: "Recuperación económica"
+ FIN_Economic_Recovery_desc: ""
+ FIN_Limited_Military_Spending: "Gastos militares limitados"
+ FIN_Limited_Military_Spending_desc: ""
+ FIN_Industrial_Development: "Desarrollo industrial"
+ FIN_Industrial_Development_desc: ""
+ FIN_Reintroduction_of_Leftism: "Reintroducción del izquierdismo"
+ FIN_Reintroduction_of_Leftism_desc: ""
+ FIN_Ban_the_IKL: "Ilegalizar el IKL"
+ FIN_Ban_the_IKL_desc: ""
+ FIN_Dismiss_the_Radicals: "Despedir a los radicales"
+ FIN_Dismiss_the_Radicals_desc: ""
+ FIN_Unity_in_the_Coalition: "Unidad en la coalición"
+ FIN_Unity_in_the_Coalition_desc: ""
+ FIN_Wounds_of_the_Civil_War: "Heridas de la Guerra Civil"
+ FIN_Wounds_of_the_Civil_War_desc: ""
+ FIN_Pension_Reform: "Reforma de las pensiones"
+ FIN_Pension_Reform_desc: ""
+ FIN_Workers_Rights: "Derechos laborales"
+ FIN_Workers_Rights_desc: ""
+ FIN_Healthcare_Reforms: "Reformas de sanidad"
+ FIN_Healthcare_Reforms_desc: ""
+ FIN_Soviet_Diplomacy: "Diplomacia soviética"
+ FIN_Soviet_Diplomacy_desc: ""
+ FIN_Agrarian_Autarky: "Autarquía agraria"
+ FIN_Agrarian_Autarky_desc: "Ha quedado cada vez más claro en los últimos años que Finlandia no puede depender del grano extranjero. A medida que el mundo se acerca cada vez más a la guerra y las potencias rivales, incluidos nuestros proveedores, se disputan territorios, el riesgo de que se corten nuestras importaciones aumenta cada día. \n\nSólo hay una solución para salvaguardar la salud de nuestro pueblo: debemos volvernos autosuficientes en la producción de grano. Será una ardua batalla, sobre todo teniendo en cuenta el duro clima de nuestra tierra natal, pero si lo conseguimos, nuestra nación se volverá impermeable a los ataques extranjeros; nuestros hijos nunca tendrán que pasar hambre mientras nuestras granjas sigan funcionando."
+
+ FIN_Further_Industrialization: "Mayor industrialización"
+ FIN_Further_Industrialization_desc: ""
+ FIN_Expand_Crichton_Vulcan_Dockyards: "Ampliar el astillero de Crichton-Vulcan"
+ FIN_Expand_Crichton_Vulcan_Dockyards_desc: "El astillero de Crichton-Vulcan fue antaño el corazón de la Armada rusa en el mar Báltico, ya que la Armada Imperial atracaba con frecuencia sus buques allí y construía nuevos buques para su Armada. Ahora es una sombra de lo que fue, nada más que una herramienta usada por el Reich para crear sus armas de guerra, sobre todo sus monstruosos y espantosos U-Boot, indetectables para cualquier sistema de detección y con la potencia de fuego de un buque capital. \n\nTeniendo en cuenta cómo estas potencias extranjeras capitalizan nuestros astilleros para impulsar sus propios intereses, ya es hora de que afirmemos nuestro control sobre este lucrativo astillero. ¡Permitamos que nuestras empresas de construcción naval establezcan allí sus operaciones, fabriquen nuestros buques y permitan que comience nuestra superioridad sobre nuestros mares!"
+
+ FIN_Raiding_Fleet_Doctrine: "Doctrina de flota de asalto"
+ FIN_Raiding_Fleet_Doctrine_desc: ""
+ FIN_Foreign_Designs: "Diseños extranjeros"
+ FIN_Foreign_Designs_desc: ""
+ FIN_Building_up_the_Submarine_Fleet: "Desarrollar la flota de submarinos"
+ FIN_Building_up_the_Submarine_Fleet_desc: "Si nuestros buques capitales no consiguen asegurar los mares, nuestra mejor baza es producir submarinos en masa y asaltar los convoyes y barcos enemigos. Su tecnología de sonar está a años luz de la de nuestros submarinos y estarán expuestos a los poderosos torpedos de nuestros gloriosos submarinos."
+
+ FIN_Coastal_Defense: "Defensa costera"
+ FIN_Coastal_Defense_desc: "Nuestras armadas necesitan mejores doctrinas que las lleven a salir victoriosas en los fríos mares del norte. Fortalecer las doctrinas de nuestras armadas debería ser la prioridad para tener el control total sobre el Báltico y el mar del Norte. La gran Armada de Finlandia está por vivir sus días de gloria."
+
+ FIN_Escort_the_Capital_Ships: "Escoltar a los buques capitales"
+ FIN_Escort_the_Capital_Ships_desc: ""
+ FIN_Naval_AA_Support: "Apoyo antiaéreo naval"
+ FIN_Naval_AA_Support_desc: ""
+ FIN_Expand_the_Mannerheim_Line: "Ampliar la línea Mannerheim"
+ FIN_Expand_the_Mannerheim_Line_desc: ""
+ FIN_Coastal_Batteries: "Baterías costeras"
+ FIN_Coastal_Batteries_desc: "Si no conseguimos fortalecer nuestras flotas, necesitamos protección para nuestras costas. La construcción de fortalezas costeras será importante ante las invasiones navales enemigas. Deberíamos dar prioridad a la construcción de fortalezas costeras en nuestras ciudades y nuestros puertos. Al enemigo le costará romper nuestras baterías de acero y piedra."
+ 
+ FIN_Aland_Naval_Base: "Base naval de Åland"
+ FIN_Aland_Naval_Base_desc: "Para crear una gran flota, necesitamos astilleros en los que podamos producir las poderosas armadas finlandesas. Åland es un lugar perfecto para empezar a construir los astilleros, comenzar la producción de nuestros buques capitales y empezar a conquistar los mares. Los ingenieros de Åland son los más expertos de nuestro país y nos proporcionarán los planes perfectos para construir nuestros buques."
+ 
+ FIN_Backup_Lines: "Líneas de repuesto"
+ FIN_Backup_Lines_desc: "Se cree que la defensa en profundidad es una táctica mucho más eficaz que una línea lineal y aparentemente impenetrable. Por esta razón, el alto mando ha ordenado la construcción de líneas defensivas secundarias para frenar cualquier avance en el istmo de Carelia, ya que es el camino más corto hacia nuestra capital desde la frontera soviética."
+ 
+ FIN_The_Salpa_Line: "Construir la línea Salpa"
+ FIN_The_Salpa_Line_desc: "Las defensas que hemos construido hasta ahora se centran en gran medida en el istmo de Carelia, y sin duda es la elección más acertada, ya que toda nuestra inteligencia indica que lo más probable es que un ataque soviético se produzca a través de ese vector de ataque. Sin embargo, el resto del país sigue mayormente expuesto. A pesar de la escasez de infraestructuras y del terreno del norte, estas zonas siguen estando mal dotadas de personal y son terreno fértil para una ofensiva soviética. Es necesario atrincherar nuestras posiciones con una línea que abarque toda la frontera, en gran parte indefensa. Esta línea no estará apoyada por tantas líneas secundarias para una defensa en profundidad adecuada, pero por el entorno en el que se construirá un ataque de alta concentración es poco probable."
+ 
+ FIN_Doctrine_of_National_Defense: "Doctrina de defensa nacional"
+ FIN_Doctrine_of_National_Defense_desc: "Nuestro país necesita soldados más experimentados en sus ejércitos. Mejorando nuestras doctrinas, nuestros objetivos de guerra tendrán más éxito y los soldados cumplirán sus órdenes con más eficacia. Aún está por ver el poderío del Ejército finlandés. Ningún ejército se pondrá en nuestro camino cuando estemos militarizados."
+ 
+ FIN_Ski_Troops: "Tropas esquiadoras"
+ FIN_Ski_Troops_desc: "La mayor parte de nuestro país está cubierto de nieve durante gran parte del año. Algunas zonas hasta están en un estado permanente de nieve. Ésto es tanto una bendición como una maldición para nuestras defensas. La nieve confundirá y ralentizará sobremanera al enemigo en su avance por nuestro territorio, pero también nos impedirá a nosotros responder a tiempo a los avances debido a las deficientes infraestructuras. El alto mando ha respondido a esta «brecha» en nuestras defensas dotando de esquís a varios regimientos de infantería ligera. Estas herramientas permitirán a nuestras tropas desplazarse por el terreno helado y nevado con extrema agilidad, sin duda más rápido que cualquier vehículo terrestre en las mismas condiciones, burlando cualquier incursión enemiga a través de nuestras líneas."
+ FIN_Ski_Troops_tt: "Activa §Htropas esquiadoras§!\nEjército:\n    $MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR$: §G+10%§!\n    $MODIFIER_WINTER_ATTRITION_FACTOR$: §G-5%§!"
+ 
+ FIN_Improvised_AT_Weapons: "Armas AT improvisadas"
+ FIN_Improvised_AT_Weapons_desc: ""
+ FIN_Improvised_AT_Weapons_tt: "Activa §Harmas AT improvisadas§!\nToda la infantería y motorizados/mecanizados:\n    Ataque duro: §G+25 %§!\n    Perforación: §G+100 %§!"
+ 
+ FIN_Support_the_Troops: "Apoyar a las tropas"
+ FIN_Support_the_Troops_desc: "Los hombres de las FDF son los verdaderos guardianes de nuestra nación. Sin ellos, no estaríamos donde estamos hoy ni estaremos mañana. Es deber no sólo del Estado, sino de todos los ciudadanos finlandeses, hacer lo que esté en su mano para apoyar a nuestras tropas con moral o con material, sea como sea. Cuando los hombres de nuestra nación tengan a sus esposas e hijas detrás de ellos, lucharán el doble de duro y, cuando sus hijos vean a sus padres luchando por su nación, seguirán sus pasos. Realizarán el sacrificio definitivo y serán honrados para siempre por el pueblo de esta nación."
+ 
+ FIN_Import_Artilery: "Mejorar la artillería"
+ FIN_Import_Artilery_desc: "La mayor parte de nuestro Ejército sigue dependiendo de morteros y obuses de artillería de ánima lisa de la Gran Guerra. No cabe duda de su potencial mortífero, pero lo cierto es que son engorrosos y en gran medida imprecisos. En la era de la precisión cada vez mayor, quedarse atrás no es aceptable. Se ha redactado un concurso para el próximo obús de artillería reglamentario de Suomi. Las condiciones son: peso ligero, cañón estriado, neumáticos de goma con banda de rodadura, capacidad para ser transportado fácilmente por caballo, vehículo o tren y, lo más importante, estar dentro de las capacidades de producción industrial de nuestra nación."
+ 
+ FIN_New_Service_Rifles: "Nuevos fusiles reglamentarios"
+ FIN_New_Service_Rifles_desc: "Desde la Gran Guerra, las FDF han usado el viejo fusil ruso M1891 y nos ha servido bien, pero ha llegado el momento de adoptar un nuevo diseño. El M1891 sigue siendo un buen fusil, sólo que no está a la altura de los estándares modernos. Por ende, nuestros ingenieros han diseñado un nuevo fusil, una carabina, que desempeñará todas las funciones del antiguo fusil, pero que al mismo tiempo será más ligero, más pequeño y más fácil de fabricar."
+ 
+ FIN_Concentrated_Fire: "Fuego concentrado"
+ FIN_Concentrated_Fire_desc: "Nuestro cuerpo de artillería no es tan numeroso como nos gustaría y, debido a ello, tendremos que buscar una solución para aumentar la eficacia de nuestras piezas de artillería. La solución de este dilema sería la concentración de la doctrina de fuego: en lugar de usar la artillería a lo largo de todo el frente, infligiendo así poco o ningún daño, el fuego de artillería debería coordinarse en un único cono de fuego para garantizar el máximo daño a las líneas enemigas, ya estén a la ofensiva o a la defensiva."
+ FIN_Concentrated_Fire_tt: "Activa §Hfuego concentrado§!\nArtillería de linea:\n    $STAT_ARMY_SOFT_ATTACK$ §G+10%§!"
+ 
+ FIN_Guardians_of_the_North: "Guardianes del norte"
+ FIN_Guardians_of_the_North_desc: "Los finlandeses somos baluartes contra la incursión del este. Durante siglos, hemos protegido el norte de las incursiones rusas, luchando a pesar de las adversidades. Tenemos el deber ancestral de proteger al pueblo escandinavo, luchen con nosotros o en nuestra contra. \n\nMientras nos proponemos redefinir nuestra estructura militar en su conjunto, debemos inculcar esta doctrina en el corazón de nuestros hombres para que sepan contra quién luchan y por qué luchan. Este legado de honra les conferirá el valor para seguir luchando contra cualquier nuevo enemigo que surja y amenace al norte."
+ 
+ FIN_Mandatory_Conscription: "Reclutamiento obligatorio"
+ FIN_Mandatory_Conscription_desc: ""
+ FIN_Expand_the_Lotta_Svard: "Ampliar la Lotta Svärd"
+ FIN_Expand_the_Lotta_Svard_desc: "Al preparar la defensa del suelo finlandés, no podemos permitirnos eliminar ninguna fuerza reclutable, independientemente de las normas sociales; estas tradiciones no significarán nada cuando las botas enemigas marchen por nuestro hogar. Ésto significa, claro, que las mujeres deben ser capaces de apoyar a nuestro Ejército de cualquier manera que puedan, a través del servicio en hospitales, armas antiaéreas, trabajos sociales y otras tareas auxiliares. \n\nEn este sentido, debemos ampliar una institución que existe desde nuestra independencia en 1918: la Lotta Svärd. El cuerpo auxiliar femenino nos ha servido bien en el pasado, pero para satisfacer las necesidades de un ejército y un mundo en crecimiento, debe ampliarse. Mediante propaganda e incentivos, pretendemos duplicar sus cifras en los próximos años, para que podamos estar preparados para hacer frente a cualquier amenaza sabiendo que nuestras esposas están a nuestro lado."
+ 
+ FIN_Replace_Outdated_Fighters: "Reemplazar los cazas anticuados"
+ FIN_Replace_Outdated_Fighters_desc: ""
+ FIN_British_Bomber_Designs: "Diseños de bombarderos británicos"
+ FIN_British_Bomber_Designs_desc: ""
+ FIN_Airbase_Expansion: "Expansión de bases aéreas"
+ FIN_Airbase_Expansion_desc: ""
+ FIN_Helsinki_AA_Defenses: "Defensas antiaéreas en Helsinki"
+ FIN_Helsinki_AA_Defenses_desc: ""
+ FIN_Western_Support: "Apoyo occidental"
+ FIN_Western_Support_desc: ""
+ FIN_Repeal_the_IKL_Ban: "Derogar la ilegalización del IKL"
+ FIN_Repeal_the_IKL_Ban_desc: ""
+ FIN_Limit_the_Military_Budget: "Limitar el presupuesto militar"
+ FIN_Limit_the_Military_Budget_desc: ""
+ FIN_Develop_the_Civilian_Sector: "Desarrollar el sector civil"
+ FIN_Develop_the_Civilian_Sector_desc: ""
+ FIN_Constrain_Presidential_Powers: "Limitar los poderes presidenciales"
+ FIN_Constrain_Presidential_Powers_desc: ""
+ FIN_Purchase_Aircraft: "Comprar aviones"
+ FIN_Purchase_Aircraft_desc: ""
+ 
+ FIN_Expand_the_Turku_University: "Ampliar la Universidad de Turku"
+ FIN_Expand_the_Turku_University_desc: ""
+ 
+ FIN_Improve_Southern_Infastructure: "Mejorar la infraestructura del sur"
+ FIN_Improve_Southern_Infastructure_desc: ""
+ 
+ FIN_Subsidize_Private_Arms_Companies: "Subvencionar a las empresas armamentísticas privadas"
+ FIN_Subsidize_Private_Arms_Companies_desc: ""
+ 
+ FIN_Attract_Foreign_Investment: "Atraer inversiones del extranjero"
+ FIN_Attract_Foreign_Investment_desc: ""
+ 
+ FIN_Work_Towards_Urbanization: "Bregar en pro de la urbanización"
+ FIN_Work_Towards_Urbanization_desc: ""
+ 
+ FIN_The_Finnish_Dream: "El sueño finlandes"
+ FIN_The_Finnish_Dream_desc: ""
+ 
+ FIN_Expand_Country_Roads: "Ampliar las carreteras comarcales"
+ FIN_Expand_Country_Roads_desc: ""
+ 
+ FIN_Spread_the_Wealth: "Distribuir la riqueza"
+ FIN_Spread_the_Wealth_desc: ""
+ 
+ FIN_Economy_of_the_People: "Economía del pueblo"
+ FIN_Economy_of_the_People_desc: ""
+ 
+ FIN_Begin_the_Mechanization_of_Agriculture: "Comenzar la mecanización de la agricultura"
+ FIN_Begin_the_Mechanization_of_Agriculture_desc: ""
+ 
+ FIN_Strong_and_Stable: "Fuerte y estable"
+ FIN_Strong_and_Stable_desc: ""
+ 
+ FIN_Promote_Tradition: "Promover la tradición"
+ FIN_Promote_Tradition_desc: ""
+ 
+ FIN_Revival_of_the_Moderate_Left: "Renacimiento de la izquierda moderada"
+ FIN_Revival_of_the_Moderate_Left_desc: ""
+ 
+ FIN_Tighten_the_Military_Budget: "Ajustar el presupuesto militar"
+ FIN_Tighten_the_Military_Budget_desc: ""
+ 
+ FIN_Refit_the_Right: "Reacondicionar a la derecha"
+ FIN_Refit_the_Right_desc: ""
+ 
+ FIN_A_Strong_Republic: "Una república fuerte"
+ FIN_A_Strong_Republic_desc: ""
+ 
+ FIN_Strike_the_Left: "Atacar a la izquierda"
+ FIN_Strike_the_Left_desc: ""
+ 
+ FIN_Home_Religion_Fatherland: "Hogar, religión, patria"
+ FIN_Home_Religion_Fatherland_desc: ""
+ 
+ FIN_Imprison_Dissenters: "Encarcelar a los disidentes"
+ FIN_Imprison_Dissenters_desc: ""
+ 
+ FIN_Nationalize_Arms_Companies: "Nacionalizar las empresas armamentísticas"
+ FIN_Nationalize_Arms_Companies_desc: ""
+ 
+ FIN_Loosen_Labor_Laws: "Relajar las leyes laborales"
+ FIN_Loosen_Labor_Laws_desc: ""
+ 
+ FIN_Fight_the_Red_Threat: "Combatir a la amenaza roja"
+ FIN_Fight_the_Red_Threat_desc: ""
+ 
+ FIN_A_Victory_Against_Bolshevism: "Una victoria ante el bolchevismo"
+ FIN_A_Victory_Against_Bolshevism_desc: ""
+ 
+ FIN_Crush_the_Socialists: "Aplastar a los socialistas"
+ FIN_Crush_the_Socialists_desc: ""
+ 
+ FIN_Rally_the_Conservatives: "Reunir a los conservadores"
+ FIN_Rally_the_Conservatives_desc: ""
+ 
+ FIN_Fascism_with_Finnish_Charasteristics: "Fascismo con características finlandesas"
+ FIN_Fascism_with_Finnish_Charasteristics_desc: ""
+ 
+ FIN_Seek_Foreign_Support: "Buscar apoyo extranjero"
+ FIN_Seek_Foreign_Support_desc: ""
+ 
+ FIN_Implement_Corporatism: "Implementar el corporativismo"
+ FIN_Implement_Corporatism_desc: ""
+ 
+ FIN_Prepare_for_the_Liberation_War: "Prepararse para la guerra de Liberación"
+ FIN_Prepare_for_the_Liberation_War_desc: ""
+ 
+ FIN_Pan_Finnic_Zeal: "Fervor panfínico"
+ FIN_Pan_Finnic_Zeal_desc: ""
+ 
+ FIN_Approach_the_Soviets: "Dirigirse a los soviéticos"
+ FIN_Approach_the_Soviets_desc: ""
+ 
+ FIN_Peace_and_Neutrality: "Paz y neutralidad"
+ FIN_Peace_and_Neutrality_desc: ""
+ 
+ FIN_Autarkic_Economy: "Economía autárquica"
+ FIN_Autarkic_Economy_desc: ""
+ 
+ FIN_Expand_the_Paper_Industry: "Ampliar la industria papelera"
+ FIN_Expand_the_Paper_Industry_desc: ""
+ 
+ FIN_Assemble_the_Welfare_State: "Montar el Estado de bienestar"
+ FIN_Assemble_the_Welfare_State_desc: ""
+ 
+ FIN_Reach_Across_the_Isle: "Llegar al otro lado de la isla"
+ FIN_Reach_Across_the_Isle_desc: ""
+ 
+ FIN_Embrace_the_Free_Market: "Abrazar el libre mercado"
+ FIN_Embrace_the_Free_Market_desc: ""
+ 
+ FIN_Cooperation_with_the_Unions: "Cooperación con los sindicatos"
+ FIN_Cooperation_with_the_Unions_desc: ""
+ 
+ FIN_Reapply_Austerity_Measures: "Volver a aplicar las medidas de austeridad"
+ FIN_Reapply_Austerity_Measures_desc: ""
+ 
+ FIN_Pacifistic_Policy: "Política pacifista"
+ FIN_Pacifistic_Policy_desc: ""
+ 
+ FIN_Root_Out_Fascism: "Erradicar el fascismo"
+ FIN_Root_Out_Fascism_desc: ""
+
+ FIN_Foreign_Affairs: "Asuntos exteriores"
+ FIN_Foreign_Affairs_desc: ""
+
+ FIN_Seek_Western_Support: "Buscar apoyo occidental"
+ FIN_Seek_Western_Support_desc: ""
+
+ FIN_Approach_the_Reich: "Dirigirse al Reich"
+ FIN_Approach_the_Reich_desc: ""
+
+ FIN_Approach_Nordic_Nations: "Dirigirse a las naciones nórdicas"
+ FIN_Approach_Nordic_Nations_desc: ""
+
+ FIN_Approcah_Baltic_Entente: "Dirigirse a la Entente del Báltico"
+ FIN_Approcah_Baltic_Entente_desc: ""
+
+ FIN_National_Interests: "Intereses nacionales"
+ FIN_National_Interests_desc: ""
+
+ FIN_Review_Finnish_Defense_Forces: "Revisar las Fuerzas de Defensa de Finlandia"
+ FIN_Review_Finnish_Defense_Forces_desc: ""
+
+ FIN_Renew_Naval_Effort: "Renovar el esfuerzo naval"
+ FIN_Renew_Naval_Effort_desc: ""
+
+ FIN_Expand_Crichton_Vulcan_Dockyards: "Ampliar el astillero de Crichton-Vulcan"
+ FIN_Expand_Crichton_Vulcan_Dockyards_desc: ""
+
+ FIN_Naval_Academy: "Academia naval"
+ FIN_Naval_Academy_desc: ""
+
+ FIN_Capital_Ship_Construction: "Construcción de buques capitales"
+ FIN_Capital_Ship_Construction_desc: ""
+
+ FIN_Coastal_Defense_Doctrine: "Doctrina de defensa costera"
+ FIN_Coastal_Defense_Doctrine_desc: ""
+
+ FIN_Coastal_Jaegers: "Jääkärit costeros"
+ FIN_Coastal_Jaegers_desc: ""
+
+ FIN_Pragmatic_Defense: "Defensa pragmática"
+ FIN_Pragmatic_Defense_desc: ""
+
+ FIN_Refit_Old_Ships: "Reacondicionar los buques viejos"
+ FIN_Refit_Old_Ships_desc: ""
+
+ FIN_Naval_Supply_Line: "Línea de suministro naval"
+ FIN_Naval_Supply_Line_desc: ""
+
+ FIN_Submerged_Defense: "Defensa sumergida"
+ FIN_Submerged_Defense_desc: ""
+
+ FIN_Finnish_Military_Academy: "Academia militar finlandesa"
+ FIN_Finnish_Military_Academy_desc: ""
+
+ FIN_Rise_of_the_National_Warrior: "Auge del guerrero nacional"
+ FIN_Rise_of_the_National_Warrior_desc: ""
+
+ FIN_Improve_Our_Equipment: "Mejorar nuestro equipo"
+ FIN_Improve_Our_Equipment_desc: ""
+
+ FIN_Soldiers_of_the_North: "Soldados del norte"
+ FIN_Soldiers_of_the_North_desc: ""
+
+ FIN_Improvised_Weaponry: "Armamento improvisado"
+ FIN_Improvised_Weaponry_desc: ""
+
+ FIN_Sissi: "Sissi"
+ FIN_Sissi_desc: ""
+
+ FIN_Doctrine_of_National_Defense: "Doctrina de defensa nacional"
+ FIN_Doctrine_of_National_Defense_desc: ""
+
+ FIN_Assemytric_Warfare: "Guerra asimétrica"
+ FIN_Assemytric_Warfare_desc: ""
+
+ FIN_Expand_the_Mannerheim_Line: "Ampliar la línea Mannerheim"
+ FIN_Expand_the_Mannerheim_Line_desc: ""
+
+ FIN_Create_Coastal_and_Backup_Lines: "Crear líneas de repuesto y costeras"
+ FIN_Create_Coastal_and_Backup_Lines_desc: ""
+
+ FIN_The_Salpa_Line: "La línea Salpa"
+ FIN_The_Salpa_Line_desc: ""
+
+ FIN_Finnish_Air_Force: "Fuerza Aérea finlandesa"
+ FIN_Finnish_Air_Force_desc: ""
+
+ FIN_Purchase_Aircraft: "Comprar aviones"
+ FIN_Purchase_Aircraft_desc: ""
+
+ FIN_Examine_British_Bomber_Designs: "Examinar diseños de bombarderos británicos"
+ FIN_Examine_British_Bomber_Designs_desc: ""
+
+ FIN_Floatplane_Designs: "Diseños de hidroflotadores"
+ FIN_Floatplane_Designs_desc: ""
+
+ FIN_Airbase_Expansion: "Expansión de bases aéreas"
+ FIN_Airbase_Expansion_desc: ""
+
+ FIN_Makeshift_Airfields: "Aeródromos improvisados"
+ FIN_Makeshift_Airfields_desc: ""
+
+ FIN_Protect_Our_Cities: "Proteger nuestras ciudades"
+ FIN_Protect_Our_Cities_desc: ""
+
+ FIN_Organize_an_Air_Force_Academy: "Organizar una academia de la Fuerza Aérea"
+ FIN_Organize_an_Air_Force_Academy_desc: ""
+
+ FIN_Lessons_from_Combat: "Lecciones del combate"
+ FIN_Lessons_from_Combat_desc: ""
+
+ FIN_Glider_Schools: "Escuelas de planeadores"
+ FIN_Glider_Schools_desc: ""
+
+ FIN_Expand_Lotta_Svard: "Ampliar la Lotta Svärd"
+ FIN_Expand_Lotta_Svard_desc: ""
+
+ FIN_Expand_the_White_Guard: "Ampliar la Guardia Blanca"
+ FIN_Expand_the_White_Guard_desc: ""
+
+ FIN_Integrated_Mobilization_Centres: "Centros de movilización integrados"
+ FIN_Integrated_Mobilization_Centres_desc: ""
+
+ FIN_Military_Sports_Programs: "Programas de deportes militares"
+ FIN_Military_Sports_Programs_desc: ""
+
+ FIN_Citizen_Soldier: "El soldado ciudadano"
+ FIN_Citizen_Soldier_desc: ""
+
+ FIN_Integrated_White_Guard_Regiments: "Regimientos de la Guardia Blanca integrados"
+ FIN_Integrated_White_Guard_Regiments_desc: ""
+
+######################################################################
+#  Finland Ideas
+######################################################################
+ FIN_sisu_1: "Sisu"
+ FIN_sisu_1_desc: "«Sisu» es la expresión típicamente finlandesa para referirse a la resiliencia del pueblo de la nación. Finlandia se ha enfrentado a grandes adversidades y volverá a hacerlo."
+ FIN_sisu_2: "Sisu"
+ FIN_sisu_2_desc: "«Sisu» es la expresión típicamente finlandesa para referirse a la resiliencia del pueblo de la nación. Finlandia se ha enfrentado a grandes adversidades y volverá a hacerlo."
+ FIN_memories_of_mantsala_rebellion_1: "Memorias de la rebelión de Mäntsälä"
+ FIN_memories_of_mantsala_rebellion_1_desc: "La rebelión del Movimiento Lapua ultraderechista en 1932 sigue obsesionando a nuestros políticos y campesinos por igual. Aunque propició la disolución del Movimiento Lapua y la pérdida de la mayoría de sus miembros, demostró claramente que Finlandia no está tan unida como se pensaba. Deben tomarse medidas drásticas para que podamos pasar página por fin."
+ FIN_memories_of_mantsala_rebellion_2: "Memorias de la rebelión de Mäntsälä"
+ FIN_memories_of_mantsala_rebellion_2_desc: "La rebelión del Movimiento Lapua ultraderechista en 1932 sigue obsesionando a nuestros políticos y campesinos por igual. Aunque propició la disolución del Movimiento Lapua y la pérdida de la mayoría de sus miembros, demostró claramente que Finlandia no está tan unida como se pensaba. Deben tomarse medidas drásticas para que podamos pasar página por fin."
+ FIN_lingering_depression_1: "Depresión persistente"
+ FIN_lingering_depression_1_desc: "Nuestra nación se libró en gran medida del impacto de la depresión económica mundial, pero aún así nos ha afectado. Habrá que resolver el desempleo y el lento crecimiento económico de una forma o de otra."
+ FIN_lingering_depression_2: "Depresión persistente"
+ FIN_lingering_depression_2_desc: "Nuestra nación se libró en gran medida del impacto de la depresión económica mundial, pero aún así nos ha afectado. Habrá que resolver el desempleo y el lento crecimiento económico de una forma o de otra."
+ FIN_lingering_depression_3: "Depresión persistente"
+ FIN_lingering_depression_3_desc: "Nuestra nación se libró en gran medida del impacto de la depresión económica mundial, pero aún así nos ha afectado. Habrá que resolver el desempleo y el lento crecimiento económico de una forma o de otra."
+ FIN_spending_spree_idea: "Racha de gastos"
+ FIN_ban_on_communism: "Ilegalización del comunismo"
+ FIN_ban_on_communism_desc: "Mediante una campaña de terror, el Movimiento Lapua consiguió implementar una ilegalización del comunismo. Muchos piensan que es necesario para contener el comunismo en nuestra nación, pero muchos en el SDP creen que no hace sino dividir el país aún más."
+ FIN_ban_on_fascism: "Ilegalización del fascismo"
+ FIN_economic_austerity_idea: "Austeridad económica"
+ FIN_reapply_austerity_measures_idea: "Medidas de austeridad aplicadas de nuevo"
+ FIN_loosen_labor_laws_idea: "Leyes laborales relajadas"
+ FIN_agrarian_autarky_idea: "Autarquía agraria"
+ FIN_cooperate_with_the_unions_idea: "Cooperación con los sindicatos"
+ FIN_workers_rights_idea: "Derechos laborales"
+ FIN_submarine_fleet: "Flota de submarinos"
+ FIN_naval_aa_idea: "Apoyo antiaéreo naval"
+ FIN_expanded_lotta_svard: "Ampliar la Lotta Svärd"
+ FIN_traditional_values_idea: "Valores tradicionales"

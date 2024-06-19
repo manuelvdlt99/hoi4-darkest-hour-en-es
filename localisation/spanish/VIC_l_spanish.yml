@@ -1,0 +1,67 @@
+﻿l_spanish:
+######################################################################
+#  Vichy France Events
+######################################################################
+ VIC_Politics.1.title: "¡Someternos o luchar!"
+ VIC_Politics.1.desc: "Esta mañana, los oficiales alemanes han exigido la cooperación incondicional del Estado Francés, iniciando de hecho la ocupación de toda Francia. El Gobierno de Vichy se ha reunido para decidir una línea de actuación. Hay quienes afirman que ya es suficiente y que Alemania debe acatar el armisticio, mientras que otros sostienen que Alemania se limitará a ignorar cualquier contraoferta y exigir la sumisión total de Francia. ¿Luchamos? ¿O nos sometemos?"
+ VIC_Politics.1.A: "Someterse a Alemania."
+ VIC_Politics.1.B: "Unirse a los Aliados." 
+
+ VIC_Politics.2.title: "Comienzo del juicio de Riom"
+ VIC_Politics.2.desc: "Hoy es el comienzo del juicio de Riom, un intento por parte del Gobierno del Estado Francés de denunciar las formas de la Tercera República y sus líderes."
+ VIC_Politics.2.A: "Así comienza..."
+ VIC_Politics.3.title: "El Gobierno de Vichy hace una exigencia"
+ VIC_Politics.3.desc: "El Gobierno de Vichy nos ha pedido hoy que les devolvamos los tanques que capturamos tras la caída de Francia. Por supuesto, ésto no afectará a nuestro Ejército, ya que la mayoría de dichos tanques ya están anticuados y en desuso, pero ¿qué harían ellos con esas armas extra? ¿Podrían estar planeando una rebelión contra nosotros? ¿Qué deberíamos hacer?"
+ VIC_Politics.3.A: "Devolverlos."
+ VIC_Politics.3.B: "Mejor ni nos molestamos."
+ VIC_Politics.4.title: "Fracasa el juicio de Riom"
+ VIC_Politics.4.desc: "Hoy ha llegado un importante comunicado del tribunal. Se ha anunciado la victoria de la parte acusada en el proceso de Riom. A pesar de las acusaciones del Gobierno autoritario, los representantes de la Tercera República han salido victoriosos de la sala del tribunal. Ésto seguramente tendrá algún tipo de impacto en la mente del pueblo francés, y su lealtad a Pétain y su Estado seguramente será cuestionada. "
+ VIC_Politics.4.A: "¡Ésto es un desastre!"
+ VIC_Politics.5.title: "Retorno a la tierra"
+ VIC_Politics.5.desc: "Con el fin de organizar mejor nuestro país y pagar las reparaciones de guerra alemanas, Pétain ha anunciado hoy que Francia se someterá a una gran reforma: «retorno a la tierra», que pretende aumentar la población rural y los modos de vida. Sólo el tiempo dirá si la nación será capaz de soportar un cambio tan brutal de la economía, pero Pétain parecía bastante seguro de que se trata de la medida correcta."
+ VIC_Politics.5.A: "Que así sea, que comience la reforma."
+ VIC_Politics.5.B: "¡Rechazar esta idea!"
+
+######################################################################
+#  Vichy France Focuses
+######################################################################
+
+######################################################################
+#  Vichy France Ideas
+######################################################################
+VIC_enough_is_enough: "¡Ya es suficiente!"
+VIC_enough_is_enough_desc: "Bastante caos y destrución ha presenciado ya el pueblo francés. En estos momentos no podemos permitirnos el lujo de vernos envueltos en otra guerra, y es probable que así sea durante bastante tiempo."
+VIC_A_hungry_population: "Una población con hambre"
+VIC_A_hungry_population_desc: "Con las sanciones económicas, no podemos permitirnos dar salarios decentes a nuestros trabajadores. Lamentablemente, ésto significa que las hambrunas no son infrecuentes, y frena definitivamente nuestras capacidades industriales."
+VIC_War_Reparations: "Reparaciones de guerra sin precedentes"
+VIC_War_Reparations_desc: "Con la derrota de Francia, Alemania nos ha presionado con demandas de reparaciones aún mayores que las del Tratado de Versalles. Los pecados de la Tercera República son ahora nuestra responsabilidad."
+VIC_Discriminate_Conscription: "Discriminar el reclutamiento"
+VIC_Prisoners_in_Germany: "Prisioneros retenidos en Alemania"
+VIC_Prisoners_in_Germany_desc: "Después del armisticio, Alemania accedió a liberar alrededor de la mitad de los dos millones de presos que capturaron. Sin embargo, los demás fueron retenidos en Alemania como mano de obra forzada para impulsar su maquinaria de guerra. Ésto ha supuesto un duro golpe para nuestro Ejército y nuestra mano de obra."
+VIC_black_market: "Reprimir los mercados negros"
+VIC_black_market_desc: "El mercado negro es una plaga para nuestra economía. Tenemos que acabar con él cuanto antes para evitar que sea un obstáculo para nuestra creciente influencia."
+VIC_Giraud_approach: "El enfoque de Giraud"
+VIC_Giraud_approach_desc: " Nuestra derrota durante la batalla de Francia se debió a una mala práctica, no a una mala teoría. Cambiar ahora las doctrinas sembraría el caos en nuestro Ejército, y no lo necesitamos en este momento."
+VIC_new_officer_schools: "Nuevos oficiales"
+VIC_new_officer_schools_desc: "A nadie sorprende que la mayoría de nuestros oficiales murieran o permanecieran en Alemania tras el armisticio. Necesitaremos un nuevo grupo de oficiales muy pronto si queremos que nuestras fuerzas vuelvan a funcionar sin problemas."
+VIC_modern_artillery: "Nuevos diseños de artillería"
+VIC_modern_artillery_desc: "Con nuevos diseños de artillería, hemos alcanzado una potencia de fuego superior."
+VIC_Les_Cadets: "Les cadets"
+VIC_collaboration_economique: "Reparaciones de guerra sin precedentes"
+VIC_collaboration_economique_desc: "Con la derrota de Francia, Alemania nos ha presionado con demandas de reparaciones aún mayores que las del Tratado de Versalles. Los pecados de la Tercera República son ahora nuestra responsabilidad. "
+VIC_catholic_church_reinforced: "Poderes católicos reforzados"
+VIC_German_doctrine_adopted: " Nuevas doctrinas de blindados"
+VIC_naval_air_bonus: "Mejores modelos de aviones navales"
+VIC_air_fighter_bonus: "Mejores modelos de cazas"
+VIC_Establish_the_CO: "CC. OO. establecidos"
+VIC_Collaboration_economique: "Reparaciones de guerra sin precedentes"
+VIC_set_up_STOs: "Mano de obra forzada instaurada"
+VIC_civilians_for_prisoners: "Intercambio de personal por mano de obra"
+VIC_corporatist_state: "Un Estado corporativista francés"
+VIC_rationing: "Intentos para reducir las hambrunas"
+VIC_motorized_army: "Mejor equipo motorizado"
+VIC_german_assistance: "Ayuda industrial alemana"
+VIC_purchased_german_tanks: "Tanques alemanes recién comprados"
+VIC_Germany_refused_to_help: "Se ha negado a devolvernos los tanques"
+VIC_Return_to_Earth: "Reformas «retorno a la tierra»"
+VIC_Return_to_Earth_desc: "Para pagar mejor nuestras reparaciones de guerra, nuestra nación está llevando a cabo una gran reforma cuyo objetivo es aumentar la población y el estilo de vida rurales."

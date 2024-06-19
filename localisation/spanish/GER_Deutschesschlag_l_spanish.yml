@@ -1,0 +1,82 @@
+﻿l_spanish:
+######################################################################
+#  German Strasserist Events
+######################################################################
+ # Deutschesschlag
+ GER_Deutschesschlag.1.t: "¡Schleicher declara el estado de emergencia!"
+ GER_Deutschesschlag.1.d: "[FROM.GetNewsIcon]"
+ GER_Deutschesschlag.1.A: "Dios mío."
+
+ GER_Deutschesschlag.1.t: "Hugenberg quiere más cargos ministeriales"
+ GER_Deutschesschlag.1.d: ""
+ GER_Deutschesschlag.1.A: "Vale."
+ 
+ GER_Deutschesschlag.2.t: "Hugenberg quiere la vicecancillería"
+ GER_Deutschesschlag.2.d: ""
+ GER_Deutschesschlag.2.A: "No tenemos más remedio que aceptar."
+ GER_Deutschesschlag.2.B: "No nos dejaremos intimidar por ese bufón."
+ 
+ GER_Deutschesschlag.3.t: "El DNVP y el Stahlhelm desertan a los nazis"
+ GER_Deutschesschlag.3.d: ""
+ GER_Deutschesschlag.3.A: "Dios mío."
+ 
+######################################################################
+#  German Strasserist Focuses
+######################################################################
+ GER_Deutschesschlag: "Deutschesschlag"
+ GER_Deutschesschlag_desc: ""
+ GER_Deutschesschlag_tt: "Las §Gelecciones§! se §Rpospondrán§! hasta que la situación en el Reich se haya §Gestabilizado§!. Se declarará el §Restado de emergencia§!.\n"
+ 
+ GER_Ensure_Support_of_DNVP: "Garantizar el apoyo del DNVP"
+ GER_Ensure_Support_of_DNVP_desc: ""
+ 
+ GER_Reach_out_to_SPD: "Llegar al SPD"
+ GER_Reach_out_to_SPD_desc: ""
+ 
+ GER_Nationwide_Martial_Law: "Ley marcial a escala nacional"
+ GER_Nationwide_Martial_Law_desc: ""
+ 
+ GER_Workers_Revolution: "¡Revolución obrera!"
+ GER_Workers_Revolution_desc: ""
+ 
+ GER_Maintain_the_Republic: "¡Mantener la república!"
+ GER_Maintain_the_Republic_desc: ""
+ 
+ GER_Second_National_Revolution: "¡Segunda revolución nacional!"
+ GER_Second_National_Revolution_desc: ""
+ 
+ GER_Escalate_the_General_Strike: "Intensificar la huelga general"
+ GER_Escalate_the_General_Strike_desc: ""
+ 
+ GER_Unprincipled_Pact: "¿Un pacto sin principios?"
+ GER_Unprincipled_Pact_desc: ""
+ 
+ GER_Arm_Rhine_Paramilitaries: "Armar a los paramilitares del Rin"
+ GER_Arm_Rhine_Paramilitaries_desc: ""
+ 
+ GER_Keep_the_House_in_Order: "Mantener la casa en orden"
+ GER_Keep_the_House_in_Order_desc: ""
+ 
+ GER_Crack_Down_on_the_Reds: "Mano dura con los rojos"
+ GER_Crack_Down_on_the_Reds_desc: ""
+ 
+ GER_Strike_at_the_Brownshirts: "Atacar a los camisas pardas"
+ GER_Strike_at_the_Brownshirts_desc: ""
+ 
+ GER_Exploit_Militarist_Fervour: "Explotar el fervor militarista"
+ GER_Exploit_Militarist_Fervour_desc: ""
+ 
+ GER_Form_the_Prussian_Volunteers: "Formar los voluntarios prusianos"
+ GER_Form_the_Prussian_Volunteers_desc: ""
+ 
+ GER_Establish_Connections_in_the_Reichswehr: "Establecer conexiones con el Reichswehr"
+ GER_Establish_Connections_in_the_Reichswehr_desc: ""
+
+######################################################################
+## German Strasserist Decisions
+######################################################################
+
+######################################################################
+## German Strasserist Ideas
+######################################################################
+

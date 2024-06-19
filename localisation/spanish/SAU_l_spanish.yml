@@ -1,0 +1,68 @@
+﻿l_spanish:
+######################################################################
+#  Saudi Events
+######################################################################
+ SAU_YEM_War.1.t: "El Emirato Idrisid rompe su tratado con Bin Saúd"
+ SAU_YEM_War.1.d: "Najrán ha sido durante mucho tiempo una zona disputada entre Yemen y Arabia Saudí. Desde 1931, los saudíes tienen, en teoría, el control de la zona. El rey Saúd ha movido soldados a la zona y ahora están en nuestra frontera. Saúd ha utilizado los acuerdos de 1927 y 1931 para justificar su avance hacia Najrán, ¡pero la eliminación de la dinastía idrisí anula los acuerdos! El emir Idrisi ha rescindido su apoyo a los saudíes y se ha refugiado en Yemen con su ejército. \n\nSaúd ha demostrado su desprecio por nuestros intereses al seguir expandiéndose hacia el sur, ¡y ahora debemos actuar! Podemos optar por marchar y ocupar Najrán, pero desconocemos la respuesta que podemos recibir por parte de Saúd. ¡Najrán ha sido y seguirá siendo territorio yemení legítimo!"
+ SAU_YEM_War.1.A: "¡Marchen hacia Najrán!"
+ SAU_YEM_War.1.B: "El riesgo de guerra es demasiado alto para ignorarlo."
+ 
+ SAU_YEM_War.2.t: "El Emirato Idrisid rompe su tratado con nosotros"
+ SAU_YEM_War.2.d: "Nos han llegado graves noticias desde Najrán, ya que los informes actuales indican que el emir Idrisi, el gobernante de la región y uno de nuestros vasallos, ha renunciado a nuestro legítimo gobierno y, junto con su ejército, ha jurado lealtad al imán de Yemen, básicamente entregando la provincia de Najrán a nuestros enemigos.\n\nAunque la situación en la zona es volátil desde el tratado de 1931, ahora parece que podría perfectamente desembocar en una guerra a gran escala entre nuestras naciones, provocada sin duda alguna por el imán de Yemen para satisfacer su mezquino rencor hacia nuestra nación.\n\nLas opiniones sobre cómo deberíamos abordar esta situación en el seno del Gobierno son muy dispares: el Ejército aboga por una respuesta agresiva, afirmando que la traición del emir Idrisi debería considerarse un acto de guerra, mientras que el propio Rey ya ha ordenado la creación de una delegación de paz que, con suerte, evitará que estalle una guerra entre Arabia Saudí y Yemen."
+ SAU_YEM_War.2.A: "Que nadie diga que no intentamos mantener la paz."
+
+ SAU_YEM_War.3.t: "Las fuerzas yemeníes avanzan hacia Najrán"
+ SAU_YEM_War.3.d: "Nuestro actual conflicto territorial con Yemen se ha recrudecido. El imán de Yemen ha ordenado al Ejército yemení marchar sobre la región de Najrán. Esta violación de nuestro anterior tratado acerca del asunto parece confirmar que el imán es lo bastante arrogante como para usar su Ejército contra nosotros. Por suerte para él, el rey Abdulaziz es un hombre razonable y está sopesando enviar una delegación de paz para resolver este conflicto sin derramamiento de sangre. Pero este movimiento agresivo indica que la guerra será inevitable, aunque intentemos desescalar la situación.\n\nEl imán gobierna un país pequeño, pero controla un ejército relativamente poderoso. Aunque nuestras propias fuerzas tienen mejores equipos y vehículos, los yemeníes tienen más experiencia en la guerra de montaña. Éste es un grave problema si nuestras fuerzas móviles han de enfrentarse a ellos en un terreno desventajoso, por lo que deberíamos reconsiderar seriamente si estamos en condiciones de librar este conflicto."
+ SAU_YEM_War.3.A: "Enviar la delegación. El imán se está pasando de la raya."
+ SAU_YEM_War.3.B: "Atrás. No vale la pena una guerra por esta riña insignificante."
+ SAU_YEM_War.3.B.tt: "El §YReino Mutawakkilita de Yemen§! se §Ranexionará§! el territorio del Emirato Idrisid de Asir: §YNajrán y Jizán§!."
+
+ SAU_YEM_War.4.t: "Llega una delegación saudí a Saná"
+ SAU_YEM_War.4.d: "Tras la exitosa ocupación de Najrán ante los calculadores saudíes, hemos recibido una delegación en Saná. Está formada por diplomáticos saudíes y entre ellos se encuentra el hijo del rey saudí. Los saudíes han estado en contra de Yemen durante años, y esta delegación ha venido claramente a negociar otro trato injusto. No podemos permitir que los saudíes establezcan una presencia sólida en nuestra frontera. Tampoco podemos retirarnos formalmente del acuerdo de 1931 sin darle a Bin Saúd una excusa para declarar la guerra. Nuestra única opción es poner a esta delegación bajo custodia y continuar los preparativos para un enfrentamiento armado con el Ejército saudí."
+ SAU_YEM_War.4.A: "¿Quién es este beduino que viene a impugnar el mandato de mi familia?"
+ SAU_YEM_War.4.A.tt: "Enviaremos a los idrisíes de vuelta a sus tierras... §Rcon un ejército§!."
+ 
+ SAU_YEM_War.5.t: "¡Nuestra delegación de paz ha sido encarcelada!"
+ SAU_YEM_War.5.d: "¡La delegación enviada por el rey Bin Saúd para negociar la paz y poner fin al reciente conflicot entre nuestros dos países ha sido encarcelada! Al detener a nuestros diplomáticos, incluido el mismísimo príncipe heredero, los yemeníes nos han injuriado gravemente, poniendo de manifiesto su total falta de respeto y el absoluto desprecio que sienten por nuestra soberanía. Esta reacción exagerada también ha cerrado la puerta a cualquier posible salida pacífica de esta situación, y debemos empezar a pensar en una nueva estrategia sobre cómo ocuparnos de los yemeníes.\r\n\r\nEsta nueva estrategia no será diplomática, ¡sino de acción directa y agresiva, con el objetivo de reprender a los yemeníes por romper el tratado, avanzar por nuestro territorio y encarcelar al heredero de nuestro trono!"
+ SAU_YEM_War.5.A: "La diplomacia ha fracasado claramente, preparen a los hombres."
+ SAU_YEM_War.5.A.tt: "Hora de replantearnos nuestros métodos..."
+ 
+ SAU_YEM_War.6.t: "Un Napoleón del desierto marcha sobre Yemen"
+ SAU_YEM_War.6.d: "[FROM.GetNewsIcon]Tras meses y meses de una escalada de las tensiones, ha estallado la guerra entre el Reino de Arabia Saudí y el Reino Mutawakkilita de Yemen.\n\nBin Saúd, a menudo considerado el «Bismarck de Arabia» por sus esfuerzos para unificar la península, ha empezado a mostrar su otro lado. Mientras que Bismarck fue sobre todo pacífico en sus métodos, uno con el nombre de «Napoleón» está destinado a la guerra. Y la guerra es lo que asola actualmente la península arábiga.\n\nEsta misma mañana, el rey saudí ordenó a la caballería, dirigida por el mismísimo príncipe heredero, que ocupase los territorios en disputa de Asir y Jazán. Ésto se debe a la rivalidad que durante años ha mantenido la administración de Riad con la de Saná desde la caída del dominio otomano en la zona. Tras la incorporación de Hiyaz en el Sultanato de Néyed allá por 1926, el equilibrio de poder regional se vio sacudido, y éso abrió la puerta a disputas territoriales. El Emirato de Asir fue una de esas disputas, que no hizo sino exacerbarse por la triple reivindicación sobre la zona. Ésto ha culminado en la declaración de guerra saudí sobre esta región.\n\nEn este momento no se sabe en qué desembocará esta guerra; el resultado puede ser el último clavo en el ataúd para asegurar la paz en la región."
+ SAU_YEM_War.6.A: "En menudo mundo vivimos."
+
+ SAU_YEM_War.7.t: "Conquista arábiga de Hodeida"
+ SAU_YEM_War.7.d: "[FROM.GetNewsIcon]¡Noticias de guerra de Arabia!\n\nEn su lucha contra los yemeníes, el Ejército saudí ha logrado capturar la crucial ciudad portuaria de Hodeida. La victoria ha sido la culminación de una larga serie de batallas durante este letal conflicto. Con la ocupación saudí de la ciudad, nuestros expertos no dudan de que los saudíes han inclinado la balanza a su favor y seguirán avanzando sin problemas por territorio yemení. \n\nSin embargo, toda gran victoria conlleva un botín. Como cualquier ejército, los militares saudíes querían saquear y desvalijar la ciudad yemení tras la conquista, pero una fuerza se interpuso en su camino. Una fuerza de marineros de la Marina británica en la ciudad quería mantener a salvo los intereses estratégicos y económicos de su nación de origen en la ciudad, y no dejar que una banda tribal de caballería se desbocara. Ésto supone también una advertencia indirecta a Bin Saúd, pues está claro que los británicos no se retirarán si alguna vez codicia las posesiones de Oriente Medio.\n\nSean cuales sean los objetivos de Bin Saúd, estamos seguros de que la guerra saudí-yemení sólo durará unas pocas semanas más, ya que al Ejército yemení le está costando rechazar el avance saudí."
+ SAU_YEM_War.7.A: "Qué región más devastada por la guerra."
+ SAU_YEM_War.7.B: "Debemos buscar la paz."
+ SAU_YEM_War.7.C: "Debemos obligar a su imán a abdicar."
+ 
+ SAU_YEM_War.8.t: "Bin Saúd exige una tregua"
+ SAU_YEM_War.8.d: "Con la guerra en curso pasando factura a ambas partes y a medida que los objetivos originales tanto de los saudíes como de nosotros se tornan inalcanzables, parece que los saudíes han sido los primeros en ceder ante la presión que la guerra ha ejercido sobre ellos. Como consecuencia, el rey Bin Saúd ha restablecido oficialmente las relaciones diplomáticas y ahora se ha dirigido a nosotros con una oferta de tregua, que supondría la vuelta a las fronteras anteriores a la guerra, una tregua de 20 años y el fin de las exigencias saudíes de abdicación de nuestro imán.\n\nAunque hay algunas personas dentro del Gobierno que se oponen a esta tregua, principalmente el propio príncipe heredero, es probable que el imán acepte esta oferta, por considerarla el resultado más beneficioso que se puede alcanzar actualmente."
+ SAU_YEM_War.8.A: "La paz es preferible."
+ SAU_YEM_War.8.B: "¡No desfalleceremos hasta que no caiga Riad!"
+
+ SAU_YEM_War.9.t: "Parlamento en Arabia"
+ SAU_YEM_War.9.d: "[FROM.GetNewsIcon]¡Noticias de Oriente Medio!\n\nEn contraste con el tiempo durante el que se acumuló el resentimiento entre las dos naciones, el final de la guerra saudí-yemení se ha gestionado con rapidez. Poco después de que el Ejército saudí demostrase su superioridad ante las Fuerzas Armadas yemeníes durante la ocupación de Hodeida, la situación bélica en Saná se convulsionó. Fuentes contradictorias hicieron pensar al imán que Yemen estaba ganando cuando, en realidad, su ejército se estaba retirando y huyendo de los saudíes.\n\nAsí, sabiendo que no debían propasarse, Bin Saúd pidió una tregua al Gobierno yemení; el Tratado de Taif se firmó pocos días después. Sin embargo, durante todos esos inquietantes días intermedios, el imán de Yemen temió que el rey saudí lo obligara a abdicar, pero este temor no culminó en realidad.\n\nEste tratado finalizó la frontera entre los dos reinos árabes y zanjó las largas y polémicas disputas."
+ SAU_YEM_War.9.A: "Otro reino cae en manos del ejército de choque de Bin Saúd."
+ SAU_YEM_War.9.B: "Otra victoria para Arabia."
+ SAU_YEM_War.9.B.tt: "§YArabia Saudí§! ha renunciado a exigir la abdicación del imán Yahya, pero ha exigido una tregua de al menos 20 años. Se ha firmado el Tratado de Taif entre el rey y el imán, garantizando 20 años de paz."
+ SAU_YEM_War.9.C: "Tal vez deberíamos enviar nuestras felicitaciones a nuestro proveedor de petróleo."
+
+ 
+######################################################################
+#  Saudi Decisions
+######################################################################
+ SAU_Reclaim_the_Highlands_of_Tehama: "Reclamar las tierras altas de Tihama"
+ SAU_Reclaim_the_Highlands_of_Tehama_desc: "¡Los yemeníes nos han faltado el respeto durante demasiado tiempo! Han roto el tratado con nuestro rey, Abdulaziz, han invadido nuestras tierras y han encarcelado a nuestros diplomáticos, lo cual es totalmente inaceptable. Hemos probado todas las demás vías diplomáticas, pero en las tierras altas de Tihama, nuestro territorio, que ellos han ocupado, siguen una política de opresión, erradicando a quienes no se han sometido a su dominio. No podemos permitir que ésto siga así. Debemos rectificarlo de inmediato recuperando las tierras altas manu militari. ¡Adelante, hacia la victoria!"
+
+ SAU_ReOccupy_Najran_and_Jizan: "Volver a ocupar Najrán y Jizán"
+ SAU_ReOccupy_Najran_and_Jizan_desc: "Ante la imposibilidad de alcanzar la paz, ha llegado el momento de utilizar la única lengua que entienden los yemeníes: ¡la guerra! Para castigarlos por sus recientes agresiones y demostrarles que no son rivales para nuestros soldados, llevaremos a cabo un gran asalto a las legítimas regiones saudíes de Najrán y Nazir.\n\nNuestra infantería cruzará la frontera desde varios puntos y desde allí avanzará hacia puntos estratégicos y ciudades a lo largo de las pocas carreteras de la zona, arrollando a los pocos defensores que se esperan. Si la resistencia es más feroz en algunas partes del frente, enviaremos a nuestras mejores fuerzas a esas defensas, con el fin de abrumar a los defensores y crear brechas en el frente.\n\nAunque los militares recalcan la dificultad de mantener tanto las líneas de suministro de nuestro Ejército ante las condiciones del desierto como los presuntos ataques de guerrilla, siguen confiando en que el enemigo no sea capaz de organizar una resistencia significativa."
+
+ SAU_Force_Yemeni_Capitulation: "Forzar la capitulación yemení"
+
+######################################################################
+#  Saudi Spirits
+######################################################################
+ SAU_Birthplace_of_Islam: "Cuna del islam"
+ SAU_Birthplace_of_Islam_desc: "Las sagradas tierras de Arabia han visto crecer a grandes conquistadores y académicos por igual a lo largo de los años. Todos los fieles miran a las ciudades de La Meca y Medina como centros del islam, lo que confiere a Arabia Saudí un prestigio y unos valores únicos en el mundo islámico. Los saudíes asumen con humildad este importante deber y lucharán por defender su hogar con férrea determinación."

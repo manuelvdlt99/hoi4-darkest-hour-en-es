@@ -1,0 +1,232 @@
+﻿l_spanish:
+######################################################################
+#  Nationalist Spain Leaders
+######################################################################
+ Francisco_Franco_Bahamonde_desc: "El mismísimo Caudillo, Francisco Franco, es un hombre que no busca más que la restauración del prestigio y la gloria de España, que ahora son reliquias del pasado. \n\nLa búsqueda del poder de Francisco Franco comenzó el mismo día de su nacimiento, ya que la familia de su padre había creado una dinastía de almirantes navales para España, produciendo generaciones de oficiales navales, todos ellos leales a la Corona, pero hábiles como grandes estrategas de la guerra naval. Por desgracia para Franco, no lo aceptaron en la Armada, así que tuvo que recurrir a la alternativa: el Ejército.\n\nFranco tuvo especial éxito en el Ejército, estableciendo un grupo leal de oficiales conservadores y reaccionarios, dispuestos a seguirlo y reconducir a España a su verdadera naturaleza. A medida que la democracia y el republicanismo se extienden por España, gana más adeptos, sobre todo porque la maquinaria militar estaba llena de oficiales reaccionarios.\n\nAhora, como el Caudillo, guiará a España a través de una nueva era en la que España ya no se postrará ante los vientos del liberalismo y, en su lugar, dará paso a los fuegos del reaccionarismo y el autoritarismo, cueste lo que cueste..."
+
+######################################################################
+#  Nationalist Spain Events
+######################################################################
+ SPA_Politics.1.t: "¡Pamplona está asegurada!"
+ SPA_Politics.1.d: ""
+ SPA_Politics.1.A: "¡Nuestro nuevo cuartel general!" 
+
+ SPA_Politics.2.t: "Milicias de derechas"
+ SPA_Politics.2.d: ""
+ SPA_Politics.2.A: "Los tradicionalistas se están armando."
+ 
+ SPA_Politics.3.t: "La radio de Queipo de Llano"
+ SPA_Politics.3.d: ""
+ SPA_Politics.3.A: "¡La inspiración antirrepublicana!"
+ 
+ SPA_Politics.4.t: "La muerte de Federico el Artista"
+ SPA_Politics.4.d: ""
+ SPA_Politics.4.A: "La derecha está suelta cual perro rabioso." 
+ 
+ SPA_Politics.5.t: "La matanza de Badajoz"
+ SPA_Politics.5.d: ""
+ SPA_Politics.5.A: "La guerra conlleva atrocidades" 
+ 
+ SPA_Politics.6.t: "El bombardeo de Guernica"
+ SPA_Politics.6.d: ""
+ SPA_Politics.6.A: "Los vascos se rebelaron, no merecen menos."
+ 
+ SPA_Politics.7.t: "El último vuelo de Emilio Mola"
+ SPA_Politics.7.d: "El general Emilio Mola Vidal, el director, ha muerto en un accidente de aviación. Su avión personal se ha estrellado en una colina cerca de Alcocer durante una tormenta. Su viaje estuvo motivado por las ofensivas republicanas en La Granja, que lo llevaron a trasladarse de Vitoria a Valladolid para seguir más de cerca las operaciones. \nFidel Dávila ha asumido el mando del Ejército del Norte, mientras las milicias carlistas lloran su muerte por ser un terrible golpe a la moral. Será enterrado en el cementerio de Pamplona."
+ SPA_Politics.7.A: "Descanse en paz." 
+ SPA_Politics.7.B: "Franco tomará el mando." 
+ 
+ SPA_Politics.8.t: "Llegan Franco y su Legión"
+ SPA_Politics.8.d: ""
+ SPA_Politics.8.A: "Ha llegado la leyenda."
+ 
+ SPA_Politics.9.t: "Franco salva Toledo"
+ SPA_Politics.9.d: ""
+ SPA_Politics.9.A: "Franco se alza en España"
+ 
+ ############################################
+ # Spanish Post War Events
+ ############################################
+ SPA_Post_War.1.t: "Fin de la guerra civil española"
+ SPA_Post_War.1.d: ""
+ SPA_Post_War.1.a: "¡Viva España!"
+ 
+ SPA_Post_War.2.t: "Ocupación de Tánger"
+ SPA_Post_War.2.d: ""
+ SPA_Post_War.2.a: "Adelante."
+ 
+###  Nationalist Civil War Decision Events
+
+ SPA_Civil_War.1.t: "Llega el Corpo di Truppe Volontarie italiano"
+ SPA_Civil_War.1.d: ""
+ SPA_Civil_War.1.A: ""
+
+ SPA_Civil_War.2.t: "Llega la Brigada Mixta Flechas Azules"
+ SPA_Civil_War.2.d: ""
+ SPA_Civil_War.2.A: ""
+
+ SPA_CW.1.t: "Los nacionales solicitan equipo"
+ SPA_CW.1.d: ""
+ SPA_CW.1.A: "¡Tenemos que frenar el ascenso del comunismo!"
+ SPA_CW.1.B: "Mejor no molestarse."
+ 
+ SPA_CW.2.t: "Los nacionales necesitan apoyo naval"
+ SPA_CW.2.d: ""
+ SPA_CW.2.A: "¡Venderles submarinos!"
+ SPA_CW.2.B: "No deberíamos enviarles ayuda."
+ 
+ SPA_CW.3.t: "¿Un cuerpo de voluntarios para España?"
+ SPA_CW.3.d: ""
+ SPA_CW.3.A: "¡Comenzar el proyecto!"
+ SPA_CW.3.B: "Mejor no molestarse."
+ 
+ SPA_CW.4.t: "Asesores de Etiopía"
+ SPA_CW.4.d: ""
+ SPA_CW.4.A: "¡Enviarles los expertos!"
+ SPA_CW.4.B: "No vale nuestro tiempo."
+ 
+ SPA_CW.5.t: "Corpo di Truppe Volontarie"
+ SPA_CW.5.d: ""
+ SPA_CW.5.A: "¡Ampliar el proyecto!"
+ SPA_CW.5.B: "No deberíamos continuar."
+ 
+ SPA_CW.6.t: "Los nacionales solicitan más equipo"
+ SPA_CW.6.d: ""
+ SPA_CW.6.A: "Lo que sea por nuestros hermanos mediterráneos."
+ SPA_CW.6.B: "Mejor no molestarse."
+ 
+ SPA_CW.7.t: "España solicita apoyo aéreo"
+ SPA_CW.7.d: "El estallido de la guerra civil española ha enfurecido a Europa. La Unión Soviética ya ha apoyado a la República, mientras que los italianos se han puesto de parte de los nacionales. El generalísimo Franco, en cambio, no parece estar satisfecho con ayuda sólo de Italia. Por éso, en una reciente carta a Hitler, solicitó apoyo alemán para su esfuerzo bélico. Ya les prestamos una ayuda fundamental al principio al transportar al Ejército de África de Franco desde Marruecos a España. Sin embargo, nuestra ayuda ha sido bastante limitada desde entonces.\n\nHitler ha sacado algunas conclusiones después de una sesión nocturna maratoniana con sus asesores militares. Oficialmente, no se enviará ningún voluntario militar de tierra de Alemania; Hitler no puede arriesgarse a que ésto derive en una guerra más amplia para la que Alemania aún no está preparada. Si hay que enviar ayuda, por el momento será en forma de un destacamento de la Luftwaffe conocido como la Legión Cóndor. La experiencia adquirida podría ser muy beneficiosa. Sin embargo, el riesgo de una escalada también es elevado. Hitler ha tomado por fin una decisión después de muchas horas deliberando."
+ SPA_CW.7.A: "Se desplegará la Legión Cóndor."
+ SPA_CW.7.B: "No vale nuestro tiempo.."
+ 
+ SPA_CW.8.t: "España solicita asesores"
+ SPA_CW.8.d: ""
+ SPA_CW.8.A: "Enviar a Himmler y algunos generales."
+ SPA_CW.8.B: "Mejor no molestarse."
+ 
+ SPA_CW.9.t: "Los nacionales españoles se reúnen con Salazar"
+ SPA_CW.9.d: ""
+ SPA_CW.9.A: "Nossos amigos Iberianos!"
+ SPA_CW.9.B: "Uma mala influencia para o Chefe."
+ 
+######################################################################
+#  Nationalist Spain Focuses
+######################################################################
+ SPA_The_Crusade_Begins: "¡Comienza la Cruzada!"
+ SPA_The_Crusade_Begins_desc: "Durante siglos, nuestra nación ha sido la cúspide de lo que podía ser un imperio. Nuestro territorio abarcaba la totalidad del Nuevo Mundo, junto con nuestra solitaria colonia en las islas Filipinas, todo lo cual trajo prosperidad y gloria a la Corona española. Ahora, mientras nuestra nación se sume en el estancamiento y la agitación política, aprovecharemos esta oportunidad y devolveremos el poder al trono imperial, y restauraremos el imperio que nuestra nación estaba destinada a ser. Esta acción nuestra no está exenta de oposición, pero es esencial, ya que los imperios extranjeros están poniendo sus ojos en nuestros territorios para garantizar su seguridad en la península ibérica, poniendo a nuestro pueblo en contra de su propio país. Depende de nosotros enmendar este comportamiento y abrir un nuevo capítulo de nuestra historia."
+ SPA_Ties_to_the_Reactionary_Powers: "Lazos con las potencias reaccionarias"
+ SPA_Ties_to_the_Reactionary_Powers_desc: "Nuestro movimiento contra los «revolucionarios» comunistas radicales ha atraído simpatías de potencias tradicionalistas y reaccionarias de todo el mundo. Ven nuestra cruzada como la oportunidad de oro, la oportunidad de hacer retroceder el reloj a una época más sencilla, una época en la que la autoridad absoluta quede relegada a un solo individuo que traerá la paz y la prosperidad hasta el fin de los tiempos. Debemos aprovechar esta oportunidad para desarrollar nuestras relaciones con estas potencias extranjeras y, con el tiempo, conseguir el equipo y los suministros que tanto necesitamos para garantizar que nuestra cruzada arrase nuestra nación."
+ SPA_Organize_the_Generals: "Organizar a los generales"
+ SPA_Organize_the_Generals_desc: "Aunque los militares fueron los primeros defensores de nuestra cruzada contra los revolucionarios en el Gobierno que pretenden acabar con el patrimonio de España, están desorganizados y tienen distintas escalas de lealtad, y algunos simpatizan con el régimen traidor de los socialistas. Por ende, debemos organizar a nuestros generales y purgar cualquier elemento desleal del Ejército. Si no lo hacemos, nuestra cruzada será un fracaso."
+ SPA_Smash_Francos_Power: "¡Aplastar el poder de Franco!"
+ SPA_Smash_Francos_Power_desc: "Uno de nuestros generales militares, Francisco Franco, ha intentado hace poco asesinar a nuestro líder, Emilio Mola. Según los relatos de Mola, afirmó que Franco era el autor, ya que él mismo era el único obstáculo para conseguir el poder en nuestra cruzada. Debemos aislar a Franco, purgar a sus conspiradores y, al final, cuando deje de ser notable, lo ejecutaremos. Al fin y al cabo, la traición y el magnicidio son altos crímenes de Estado. Es simplemente tomar el camino largo hacia la justicia para nuestro líder."
+ SPA_Propel_Franco: "Propulsar a Franco"
+ SPA_Propel_Franco_desc: "La capacidad de Franco para gestionar grupos conservadores y radicales de derechas bajo la bandera unida del anticomunismo dice mucho de lo gran estadista y líder, no sólo militar, que puede llegar a ser. Una vez que la guerra civil que ha asolado nuestro país y destrozado nuestro tejido social llegue a su fin con nosotros, los nacionales, en la cima, el poderoso general Francisco Franco tendrá el honor de guiar a nuestra nación a través de un periodo de dolorosa reconstrucción."
+ SPA_Ejercito_de_Africa: "Ejército de África"
+ SPA_Ejercito_de_Africa_desc: "Aunque una parte considerable de nuestros compatriotas ha apoyado nuestra causa, la gran mayoría apoyó a los revolucionarios, especialmente con su retórica coactiva que los ha puesto de su lado. Por tanto, nuestros adversarios nos superan a menudo en número y se producen rebeliones en las zonas que ocupamos actualmente. Sin embargo, hay un resquicio de esperanza: nuestras colonias en África. La guarnición marroquía ha jurado su apoyo a nuestro régimen, tomando el control de los territorios coloniales que pertenecían a los comunistas. Si los utilizáramos, sería una ventaja estratégica para nosotros, ya que tenemos acceso a tropas coloniales."
+ SPA_Engage_in_Concentrated_Offensives: "Emprender ofensivas concentradas"
+ SPA_Engage_in_Concentrated_Offensives_desc: ""
+ SPA_A_Strong_and_Reliable_Leader: "¡Un líder fuerte y de fiar!"
+ SPA_A_Strong_and_Reliable_Leader_desc: "A medida que nuestra visión de una nueva España se acerca a la realidad, nuestro liderazgo se ha mantenido indeciso, bloqueando nuestro progreso frente a los revolucionarios y sus homólogos republicanos. No sólo éso, sino que los carlistas dentro de nuestro liderazgo han comenzado a oponerse a nuestro reinado, señalando complots de una posible destitución del poder. Estos traidores no tienen nada en comparación con nuestro líder, Francisco Franco.\n\nFranco nos ha llevado lejos, seguramente más que nuestros predecesores. Su visión de España es la encarnación, el sueño español de cada alma. Cuando hay guerra, él nos trae la paz. Cuando hay caos, él nos aporta seguridad y estabilidad. Cuando hay revolucionarios dispuestos a destruir esta península, él trae a los guardianes para proteger el statu quo.\n\n¡Viva el Caudillo! ¡Viva España!"
+ SPA_Carlist_Leadership: "Liderazgo carlista"
+ SPA_Carlist_Leadership_desc: "Con la consolidación del poder tras la muerte de Franco, debemos llenar el vacío que dejó la facción franquista. Por suerte, tenemos un posible sustituto. Los carlistas de nuestro Gobierno han dirigido a nosotros en busca de mayor poder y autoridad. Esta solicitud de más poder tiene una base legítima, teniendo en cuenta que son influyentes en grandes sectores de nuestra población. Quizás alinearnos con los carlistas no sea mala idea. Al fin y al cabo, creemos en las mismas filosofías, sólo que ellos son más reaccionarios que nosotros."
+ SPA_Mobilize_the_Spanish_Right: "¡Movilizar a la derecha española!"
+ SPA_Mobilize_the_Spanish_Right_desc: "Cada día, nuestros ejércitos ven frenados sus avances, bloqueados sus objetivos de liberar a España del pensamiento revolucionario. La sangre derramada por los revolucionarios es demasiado para nosotros, ya que la cantidad de hombres capaces de estar armados con un fusil disminuye cada hora. Y ¿por qué es tan numeroso nuestro principal adversario en la península? Por la ideología. Sus hombres y mujeres están cegados por su pervertida ideología de igualdad, tanto que están dispuestos a derramar sangre por la revolución, independientemente de las consecuencias.\n\nAsí pues, deberíamos combatir el fuego con fuego, aprender de sus tácticas heterodoxas y aprovecharlas. Movilizaremos a los reaccionarios bajo la bandera de la Falange y, una vez más, recuperaremos España y la salvaremos de los revolucionarios que quieren destruir la península ibérica para siempre."
+ SPA_A_Political_Army: "¡Un Ejército político!"
+ SPA_A_Political_Army_desc: "Dicen que combinar el pensamiento político y la fuerza militar es una receta para el desastre, que un ejército impulsado por el fanatismo ideológico es una receta para el desastre, ya que los hombres siguen ciegamente los caprichos de sus líderes, haciendo caso omiso de los conceptos de estrategia, táctica y similares.\n\nEse concepto se extinguió en el momento en que los revolucionarios encendieron sus hogueras en todo el mundo, ya fuera en nuestro vecino del norte, hasta llegar a nuestros propios hogares. La ideología y el Ejército van de la mano, como el fuego y el combustible. Un ejército basado en la política garantiza que, al final, no se dejará seducir por factores como la victoria, la riqueza y otros aspectos."
+ SPA_Maintain_a_Professional_Army: "Mantener un Ejército profesional"
+ SPA_Maintain_a_Professional_Army_desc: "Aunque tenemos hombres y equipo para nuestros ejércitos, éstos carecen de profesionalidad y destreza. Los ejércitos españoles tienen que ser profesionales para ganar la guerra civiil contra el régimen comunista. Tenemos la opción de pedir a nuestros amigos fascistas alemanes que nos ayuden a entrenar a nuestros ejércitos para poder aplastar a nuestros enemigos en un abrir y cerrar de ojos."
+ SPA_Cuerpo_de_Ejercito_Marroqui: "Cuerpo de Ejército Marroquí"
+ SPA_Cuerpo_de_Ejercito_Marroqui_desc: "Tenemos la guerra civil encima. La victoria es lo más importante para nuestra nación y nuestro régimen en la próxima guerra contra los comunistas. Para hacer realidad nuestro sueño, necesitamos aliados fuertes. Los marroquíes pueden proporcionarnos un gran apoyo en la guerra civil y llevar la muerte rápida al débil y endeble régimen de los comunistas."
+ SPA_Meeting_with_the_Foreign_Attaches: "Reunión con agregados extranjeros"
+ SPA_Meeting_with_the_Foreign_Attaches_desc: "A medida que la victoria se acerca a nuestro alcance, algunas naciones de todo el mundo han decidido revocar todas sus relaciones diplomáticas con los socialistas traidores y ponerse del lado del verdadero Estado español. Por supuesto, en aras de la neutralidad diplomática, se han limitado a enviar agregados como representantes diplomáticos, para no arriesgarse a estar en el bando perdedor de la guerra por Iberia. En cualquier caso, debemos acercarnos a estos agregados extranjeros, convencerlos de que estamos ganando, y ellos deben empezar a invertir sus recursos en nosotros y no en nuestro enemigo."
+ SPA_Seek_International_Recognition: "Buscar el reconocimiento internacional"
+ SPA_Seek_International_Recognition_desc: "A medida que la orgullosa capital española se libera del yugo comunista, debemos mirar al futuro, a nuestras relaciones internacionales. Actualmente, el llamado «Gobierno legítimo» tiene toda la gran mayoría de las relaciones diplomáticas, y a nosotros nos ven simplemente como una insurgencia, en lugar de como libertadores nacionales. Sin embargo, con la liberación de Madrid, las potencias extranjeras han visto la verdadera fachada que propagan los socialistas. Esta misma percepción es algo que debemos explotar en nuestro beneficio, y obtener por fin el reconocimiento internacional que merecemos."
+
+######################################################################
+#  Nationalist Spain Ideas
+######################################################################
+ ### Nationalist Civil War
+ SPR_civil_war: "Guerra civil española"
+ SPA_la_guerra_civil: "¡La Guerra Civil!"
+ SPA_Reorganising_Command_Structure: "Reorganizando la estructura de mando"
+ SPA_civilwar_army_1: "El Ejército está con nosotros"
+ SPA_civilwar_army_2: "El Ejército está con nosotros"
+ SPA_civilwar_army_3: "El Ejército está con nosotros"
+ SPA_civilwar_church: "La Iglesia está con nosotros"
+ SPA_african_army_1: "Liderazgo del Ejército de África"
+ SPA_african_army_2: "Liderazgo del Ejército de África"
+ SPA_african_army_3: "Liderazgo del Ejército de África"
+ SPA_african_army_4: "Liderazgo del Ejército de África"
+ SPA_carlist_leadership: "Liderazgo carlista"
+ SPA_political_militias_1: "Milicias políticas"
+ SPA_political_militias_2: "Milicias políticas"
+ SPA_military_power_struggles_1: "Luchas por el poder militar"
+ SPA_military_power_struggles_2: "Luchas por el poder militar"
+ mola_surived: "Mola ha sobrevivido al intento de asesinato"
+
+ ### Nationalist Post-War ###
+ SPA_reconstruction: "Reconstrucción"
+ SPA_civil_war_scars_1: "Cicatrices de la Guerra Civil"
+ SPA_civil_war_scars_2: "Cicatrices de la Guerra Civil"
+ SPA_labor_discrimination_idea: "Discriminación laboral"
+ SPA_our_camps_idea: "¡Nuestros campos!"
+ SPA_nazi_specialists_idea: "Especialistas nazis"
+ SPA_christian_family_laws_idea: "Derecho de familia cristiano"
+ SPA_mass_exile_idea: "Exilio masivo"
+ SPA_white_terror_1: "Terror blanco"
+ SPA_white_terror_2: "Terror blanco"
+ SPA_white_terror_3: "Terror blanco"
+ SPA_white_terror_4: "Terror blanco"
+ SPA_sindicato_vertical: "Sindicato Vertical"
+ SPA_autarky_1: "Autarquía"
+ SPA_autarky_2: "Autarquía"
+ SPA_autarky_3: "Autarquía"
+ SPA_autarky_4: "Autarquía"
+ SPA_disorganized_army_1: "Ejército desorganizado"
+ SPA_disorganized_army_2: "Ejército desorganizado"
+ SPA_disorganized_army_3: "Ejército desorganizado"
+ SPA_disorganized_army_4: "Ejército desorganizado"
+ SPA_disorganized_army_5: "Ejército desorganizado"
+ SPA_disorganized_army_6: "Ejército desorganizado"
+ SPA_disorganized_army_7: "Nuevo Ejército español"
+ SPA_disorganized_army_8: "Ejército desorganizado"
+ SPA_disorganized_army_9: "Ejército desorganizado"
+ SPA_disorganized_army_10: "Ejército desorganizado"
+ SPA_disorganized_army_11: "Nuevo Ejército español"
+ SPA_disorganized_army_12: "Ejército desorganizado"
+ SPA_disorganized_army_13: "Ejército desorganizado"
+ SPA_disorganized_army_14: "Ejército desorganizado"
+ SPA_disorganized_army_15: "Ejército desorganizado"
+ SPA_disorganized_army_16: "Ejército desorganizado"
+ SPA_disorganized_army_17: "Nuevo Ejército español"
+ iberischewall_tooltip: "Construye §Yfortalezas costeras§! de nivel 2 a lo largo de la costa atlántica."
+ 
+######################################################################
+#  Nationalist Spain Decisions
+######################################################################
+#### Nationalist Spain Civil War ####
+ SPA_foreign_support_category_1: "Solicitar apoyo extranjero"
+ SPA_foreign_support_category_1_desc: "Si queremos salir victoriosos de nuestra guerra civil, debemos recurrir a potencias extranjeras para que nos ayuden."
+ SPA_foreign_support_category_2: "Solicitar más apoyo"
+ SPA_foreign_support_category_2_desc: "Los republicanos están resultando difíciles de someter, debemos pedir a nuestros aliados extranjeros que nos apoyen."
+ SPA_request_italian_supplies: "Solicitar suministros a Italia"
+ SPA_request_italian_supplies_desc: ""
+ SPA_form_condor_legion: "Formar la Legión Cóndor"
+ SPA_request_italian_supplies_desc: ""
+ SPA_convince_salazar: "Convencer a Salazar"
+ SPA_convince_salazar_desc: ""
+ SPA_regia_marina_support: "Apoyo de la Regia Marina"
+ SPA_regia_marina_support_desc: ""
+ SPA_corpo_truppe_voluntarie: "Corpo di Truppe Volontarie"
+ SPA_corpo_truppe_voluntarie_desc: ""
+ SPA_attract_viriatos: "Ha enviado a los Viriatos"
+ SPA_attract_viriatos_desc: ""
+ SPA_request_italian_supplies_2: "Solicitar suministros adicionales a Italia"
+ SPA_request_italian_supplies_2_desc: ""
+ SPA_german_advisors: "Invitar a asesores de Alemania"
+ SPA_german_advisors_desc: ""
+ SPA_italian_advisors: "Invitar a asesores de Italia"
+ SPA_corpo_truppe_voluntarie_2: "Ampliar el Corpo di Truppe Volontarie"
+ SPA_corpo_truppe_voluntarie_2_desc: ""

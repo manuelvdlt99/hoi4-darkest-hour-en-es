@@ -1,0 +1,183 @@
+﻿l_spanish:
+######################################################################
+#  People's Rep of China Ideas
+######################################################################
+ # Army Template
+ PRC_peasent_armies: "División campesina"
+ cavalry_division: "División de caballería"
+ #Traits
+ CoArmy_Army_Demoralised: "Desmoralizado"
+ CoArmy_Army_Demoralised_desc: "Este general ha perdido toda la esperanza. Ya no tiene motivación para solventar el problema o para trabajar siquiera."
+ #Ideas
+ PRC_The_Quarantined_State: "El Estado en cuarentena"
+ PRC_The_Quarantined_State_desc: ""
+ PRC_The_Quarantined_State_1: "El Estado en cuarentena"
+ PRC_The_Quarantined_State_1_desc: ""
+ PRC_The_Left_Cannot_Be_Wrong: "La izquierda no se equivoca"
+ PRC_The_Left_Cannot_Be_Wrong_desc: ""
+ PRC_Revolution_Of_The_People: "La revolución del pueblo"
+ PRC_Revolution_Of_The_People_desc: ""
+ PRC_Revolution_Of_The_People_1: "La revolución del pueblo"
+ PRC_Revolution_Of_The_People_1_desc: ""
+ PRC_Conflicted_Military_1: "Estrategias contradictorias"
+ PRC_Conflicted_Military_1_desc: "La estrategia de guerra móvil de Mao Tse-tung se ha utilizado con gran éxito en las tres últimas campañas de cerco, y muchos de nuestros oficiales de campo y expertos tácticos conocen bien sus estratagemas y doctrinas militares. Sin embargo, la llegada de Po Ku y del asesor militar soviético Otto Braun han provocado una fisura en la Comisión de Asuntos Militares. Po Ku, Otto Braun y los 28 bolcheviques abogan por que se adopte una nueva estrategia que favorezca doctrinas más tradicionales, pero muchos en el mando se muestran reticentes y consideran que deberíamos seguir usando las doctrinas de guerra móvil de Mao para reducir las bajas."
+ PRC_Conflicted_Military_2: "Estrategias contradictorias"
+ PRC_Conflicted_Military_2_desc: "A pesar de que la Comisión de Asuntos Militares y gran parte de su personal aún se debaten entre las estrategias de Otto Braun y Mao Tse-tung, la estratagema de guerra móvil de Mao ha arraigado debido a los efectos desastrosos de las estratagemas de Po Ku y Otto Braun. Aunque muchos siguen siendo reacios a comprometerse con esta vieja, pero eficaz estrategia, estos críticos son ni mucho menos mucho más reacios a oponerse a ella después de nuestras derrotas y la aplicación de sus tácticas puede comenzar sin oposición, lo que les permite ser plena y eficazmente desplegado."
+ PRC_Conflicted_Military_3: "Estrategias contradictorias"
+ PRC_Conflicted_Military_3_desc: ""
+
+######################################################################
+#  People's Rep of China Focuses
+######################################################################
+ 
+ PRC_The_Old_Way: "A la antigua usanza"
+ PRC_The_Old_Way_desc: ""
+
+ PRC_A_New_Strategy: "Una nueva estrategia"
+ PRC_A_New_Strategy_desc: ""
+
+ PRC_28_Bolsheviks: "Reforzar a los 28 bolcheviques"
+ PRC_28_Bolsheviks_desc: ""
+
+ PRC_Fortify_the_Bases: "Fortificar las bases"
+ PRC_Fortify_the_Bases_desc: ""
+
+ PRC_Self_Sufficiency: "Autosuficiencia"
+ PRC_Self_Sufficiency_desc: ""
+
+ PRC_Secure_Appropriate_Arms: "Asegurar armas apropiadas"
+ PRC_Secure_Appropriate_Arms_desc: ""
+
+ PRC_Call_Upon_the_People: "Llamamiento al pueblo"
+ PRC_Call_Upon_the_People_desc: ""
+
+ PRC_Familiar_with_Histories: "«Familiar con historias»"
+ PRC_Familiar_with_Histories_desc: ""
+
+ PRC_Braun_in_Command: "Asesores soviéticos"
+ PRC_Braun_in_Command_desc: ""
+
+ PRC_Frunze_Military_Thinking: "Pensamiento militar de Frunze"
+ PRC_Frunze_Military_Thinking_desc: ""
+
+ PRC_Mitigate_Mobile_Warfare: "Mitigar la guerra móvil"
+ PRC_Mitigate_Mobile_Warfare_desc: ""
+
+ PRC_Strategic_Offence_Tactical_Defence: "Ofensiva estratégica, defensa táctica"
+ PRC_Strategic_Offence_Tactical_Defence_desc: ""
+
+ PRC_Tactical_Defence_Strategic_Offence: "Defensa estratégica, ofensiva táctica"
+ PRC_Tactical_Defence_Strategic_Offence_desc: ""
+
+ PRC_The_Left_Cannot_Be_Wrong: "La izquierda no se equivoca"
+ PRC_The_Left_Cannot_Be_Wrong_desc: ""
+
+ PRC_The_Long_March: "La Larga Marcha"
+ PRC_The_Long_March_desc: ""
+
+ PRC_Call_The_Generals: "Llamar a los generales"
+ PRC_Call_The_Generals_desc: ""
+
+ PRC_Call_The_Cadres: "Llamar a los cuadros"
+ PRC_Call_The_Cadres_desc: ""
+
+ PRC_Revive_Mobile_Warfare: "Revivir la guerra móvil"
+ PRC_Revive_Mobile_Warfare_desc: ""
+
+ PRC_Through_Deeds_not_Words: "Actos, no palabras"
+ PRC_Through_Deeds_not_Words_desc: ""
+
+ PRC_Send_Forward_Parties: "Enviar grupos de avanzada"
+ PRC_Send_Forward_Parties_desc: ""
+
+ PRC_Keep_Calm_Carry_On: "Mantén la calma y sigue adelante"
+ PRC_Keep_Calm_Carry_On_desc: ""
+
+ PRC_Probe_for_Greed: "Sondear la codicia"
+ PRC_Probe_for_Greed_desc: ""
+
+ PRC_Passage_for_Peace: "Pasaje para la paz"
+ PRC_Passage_for_Peace_desc: ""
+
+ PRC_Revolution_Doesnt_Ask_Permission: "La revolución no pide permiso"
+ PRC_Revolution_Doesnt_Ask_Permission_desc: ""
+
+ PRC_Deal_with_the_Cliques: "Lidiar con las camarillas"
+ PRC_Deal_with_the_Cliques_desc: ""
+
+ PRC_8_Points_of_Attention: "Ocho Puntos de Atención"
+ PRC_8_Points_of_Attention_desc: ""
+
+ PRC_Approach_the_Yi: "Dirigirse a los yi"
+ PRC_Approach_the_Yi_desc: ""
+
+ PRC_Redistribution_on_the_Move: "Redistribución en marcha"
+ PRC_Redistribution_on_the_Move_desc: ""
+
+ PRC_Like_Wind: "Como el viento"
+ PRC_Like_Wind_desc: ""
+
+ PRC_Like_Water: "Como el agua"
+ PRC_Like_Water_desc: ""
+
+ PRC_Like_Fire: "Como el fuego"
+ PRC_Like_Fire_desc: ""
+
+ PRC_Like_Stone: "Como la piedra"
+ PRC_Like_Stone_desc: ""
+
+
+######################################################################
+#  People's Rep of China Events
+######################################################################
+ ### Wang Ming
+ PRC_CSR_Wang_Ming.1.t: "Wang Ming vuelve a China"
+ PRC_CSR_Wang_Ming.1.d: ""
+ PRC_CSR_Wang_Ming.1.A: "Bienvenido, camarada."
+
+ ### 4th Encirclement Start
+ PRC_Fourth_Encirclement.1.t: "Cuarta campaña de cerco"
+ PRC_Fourth_Encirclement.1.d: "Hoy ha comenzado por fin la planeada ofensiva nacionalista en nuestra posición tras meses de preparativos y anticipación. Nuestros espías y exploradores han informado de que los nacionalistas han reunido una fuerza de unos 500 000 hombres y nos superan en número 7 a 1. Para empeorar las cosas, han aplastado una de nuestras principales bases en Pengxian y ahora avanzan sobre nuestra bolsa en Kiangsi, entre otros, buscando eliminarnos para siempre. En este momento nos rodean, y con su fuerza numéricamente superior, tendremos que compensar nuestra debilidad militar con una planificación estratégica y una táctica brillantes. \n\nSin embargo, existe un conflicto en la Comisión de Asuntos Militares. Otto Braun y Po Ku nos han asegurado que pueden ocuparse de esta invasión lanzando contraataques sorpresa y usando doctrinas tradicionales, pero muchos de los generales no están seguros y consideran innecesaria esta nueva y arriesgada estrategia, prefiriendo en su lugar la doctrina de Mao de la guerra móvil, que hasta ahora ha tenido un éxito generalizado."
+ PRC_Fourth_Encirclement.1.A: "¡Los venceremos de todas formas!"
+
+ ### Strengthen 28 Bolsheviks
+ PRC_CSR_Strengthen_28_Bolsheviks.1.t: "Los 28 bolcheviques asumen el control"
+ PRC_CSR_Strengthen_28_Bolsheviks.1.d: ""
+ PRC_CSR_Strengthen_28_Bolsheviks.1.A: "Ésto cambia las cosas..."
+
+ PRC_CSR_Fortify_the_Bases.1.t: "Informar de las fortificaciones"
+ PRC_CSR_Fortify_the_Bases.1.d: ""
+ PRC_CSR_Fortify_the_Bases.1.A: "Centrarse sólo en Kiangsi."
+ PRC_CSR_Fortify_the_Bases.1.B: "Priorizar las bases principales."
+ PRC_CSR_Fortify_the_Bases.1.C: "Repartirlas por igual."
+
+ PRC_CSR_The_Left_Cannot_Be_Wrong.1.t: "Los 28 bolcheviques son relevados del mando"
+ PRC_CSR_The_Left_Cannot_Be_Wrong.1.d: ""
+ PRC_CSR_The_Left_Cannot_Be_Wrong.1.A: "Estamos en una situación desesperada."
+
+ PRC_CSR_The_Long_March.1.t: "Llamada a la retirada general"
+ PRC_CSR_The_Long_March.1.d: ""
+ PRC_CSR_The_Long_March.1.A: "Marchamos pues."
+
+ PRC_CSR_The_Long_March.2.t: "La Larga Marcha ha terminado"
+ PRC_CSR_The_Long_March.2.d: ""
+ PRC_CSR_The_Long_March.2.A: ""
+
+ PRC_CSR_Call_the_Generals.1.t: "Reunión en Tongao"
+ PRC_CSR_Call_the_Generals.1.d: ""
+ PRC_CSR_Call_the_Generals.1.A: "Tenemos que pasar página."
+ PRC_CSR_Call_the_Generals.1.B: "Realizar cambios limitados."
+ PRC_CSR_Call_the_Generals.1.C: "Debemos mantenerlos todos."
+
+ PRC_CSR_Call_the_Cadres.1.t: "Reunión de Tsunyi"
+ PRC_CSR_Call_the_Cadres.1.d: ""
+ PRC_CSR_Call_the_Cadres.1.A: "Deberían explicarse."
+
+######################################################################
+#  People's Rep of China Decisions
+######################################################################
+
+### Long March
+PRC_Long_March: "La Larga Marcha"
+PRC_Long_March_desc: "ayuda porfi"
+PRC_Move_Army: "Mover al Ejército"

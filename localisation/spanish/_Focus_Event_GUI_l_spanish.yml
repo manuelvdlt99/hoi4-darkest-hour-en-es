@@ -1,0 +1,10 @@
+﻿l_spanish:
+ # GUI:
+ FOCUS_EVENT_TITLE: "[This.GetGoalOrAchievementName]"
+ FOCUS_EVENT_DESC: "[This.GetGoalOrAchievementDesc]"
+ FOCUS_EVENT_BUTTON: "[This.GetFocusEventButtonText]"
+ FOCUS_EVENT_BUTTON_TT: "§YEfectos:§! \n[!close_button_click]"
+ 
+ # Focus Event Options:
+ FOCUS_EVENT_BUTTON_GENERIC: "Vale"
+ 

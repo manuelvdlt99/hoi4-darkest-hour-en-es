@@ -1,0 +1,209 @@
+﻿l_spanish:
+######################################################################
+#  Croatia Events
+######################################################################
+ CRO.1.t: "Croacia solicita Messerschmitts"
+ CRO.1.d: "Nuestro recién formado Estado títere al sur ha solicitado comprar una cantidad considerable de Messerschmitt Bf 109 para ampliar y modernizar rápidamente su flota aérea. Esta compra no sólo nos dará fondos monetarios utilizados para impulsar nuestra maquinaria de guerra, sino que aumentará la Fuerza Aérea croata en caso de un ataque de los asquerosos Aliados. Deberíamos considerar seriamente esta propuesta de negocio."
+ CRO.1.A: "Deberíamos ayudar a nuestros aliados a toda costa."
+ CRO.1.B: "No nos es práctico en este momento."
+
+ CRO.2.t: "Croacia solicita Macchis"
+ CRO.2.d: "Nuestros recién formados aliados al este han solicitado hace poco la compra del Macchi C.202, uno de nuestros cazas insignia, para aumentar su recién creada Fuerza Aérea. Dicho acuerdo ayudará a establecer el control y la influencia sobre el régimen croata, que se ha convertido en un rival en la región balcánica, perjudicando nuestras ambiciones."
+ CRO.2.A: "Al fin y al cabo, hemos invertido en nuestro territorio."
+ CRO.2.B: "No podemos permitirnos proveer a otros países en estos momentos."
+
+ CRO.3.t: "Croacia solicita que le traspasemos la ocupación de Montenegro"
+ CRO.3.d: "Firmemente sellada nuestra influencia en la región de los Balcanes, algunos de nuestros aliados más poderosos solicitan la adquisición de territorios actualmente bajo nuestra ocupación directa. Uno de ellos es Croacia, que solicita que evacuemos Montenegro y les cedamos el control de la región. Se considera tal solicitud, ya que ocupar los Balcanes, una región de diversidad étnica, es costoso y las razas inferiores que allí residen están obviamente descontentas con nuestro dominio. Sin embargo, Croacia tampoco está precisamente en una posición para ejercer influencia y control sobre la región, ya que las rebeliones siguen siendo un problema en su propio territorio."
+ CRO.3.A: "A ver qué puede hacer Croacia que el Reich no puede."
+ CRO.3.B: "No cederemos nuestro territorio, nuestra carga territorial es necesaria."
+
+ CRO.4.t: "Croacia intenta tomar Zara"
+ CRO.4.d: "En un esfuerzo por recuperar su territorio perdido y establecer la supremacía en todo el mar Adriático, nuestro Estado títere croata se encuentra actualmente en las fases finales de la toma del territorio de Zara y otros estados ocupados por Italia, aprovechando la actual crisis política en Roma. Tales actos son absurdos y traicioneros y tienen graves repercusiones. Sin embargo, nuestro dominio sobre el frente se debilita y los Aliados avanzan. Quizás lo mejor sea dejar a Croacia en paz y dejar que Italia se busque la vida. Al fin y al cabo, los italianos se estaban volviendo un lastre y era cuestión de tiempo que se fracturaran."
+ CRO.4.A: "Es su territorio legítimo, les damos nuestro beneplácito."
+ CRO.4.B: "¡Cómo se atreven a explotar las debilidades de nuestros aliados! ¡Impídanlo a toda costa!"
+
+ CRO.5.t: "Croacia exige Voivodina"
+ CRO.5.d: "Tanto nosotros como los húngaros ocupamos Voivodina como una partición entre nosotros supervisada por nuestros hermanos alemanes. Sin embargo, esta única porción de territorio es un obstáculo para nuestras ambiciones expansionistas y, por tanto, debemos pedir a Hungría que ceda este territorio. Si se niegan, dejaremos que Berlín se ocupe de ellos."
+ CRO.5.A: "Sí."
+ CRO.5.B: "No."
+
+ CRO.6.t: "Croacia exige el Banato"
+ CRO.6.d: "El Banato alemán es una porción de territorio ocupada por el recién reformado régimen serbio y guiado por nuestros hermanos al norte. Como Voivodina, el territorio es clave para nuestro expansionismo. Además, nos asegura una ruta directa al petróleo rumano, ya que el territorio limita con Rumanía. Sin embargo, una petición así podría hacer rabiar a Berlín, algo que no podemos permitirnos en un momento en que sus aliados nos rodean. Por ende, deberíamos solicitar formalmente el traspaso del territorio a cambio de la protección de los alemanes de los Balcanes que aquí residen."
+ CRO.6.A: "Sí."
+ CRO.6.B: "No."
+
+ CRO.7.t: "Colaboraciones con los chetniks"
+ CRO.7.d: "Los chetniks son la mayor amenaza de nuestra patria, ya que siguen aliados con los perros yugoslavos que se sometieron voluntariamente a la escoria serbia. Sin embargo, hoy se ha producido una oportunidad inesperada. La cúpula chetnik ha venido a Zagreb y ha negociado un acuerdo que les permitirá obtener la ciudadanía como croatas y el cese de las hostilidades entre nuestras dos facciones. Un acuerdo así no tiene precedentes y es muy improbable, por lo que deberíamos plantearnos aceptarlo."
+ CRO.7.A: "Genial."
+
+ CRO.8.t: "El golpe de Lorković-Vokić"
+ CRO.8.d: "Desde julio de este año, han circulado rumores en nuestra ala paramilitar y política del partido de que ciertos miembros del Gobierno, como Mladen Lorković y Ante Vokić, ministro del Interior y ministro de las Fuerzas Armadas respectivamente, están intentando derrocar al Gobierno y establecer un régimen cordial con los Aliados en nuestra nación. Tales acusaciones no dejan de ser alegaciones y pueden demostrarse falsas más adelante. Sin embargo, lo que está claro es que nuestro control sobre la política interna de nuestro país se está desvaneciendo y que maniobras equivocadas pueden acabar con los avances que hemos desarrollado durante los últimos 3 años."
+ CRO.8.A: "Ah."
+
+######################################################################
+#  Croatia Focuses
+######################################################################
+ CRO_Hrvatska_Rise_Up: "¡Hrvatska, levántate!"
+ CRO_Hrvatska_Rise_Up_desc: "Durante casi cuatro siglos, nuestros compatriotas han sido esclavizados por monarquías de tierras lejanas. Desde los Habsburgos hasta los serbios, son todos iguales y sólo cambia el nombre. Se hacen llamar monarquías benevolentes y pacíficas que aspiran a la cooperación cultural y étnica y a la coexistencia pacífica, pero no es más que una fachada que oculta sus métodos opresores. ¿Es éste el destino que nuestros antepasados visualizaron para nuestra orgullosa nación? ¡No! Es hora de alzarnos contra estos imperialistas y convertirnos en la gran nación poderosa que nuestros antepasados construyeron hace mucho."
+ 
+ CRO_Zivio_Ante_Pavelic: "Živio Ante Pavelić"
+ CRO_Zivio_Ante_Pavelic_desc: "Con la ayuda de nuestros hermanos de Italia y Alemania, hemos logrado por fin nuestra liberación de una vez por todas. Sin embargo, no es sino el comienzo de nuestro recién forjado destino. Las personas que residen en nuestros territorios son, a falta de una palabra mejor, rebeldes y extremistas. Si queremos asegurar nuestro futuro, debemos mirar hacia un líder fuerte y poderoso. Un líder que pueda guiar el camino hacia nuestro derecho natural que nos ha sido arrebatado durante siglos. Debemos mirar hacia Ante Pavelić, el padre de nuestra patria recién hecha, para que nos guíe en este futuro incierto. Živio Ante Pavelić! Živio Ante Pavelić!"
+ 
+ CRO_Crown_of_Zvonimir: "Corona de Zvonimir"
+ CRO_Crown_of_Zvonimir_desc: "Antes de los Habsburgos y los serbios, teníamos nuestra propia monarquía, una que consagra y representa nuestros valores y principios fundamentales con eficacia y sinceridad. Sin embargo, como estos extranjeros ocupan nuestras tierras, nuestra monarquía se disuelve con ella, y hemos estado bajo el mandato de reyes de Viena y Belgrado. Sin embargo, mientras nos liberamos de su dominio, debemos mirar hacia la monarquía como símbolo de unidad de nuestro pueblo. Aunque no tenemos un heredero al trono como tal, dado que la monarquía lleva siglos sin existir, debemos pedir consejo a nuestros aliados italianos, quienes aún tienen muchos miembros de su familia real dispuestos a ser nuestro monarca."
+ 
+ CRO_Establish_the_Croatian_Parliament: "Establecer el Parlamento croata"
+ CRO_Establish_the_Croatian_Parliament_desc: "Aunque Occidente nos considere antidemocráticos, seguimos adhiriéndonos a los principios de la democracia en Croacia. Sin embargo, la gente de aquí se deja engañar fácilmente por la propaganda que Occidente o los soviéticos puedan imponerles. Como esfuerzo de avenencia, crearemos nuestro Parlamento croata, un órgano legislativo destinado a la creación de leyes en este país. Sin embargo, en secreto, este parlamento no es más que un organismo asesor, y la representación no es exactamente proporcional."
+ 
+ CRO_National_Catholicism: "Nacionalcatolicismo"
+ CRO_National_Catholicism_desc: "Tenemos una relación fructífera y cordial con el Vaticano, y nuestro país es predominantemente católico, sin contar las minorías indeseables. Quizás lo mejor sea adoptar el catolicismo como la religión de Estado, así como reforzar la cooperación entre nosotros y el Papado. Aunque habrá oposición por parte de diversos grupos, son sobre todo minorías, minorías de las que podemos deshacernos fácilmente y que desaparecerán sin que nadie se dé cuenta o se preocupe."
+ 
+ CRO_Begin_Integration_of_Occupied_Territories: "Comenzar la integración de los territorios ocupados"
+ CRO_Begin_Integration_of_Occupied_Territories_desc: "Durante nuestra liberación de los serbios opresores e indeseables, hemos conseguido cantidades considerables de territorio, una especie de trofeo de guerra para mostrar nuestra pericia militar y nuestro compromiso con nuestra autodeterminación e independencia. Sin embargo, estos territorios están repletos de muchas minorías indeseables, dándonos una posible amenaza de producirse una rebelión. Es precisamente por ésto por lo que debemos purgar a estas minorías, borrando su cultura o a ellos mismos, y propagar la identidad croata hasta en nuestras regiones más fronterizas."
+ 
+ CRO_The_Direction_of_Croatian_Culture: "La dirección de la cultura croata"
+ CRO_The_Direction_of_Croatian_Culture_desc: "Nuestra cultura e identidad nacional se desarrollaron en la Edad Media, dándonos una cultura diversa y rica. Sin embargo, siglos de ocupación extranjera provocaron el declive de la cultura croata. Mientras construimos nuestra recién renacida nación, debemos determinar el futuro de la cultura croata y nuestra identidad nacional, ya que ésto determinará el futuro y los principios sobre los que se fundará esta nación. Si debemos hacerlo, podemos y vamos a modificar e interpretar nuestra cultura como nos plazca para garantizar el nacionalismo en todos los aspectos de la sociedad."
+ 
+ CRO_The_Illyrian_Nation: "La nación de Iliria"
+ CRO_The_Illyrian_Nation_desc: "El movimiento de Iliria fue una campaña cultural y política destinada a fundar un Estado sureslavo unificado bajo la corona de los Habsburgo y gobernado únicamente por Croacia. Iba a unificar a todos los pueblos sureslavos, que tenían un desarrollo lingüístico y cultural similar. Sin embargo, el orgullo del Imperio habsburgo impidió tales conceptos desestabilizadores, una humillación de las capacidades croatas. Ya es hora de que fundemos esta nación, para que podamos vivir en paz y seguridad perpetuas, a medida que nos unimos a nuestros hermanos."
+ 
+ CRO_The_Gothic_Theory: "La teoría gótica"
+ CRO_The_Gothic_Theory_desc: "El reino ostrogodo era una nación poderosa que se extendía desde Italia hasta nuestra patria. Aunque tanto su legado como su historia son efímeros, la extensión de su territorio es, cuando menos, notable. Quizá deberíamos revivir este gran reino y utilizar su legado territorial como modelo para nuestro expansionismo por los Balcanes."
+ 
+ CRO_Croatian_Socialism: "Socialismo croata"
+ CRO_Croatian_Socialism_desc: "Al igual que nuestros hermanos fascistas al norte, nos adherimos a un tipo diferente de socialismo que se opone a las fuerzas corruptoras del capitalismo y a las políticas equivocadas del marxismo. Esta marca del socialismo libera de verdad a los trabajadores del yugo del capitalismo, y deberíamos reforzarla y cultivarla para ayudar a nuestro pueblo a alcanzar la liberación económica. Es un esfuerzo costoso, pero necesario para lograr la autosuficiencia."
+ 
+ CRO_Anti_Poverty_Campaign: "Campaña antipobreza"
+ CRO_Anti_Poverty_Campaign_desc: "Desde que llegamos a ese avergonzante acuerdo con los serbios, nuestros ciudadanos son de segunda clase, viven en chabolas y en la calle, incapaces de valerse por sí mismos y aferrándose a la supervivencia desesperadamente cada día. Es por esta razón que nuestra economía no ha mejorado y nos volvimos dependientes de la influencia serbia. Para corregir los errores que provocaron los serbios, debemos lanzar una campaña antipobreza que propulse a nuestros ciudadanos a la autosuficiencia."
+ 
+ CRO_Pavelic_Neighbourhoods: "Barrios Pavelić"
+ CRO_Pavelic_Neighbourhoods_desc: "Uno de los principales defectos de los serbios fue su incapacidad para proporcionar viviendas asequibles a nuestro pueblo. Como consecuencia, la inmensa mayoría de nuestra población no tiene hogar, vive en la calle y sucumbe a las duras condiciones climáticas y a los disturbios civiles en toda nuestra nación. Para impulsar nuestra economía, debemos proporcionar viviendas gratuitas a nuestro pueblo. Como dedicatoria a nuestro glorioso líder, los llamaremos «barrios Pavelić». Al invertir en nuestros ciudadanos, invertimos en el futuro de nuestro país."
+ 
+ CRO_Nationalise_Big_Businesses: "Nacionalizar los grandes negocios"
+ CRO_Nationalise_Big_Businesses_desc: " Durante siglos, los grandes negocios y las corporaciones extranjeras han dominado nuestra economía, quedándose con los beneficios mientras nuestro país está esclavizado, testimonio de los fracasos del capitalismo y su objetivo de esclavizar a los trabajadores. A medida que triunfe nuestra liberación, debemos nacionalizar estas empresas para realzar al pueblo. Al nacionalizar estas empresas, no sólo estaríamos liberando a nuestros trabajadores de su avaricia, sino que invertiríamos los beneficios de estas empresas en la economía de nuestra nación."
+ 
+ CRO_Confiscate_Serbian_Property: "Confiscar las propiedades serbias"
+ CRO_Confiscate_Serbian_Property_desc: " Aunque cueste admitirlo, los serbios son el grupo étnico más rico de nuestro país, ya que se benefician de nuestro duro trabajo. Viven en mansiones hechas de oro y glamur, mientras que nosotros vivimos en sus fábricas contaminadas sin apenas ningún tipo de derechos laborales. Es hora de reclamar nuestro legado dorado confiscando sus propiedades y redistribuyéndolas entre nuestra población. Se resistirán, pero eran propiedades nuestras para empezar, ya que se hicieron con sudor y sangre croatas."
+ 
+ CRO_Main_Alliance_of_Syndicates: "Alianza Principal de Sindicatos"
+ CRO_Main_Alliance_of_Syndicates_desc: "Nuestra población, en su mayoría trabajadores industriales, no se sindicaliza y, como tal, sucumbe a la esclavitud capitalista, ya que no se unen bajo una sola voz pidiendo derechos justos y equitativos para los trabajadores, simplemente debido a que su prioridad es poner comida en la mesa para su familia. Ya no se presionará más a nuestros ciudadanos para que se sometan y, por ello, debemos crear un sindicato nacional, la Alianza Principal de Sindicatos. Se trata de un conjunto de sindicatos preexistentes y de la población activa no sindicada que denunciará a las empresas abusivas y sus prácticas defectuosas. ¡Nuestros trabajadores ya no serán esclavizados!"
+ 
+ CRO_Compulsory_Work: "Trabajo obligatorio"
+ CRO_Compulsory_Work_desc: "Nuestro país tiene una tasa de desempleo muy elevada, sobre todo debido a la falta de oportunidades para nuestros compatriotas, pero hay quienes no trabajan simplemente porque no quieren trabajar. Estos dos factores son la razón por la que nuestro país no puede ser la potencia que estaba destinada a ser. Si queremos impulsar a nuestro país a la grandeza, deben tomarse medidas drásticas: trabajo obligatorio para todos. Todos los ciudadanos de este país deben encontrar algún tipo de trabajo o pasarán a formar parte de la población activa estatal, utilizada para diversos fines."
+ 
+ CRO_A_Balanced_Budget: "Un presupuesto equilibrado"
+ CRO_A_Balanced_Budget_desc: "Aunque se habla de crear un Estado de bienestar en el sur de Europa, para nosotros es sencillamente caro y prácticamente inasequible. Aunque estamos comprometidos con el desarrollo del bienestar de nuestros ciudadanos, no podemos permitirnos perder nuestros escasos ingresos a raudales y una deuda masiva que pagarán nuestros hijos en el futuro. Debemos mantener un presupuesto equilibrado para garantizar que nuestra economía sea sostenible a largo plazo."
+ 
+ CRO_Finance_the_Welfare_State: "Financiar el Estado de bienestar"
+ CRO_Finance_the_Welfare_State_desc: "El Estado de bienestar no es sólo un símbolo de nuestra fuerza económica, sino también de nuestro compromiso con el bienestar de nuestro pueblo. Al darles sanidad y educación gratuitas, estamos ahorrando y mejorando nuestra mano de obra, mano de obra que se desperdicia constantemente simplemente por nuestra incapacidad de proporcionar sanidad gratuita y de calidad, e incapaz de realizar tareas serviles por nuestra falta de educación gratuita y de calidad. Aunque es un esfuerzo costoso, vale la pena, dado que el futuro yace en nuestros propios ciudadanos."
+ 
+ CRO_The_Ustase_Within_Our_State: "La Ustacha en nuestro Estado"
+ CRO_The_Ustase_Within_Our_State_desc: "Nuestro Ejército es clave para nuestra independencia y nuestro futuro expansionismo, pero su lealtad es dudosa y hay varias facciones que quieren socavar nuestra recién formada nación para sus propios intereses. De forma similar a las Schutzstaffel de Alemania, debemos integrar nuestro partido, especialmente su ala paramilitar, en el alto mando y entre nuestras tropas para garantizar la lealtad al partido dentro de nuestro Ejército y aplastar la disidencia en su seno."
+ 
+ CRO_The_Black_Legion: "La Legión Negra"
+ CRO_The_Black_Legion_desc: "La Legión Negra fue una milicia especial creada únicamente para luchar contra los partisanos y fieles a la ahora difunta Yugoslavia. Creadas en Sarajevo, estas fuerzas especiales no conocen la moderación a la hora de lograr su objetivo, y utilizarán todas las opciones conocidas por el hombre, y probablemente crearán otras nuevas por el camino, sin importar las consecuencias. Por ende, son la punta de la lanza, la cúspide de la destreza militar croata, utilizada sólo en circunstancias extremas y con extremo cuidado. A medida que la atmósfera de Europa se transforma en la de la guerra moderna, la Legión Negra verá plenamente desarrolladas sus capacidades."
+ CRO_BlackLegion_tt: "La §YLegión Negra§! llega a §YZagreb§!.\n"
+
+ CRO_Motorised_Infantry: "Infantería motorizada"
+ CRO_Motorised_Infantry_desc: "Tal y como están las cosas, no somos capaces de igualar a los ejércitos tecnológicamente superiores de Europa y tales esfuerzos serán perjudiciales para el futuro de nuestra nación. Sin embargo, no es imposible ganarles, ya que su orgullo les nubla el juicio. Para poder hacer frente de verdad a los poderosos ejércitos de Europa, debemos motorizar nuestro Ejército y enseñarle la doctrina de la guerra relámpago, impartida por nuestros amigos alemanes, que la utilizaron para hacerse con el control de los franceses. Si adoptamos su doctrina y motorizamos nuestro Ejército, podemos derrotarlos."
+ 
+ CRO_Croatian_Armed_Forces: "Fuerzas Armadas croatas"
+ CRO_Croatian_Armed_Forces_desc: "Durante la mayor parte de la historia de nuestro país desde nuestra independencia, nuestras fuerzas armadas están divididas en la Guardia Nacional y la división paramilitar Ustacha. Por ello, cada vez resulta más tedioso controlarlas, ya que tienen opiniones opuestas sobre cómo alcanzar nuestros objetivos como nación. Para solventar este problema, debemos centralizar nuestras fuerzas armadas en las nuevas Fuerzas Armadas croatas. Esta fuerza militar combinará las dos organizaciones en una, lo que facilitará su gestión y control. Al estar unidas, la Ustacha también pueden regular las Fuerzas Armadas en términos de lealtad al partido, para garantizar que la deslealtad signifique la ejecución."
+ 
+ CRO_Croatian_Home_Guard: "Guardia Nacional Croata"
+ CRO_Croatian_Home_Guard_desc: "La Guardia Nacional Croata es la principal fuerza militar de nuestra gran nación y el único factor por el que logramos nuestra independencia. Sin embargo, a medida que alcanzamos la independencia, las potencias de Europa ponen sus ojos en nuestra joven nación para sus propios intereses egoístas. Por ello, debemos reformar nuestro Ejército no sólo para proteger al Estado de las amenazas extranjeras, sino también para prepararnos para embarcarnos en el expansionismo por una Croacia más grande."
+ 
+ CRO_Reign_in_the_Dinaric_Alps: "Reinar en los Alpes Dináricos"
+ CRO_Reign_in_the_Dinaric_Alps_desc: "La gran mayoría del terreno de nuestra nación es montañoso, lo que lo convierte en una buena barrera defensiva, ya que la guerra moderna no está bien adaptada al terreno montañoso. Sin embargo, también es un inconveniente para nosotros, ya que movilizar tropas por nuestra nación será complicado y lento debido a estos terrenos montañosos. Además, si no conseguimos apostar tropas en estas montañas, la fuerza invasora podrá aprovecharlas. Conociendo esta desventaja, debemos entrenar a nuestras tropas en la guerra de montaña para que ninguna montaña frene nuestra recién creada maquinaria de guerra."
+ 
+ CRO_Air_Force_of_the_Independent_State_of_Croatia: "Fuerza Aérea del Estado Independiente de Croacia"
+ CRO_Air_Force_of_the_Independent_State_of_Croatia_desc: "Nuestra Fuerza Aérea son los guardianes de los cielos, que protegen nuestro espacio aéreo de las amenazas de arriba y bombardean a las amenazas en tierra, apoyando a nuestras tropas de paso. Desarrollar nuestra Fuerza Aérea es sinónimo de desarrollar la seguridad de nuestra nación, así que debemos invertir importantes recursos para asegurar el espacio aéreo de nuestra nación."
+ 
+ CRO_Rehabilitate_Croat_Pilots: "Rehabilitar a los pilotos croatas"
+ CRO_Rehabilitate_Croat_Pilots_desc: "Los pilotos croatas son de los mejores del mundo, como se ha visto en la Fuerza Aérea yugoslava, en la que una cantidad considerable de pilotos eran de ascendencia croata. Sin embargo, estos pilotos croatas son mayores y no son aptos para el servicio. Como consecuencia, tenemos escasez de pilotos cualificados dispuestos a defender nuestra patria. Sin embargo, aún tenemos una solución. Incorporando a la vieja generación de pilotos como instructores y mentores, podemos enseñar a la nueva generación, capaz de volar y de corta edad, a defender nuestra patria de las amenazas en el aire, la tierra y el mar."
+ 
+ CRO_Invest_in_Anti_Air: "Invertir en antiaéreos"
+ CRO_Invest_in_Anti_Air_desc: "Aunque nuestra Fuerza Aérea se está reforzando, nuestro espacio aéreo sigue mal defendido. Actualmente dependemos de que nuestra Fuerza Aérea esté activa 24 horas al día, 7 días a la semana, para proteger nuestros propios cielos, lo que es sencillamente inviable si pretendemos embarcarnos en el expansionismo. Por tanto, deberíamos erigir instalaciones antiaéreas permanentes en puntos estratégicos, específicamente zonas urbanas, para proteger nuestros centros económicos de los bombardeos aéreos. De ese modo, podemos dirigir a nuestra Fuerza Aérea hacia la guerra ofensiva en lugar de proteger nuestro espacio aéreo."
+ 
+ CRO_Early_Warning_System: "Sistema de alerta temprana"
+ CRO_Early_Warning_System_desc: "Para ganar batallas, tienes que localizar al enemigo antes de que el enemigo te localice a ti. Lo mismo se puede aplicar a la guerra aérea. Tal como están las cosas, estamos a ciegas en nuestro espacio aéreo, ya que no disponemos de ningún tipo de sistema de alerta temprana que nos avise de un ataque inminente. Por ende, debemos invertir algunos de nuestros recursos en la creación de sistemas de alerta temprana en todo el país. "
+ 
+ CRO_The_Gust_of_Wind: "Ráfagas de viento"
+ CRO_The_Gust_of_Wind_desc: "Los italianos, al igual que nuestros hermanos alemanes, son expertos en el desarrollo de tecnología aérea. Una tecnología que nos interesa es el Folgore, «rayo» en italiano. Ha demostrado ser el avión más avanzado jamás construido por los italianos, igualando incluso a aviones coetáneos del Reino Unido y Estados Unidos. Lo que nos interesó fue su agilidad, ya que podría aventajar a la mayoría de los aviones de hoy en día. Deberíamos considerar la compra y la ingeniería inversa de semejante maravilla de la tecnología aérea para utilizarla contra nuestros enemigos."
+ 
+ CRO_Destroy_The_Partisans_From_Above: "Destruir a los partisanos desde arriba"
+ CRO_Destroy_The_Partisans_From_Above_desc: "Los partisanos han sido un grano en el culo desde que conseguimos nuestra independencia y, si esta rebelión continúa, drenará nuestros recursos y nos puede poner en desventaja durante una guerra. Con los nuevos avances en tecnología aérea, iniciaremos campañas de bombardeo en toda la nación, especialmente en zonas ocupadas por los partisanos. De ese modo, nuestras fuerzas podrán ocupar fácilmente esos territorios con una resistencia mínima, pues la resistencia ya forma parte de las cenizas de toda la zona bombardeada."
+ 
+ CRO_Request_German_Supplies: "Solicitar suministros alemanes"
+ CRO_Request_German_Supplies_desc: "La Fuerza Aérea alemana, también conocida como la Luftwaffe, es conocida por ser maestra en tecnología aérea, siendo sus diseños más avanzados que lo que el mundo entero puede ofrecer. Mientras continúa nuestra escasez de aviones, deberíamos considerar la compra de cazas y bombarderos alemanes para aumentar nuestro suministro actual, además de darnos la capacidad de aplicarles ingeniería inversa para un diseño adecuado a nuestras necesidades."
+ 
+ CRO_Operations_Aboard: "Operaciones en el extranjero"
+ CRO_Operations_Aboard_desc: "A medida que avanzamos en la modernización de nuestra Fuerza Aérea, debemos dirigir nuestros esfuerzos a prepararla para operaciones en el extranjero, en preparación para nuestros ideales expansionistas. Junto con el aumento de la financiación de la investigación, estamos planeando modernizar una antigua base aérea que todavía es adecuada para basar nuestros aviones. Servirá como base para nuestras invasiones aéreas y como símbolo de nuestra maquinaria de guerra en rápida expansión."
+ 
+ CRO_Croatian_Air_Force_Legion: "Legión de la Fuerza Aérea Croata"
+ CRO_Croatian_Air_Force_Legion_desc: "La Legión de la Fuerza Aérea Croata es una pequeña fuerza aérea voluntaria de la Luftwaffe con el fin de complementarla cuando su reserva de pilotos cualificados se reduzca significativamente. Esta legión voluntaria nos ayuda considerablemente, ya que nuestros pilotos tendrán la oportunidad de experimentar la batalla en sus carnes, apoyando a nuestros hermanos alemanes en el proceso. Cuando los retiremos, podremos usar su experiencia para instruir a nuestros pilotos en nuevas tácticas para luchar contra nuestros enemigos."
+ 
+ CRO_Navy_of_the_Independent_State_of_Croatia: "Armada del Estado Independiente de Croacia"
+ CRO_Navy_of_the_Independent_State_of_Croatia_desc: "Nuestra fuerza naval es la orgullosa defensora de nuestras aguas circundantes, capaz de defender nuestros mares de los buques capitales y submarinos del Adriático, capaz de proyectar poder más allá de nuestras fronteras y mares. Al menos ésa es nuestra visión de la Armada. En realidad, nuestra Armada está destartalada y repleta de buques anticuados que las potencias navales de Europa pueden superar sin problemas. Si queremos usar nuestra Armada como fuente de poderío, debemos reformarla y modernizarla para que satisfaga los nuevos estándares de la guerra naval."
+ 
+ CRO_Mine_Laying_in_the_Adriatic: "Minado en el Adriático"
+ CRO_Mine_Laying_in_the_Adriatic_desc: "El mar Adriático es la única conexión marina de nuestro país con el mundo exterior, una falla que las potencias navales pueden y quieren explotar para someter a nuestro país. Por tanto, no podemos permitir que consigan ningún tipo de control, ya que éso supondría el hundimiento de nuestro país. Debido a esta desafortunada realidad, el Gobierno ha pedido a la Armada que despliegue varias minas por todo el Adriático, con la ayuda de los italianos, por supuesto."
+ 
+ CRO_Croatian_Naval_Legion: "Legión Naval Croata"
+ CRO_Croatian_Naval_Legion_desc: "La Legión Naval Croata, como otras legiones que hemos enviado, es una fuerza naval voluntaria que complementará a la Kriegsmarine, la Marina alemana, a la hora de proyectar poder en el mar Negro y el Adriático, zonas donde la supremacía naval alemana es limitada, por no decir inexistente. Enviar una fuerza voluntaria a una de las mayores potencias navales de Europa nos permite aprender de ellos, de sus tácticas y habilidades y, a su vez, utilizar esas experiencias de aprendizaje en nuestra propia Armada para potenciarla."
+ 
+ CRO_Convert_Fishing_Boats: "Convertir barcos pesqueros"
+ CRO_Convert_Fishing_Boats_desc: "Nuestro país tiene, lo cual es bastante vergonzoso, una gran flota de barcos pesqueros, tanto de alta como de baja capacidad. Ésto se debe principalmente a que nuestra economía se basa en la agricultura, y la construcción naval no es más que una industria de reciente creación en nuestro país. Sin embargo, estos barcos tienen una ventaja: la capacidad de convertirse en cruceros y destructores, buques que se consideran activos navales. Por ello, pediremos a las partes interesadas de la industria pesquera que nos entreguen sus buques. A cambio, se les compensará debidamente por sacrificar sus negocios en pos de la nación. Cuando adquiramos los barcos, podemos empezar a convertirlos en activos navales en condiciones."
+ 
+ CRO_Expansion_of_the_Navy: "Expansión de la Armada"
+ CRO_Expansion_of_the_Navy_desc: "Con los italianos con una guerra civil entre manos, les hemos ofrecido un trato, acabar con las restricciones navales que nos impusieron e iniciaremos un bloqueo contra el bando contrario. Para nuestra sorpresa, los italianos aceptaron, y se revocaron las restricciones a nuestra Armada. Ésta es una gran victoria para nuestra nación, que no sólo fue capaz de poner fin a la injerencia de una nación extranjera en nuestros asuntos militares, sino que fue capaz de presionar a esa misma nación para que llegara a un acuerdo exclusivamente en nuestro beneficio. Con este acuerdo, se ha dado rienda suelta a la expansión de nuestra Armada, capaz de asegurar nuestros mares y vías fluviales frente a agresiones extranjeras."
+ 
+ CRO_Anti_Submarine_Activities: "Actividades antisubmarinas"
+ CRO_Anti_Submarine_Activities_desc: "Los avances en tecnología naval han permitido que la guerra ya no sea exclusiva a la superficie marina, sino también submarina. Esta realidad socava nuestras ambiciones navales, ya que nuestros esfuerzos se centran por completo en aumentar nuestra flota superficial, e invertir en guerra submarina es una tarea costosa. Sin embargo, hay una solución para nuestro problema. El reacondicionamiento de nuestros destructores para la guerra antisubmarina resolverá el problema de los submarinos prácticamente sin coste alguno para el Estado."
+
+######################################################################
+#  Croatia Decisions
+######################################################################
+ CRO_Yugoslavian_Instability: "La nación de Iliria"
+ CRO_Request_Montenegro: "Solicitar Montenegro"
+ CRO_Request_Montenegro_desc: "El territorio de Montenegro no es simplemente un territorio destinado a ser controlado por nuestro pueblo, sino un territorio que garantizará nuestra supremacía naval en el mar Adriático. Ese único trozo de territorio garantiza que la flota italiana pueda competir con nuestra flota naval, que está emergiendo rápidamente. Deberíamos pedirles a nuestros hermanos alemanes que nos devuelvan dicho territorio, ya que los italianos, al igual que en la Primera Guerra Mundial, no son de fiar."
+ CRO_Slovenian_refugees: "Conceder la ciudadanía a los refugiados eslovenos"
+ CRO_Slovenian_refugees_desc: "Los eslovenos son, como nosotros, víctimas desdichadas de la tiranía y la esclavitud de los serbios. Cuando obtuvimos la independencia, estos eslovenos llegaron a las costas de nuestro país en busca de paz, ya que somos el refugio seguro que necesitaban frente a la opresión serbia. Como hermanos que somos, estamos obligados a concederles la ciudadanía de nuestra nación."
+ CRO_Italian_War: "Tomar nuestras tierras"
+ CRO_Italian_Occupation_Areas: "Zonas de ocupación italianas"
+ CRO_Italian_Occupation_Areas_desc: "Los italianos están inmersos en una guerra civil contra la República Social Italiana. A medida que nuestra nación recupera su fuerza, probablemente sea mejor que volvamos a ocupar las tierras que los italianos nos robaron, aparte de otras concesiones que los italianos nos hagan. Aunque nuestros hermanos alemanes lo vean como un acto desafiante, al final comprenderán nuestros motivos."
+ CRO_Demand_Vojvodina: "Exigir Voivodina"
+ CRO_Demand_Vojvodina_desc: "Tanto nosotros como los húngaros ocupamos Voivodina como una partición entre nosotros supervisada por nuestros hermanos alemanes. Sin embargo, esta única porción de territorio es un obstáculo para nuestras ambiciones expansionistas y, por tanto, debemos pedir a Hungría que ceda este territorio. Si se niegan, dejaremos que Berlín se ocupe de ellos."
+ CRO_Integrate_Occupied_Territories: "Integrar los territorios ocupados"
+ CRO_Hadziefendic_Legion: "Legión Hadžiefendić"
+ CRO_Hadziefendic_Legion_desc: "La Legión Hadžiefendić es una fuerza legionaria de élite con base en Tuzla y dirigida por la Ustacha. Esta legión es la milicia más poderosa de la Guardia Nacional y está compuesta principalmente por musulmanes croatas. Es imperativo que la despleguemos para nuestro esfuerzo bélico."
+ CRO_Hadziefendic_tt: "La Legión §YHadžiefendić§! llega a §YTuzla§!.\n"
+ CRO_Muslim_Areas: "Integrar las zonas croatas musulmanas"
+ CRO_Muslim_Areas_desc: "Los musulmanes croatas, aunque creen en una religión incompatible, siguen siendo croatas por naturaleza. Estos croatas están confundidos y desorientados y necesitan ayuda en su lucha por encontrar la identidad croata. Por tanto, los integraremos sin prisa pero sin pausa mediante la conversión pacífica de su religión, del islam al catolicismo."
+ CRO_Request_German_Banat: "Solicitar el Banato alemán"
+ CRO_Request_German_Banat_desc: "El Banato alemán es una porción de territorio ocupada por el recién reformado régimen serbio y guiado por nuestros hermanos al norte. Como Voivodina, el territorio es clave para nuestro expansionismo. Además, nos asegura una ruta directa al petróleo rumano, ya que el territorio limita con Rumanía. Sin embargo, una petición así podría hacer rabiar Berlín, algo que no podemos permitirnos en un momento en que sus aliados nos rodean. Por ende, deberíamos solicitar formalmente el traspaso del territorio a cambio de la protección de los alemanes de los Balcanes que aquí residen."
+ CRO_Reduce_Serb_Pop: "Reducir la población serbia"
+ CRO_Reduce_Serb_Pop_desc: "Los serbios son el epítome viviente de la opresión que durante décadas impusieron a nuestros compatriotas. Viven en barrios de clase alta con lujos, glamur y cosmopolitismo, mientras que nosotros vivimos en los suburbios al borde de una muerte seguro. ¡Es hora de darles a los serbios una lección y eliminar su miserable raza de una vez por todas!"
+
+
+######################################################################
+#  Croatia Ideas
+######################################################################
+ CRO_Naval_Restrictions: "Restricciones navales"
+ CRO_Seperated_Armies: "Ejércitos separados"
+ CRO_Establishing_the_HOS: "Fundando las HOS"
+ CRO_Croatian_Parliament: "Parlamento croata"
+ CRO_Exiled_Leader: "Líder exiliado"
+ CRO_Croatian_Culture: "Cultura croata"
+ CRO_Croatian_Socialism1: "Socialismo croata"
+ CRO_Croatian_Socialism2: "Socialismo croata"
+ CRO_Croatian_Socialism3: "Socialismo croata"
+ CRO_Nationalisation1: "Nacionalización"
+ CRO_Nationalisation12: "Nacionalización"
+ CRO_Nationalisation2: "Nacionalización"
+ CRO_Nationalisation3: "Nacionalización"
+ CRO_Nationalisation4: "Nacionalización"
+ CRO_Nationalisation5: "Nacionalización"
+ Croatia_Bought_Planes1: "Ha comprado aviones alemanes"
+ Croatia_Bought_Planes: "Croacia ha comprado aviones nuestros"
+ Yugoslav_Partisans: "Partisanos yugoslavos"
